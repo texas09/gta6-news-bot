@@ -493,9 +493,12 @@ def approve_join_requests(token, cfg, state, wait=0, chat=None):
         msg = u.get("message")
         if msg and chat:
             try:
-                handle_owner_message(token, chat, state, msg)
+                if msg.get("chat", {}).get("type") == "private":
+                    handle_owner_message(token, chat, state, msg)
+                else:
+                    moderate_group_message(token, chat, state, cfg, msg)
             except Exception as e:  # noqa: BLE001
-                log("owner message:", e)
+                log("message handling:", e)
             continue
         req = u.get("chat_join_request")
         if not req:
@@ -602,6 +605,76 @@ def publish_pins(token, chat, state):
         time.sleep(2)
     state["pins_version"] = digest
     save_state(state)
+
+
+# ---------------------------------------------------------------- comments chat: greeting + anti-spam
+SPAM_RE = re.compile(r"заработ|доход|казино|casino|ставк|букмекер|крипт|инвест|арбитраж|18\+|интим|знакомств|"
+                     r"пиши в лс|в личку|подработк|без вложений|💰|🔞", re.I)
+LINK_RE = re.compile(r"https?://|t\.me/|telegram\.me/|www\.", re.I)
+
+
+def linked_group(token, chat, state):
+    """Discussion group attached to the channel (refreshed every 6 hours)."""
+    if time.time() - state.get("group_checked", 0) > 6 * 3600:
+        info = session.get(f"https://api.telegram.org/bot{token}/getChat", params={"chat_id": chat},
+                           timeout=20).json().get("result", {})
+        state["group_id"] = info.get("linked_chat_id")
+        state["group_checked"] = time.time()
+        state.pop("group_admins", None)
+    return state.get("group_id")
+
+
+def group_admins(token, group, state):
+    if "group_admins" not in state:
+        r = session.get(f"https://api.telegram.org/bot{token}/getChatAdministrators",
+                        params={"chat_id": group}, timeout=20).json()
+        state["group_admins"] = [a["user"]["id"] for a in r.get("result", [])]
+    return set(state["group_admins"])
+
+
+def moderate_group_message(token, chat, state, cfg, msg):
+    mc = cfg.get("comments", {})
+    group = linked_group(token, chat, state)
+    if not group or msg["chat"]["id"] != group or not mc.get("enabled", True):
+        return
+    base = f"https://api.telegram.org/bot{token}"
+    # new members -> greeting (the previous greeting is removed so the chat isn't flooded)
+    for m in msg.get("new_chat_members", []):
+        if m.get("is_bot") or not mc.get("greeting"):
+            continue
+        name = html.escape(m.get("first_name") or "друг", quote=False)
+        text = mc["greeting"].replace("{имя}", f'<a href="tg://user?id={m["id"]}">{name}</a>')
+        r = session.post(f"{base}/sendMessage", timeout=20,
+                         data={"chat_id": group, "text": text, "parse_mode": "HTML", "disable_notification": "true"})
+        if state.get("last_greeting"):
+            session.post(f"{base}/deleteMessage", timeout=20,
+                         data={"chat_id": group, "message_id": state["last_greeting"]})
+        if r.ok:
+            state["last_greeting"] = r.json()["result"]["message_id"]
+    if msg.get("new_chat_members") or msg.get("left_chat_member"):
+        return
+    # anti-spam: skip channel posts mirrored into the chat and admins
+    sender = msg.get("from", {})
+    sc = msg.get("sender_chat") or {}
+    if msg.get("is_automatic_forward") or sc.get("id") == group or str(sc.get("id")) == str(chat) \
+            or (sc.get("username") and sc["username"].lower() == str(chat).lstrip("@").lower()):
+        return  # channel posts mirrored into the chat, or admins writing as the channel/group
+    if sender.get("id") in group_admins(token, group, state) or sender.get("id") == 777000:
+        return
+    text = f"{msg.get('text', '')} {msg.get('caption', '')}"
+    forwarded_channel = (msg.get("forward_origin") or {}).get("type") == "channel"
+    from_other_channel = bool(msg.get("sender_chat"))  # someone writing as another channel = ad
+    spam = bool(SPAM_RE.search(text))
+    link = bool(LINK_RE.search(text)) or forwarded_channel or from_other_channel
+    if not (spam or (link and not mc.get("allow_links", False))):
+        return
+    session.post(f"{base}/deleteMessage", timeout=20, data={"chat_id": group, "message_id": msg["message_id"]})
+    who = sender.get("username") or sender.get("first_name") or sender.get("id")
+    if spam and sender.get("id"):
+        session.post(f"{base}/banChatMember", timeout=20, data={"chat_id": group, "user_id": sender["id"]})
+        log(f"comments: spam deleted, user banned ({who})")
+    else:
+        log(f"comments: message with a link deleted ({who})")
 
 
 # ---------------------------------------------------------------- video link posts (YouTube / TikTok)
