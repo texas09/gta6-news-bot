@@ -2670,7 +2670,14 @@
 "42c73e018ee6509d",
 "85e5ddce644afb0f",
 "cbd003e3e812f191",
-"660d13cac87aab6b"
+"660d13cac87aab6b",
+"c32288781873156a",
+"05feb24f9ef4dce9",
+"10121a03cb4013fc",
+"c214878e9963ff4a",
+"5912e90267b3b1d1",
+"7f6e7403fd9b13f8",
+"4d07ebdb2f5fa486"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -2882,9 +2889,81 @@
 "через",
 "часа"
 ]
+},
+{
+"ts": 1794942693.413053,
+"title": "Грег получает GTA VI",
+"url": "https://youtube.com/shorts/qrptfvByXhM",
+"tags": [
+"видео"
+],
+"score": 2,
+"kind": "viral",
+"img": null,
+"source": "Zairegardnerd",
+"words": [
+"получ",
+"грег"
+]
+},
+{
+"ts": 1794942696.7256403,
+"title": "ГТА 6 МАРАФОН | Официальный трейлер",
+"url": "https://youtu.be/_AY5krZErfg",
+"tags": [
+"видео"
+],
+"score": 2,
+"kind": "viral",
+"img": null,
+"source": "Kai Cenat Live",
+"words": [
+"трейл",
+"мараф",
+"офици"
+]
+},
+{
+"ts": 1794942702.4534366,
+"title": "GTA VI ГОТОВ 100%!",
+"url": "https://youtu.be/diZ6-kQW_Ok",
+"tags": [
+"видео"
+],
+"score": 2,
+"kind": "viral",
+"img": null,
+"source": "Windah Basudara",
+"words": [
+"100",
+"готов"
+]
+},
+{
+"ts": 1794942706.4796727,
+"title": "Лос-Сантос до GTA VI 💀",
+"url": "https://youtube.com/shorts/4PDOG8k05HA",
+"tags": [
+"видео"
+],
+"score": 2,
+"kind": "viral",
+"img": null,
+"source": "Lugan3d Animations",
+"words": [
+"санто",
+"лос"
+]
 }
 ],
 "digest_date": "2026-11-17",
 "pins_version": "e9e83d523b07",
-"short_date": "2026-11-17"
+"short_date": "2026-11-17",
+"viral_checked": 1794942690.7847557,
+"viral_ts": [
+1794942693.4130518,
+1794942696.725639,
+1794942702.4534361,
+1794942706.4796717
+]
 }
