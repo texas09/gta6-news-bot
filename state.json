@@ -2791,12 +2791,33 @@
 "dcc27b8174270dee",
 "bf4dc3b5517cd1cb",
 "affe9d2ae4686277",
-"91e0f18bd3252394"
+"91e0f18bd3252394",
+"86df1a7c0979939f",
+"a1b32eb7554b2f04",
+"c1095b53d9b807ef",
+"54ef89ba83d67cdb",
+"e16438f378a41347",
+"e800d0276966451c",
+"4c3bf6aa582157b5",
+"6f9610a2090280d8",
+"e6111ddb45c2be67",
+"21a6524d4ca6d8c7",
+"21a6524d4ca6d8c7",
+"66e42187f25c2b75",
+"e632b41ef637dd96",
+"93cc19de919f56a9",
+"8eac3a2ac2121517",
+"fcc6bd26ddc5f600",
+"c542b70885a57a90",
+"2c3d032d166a0278",
+"74453a4abc65d60b",
+"dc056a385092866d",
+"fd318845c48d805a"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328256,
+"tg_offset": 706328257,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -3548,6 +3569,119 @@
 "ps5",
 "номин",
 "публи"
+]
+},
+{
+"ts": 1794952267.4624708,
+"title": "Почти половина опрошенных читателей IGN берут отпуск, чтобы поиграть в GTA 6",
+"url": "https://www.ign.com/articles/nearly-half-of-polled-ign-readers-are-taking-time-off-to-play-gta-6",
+"tags": [
+"новости"
+],
+"img": "https://assets-prd.ignimgs.com/2026/09/29/9245b6dd45a143b26a7877ec5a29bb5c3fc00eda-1790721291674.webp",
+"source": "IGN",
+"score": 1,
+"kind": "news",
+"words": [
+"берут",
+"почти",
+"читат",
+"чтобы",
+"полов",
+"ign",
+"опрош",
+"поигр",
+"отпус"
+]
+},
+{
+"ts": 1794952271.425861,
+"title": "Номинации на Game Awards GTA 6 оказались именно такими, как все предсказывали",
+"url": "https://www.polygon.com/gta-6-game-awards-nominations-expectations/",
+"tags": [
+"новости"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_18-1.jpg",
+"source": "Polygon",
+"score": 1,
+"kind": "news",
+"words": [
+"оказа",
+"award",
+"предс",
+"таким",
+"именн",
+"game",
+"номин"
+]
+},
+{
+"ts": 1794952275.0887034,
+"title": "ИНТЕРВЬЮ: Актер GTA 4 об обзорах GTA 6: «Нужно добиться успеха»",
+"url": "https://insider-gaming.com/interview-gta-4-actor-on-gta-6-reviews-need-succeed/",
+"tags": [
+"новости"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/gta-4-actor-gta-6.jpg",
+"source": "Insider Gaming",
+"score": 1,
+"kind": "news",
+"words": [
+"актер",
+"добит",
+"нужно",
+"обзор",
+"успех",
+"интер"
+]
+},
+{
+"ts": 1794952279.3809133,
+"title": "Этот файтинг номинирован на TGA, несмотря на остановку разработки",
+"url": "https://www.gamespot.com/articles/this-fighting-game-is-nominated-for-a-tga-despite-development-shutting-down/",
+"tags": [
+"новости"
+],
+"img": "https://www.gamespot.com/wp-content/uploads/2026/11/2xko.jpg?w=300",
+"source": "GameSpot",
+"score": 1,
+"kind": "news",
+"words": [
+"tga",
+"разра",
+"файти",
+"остан",
+"этот",
+"номин",
+"несмо"
+]
+},
+{
+"ts": 1794952286.1274302,
+"title": "Настоящий провал для Sony с 2014 года - компания впервые за 11 лет осталась без главной номинации The Game Awards",
+"url": "https://www.playground.ru/misc/news/nastoyaschij_proval_dlya_sony_s_2014_goda_kompaniya_vpervye_za_11_let_ostalas_bez_glavnoj_nominatsii_the_game_awards-1891623#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/HhiGHEe-6X8k4MUuFovZcQ.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"компа",
+"award",
+"2014",
+"вперв",
+"года",
+"лет",
+"главн",
+"без",
+"прова",
+"насто",
+"game",
+"номин",
+"sony",
+"остал"
 ]
 }
 ],
