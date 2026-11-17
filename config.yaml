@@ -136,3 +136,4 @@ viral:
     - ["GTA 6|GTA VI", "en"]
     - ["ГТА 6|GTA 6", "ru"]
   skip_channels: ["Rockstar Games"]   # официальное и так публикуется
+  languages: ["ru", "en"]    # язык ролика (если YouTube его знает); пусто = любые

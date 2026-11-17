@@ -713,6 +713,9 @@ def post_viral_youtube(token, chat, state, cfg, dry_run=False):
             continue
         if sn.get("liveBroadcastContent") != "none":
             continue
+        lang = (sn.get("defaultAudioLanguage") or sn.get("defaultLanguage") or "").split("-")[0].lower()
+        if lang and vc.get("languages") and lang not in vc["languages"]:
+            continue
         cands.append({"id": v["id"], "title": html.unescape(sn["title"]), "channel": sn["channelTitle"],
                       "views": views, "age_h": age_h, "speed": views / age_h, "key": key_id,
                       "short": iso_duration_s(v.get("contentDetails", {}).get("duration")) <= 60})
