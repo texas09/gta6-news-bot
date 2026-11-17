@@ -392,7 +392,7 @@ def run_once(dry_run=False):
     cfg = yaml.safe_load(CONFIG_FILE.read_text("utf-8"))
     state = load_state()
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
-    chat = normalize_chat(os.environ.get("TELEGRAM_CHANNEL"))
+    chat = normalize_chat(str(cfg.get("channel") or "") or os.environ.get("TELEGRAM_CHANNEL"))
     if token and not dry_run:
         try:
             approve_join_requests(token, cfg, state)

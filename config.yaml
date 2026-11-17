@@ -4,6 +4,10 @@
 #   TWITCH_CLIENT_ID, TWITCH_CLIENT_SECRET (необязательно, для стримов)
 
 # Что считается «про GTA 6». Источники с filter: true пропускают только совпадения.
+# Канал для публикаций (id приватного канала или @имя публичного).
+# Если пусто — берётся из секрета TELEGRAM_CHANNEL.
+channel: "-1004347199504"
+
 keywords_regex: '\b(gta|гта)\s*-?\s*(6|vi)\b|grand\s+theft\s+auto\s*(vi|6)\b|\bgtavi\b|\bgta6\b|\bгта6\b'
 
 max_posts_per_run: 20        # защита от флуда; остальное уйдёт в следующий запуск
