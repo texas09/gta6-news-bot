@@ -337,6 +337,27 @@ def tg_send(token, chat, text, photo=None):
     raise RuntimeError("Telegram: too many retries")
 
 
+def normalize_chat(raw):
+    """Accept -100123..., @name, t.me/name; log only the *shape* of the value (logs may be public)."""
+    if not raw:
+        return raw
+    c = raw.strip().strip('"').strip("'")
+    m = re.match(r"^(?:https?://)?t\.me/([A-Za-z]\w{3,})/?$", c)
+    if m:
+        c = "@" + m.group(1)
+    elif re.fullmatch(r"[A-Za-z]\w{3,}", c):
+        c = "@" + c
+    elif re.fullmatch(r"-?\d{9,}", c) and not c.startswith("-100"):
+        c = "-100" + c.lstrip("-")  # channel ids need the -100 prefix
+    shape = ("numeric id, starts with -100" if re.fullmatch(r"-100\d+", c)
+             else "numeric id WITHOUT -100 prefix" if re.fullmatch(r"-?\d+", c)
+             else "@username" if c.startswith("@")
+             else "private invite link (not usable, need numeric id)" if "t.me/+" in c or "joinchat" in c
+             else "unrecognized")
+    log(f"TELEGRAM_CHANNEL format: {shape}, length {len(c)}, had extra spaces/quotes: {c != raw and not c.startswith('@')}")
+    return c
+
+
 # ---------------------------------------------------------------- join requests
 def approve_join_requests(token, cfg, state, wait=0):
     """Approve pending join requests to the channel. `wait` > 0 = long-poll that many seconds."""
@@ -371,7 +392,7 @@ def run_once(dry_run=False):
     cfg = yaml.safe_load(CONFIG_FILE.read_text("utf-8"))
     state = load_state()
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
-    chat = os.environ.get("TELEGRAM_CHANNEL")
+    chat = normalize_chat(os.environ.get("TELEGRAM_CHANNEL"))
     if token and not dry_run:
         try:
             approve_join_requests(token, cfg, state)
