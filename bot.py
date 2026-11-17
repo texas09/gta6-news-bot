@@ -632,6 +632,19 @@ def group_admins(token, group, state):
     return set(state["group_admins"])
 
 
+def check_comments_setup(token, chat, state):
+    """Log (without ids) whether the comments chat is linked and the bot can moderate it."""
+    group = linked_group(token, chat, state)
+    if not group:
+        log("comments: no discussion group linked to the channel")
+        return
+    bot_id = token.split(":", 1)[0]
+    m = session.get(f"https://api.telegram.org/bot{token}/getChatMember",
+                    params={"chat_id": group, "user_id": bot_id}, timeout=20).json().get("result", {})
+    rights = {k: m.get(k) for k in ("can_delete_messages", "can_restrict_members", "can_pin_messages")}
+    log(f"comments: group linked, bot status={m.get('status', 'not a member')}, rights={rights}")
+
+
 def moderate_group_message(token, chat, state, cfg, msg):
     mc = cfg.get("comments", {})
     group = linked_group(token, chat, state)
@@ -886,6 +899,11 @@ def run_once(dry_run=False):
             publish_pins(token, chat, state)
         except Exception as e:  # noqa: BLE001
             log("pins:", e)
+    if token and chat and not dry_run and cfg.get("comments", {}).get("enabled", True):
+        try:
+            check_comments_setup(token, chat, state)
+        except Exception as e:  # noqa: BLE001
+            log("comments check:", e)
     first_run = not state["seen"]
     seen = set(state["seen"])
     kw_re = re.compile(cfg["keywords_regex"], re.I)
