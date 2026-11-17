@@ -183,10 +183,10 @@ def collect_feed(src, state, kw_re):
         if src.get("filter") and not kw_re.search(f"{it['title']} {it['summary'][:500]}"):
             continue
         origin = it.pop("origin")
-        if origin.startswith("http"):
-            origin = ""
         if origin and it["title"].endswith(f" - {origin}"):
             it["title"] = it["title"][: -len(origin) - 3]
+        if origin.startswith("http"):  # Google sometimes names the source by its URL
+            origin = re.sub(r"^https?://(www\.)?|/.*$", "", origin)
         it["source"] = origin or src["name"]
         it["kind"] = "video" if src["type"] == "youtube" else "news"
         it["tag"] = src.get("tag")
@@ -256,7 +256,7 @@ class Twitch:
 # ---------------------------------------------------------------- formatting
 TAGS = [
     ("трейлер", r"trailer|трейлер|тизер|teaser"),
-    ("обновление", r"\bupdate|patch|hotfix|обновлен|патч|\bdlc\b|title update|pre-?load|предзагруз"),
+    ("обновление", r"\bupdate|patch|hotfix|firmware|обновлен|патч|прошивк|\bdlc\b|title update|pre-?load|предзагруз"),
     ("гайд", r"guide|how to|tips|walkthrough|tutorial|гайд|как (?:получить|найти|сделать|заработать)|советы|прохождени|секрет|easter egg|пасхалк"),
     ("настройки", r"settings|graphics|\bfps\b|performance|controls|config|настройк|графика|оптимизац|управлени|производительн"),
     ("слухи", r"leak|rumou?r|insider|report(?:ed|edly)?|утечк|слух|инсайд|слив"),
@@ -266,7 +266,7 @@ EMOJI = {"stream": "🔴", "video": "🎬", "трейлер": "🎞", "обно�
 
 
 def classify(it):
-    text = f"{it['title']} {it['summary'][:300]}".lower()
+    text = it["title"].lower()  # title only: descriptions gave too many false tags
     tags = [t for t, rx in TAGS if re.search(rx, text)]
     if it.get("tag"):
         tags.insert(0, it["tag"])
@@ -330,8 +330,8 @@ def render(it, cfg):
         body = esc(it["title"], quote=False)
         link = f'▶️ <a href="{esc(it["url"])}">Смотреть на Twitch</a>'
     else:
-        title = it["title"]
-        if tr.get("enabled"):
+        title = it.get("title_ru") or it["title"]
+        if tr.get("enabled") and not it.get("title_ru"):
             title = translate(title, tr.get("target", "ru")) or title
         emoji = next((EMOJI[t] for t in tags if t in EMOJI), "📰")
         head = f"{emoji} <b>{esc(title, quote=False)}</b>"
@@ -389,28 +389,35 @@ def find_image(it):
 
 
 # ---------------------------------------------------------------- telegram
-def tg_send(token, chat, text, photo=None, state=None):
-    """Send a post with a picture. Picture fallback chain: given URL -> channel banner -> text only."""
+def visible_len(text):
+    """Length Telegram counts for captions: text without HTML tags/entities."""
+    return len(html.unescape(re.sub(r"<[^>]+>", "", text)))
+
+
+def tg_send(token, chat, text, photo=None, state=None, silent=False):
+    """Send a post with a picture. Picture fallback chain: given URL -> re-upload -> banner -> text only."""
     base = f"https://api.telegram.org/bot{token}"
     state = state if state is not None else {}
-    if len(text) > 1024:  # photo captions are limited to 1024 chars
-        text = text[:1000].rsplit("\n", 1)[0]
+    while visible_len(text) > 1024 and "\n\n" in text:  # caption limit: drop paragraphs from the middle
+        parts = text.split("\n\n")
+        text = "\n\n".join(parts[:1] + parts[2:]) if len(parts) > 2 else parts[0]
+    quiet = {"disable_notification": "true"} if silent else {}
     banner = BANNER.exists()
     photo = photo or ("BANNER" if banner else None)
     for attempt in range(5):
         if photo == "BANNER" and not state.get("banner_file_id"):
             with open(BANNER, "rb") as fh:
                 r = session.post(f"{base}/sendPhoto", timeout=60, files={"photo": fh}, data={
-                    "chat_id": chat, "caption": text, "parse_mode": "HTML"})
+                    "chat_id": chat, "caption": text, "parse_mode": "HTML", **quiet})
             if r.ok:
                 state["banner_file_id"] = r.json()["result"]["photo"][-1]["file_id"]
         elif photo:
             r = session.post(f"{base}/sendPhoto", timeout=30, data={
-                "chat_id": chat, "parse_mode": "HTML", "caption": text,
+                "chat_id": chat, "parse_mode": "HTML", "caption": text, **quiet,
                 "photo": state["banner_file_id"] if photo == "BANNER" else photo})
         else:
             r = session.post(f"{base}/sendMessage", timeout=30, data={
-                "chat_id": chat, "text": text, "parse_mode": "HTML",
+                "chat_id": chat, "text": text, "parse_mode": "HTML", **quiet,
                 "link_preview_options": json.dumps({"prefer_large_media": True})})
         if r.status_code == 429:
             wait = r.json().get("parameters", {}).get("retry_after", 10)
@@ -428,7 +435,7 @@ def tg_send(token, chat, text, photo=None, state=None):
                     ext = img.headers["content-type"].split("/")[-1].split(";")[0]
                     r = session.post(f"{base}/sendPhoto", timeout=60,
                                      files={"photo": (f"preview.{ext}", img.content)},
-                                     data={"chat_id": chat, "caption": text, "parse_mode": "HTML"})
+                                     data={"chat_id": chat, "caption": text, "parse_mode": "HTML", **quiet})
                     if r.ok:
                         return
                     log(f"  upload rejected too: {r.text[:120]}")
@@ -498,6 +505,64 @@ def approve_join_requests(token, cfg, state, wait=0):
     return approved
 
 
+# ---------------------------------------------------------------- curation
+MSK = timezone(timedelta(hours=3))
+STOP = {"gta", "гта", "grand", "theft", "auto", "the", "and", "for", "with", "from", "that", "this", "your",
+        "will", "has", "have", "about", "into", "что", "как", "для", "это", "его", "она", "они", "при",
+        "все", "уже", "или", "так", "был", "было", "будет"}
+
+
+def words(title):
+    """Rough word stems for similarity: lowercase words, first 5 letters, minus filler words."""
+    ws = re.findall(r"[a-zа-яё0-9]+", title.lower())
+    return {w[:5] for w in ws if len(w) >= 3 and w not in STOP}
+
+
+def is_similar(title, recent, threshold):
+    a = words(title)
+    if len(a) < 3:
+        return False
+    for r in recent:
+        b = set(r)
+        if len(b) >= 3 and len(a & b) / min(len(a), len(b)) >= threshold:
+            return True
+    return False
+
+
+def score(it, tags):
+    """Rough importance: decides what gets posted when the hourly limit is tight, what rings, what's in the digest."""
+    pts = {"официально": 6, "трейлер": 4, "обновление": 3, "стрим": 4, "гайд": 2, "настройки": 2,
+           "слухи": 1, "видео": 1}
+    sc = 1 + sum(pts.get(t, 0) for t in tags)
+    if "news.google.com" in it.get("url", ""):
+        sc -= 1  # Google-only links: no picture, often a reprint
+    if it.get("kind") == "stream":
+        sc += min(4, it.get("viewers", 0) // 20000)
+    return sc
+
+
+def build_digest(state, max_items, day):
+    """'Главное за день' post from what was published today (Moscow time)."""
+    today = [p for p in state.get("posted", [])
+             if datetime.fromtimestamp(p["ts"], MSK).date() == day and p.get("kind") != "stream"]
+    if len(today) < 3:
+        return None
+    top = sorted(today, key=lambda p: (p["score"], p["ts"]), reverse=True)
+    months = ["января", "февраля", "марта", "апреля", "мая", "июня", "июля", "августа",
+              "сентября", "октября", "ноября", "декабря"]
+    head = f"🌙 <b>Главное за день по GTA 6 — {day.day} {months[day.month - 1]}</b>"
+    lines, text = [], ""
+    for p in top[:max_items]:
+        emoji = next((EMOJI[t] for t in p["tags"] if t in EMOJI), "📰")
+        line = f'{len(lines) + 1}. {emoji} <a href="{html.escape(p["url"])}">{html.escape(p["title"], quote=False)}</a>'
+        candidate = "\n\n".join([head, "\n".join(lines + [line]), "#GTA6 #дайджест"])
+        if visible_len(candidate) > 1000:
+            break
+        lines.append(line)
+        text = candidate
+    return text
+
+
 # ---------------------------------------------------------------- main loop
 def run_once(dry_run=False):
     cfg = yaml.safe_load(CONFIG_FILE.read_text("utf-8"))
@@ -560,23 +625,82 @@ def run_once(dry_run=False):
     if not dry_run and not (token and chat):
         sys.exit("Set TELEGRAM_BOT_TOKEN and TELEGRAM_CHANNEL")
 
-    limit = cfg.get("max_posts_per_run", 10)
+    # --- curation: junk filter, importance order, re-told duplicates, hourly limit
+    flt = cfg.get("filters", {})
+    lim = cfg.get("limits", {})
+    quiet = cfg.get("quiet_mode", {})
+    tr = cfg.get("translate", {})
+    excl = re.compile(flt["exclude_regex"], re.I) if flt.get("exclude_regex") else None
+    now_ts = time.time()
+    state.setdefault("posted", [])
+    state["posted"] = [p for p in state["posted"] if p["ts"] > now_ts - 48 * 3600]
+    recent_titles = [p["words"] for p in state["posted"] if p["ts"] > now_ts - 24 * 3600]
+    last_hour = sum(1 for p in state["posted"] if p["ts"] > now_ts - 3600)
+    budget = max(0, min(cfg.get("max_posts_per_run", 20), lim.get("max_posts_per_hour", 10) - last_hour))
+
+    for it in fresh:
+        it["_tags"] = classify(it)
+        it["_score"] = score(it, it["_tags"])
+    candidates = sorted(fresh, key=lambda i: (i["_score"], i["date"] or datetime.now(timezone.utc)), reverse=True)
+    picked, skipped_junk, skipped_dup = [], 0, 0
+    for it in candidates:
+        if len(picked) >= budget:
+            break
+        if excl and it["kind"] != "stream" and excl.search(f"{it['title']} {it['summary'][:300]}"):
+            skipped_junk += 1
+            state["seen"] += it["_keys"]
+            continue
+        if it["kind"] != "stream":
+            if tr.get("enabled"):
+                it["title_ru"] = translate(it["title"], tr.get("target", "ru")) or it["title"]
+            if is_similar(it.get("title_ru") or it["title"], recent_titles, flt.get("similar_threshold", 0.6)):
+                skipped_dup += 1
+                state["seen"] += it["_keys"]
+                continue
+            recent_titles.append(list(words(it.get("title_ru") or it["title"])))
+        picked.append(it)
+    picked.sort(key=lambda i: i["date"] or datetime.now(timezone.utc))  # publish in chronological order
+
+    loud_tags = set(quiet.get("loud_tags", []))
     posted = 0
-    for it in fresh[:limit]:
+    for it in picked:
         text = render(it, cfg)
         photo = find_image(it)
+        silent = bool(quiet.get("enabled")) and not (loud_tags & set(it["_tags"]))
         if dry_run:
-            print("-" * 60, f"\n[{it['source']}] photo={photo or 'BANNER'}\n{text}")
-        else:
+            print("-" * 60, f"\n[{it['source']}] score={it['_score']} silent={silent} photo={photo or 'BANNER'}\n{text}")
+            continue
+        try:
+            tg_send(token, chat, text, photo, state, silent=silent)
+        except Exception as e:  # noqa: BLE001
+            log("  send failed:", e)
+            continue
+        state["seen"] += it["_keys"]
+        title = it.get("title_ru") or it["title"]
+        state["posted"].append({"ts": time.time(), "title": title[:200], "url": it["url"], "tags": it["_tags"],
+                                "score": it["_score"], "kind": it["kind"], "words": list(words(title))})
+        posted += 1
+        time.sleep(cfg.get("pause_between_posts", 3))
+    log(f"New: {len(fresh)}, junk: {skipped_junk}, re-told: {skipped_dup}, posted: {posted}, "
+        f"hourly budget left: {budget - posted}, waiting: {len(fresh) - posted - skipped_junk - skipped_dup}")
+
+    # --- evening digest
+    dg = cfg.get("digest", {})
+    now_msk = datetime.now(MSK)
+    if dg.get("enabled") and now_msk.hour >= dg.get("hour_msk", 21) \
+            and state.get("digest_date") != now_msk.date().isoformat():
+        text = build_digest(state, dg.get("max_items", 10), now_msk.date())
+        if text and dry_run:
+            print("=" * 60, "\nDIGEST\n" + text)
+        elif text:
             try:
-                tg_send(token, chat, text, photo, state)
+                tg_send(token, chat, text, None, state)
+                state["digest_date"] = now_msk.date().isoformat()
+                log("Digest posted.")
             except Exception as e:  # noqa: BLE001
-                log("  send failed:", e)
-                continue
-            state["seen"] += it["_keys"]
-            posted += 1
-            time.sleep(cfg.get("pause_between_posts", 3))
-    log(f"New: {len(fresh)}, posted: {posted}, queued for next run: {max(0, len(fresh) - limit)}")
+                log("  digest failed:", e)
+        elif not dry_run:
+            state["digest_date"] = now_msk.date().isoformat()  # quiet day: nothing to digest
     if not dry_run:
         save_state(state)
 
