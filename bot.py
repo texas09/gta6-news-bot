@@ -269,22 +269,46 @@ def classify(it):
     return list(dict.fromkeys(tags))
 
 
-_translate_ok = True
+_tr_dead = set()  # providers that refused during this run
+
+
+def _tr_google(text, target):
+    r = session.get("https://translate.googleapis.com/translate_a/single", timeout=10,
+                    params={"client": "gtx", "sl": "auto", "tl": target, "dt": "t", "q": text})
+    r.raise_for_status()
+    return "".join(p[0] for p in r.json()[0] if p[0])
+
+
+def _tr_mymemory(text, target):
+    # free public API: ~5000 chars/day per IP, max 500 chars per request
+    r = session.get("https://api.mymemory.translated.net/get", timeout=15,
+                    params={"q": text[:500], "langpair": f"en|{target}"})
+    r.raise_for_status()
+    d = r.json()
+    out = html.unescape(d.get("responseData", {}).get("translatedText") or "")
+    if str(d.get("responseStatus")) != "200" or "MYMEMORY WARNING" in out.upper():
+        raise RuntimeError(f"MyMemory: {out[:120] or d.get('responseStatus')}")
+    return out
+
+
+TRANSLATORS = [("google", _tr_google), ("mymemory", _tr_mymemory)]
 
 
 def translate(text, target):
-    global _translate_ok
-    if not _translate_ok or not text or re.search(r"[а-яё]", text, re.I):
+    """Best-effort translation. Returns None if every provider failed."""
+    if not text or re.search(r"[а-яё]", text, re.I):
         return text
-    try:
-        r = session.get("https://translate.googleapis.com/translate_a/single", timeout=10,
-                        params={"client": "gtx", "sl": "auto", "tl": target, "dt": "t", "q": text})
-        r.raise_for_status()
-        return "".join(p[0] for p in r.json()[0] if p[0]) or text
-    except Exception as e:  # noqa: BLE001 — translation is best effort
-        log("  translate failed, keeping originals:", e)
-        _translate_ok = False
-        return text
+    for name, fn in TRANSLATORS:
+        if name in _tr_dead:
+            continue
+        try:
+            out = fn(text, target).strip()
+            if out:
+                return out
+        except Exception as e:  # noqa: BLE001 — translation is best effort
+            log(f"  translator {name} unavailable for this run: {str(e)[:150]}")
+            _tr_dead.add(name)
+    return None
 
 
 def render(it, cfg):
@@ -298,12 +322,20 @@ def render(it, cfg):
     else:
         title = it["title"]
         if tr.get("enabled"):
-            title = translate(title, tr.get("target", "ru"))
+            title = translate(title, tr.get("target", "ru")) or title
         emoji = next((EMOJI[t] for t in tags if t in EMOJI), "📰")
         head = f"{emoji} <b>{esc(title, quote=False)}</b>"
         summary = it["summary"]
-        if summary and tr.get("enabled"):
-            summary = translate(summary[:400], tr.get("target", "ru"))
+        if summary and tr.get("enabled") and not re.search(r"[а-яё]", summary, re.I):
+            # descriptions are long, so only Google translates them (MyMemory's daily quota
+            # is kept for titles); an untranslated English description is dropped
+            summary = ""
+            if "google" not in _tr_dead:
+                try:
+                    summary = _tr_google(it["summary"][:400], tr.get("target", "ru"))
+                except Exception as e:  # noqa: BLE001
+                    log(f"  translator google unavailable for this run: {str(e)[:150]}")
+                    _tr_dead.add("google")
         if len(summary) > 350:
             summary = summary[:350].rsplit(" ", 1)[0] + "…"
         body = esc(summary, quote=False)
