@@ -2860,12 +2860,36 @@
 "cf6da383dd9516da",
 "ac55865ce499d94e",
 "3e2eb7beda3ab404",
-"6b740545a3400681"
+"6b740545a3400681",
+"af2d7c0ca10639e3",
+"e3f6f0cc06cbd1e0",
+"5dd6b7d54d81975a",
+"106001f85674cc46",
+"8ed547f65363f246",
+"f95e0b9b17619067",
+"7b26f5cc7ffa4d6c",
+"c094b975c5a644ee",
+"a916552b330f4760",
+"5fe82516c6bd1fdf",
+"61d673300dcea06a",
+"4ff8e3125ccb655e",
+"65120f8cf47dbab4",
+"36fbbaeb68d39cab",
+"441edd89a7b5b8aa",
+"e1283b83f10a8bac",
+"4cbbd1e13e28cadd",
+"b7efabc171cdfd2e",
+"81c9095b9ebf6913",
+"d5200d0ee2cd6d40",
+"0c895fd6cdbafb22",
+"97b68cae2fe3c93c",
+"530f58ec29587acb",
+"2b93224f10906fb4"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328266,
+"tg_offset": 706328267,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -3848,6 +3872,113 @@
 "получ",
 "игрок",
 "офици"
+]
+},
+{
+"ts": 1794956526.5112965,
+"title": "Почему все говорят о GTA 6? Эксперт объясняет",
+"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XR20zWFkzUEw1QUhtMUdtUURjTnIwZnhGNUhXdkEwT3JUbTMwa3J0RFpFVDJ0MlhBWG95OWxoWl9HMDgzYXVfOC0xd0EtdVhrYkVCX1ZIQTRfYm5TQl9wTHBBbk0zZ9IBa0FVX3lxTE0yS0s1YnpnNDYwU09BWnczdzROR3FZRVV1RkRuY1JuQXNVOVdTUjJlWjdLVG9SSkg1VURPWThNUnVZM3RLeUZzMzk1aV92YXFmWEthNlkzbmJua1NxNkp4Y3c1dVEzblowaW9J?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "FOX 32 Chicago",
+"score": 0,
+"kind": "news",
+"words": [
+"экспе",
+"объяс",
+"говор",
+"почем"
+]
+},
+{
+"ts": 1794956529.6780035,
+"title": "Heat запускает товары, вдохновленные GTA VI, в преддверии коллаборации с A Night in Vice City для глобального релиза",
+"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoZTdOUTZLWTgwZGdib2t4eG5TbURjcWhrVHM2Q1FmeUtWVlp3OHdnNE5JYlZnRUJiUXRCNElVbGxiMHo2UFlWaGNGR2ctUE9qejh6ZU1INjYzZGlLTU5lY2ZhWmE4Znd6enc?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "WSVN",
+"score": 0,
+"kind": "news",
+"words": [
+"вдохн",
+"city",
+"vice",
+"night",
+"предд",
+"heat",
+"глоба",
+"релиз",
+"колла",
+"запус",
+"товар"
+]
+},
+{
+"ts": 1794956532.909827,
+"title": "GTA 6: Моя жена и дочь подписали контракт «не беспокоить»",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlBCcjFoTGpxdnQwN3d0c2llNFRFaEFTTGlydkpNZU12UzNtcDlDU2hBOWtPNjRHRGRWbDBsSmc3eFRjTUUtbUxhZW1OTUEzdXlLUjRUM25sZTZFZmFUTFNyVWRJZTNTckJMQ05rTEhOblVvYk84ZDVoYWU2WUlOYm1xYWUzdXM5OHc?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Yahoo",
+"score": 0,
+"kind": "news",
+"words": [
+"контр",
+"моя",
+"дочь",
+"подпи",
+"жена",
+"беспо"
+]
+},
+{
+"ts": 1794956536.0735872,
+"title": "Объявлен размер загрузки GTA 6: сколько места вам нужно на PS5 и Xbox?",
+"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84MDdHVl85akNHQnJISzFVWl9uNWcyWWdyczlvd0NWY05aMUlOdHFiNG9rTElYOEVqay1fS3p5Ym5rRnp4cmNjSnQ5OUJVZ3FQTUlvXzl2aW16cU14SzlZTzlKWkJuZw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "IMDb",
+"score": 0,
+"kind": "news",
+"words": [
+"загру",
+"xbox",
+"разме",
+"вам",
+"ps5",
+"сколь",
+"нужно",
+"объяв",
+"места"
+]
+},
+{
+"ts": 1794956539.2294044,
+"title": "Релиз GTA VI вызвал волнение среди геймеров на мысе Страха",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHJvc3l6WURITEFkbUI4S3lEVVFULTJyUWJ0UFdVVnVOVURjc0UwekJuQnlRRExoci01S21aU2tpcVZWTmVDSVpPWHRvcGd4TVpfSndBTV9haVFWbUJvNDFQbnd2bmJweDlqd25CbXg5TnhDTjhVaDVhMnQ4QnNXNlg1emsxcW0xNENoSUlCeGI?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "WWAYTV3",
+"score": 0,
+"kind": "news",
+"words": [
+"среди",
+"страх",
+"гейме",
+"вызва",
+"релиз",
+"волне",
+"мысе"
 ]
 }
 ],
