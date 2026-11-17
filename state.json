@@ -2650,15 +2650,24 @@
 "6bf9090c703c19e2",
 "44d7cf554b22f8af",
 "92705b7c0892173b",
+"2de3fe71bc1999ac",
+"4cec45f3af3298ff",
+"cffc520acb7d6e62",
+"94feadc2fc0ce745",
+"e347e489b99a186e",
+"0dccc7d536aff1d3",
+"f62d099b890eb7a6",
+"248d707490cc1576",
+"a3af54d52588eff2",
 "aff1840415e9fd17",
 "341be151f63da7fc",
 "903de8ba91294f8d",
-"54ef89ba83d67cdb",
-"e16438f378a41347",
-"e800d0276966451c",
 "f31a29a85fceee95",
 "79799c776f833b0d",
-"84c6689dede5584a"
+"84c6689dede5584a",
+"7fc7b19ed24ae7d6",
+"7fc7b19ed24ae7d6",
+"42c73e018ee6509d"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -2772,7 +2781,54 @@
 ]
 },
 {
-"ts": 1794940250.5705488,
+"ts": 1794940331.8613086,
+"title": "Запуск GTA VI знаменует новую эру для игр, создателей и инвесторов из стран Персидского залива",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU2JVbFVSWUt6ZHhOVDBmNk9FTWFCVTIzNFd6TTljNmpSQmVodGNiSWlhMnFXTmZ0SUJieHlCYXowV0JTWFpybWVMQi1xd0ItaXJnY2NCR2RjdTBkVXhVYXhnY012eGJRNlQ2aTR2U1EyQ2M4aV9qV2pxS0w5TnJ0RFdHZk14WXl5aVlJbXhhcTc3VmVCb2hWWlozUFB1Yy1KMl91dXpZZEh1SXIyd0JTZnN4by1XZw?oc=5",
+"tags": [
+"новости"
+],
+"score": 0,
+"kind": "news",
+"words": [
+"новую",
+"инвес",
+"залив",
+"перси",
+"запус",
+"игр",
+"эру",
+"знаме",
+"стран",
+"созда"
+]
+},
+{
+"ts": 1794940335.1065586,
+"title": "Раскрыта исполнительница главной роли в GTA VI — номинация TGA 2026 подтвердила давнюю догадку игроков об актрисе Лусии",
+"url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdW1DVWRjWTFxejBwdXpCU2tEXzBidkVCby1jdjY5aXNrOUdheDA5NmE4NlR1bFFvdllZMV9oWjBsZUxLMFJvMnFHTDRJVlpHdVpvQk9zQ0ozU2ZGSFkxdjBLb2VsUUwtT3hxdHQtdWpzcWZEU1hBMFpCX0RDcTdBdkVYNkVibm9LQUpkM2lqaW9SWUd4YzZ4elp6Xy1qeW1NUHFGSjVlcENkS3hPVWpkZldpb2I4REpDcWUxRC0wYXBxMFIya3FiWUsyTDc1UHdDcFhrdkJqdC1PUG1PcDFaUy05OGHSAeoBQVVfeXFMTWRHY1lQMDV3MnVxRTNNOVQ5OC1YLW9JSFdlZzJWRGMzR2p5SjFLVjBBNnZBc3RlYWRaZzdwTFpaN1lkb01JS2dZZnp3Vlc0RkpRMTRjNW5TU0lrV2dOUTZMYnVkZ2tYa2h5b0lwTW1pcF9GOUItTlQ2QklLOHQyOGNnTjkta0lMVG8yWUpETFVhLVEyci1BUnBfcHRjX3hRTktQTkxIYmNhMVFhU0t4OEJyamVqRWZxMXozajA3VUdDV1NYdDAxQmtHUk4wbnN4SG50UEdMQjFIZlNrMUl5dWZ0VGowWkJTMEV3?oc=5",
+"tags": [
+"новости"
+],
+"score": 0,
+"kind": "news",
+"words": [
+"номин",
+"догад",
+"2026",
+"роли",
+"главн",
+"раскр",
+"tga",
+"давню",
+"актри",
+"игрок",
+"лусии",
+"подтв",
+"испол"
+]
+},
+{
+"ts": 1794940338.3257647,
 "title": "Розыгрыш Fonbet: PS5 и GTA VI за подписку вместе с Анаром",
 "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wbWVJdHNHMU10a21XdnF2R3hDRXFDS1UxQ3A5eWt1NzFPa2dRdUNvZktpMU1KaHA3QjY4b1FxU1lKQmltSVJkRHpCaXVoZWJDekJIUm85MGtoNC1oeWJ3TTVKYlFYTFJ3Qjc1OXpVcXI?oc=5",
 "tags": [
@@ -2783,37 +2839,14 @@
 "words": [
 "подпи",
 "анаро",
-"вмест",
-"fonbe",
 "розыг",
+"fonbe",
+"вмест",
 "ps5"
 ]
 },
 {
-"ts": 1794940253.809612,
-"title": "Жаждущие игроки XBOX используют «новозаландский трюк», чтобы начать играть в GTA 6 раньше времени",
-"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSk9qZ25SOTYzdGEyeFFoVjlXSmFLd0ZzaTEzcDdhOVZTUFd6aExzSnUzV3ZVZ1gtclVHZlVFV3BHOTIzUGtzXzJqQlJSTFdlTTVaSUtLU0NSUVlCUGV6NnBXZXFDRlVfVmpjUWRIZUJiaS1GanZ4amlrcmxBVXhCTFRYcFNLUXUydlQwNWEwc1BPNHhKRlJ3QlNiaFU5Nkk4?oc=5",
-"tags": [
-"новости"
-],
-"score": 0,
-"kind": "news",
-"words": [
-"жажду",
-"игрок",
-"xbox",
-"испол",
-"играт",
-"раньш",
-"чтобы",
-"начат",
-"новоз",
-"време",
-"трюк"
-]
-},
-{
-"ts": 1794940257.034824,
+"ts": 1794940341.5266063,
 "title": "GTA 6 лидирует в номинациях TGA, а обзоры еще даже не опубликованы",
 "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0JwS3dLNFB4eHUxOTNzOURSXy1HSEl4dXpBOXhpVzdrVFNGZWlRWTNuQnpDYXVjV1hUOW12SldtTkVLaGZReU96QzNlVDNzREZUWmtJOVd5Q1BzWV9Ja0NtYVdRa2hzYjBod19KckZrSUtaOEp4MXFvQlNRSnhjdFBtOHFSd3ctZkItRm1hZHNmTERSeU52X0xR?oc=5",
 "tags": [
@@ -2822,13 +2855,29 @@
 "score": 0,
 "kind": "news",
 "words": [
+"номин",
+"опубл",
 "обзор",
 "еще",
-"даже",
 "лидир",
 "tga",
-"номин",
-"опубл"
+"даже"
+]
+},
+{
+"ts": 1794940361.8080895,
+"title": "GTA 6 выйдет через 24 часа в Индии",
+"url": "https://www.championat.com/cybersport/news-6703032-vo-skolko-vyjdet-gta-6-v-indii-na-xbox-i-ps5-iksboks-i-ps5.html",
+"tags": [
+"новости"
+],
+"score": 1,
+"kind": "news",
+"words": [
+"выйде",
+"индии",
+"через",
+"часа"
 ]
 }
 ],
