@@ -2629,14 +2629,17 @@
 "89acd79b6fbaa0d2",
 "1b7a6f5420e42481",
 "5edcca5b0d0785e6",
+"bf629aefc29e260b",
+"4bc753e5df4cb04a",
+"7ae4d29537e167a1",
 "48817475dc24ae39",
 "c4b95aadc8324962",
 "cebf750af20a4449",
 "a1a9887b36e6f6b2",
 "eb4e74733ddffb05",
 "bae1d54d9c528567",
-"45d6236fe648265e",
-"54678fa93669af11",
+"1ac1aa93ba9c38e0",
+"234b1cf6c7b3f23b",
 "f9fb0ab197b73785",
 "479a79bf6281b6af",
 "f589ae46917482b5",
@@ -2649,5 +2652,113 @@
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
 "tg_offset": 706328243,
-"banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA"
+"banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
+"posted": [
+{
+"ts": 1794939782.2074041,
+"title": "Take-Two увольняет сотрудников Firaxis накануне запуска Grand Theft Auto VI",
+"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFRCbUVieWgxNFcwMzloNDdsNWI3a3AxRVNheWVQODhYM1RqUjFMeFVkSG9DRTJKc3hPT1ZTXzFFVWxQcGE1ZVhvQVY2Xy1NUDg1T0RSeUhQTGxtNUliY3FXZEZTVlJJd3BsNVY4ZVZhbm1PNDlnbjFTR2ZnRmxzU0JWSFBUR2xYdnpYSDZ1VElqMkt4cmx4d2hWVENFbTUzbDlMV0s2Y3RFakhtYlI0cQ?oc=5",
+"tags": [
+"новости"
+],
+"score": 0,
+"kind": "news",
+"words": [
+"сотру",
+"two",
+"накан",
+"запус",
+"уволь",
+"take",
+"firax"
+]
+},
+{
+"ts": 1794939785.3895662,
+"title": "Sony выпустила обязательную прошивку 14.23 для GTA 6 на PlayStation 5 и PS5 Pro",
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDBDQWZ6UGtOR1p1bUNiWmxlN1dUUS1tT2N3WFdEaTlxMGdLNHBtQ1Itc1IyazNwV3lrQlVqQTFCQTU2R0ZwTTBhaElFWHJNSVNHckJtSXJ3Zm4tbWJjT2dpakE2QXNGX3MyTGM3Vy03eVRoNHcwcjVINmhVSDlPTUxUcFZSUUppaEh4azBCZnJPVm5fN3lFXzFTM05fNzBqSHZFQVJ1d2FIMmU4T2Y1SHJB?oc=5",
+"tags": [
+"обновление"
+],
+"score": 3,
+"kind": "news",
+"words": [
+"обяза",
+"sony",
+"проши",
+"выпус",
+"pro",
+"plays",
+"ps5"
+]
+},
+{
+"ts": 1794939788.5728054,
+"title": "Сеть ресторанов быстрого питания на ограниченное время запускает сэндвич «Spice City» в рамках ажиотажа GTA VI",
+"url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaThCWi1RVXAzSVd1Yml6S0tZVnNNZ3JnSWJQLVpSZVVjSXpPWU1MU1Y5OEhWT3RxcjRrclNvY1BUZHlCZ01KcXN2S1FpLS1JZXFXSXJsem9sOEVxR0VWRXozWjJObFQzZFJIUm5oeEY3eXdJNTdOMXM4REt1M0dwNlF3bWlVOWlTTUhUVWpTSXBBOXVVOVlUMEpUUDAxZjIxbnJrN1BXSUlXQXNDZDU3aE95cGZzcTZMTjZ4OHI0RQ?oc=5",
+"tags": [
+"новости"
+],
+"score": 0,
+"kind": "news",
+"words": [
+"city",
+"рамка",
+"сеть",
+"запус",
+"ажиот",
+"питан",
+"огран",
+"время",
+"сэндв",
+"быстр",
+"spice",
+"ресто"
+]
+},
+{
+"ts": 1794939791.762317,
+"title": "GTA VI лидирует на The Game Awards 2026 несмотря на отсутствие релиза",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jeUdnbkZvUU1pWFlsYzFQUWxZTy1TYV9ramFSM254TEdOOHV6OWRMM2wwaGNpZkVaZHhBWkhCMWppRlBNSTdNbDdYQ1VFa2VaVUFXLVVLVGo0SUwyR1YyZ2RlcWtfZGdFQU9nT3FR?oc=5",
+"tags": [
+"новости"
+],
+"score": 0,
+"kind": "news",
+"words": [
+"релиз",
+"лидир",
+"отсут",
+"award",
+"game",
+"несмо",
+"2026"
+]
+},
+{
+"ts": 1794939804.3321047,
+"title": "В Германии число заявок на отпуск перед выходом GTA 6 выросло на 38% - эксперт сравнил ажиотаж с летними каникулами",
+"url": "https://www.playground.ru/gta_6/news/v_germanii_chislo_zayavok_na_otpusk_pered_vyhodom_gta_6_vyroslo_na_38_ekspert_sravnil_azhiotazh_s_letnimi_kanikulami-1891573#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"score": 1,
+"kind": "news",
+"words": [
+"экспе",
+"выход",
+"число",
+"герма",
+"ажиот",
+"отпус",
+"заяво",
+"каник",
+"сравн",
+"летни",
+"вырос",
+"перед"
+]
+}
+],
+"digest_date": "2026-11-17"
 }
