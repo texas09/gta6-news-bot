@@ -1,0 +1,83 @@
+# Настройки GTA 6 новостного бота.
+# Секреты (токены) сюда НЕ пишем — они берутся из переменных окружения:
+#   TELEGRAM_BOT_TOKEN, TELEGRAM_CHANNEL (например @gta6_news_ru),
+#   TWITCH_CLIENT_ID, TWITCH_CLIENT_SECRET (необязательно, для стримов)
+
+# Что считается «про GTA 6». Источники с filter: true пропускают только совпадения.
+keywords_regex: '\b(gta|гта)\s*-?\s*(6|vi)\b|grand\s+theft\s+auto\s*(vi|6)\b|\bgtavi\b|\bgta6\b|\bгта6\b'
+
+max_posts_per_run: 10        # защита от флуда; остальное уйдёт в следующий запуск
+max_age_hours: 48            # старше — не публикуем
+pause_between_posts: 3       # секунд между постами
+
+# Перевод англоязычных заголовков на русский (бесплатный эндпоинт Google, без ключа).
+# Если перевод не удался — пост уйдёт с оригинальным заголовком.
+translate:
+  enabled: true
+  target: ru
+
+sources:
+  # --- Официальное ---
+  - name: Rockstar Games (YouTube)
+    type: youtube
+    handle: RockstarGames
+    filter: false
+    tag: официально
+
+  # --- Агрегаторы новостей ---
+  - name: Google Новости
+    type: rss
+    url: 'https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22%D0%93%D0%A2%D0%90+6%22+OR+%22GTA+VI%22&hl=ru&gl=RU&ceid=RU:ru'
+    filter: true
+    summary: false
+  - name: Google News
+    type: rss
+    url: 'https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22&hl=en-US&gl=US&ceid=US:en'
+    filter: true
+    summary: false
+  - name: Google News (гайды)
+    type: rss
+    url: 'https://news.google.com/rss/search?q=%22GTA+6%22+(guide+OR+tips+OR+%22best+settings%22+OR+how+to)&hl=en-US&gl=US&ceid=US:en'
+    filter: true
+    summary: false
+  - name: Google Новости (гайды)
+    type: rss
+    url: 'https://news.google.com/rss/search?q=%22GTA+6%22+(%D0%B3%D0%B0%D0%B9%D0%B4+OR+%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8+OR+%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B)&hl=ru&gl=RU&ceid=RU:ru'
+    filter: true
+    summary: false
+
+  # --- Профильные сайты (только про GTA 6) ---
+  - {name: Rockstar Intel,        type: rss, url: 'https://www.rockstarintel.com/feed',            filter: true}
+  - {name: Insider Gaming,        type: rss, url: 'https://insider-gaming.com/feed/',              filter: true}
+  - {name: VGC,                   type: rss, url: 'https://www.videogameschronicle.com/feed/',     filter: true}
+  - {name: GameSpot,              type: rss, url: 'https://www.gamespot.com/feeds/news/',          filter: true}
+  - {name: PC Gamer,              type: rss, url: 'https://www.pcgamer.com/rss/',                  filter: true}
+  - {name: IGN,                   type: rss, url: 'https://feeds.feedburner.com/ign/games-all',    filter: true}
+  - {name: Eurogamer,             type: rss, url: 'https://www.eurogamer.net/feed',                filter: true}
+  - {name: StopGame,              type: rss, url: 'https://rss.stopgame.ru/rss_news.xml',          filter: true}
+  - {name: PlayGround.ru,         type: rss, url: 'https://www.playground.ru/rss/news.xml',        filter: true}
+
+  # --- Сообщество (топ постов за день, чтобы не утонуть в потоке) ---
+  - name: Reddit r/GTA6
+    type: rss
+    url: 'https://www.reddit.com/r/GTA6/top/.rss?t=day&limit=15'
+    filter: false
+    summary: false
+    tag: сообщество
+
+  # Добавляйте YouTube-каналы блогеров по GTA так:
+  # - {name: Имя канала, type: youtube, handle: ИмяБезСобаки, filter: true}
+
+# Стримы на Twitch (нужны TWITCH_CLIENT_ID и TWITCH_CLIENT_SECRET)
+twitch:
+  enabled: true
+  game_names: ["Grand Theft Auto VI", "Grand Theft Auto 6"]
+  min_viewers: 3000          # «крупный» стрим — от стольких зрителей
+  languages: []              # пусто = все языки; например ["ru", "en"]
+  watchlist: []              # логины стримеров, о которых пишем всегда, например ["xqc", "buster"]
+
+# Заявки на вступление в канал (бот должен быть админом с правом «Добавление участников»)
+join_requests:
+  auto_approve: true
+  # Приветствие в личку принятому подписчику (пустая строка = не отправлять)
+  welcome: "👋 Добро пожаловать в <b>GTA 6 Радар</b>! Новости, гайды, настройки и стримы по GTA 6 — сразу, как только появляются."
