@@ -2,7 +2,9 @@ name: GTA 6 news bot
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # каждые 10 минут (GitHub может задерживать на несколько минут)
+    # каждые 30 минут (~1440 запусков/мес — укладывается в бесплатные 2000 мин для приватного репо).
+    # Не :00/:30 — в эти минуты GitHub сильнее всего задерживает запуски.
+    - cron: "7,37 * * * *"
   workflow_dispatch: {}       # кнопка ручного запуска
 
 concurrency:
@@ -36,4 +38,4 @@ jobs:
           git config user.email "gta6-bot@users.noreply.github.com"
           git add state.json
           git diff --cached --quiet || git commit -m "state update [skip ci]"
-          git pull --rebase -X ours && git push
+          git pull --rebase -X theirs && git push   # при rebase "theirs" = наш свежий state.json
