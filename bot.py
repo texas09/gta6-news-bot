@@ -417,8 +417,25 @@ def tg_send(token, chat, text, photo=None, state=None):
             log(f"  telegram flood limit, waiting {wait}s")
             time.sleep(wait + 1)
             continue
-        if r.status_code == 400 and photo:  # picture rejected: try banner, then text only
+        if r.status_code == 400 and photo:  # picture rejected: upload it ourselves, then banner, then text
             log(f"  picture rejected ({r.json().get('description', '')[:80]}), falling back")
+            if photo not in ("BANNER", None):
+                try:
+                    img = session.get(photo, timeout=20, headers={"Referer": photo})
+                    img.raise_for_status()
+                    if len(img.content) > 9_500_000 or not img.headers.get("content-type", "").startswith("image"):
+                        raise ValueError(f"not an uploadable image ({img.headers.get('content-type')})")
+                    ext = img.headers["content-type"].split("/")[-1].split(";")[0]
+                    r = session.post(f"{base}/sendPhoto", timeout=60,
+                                     files={"photo": (f"preview.{ext}", img.content)},
+                                     data={"chat_id": chat, "caption": text, "parse_mode": "HTML"})
+                    if r.ok:
+                        return
+                    log(f"  upload rejected too: {r.text[:120]}")
+                except Exception as e:  # noqa: BLE001
+                    log(f"  could not re-upload picture: {str(e)[:120]}")
+                photo = "BANNER" if banner else None
+                continue
             if photo == "BANNER":
                 state.pop("banner_file_id", None)
                 photo = None
