@@ -2646,7 +2646,19 @@
 "6fef3cf0e4655f1e",
 "597e28a430639e16",
 "ae9c274b7e0f07c2",
-"cb1dd8e46893b456"
+"cb1dd8e46893b456",
+"6bf9090c703c19e2",
+"44d7cf554b22f8af",
+"92705b7c0892173b",
+"aff1840415e9fd17",
+"341be151f63da7fc",
+"903de8ba91294f8d",
+"54ef89ba83d67cdb",
+"e16438f378a41347",
+"e800d0276966451c",
+"f31a29a85fceee95",
+"79799c776f833b0d",
+"84c6689dede5584a"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -2758,7 +2770,68 @@
 "вырос",
 "перед"
 ]
+},
+{
+"ts": 1794940250.5705488,
+"title": "Розыгрыш Fonbet: PS5 и GTA VI за подписку вместе с Анаром",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wbWVJdHNHMU10a21XdnF2R3hDRXFDS1UxQ3A5eWt1NzFPa2dRdUNvZktpMU1KaHA3QjY4b1FxU1lKQmltSVJkRHpCaXVoZWJDekJIUm85MGtoNC1oeWJ3TTVKYlFYTFJ3Qjc1OXpVcXI?oc=5",
+"tags": [
+"новости"
+],
+"score": 0,
+"kind": "news",
+"words": [
+"подпи",
+"анаро",
+"вмест",
+"fonbe",
+"розыг",
+"ps5"
+]
+},
+{
+"ts": 1794940253.809612,
+"title": "Жаждущие игроки XBOX используют «новозаландский трюк», чтобы начать играть в GTA 6 раньше времени",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSk9qZ25SOTYzdGEyeFFoVjlXSmFLd0ZzaTEzcDdhOVZTUFd6aExzSnUzV3ZVZ1gtclVHZlVFV3BHOTIzUGtzXzJqQlJSTFdlTTVaSUtLU0NSUVlCUGV6NnBXZXFDRlVfVmpjUWRIZUJiaS1GanZ4amlrcmxBVXhCTFRYcFNLUXUydlQwNWEwc1BPNHhKRlJ3QlNiaFU5Nkk4?oc=5",
+"tags": [
+"новости"
+],
+"score": 0,
+"kind": "news",
+"words": [
+"жажду",
+"игрок",
+"xbox",
+"испол",
+"играт",
+"раньш",
+"чтобы",
+"начат",
+"новоз",
+"време",
+"трюк"
+]
+},
+{
+"ts": 1794940257.034824,
+"title": "GTA 6 лидирует в номинациях TGA, а обзоры еще даже не опубликованы",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0JwS3dLNFB4eHUxOTNzOURSXy1HSEl4dXpBOXhpVzdrVFNGZWlRWTNuQnpDYXVjV1hUOW12SldtTkVLaGZReU96QzNlVDNzREZUWmtJOVd5Q1BzWV9Ja0NtYVdRa2hzYjBod19KckZrSUtaOEp4MXFvQlNRSnhjdFBtOHFSd3ctZkItRm1hZHNmTERSeU52X0xR?oc=5",
+"tags": [
+"новости"
+],
+"score": 0,
+"kind": "news",
+"words": [
+"обзор",
+"еще",
+"даже",
+"лидир",
+"tga",
+"номин",
+"опубл"
+]
 }
 ],
-"digest_date": "2026-11-17"
+"digest_date": "2026-11-17",
+"pins_version": "e9e83d523b07"
 }
