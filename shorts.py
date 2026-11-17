@@ -182,6 +182,16 @@ def make_title_scene(lines, sub, dur):
 
 
 # ---------------------------------------------------------------- render
+def ffmpeg_exe():
+    """System ffmpeg if installed, otherwise the static binary from the imageio-ffmpeg package."""
+    import shutil
+    exe = shutil.which("ffmpeg")
+    if exe:
+        return exe
+    import imageio_ffmpeg
+    return imageio_ffmpeg.get_ffmpeg_exe()
+
+
 def render_short(items, day, out_path, channel_name="GTA 6 Радар"):
     """items: [{title, img, source}] (up to 3). Writes an MP4; returns its path."""
     items = items[:3]
@@ -192,7 +202,7 @@ def render_short(items, day, out_path, channel_name="GTA 6 Радар"):
     scenes.append((make_title_scene([("ВСЕ НОВОСТИ", 96, WHITE), ("GTA 6", 170, YELLOW), ("В TELEGRAM", 96, WHITE)],
                                     f"«{channel_name}» — ссылка в профиле", OUTRO), OUTRO))
     total = sum(d for _, d in scenes)
-    cmd = ["ffmpeg", "-y", "-loglevel", "error",
+    cmd = [ffmpeg_exe(), "-y", "-loglevel", "error",
            "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
            "-f", "lavfi", "-t", f"{total:.2f}", "-i", "anullsrc=channel_layout=stereo:sample_rate=44100",
            "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-pix_fmt", "yuv420p",
