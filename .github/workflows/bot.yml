@@ -5,7 +5,10 @@ on:
     # каждые 10 минут (репозиторий публичный — минуты Actions бесплатны).
     # Сдвиг на :03/:13/... — в :00 и :30 GitHub сильнее всего задерживает запуски.
     - cron: "3-59/10 * * * *"
-  workflow_dispatch: {}       # кнопка ручного запуска
+  workflow_dispatch: {}
+  push:                       # запуск сразу после изменения кода/настроек
+    branches: [main]
+    paths-ignore: [state.json, README.md]       # кнопка ручного запуска
 
 concurrency:
   group: gta6-bot
