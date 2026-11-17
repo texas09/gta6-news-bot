@@ -10,7 +10,7 @@ channel: "-1004347199504"
 
 keywords_regex: '\b(gta|гта)\s*-?\s*(6|vi)\b|grand\s+theft\s+auto\s*(vi|6)\b|\bgtavi\b|\bgta6\b|\bгта6\b'
 
-max_posts_per_run: 20        # защита от флуда; остальное уйдёт в следующий запуск
+max_posts_per_run: 60        # защита от флуда; остальное уйдёт в следующий запуск
 max_age_hours: 48            # старше — не публикуем
 pause_between_posts: 3       # секунд между постами
 
