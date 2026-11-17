@@ -2692,7 +2692,25 @@
 "8142149f5ea78d8b",
 "cd80e05dd5869641",
 "bbb99be25f07600a",
-"2a4fb9df527d91c7"
+"2a4fb9df527d91c7",
+"bc5cce311faebd23",
+"2da1af97bb4f224a",
+"7720c545ef4c8973",
+"583c76cc34183919",
+"7628478fffeb91dd",
+"43ff102845856eae",
+"009880ec413f0868",
+"89bf1c406c261985",
+"96d72f26266c449d",
+"07af8d9e96111b64",
+"efbf7cf04b4afc0d",
+"4ba9ab5f06f67bdd",
+"ada3ab94f5d75163",
+"813ecda2495a8a9e",
+"afdf3ac8dda2628d",
+"c2a291fd1371a042",
+"c2a291fd1371a042",
+"b1f17d591eafb2aa"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -2992,6 +3010,132 @@
 "релиз",
 "180",
 "благо"
+]
+},
+{
+"ts": 1794944597.1156204,
+"title": "Служба здравоохранения Великобритании вынесла предупреждение по поводу GTA 6 и призывает игроков беречь свои руки",
+"url": "https://www.pushsquare.com/news/2026/11/uks-health-service-issues-warning-over-gta-6-urges-players-to-take-care-of-their-hands",
+"tags": [
+"новости"
+],
+"img": "https://images.pushsquare.com/408d660e46a94/large.jpg",
+"source": "Push Square",
+"score": 1,
+"kind": "news",
+"words": [
+"преду",
+"свои",
+"руки",
+"служб",
+"здрав",
+"береч",
+"вынес",
+"повод",
+"игрок",
+"призы",
+"велик"
+]
+},
+{
+"ts": 1794944600.3349638,
+"title": "Время выхода GTA 6 для PS5 и Xbox Series X/S: как начать играть раньше с новозеландским трюком",
+"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS29XZzFBTEJ0aHIzMV9MYWJOaXA1djh1RVV6MGhVdmhpMkZFWFpCTE0tdFFmaWsxYzFQSFREX1NpQW5ERXJiQVlvWGJfYjVteDc0NkQ3T1RNQ28ybEtuMXhCUFRQN1JWRTNGYVNyNFU3eFV3RUNCekZnRDB4a1JFQWNFMA?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Yahoo Tech",
+"score": 2,
+"kind": "news",
+"words": [
+"новоз",
+"ps5",
+"serie",
+"играт",
+"раньш",
+"трюко",
+"выход",
+"время",
+"начат",
+"xbox"
+]
+},
+{
+"ts": 1794944603.5501044,
+"title": "Хакер, слививший видео GTA VI, признал вину за несколько дней до релиза",
+"url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPeTV3a0MtYVY5X1RlTDBab3B4cWJzUGtrQ0oyQUZ3Q3pUQTZkU1ZZSTRoTjNHMklGNGhDYkNmUGNyQTd0N0ZBVkYybHcyOXJRenFZX3hSTk9adXpUSFozWjIzUDJ5VkXSAWxBVV95cUxQWXpMUm5WN2VMSVBnZHhCT3B6ejFrZjFlblZZY1VDN1A0UEd1Q2VEbWtCZHRURHpxc3ZfXy0yU2dxMk5UckRIQmUxUXljbzd6Nm9DdVdia1BUVHh0cHdIQjJIY3A0Uk9PR2paUGo?oc=5",
+"tags": [
+"слухи"
+],
+"img": null,
+"source": "Anti-Malware.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"дней",
+"хакер",
+"неско",
+"видео",
+"вину",
+"сливи",
+"релиз",
+"призн"
+]
+},
+{
+"ts": 1794944606.7694945,
+"title": "Инструмент с открытым исходным кодом обещает превратить консольный игровой процесс GTA VI со скоростью 30 кадров в секунду в 120 кадров в секунду с помощью генерации кадров AI.",
+"url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRkJKYlg2NzhkUndoZGtITTVlSDFESkpwcGFYbVp3UmZlRUtnSVdaVUUyX2VVRkNSU3FseWEzdl9Hd3FiR2FvZzZ1bFRhQnp5cTZxTWRCcm04Z2owZ2ZUa1BGTlVKUk1KQjRDcUpkY0s1cUNFVUVQNFQwbnpYYjJ0ZllEaDNwd2haMlpZTE9yMWR0dDE0YmF0R2tUUVVxeTF5VUptR0pyRS0weXRsZC1JLWdNRVdhQ1NvQ0xQXzlvY3ZDdlNCR2thbkxjVVU0LXlWcldQNGtFRXRYckFnbE1SOExiM1ZjdkFD?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "TweakTown",
+"score": 2,
+"kind": "news",
+"words": [
+"скоро",
+"проце",
+"помощ",
+"генер",
+"исход",
+"кадро",
+"обеща",
+"кодом",
+"откры",
+"превр",
+"игров",
+"секун",
+"инстр",
+"консо",
+"120"
+]
+},
+{
+"ts": 1794944610.8490705,
+"title": "Объявлены номинанты Game Awards 2026, и GTA 6 лидирует с восемью кивками, прежде чем сравнять счет",
+"url": "https://www.eurogamer.net/game-awards-2026-nominees-full-list-gta-6",
+"tags": [
+"новости"
+],
+"img": "https://assetsio.gnwcdn.com/Screenshot-2026-11-17-at-18.56.07.png?width=690&quality=85&format=jpg&auto=webp",
+"source": "Eurogamer",
+"score": 1,
+"kind": "news",
+"words": [
+"прежд",
+"объяв",
+"кивка",
+"чем",
+"2026",
+"номин",
+"сравн",
+"game",
+"award",
+"счет",
+"восем",
+"лидир"
 ]
 }
 ],
