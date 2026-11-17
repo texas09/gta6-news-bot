@@ -437,7 +437,7 @@ def tg_send(token, chat, text, photo=None, state=None, silent=False):
                                      files={"photo": (f"preview.{ext}", img.content)},
                                      data={"chat_id": chat, "caption": text, "parse_mode": "HTML", **quiet})
                     if r.ok:
-                        return
+                        return r.json()["result"]["message_id"]
                     log(f"  upload rejected too: {r.text[:120]}")
                 except Exception as e:  # noqa: BLE001
                     log(f"  could not re-upload picture: {str(e)[:120]}")
@@ -451,7 +451,7 @@ def tg_send(token, chat, text, photo=None, state=None, silent=False):
             continue
         if not r.ok:
             raise RuntimeError(f"Telegram error {r.status_code}: {r.text[:300]}")
-        return
+        return r.json()["result"]["message_id"]
     raise RuntimeError("Telegram: too many retries")
 
 
@@ -563,6 +563,40 @@ def build_digest(state, max_items, day):
     return text
 
 
+# ---------------------------------------------------------------- pinned posts
+PINS_FILE = ROOT / "pins.yaml"
+
+
+def publish_pins(token, chat, state):
+    """Post and pin the posts from pins.yaml once (again only if the file changes).
+    Posts go in reverse order so the first one in the file ends up on top of the pinned list."""
+    if not PINS_FILE.exists():
+        return
+    raw = PINS_FILE.read_text("utf-8")
+    digest = hashlib.sha1(raw.encode("utf-8")).hexdigest()[:12]
+    if state.get("pins_version") == digest:
+        return
+    pins = (yaml.safe_load(raw) or {}).get("pins") or []
+    base = f"https://api.telegram.org/bot{token}"
+    for text in reversed(pins):
+        text = text.strip()
+        if visible_len(text) <= 1024:
+            mid = tg_send(token, chat, text, None, state, silent=True)  # with the channel banner
+        else:
+            r = session.post(f"{base}/sendMessage", timeout=30, data={
+                "chat_id": chat, "text": text, "parse_mode": "HTML", "disable_notification": "true",
+                "link_preview_options": json.dumps({"is_disabled": True})})
+            if not r.ok:
+                raise RuntimeError(f"pin post failed: {r.text[:200]}")
+            mid = r.json()["result"]["message_id"]
+        r = session.post(f"{base}/pinChatMessage", timeout=20,
+                         data={"chat_id": chat, "message_id": mid, "disable_notification": "true"})
+        log(f"pinned post {mid}: {'ok' if r.ok else r.text[:150]}")
+        time.sleep(2)
+    state["pins_version"] = digest
+    save_state(state)
+
+
 # ---------------------------------------------------------------- main loop
 def run_once(dry_run=False):
     cfg = yaml.safe_load(CONFIG_FILE.read_text("utf-8"))
@@ -575,6 +609,11 @@ def run_once(dry_run=False):
             save_state(state)
         except Exception as e:  # noqa: BLE001
             log("join requests:", e)
+    if token and chat and not dry_run:
+        try:
+            publish_pins(token, chat, state)
+        except Exception as e:  # noqa: BLE001
+            log("pins:", e)
     first_run = not state["seen"]
     seen = set(state["seen"])
     kw_re = re.compile(cfg["keywords_regex"], re.I)
