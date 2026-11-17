@@ -2839,7 +2839,19 @@
 "7e2cb4270a7e54e8",
 "bf89d9c98d538d7d",
 "1d8ca01d2812dd03",
-"4267811f3ed7835b"
+"4267811f3ed7835b",
+"0569a500e6a0b515",
+"fd58bbc09b4f6cef",
+"058380dcba8343ea",
+"b55d9ac113bd9497",
+"e90a16a2a9c7f457",
+"2802eea358592aa7",
+"27b30a1338e38084",
+"a72530abf12536ff",
+"86be90dbdcae934d",
+"85111ac534e6d351",
+"ac8af24c6035ec38",
+"e33c01371231fd00"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -3709,6 +3721,103 @@
 "номин",
 "sony",
 "остал"
+]
+},
+{
+"ts": 1794955289.894183,
+"title": "Аналитики раскрыли успешные продажи ретро-RPG Queen's Domain и карточной Slay the Spire 2",
+"url": "https://www.playground.ru/queens_domain/news/analitiki_raskryli_uspeshnye_prodazhi_retro_rpg_queens_domain_i_kartochnoj_slay_the_spire_2-1891624#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/05HSoODjK-tW5s_6wdlVhw.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"rpg",
+"queen",
+"domai",
+"slay",
+"прода",
+"успеш",
+"spire",
+"анали",
+"карто",
+"раскр",
+"ретро"
+]
+},
+{
+"ts": 1794955293.0760555,
+"title": "Кроссоверы GTA 6 уже начинаются, поскольку в игре AAA 2026 года представлено бесплатное обновление контента",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUWNHN1FCUkhlTWFjZ1cyUDZ3d1BxS1NqZEhudWdLUWdOaW5sU3pCM1ZZdzRfRkRyQmMtZjk5WkNRM3NTdndLd2tVaW1BdlkzczNzMVRhZFlqQmFDano3WThOMVlGQzdqZVlQV3hHOTBER0xiQ2thX1Q0aDVPZVNGQTA4dnN3dXNl?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "GAMINGbible",
+"score": 3,
+"kind": "news",
+"words": [
+"предс",
+"конте",
+"беспл",
+"игре",
+"обнов",
+"2026",
+"кросс",
+"aaa",
+"года",
+"поско",
+"начин"
+]
+},
+{
+"ts": 1794955296.808835,
+"title": "Вы можете выиграть бесплатную игру Devolver Digital, если удалите GTA 6.",
+"url": "https://www.videogameschronicle.com/news/you-can-win-a-free-devolver-digital-game-if-you-delete-gta-6/",
+"tags": [
+"новости"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/GTA-Volvy.jpg",
+"source": "VGC",
+"score": 1,
+"kind": "news",
+"words": [
+"игру",
+"выигр",
+"беспл",
+"удали",
+"если",
+"может",
+"digit",
+"devol"
+]
+},
+{
+"ts": 1794955299.9957583,
+"title": "GTA 6 и Nike Air Force 1 Трэвиса Скотта выйдут с двумя разными шансами на покупку [ФОТО]",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1gzWHVWUzdidWQyY294dFh5MzJLWXY5QUlnc19kVkVSVWFZSVRFbV8zUzY0MHpXV0dkV0xWY3hqNktvVWdvM2hRVDNwaWU5b1B2SnNXV2hQQU8zNzdCYlZPTFhDaW50NnlHNTFQZUNtY1hHV3dJZDg4R1JYREJqRlJzQ2NjUUNvMVkyMkp4bnBVb2JIb2VGZ3FoNndUUktXdUpHYjZ4Yw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "WWD",
+"score": 0,
+"kind": "news",
+"words": [
+"скотт",
+"шанса",
+"трэви",
+"выйду",
+"nike",
+"двумя",
+"покуп",
+"фото",
+"force",
+"разны",
+"air"
 ]
 }
 ],
