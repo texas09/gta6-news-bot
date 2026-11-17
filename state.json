@@ -2710,7 +2710,19 @@
 "afdf3ac8dda2628d",
 "c2a291fd1371a042",
 "c2a291fd1371a042",
-"b1f17d591eafb2aa"
+"b1f17d591eafb2aa",
+"88159d7f320d9dce",
+"141c055402836f36",
+"ac90ffae5cb40bc1",
+"2fac891b27faba4d",
+"59447dc4ea9e202d",
+"eff7181b1d8534bd",
+"b704b7808e0c884c",
+"7aa1f55b5f1d064c",
+"6df38268064a25e6",
+"09610721054df037",
+"c29f2d7ce414c51a",
+"2245d748fb49c986"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -3136,6 +3148,96 @@
 "счет",
 "восем",
 "лидир"
+]
+},
+{
+"ts": 1794946956.2395496,
+"title": "Этот набор клавишных колпачков в стиле GTA 6 немного облегчит ожидание версии для ПК",
+"url": "https://www.gamespot.com/articles/this-gta-6-inspired-keycap-set-will-make-the-wait-for-a-pc-version-slightly-easier/",
+"tags": [
+"новости"
+],
+"img": "https://www.gamespot.com/wp-content/uploads/2026/11/W1AT_CloseUp_NeonVice-withoutNovelties_Edited_81fbc700-72cd-4e5f-99e7-3106364ba0fe.jpg?w=300",
+"source": "GameSpot",
+"score": 1,
+"kind": "news",
+"words": [
+"стиле",
+"этот",
+"немно",
+"набор",
+"колпа",
+"ожида",
+"облег",
+"клави",
+"верси"
+]
+},
+{
+"ts": 1794946959.4070501,
+"title": "Энтузиасты создали инструмент, позволяющий увеличить фреймрейт GTA VI на консолях с 30 до 120 fps",
+"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUhpOGxpSnlFMEJjS1pYbVoyMU5fTUh1bFRtZTNIYTZ5WGhFV2VMUnZPWmlGVEIwVk4wTmpUTml1azZ3SW9CMEg5RDZ4ZGVMeUwxV2h0aC16ZzdQZ183NDlTTUVqWjAxQUNJTTQxVmhCakxjSmJMaUltRWlKUG4xaFhrYmZHN2JHd1F6MVlRMTgteGdKc3hzWkd1Q0VHT1BaeEhJMWRXbGxVc2vSAbABQVVfeXFMTnA2NjE1VGhJUHRPaFpxQldHckdHTjFRTURVLS1jMjdaYnpUMm4weGg0cGgxaDFKcHEtdjlaVlZGcnJOTU9BQm1DR1FzcWZQUnBMV2w0WkJ3aG1JRUZpN0ozUFFLUUhhSjBnMlIySEM4OHFaRHBoTjU4cXY2YVRFX0R3VjYxOHMwUk9LU1Y4dUU1ejZhYXVMUXRDbllCTGRiNW42NmU4clNNdHVHSEFYTUc?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "Клуб DNS",
+"score": 2,
+"kind": "news",
+"words": [
+"120",
+"созда",
+"позво",
+"инстр",
+"увели",
+"фрейм",
+"энтуз",
+"fps",
+"консо"
+]
+},
+{
+"ts": 1794946963.7112012,
+"title": "Это одни из самых громких оскорблений на Game Awards 2026",
+"url": "https://www.gamespot.com/articles/these-are-some-of-the-biggest-snubs-at-the-game-awards-2026/",
+"tags": [
+"новости"
+],
+"img": "https://www.gamespot.com/wp-content/uploads/2026/11/tbod-image.jpg?w=300",
+"source": "GameSpot",
+"score": 1,
+"kind": "news",
+"words": [
+"одни",
+"game",
+"2026",
+"громк",
+"оскор",
+"самых",
+"award"
+]
+},
+{
+"ts": 1794946967.587825,
+"title": "Вы можете проголосовать за GTA 6, чтобы выиграть GOTY, прежде чем обзоры выровняются.",
+"url": "https://www.videogameschronicle.com/news/gta-6-reviews-vote/",
+"tags": [
+"новости"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/gta-grand-theft-auto-6-pic09.jpg",
+"source": "VGC",
+"score": 1,
+"kind": "news",
+"words": [
+"может",
+"чем",
+"выигр",
+"goty",
+"обзор",
+"чтобы",
+"выров",
+"прого",
+"прежд"
 ]
 }
 ],
