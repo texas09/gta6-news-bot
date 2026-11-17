@@ -597,6 +597,52 @@ def publish_pins(token, chat, state):
     save_state(state)
 
 
+# ---------------------------------------------------------------- short videos
+def channel_owner_and_link(token, chat):
+    base = f"https://api.telegram.org/bot{token}"
+    admins = session.get(f"{base}/getChatAdministrators", params={"chat_id": chat}, timeout=20).json()
+    owner = next((a["user"]["id"] for a in admins.get("result", []) if a.get("status") == "creator"), None)
+    info = session.get(f"{base}/getChat", params={"chat_id": chat}, timeout=20).json().get("result", {})
+    link = f"https://t.me/{info['username']}" if info.get("username") else ""
+    return owner, link
+
+
+def send_daily_short(token, chat, state, cfg):
+    """Render «3 главные новости за день» and DM it to the channel owner with a ready-made description."""
+    sc = cfg.get("shorts", {})
+    now_msk = datetime.now(MSK)
+    today = now_msk.date()
+    if not sc.get("enabled") or now_msk.hour < sc.get("hour_msk", 19) or state.get("short_date") == today.isoformat():
+        return
+    posts = [p for p in state.get("posted", []) if p.get("kind") != "stream"
+             and datetime.fromtimestamp(p["ts"], MSK).date() == today]
+    if len(posts) < 3:
+        return
+    top = sorted(posts, key=lambda p: (bool(p.get("img")), p["score"], p["ts"]), reverse=True)[:3]
+    owner, link = channel_owner_and_link(token, chat)
+    base = f"https://api.telegram.org/bot{token}"
+    if not owner or not session.post(f"{base}/sendChatAction", timeout=20,
+                                     data={"chat_id": owner, "action": "upload_video"}).ok:
+        log("shorts: can't message the channel owner — open the bot in Telegram and press Start")
+        return
+    import shorts  # heavy imports only when needed
+    items = [{"title": p["title"], "source": p.get("source", ""),
+              "img": p.get("img") or find_image({"url": p.get("url", ""), "thumb": ""})} for p in top]
+    out = ROOT / "short.mp4"
+    shorts.render_short(items, today, out)
+    with open(out, "rb") as fh:
+        r = session.post(f"{base}/sendVideo", timeout=120, files={"video": ("gta6_short.mp4", fh, "video/mp4")},
+                         data={"chat_id": owner, "width": 1080, "height": 1920, "supports_streaming": "true",
+                               "caption": "🎬 Ролик дня для TikTok / Shorts / Reels. Описание — следующим сообщением."})
+    out.unlink(missing_ok=True)
+    if not r.ok:
+        raise RuntimeError(f"sendVideo failed: {r.text[:200]}")
+    session.post(f"{base}/sendMessage", timeout=20, data={"chat_id": owner,
+                 "text": shorts.caption(items, today, link), "link_preview_options": json.dumps({"is_disabled": True})})
+    state["short_date"] = today.isoformat()
+    log("Daily short sent to the channel owner.")
+
+
 # ---------------------------------------------------------------- main loop
 def run_once(dry_run=False):
     cfg = yaml.safe_load(CONFIG_FILE.read_text("utf-8"))
@@ -717,6 +763,7 @@ def run_once(dry_run=False):
         state["seen"] += it["_keys"]
         title = it.get("title_ru") or it["title"]
         state["posted"].append({"ts": time.time(), "title": title[:200], "url": it["url"], "tags": it["_tags"],
+                                "img": photo, "source": it["source"],
                                 "score": it["_score"], "kind": it["kind"], "words": list(words(title))})
         posted += 1
         time.sleep(cfg.get("pause_between_posts", 3))
@@ -740,6 +787,11 @@ def run_once(dry_run=False):
                 log("  digest failed:", e)
         elif not dry_run:
             state["digest_date"] = now_msk.date().isoformat()  # quiet day: nothing to digest
+    if not dry_run and token and chat:
+        try:
+            send_daily_short(token, chat, state, cfg)
+        except Exception as e:  # noqa: BLE001
+            log("shorts:", e)
     if not dry_run:
         save_state(state)
 
