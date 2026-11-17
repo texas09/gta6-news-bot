@@ -2683,7 +2683,16 @@
 "8e7004751a3af1ef",
 "ae97f52a20809859",
 "abffbf7aefe1dd36",
-"c82c74b0dd26ccd6"
+"c82c74b0dd26ccd6",
+"811d591a41ff39f1",
+"7b4d073cd276d984",
+"d5ccc5c169a74e04",
+"4741bac0df44f65d",
+"45438f4edd7615d7",
+"8142149f5ea78d8b",
+"cd80e05dd5869641",
+"bbb99be25f07600a",
+"2a4fb9df527d91c7"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -2959,6 +2968,30 @@
 "words": [
 "санто",
 "лос"
+]
+},
+{
+"ts": 1794943921.1454346,
+"title": "GTA VI на релизе получит 180 FPS благодаря DLSS 4.5 и нейронному рендерингу DLSS 5 на ПК с RTX 5090",
+"url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaDdsOFRDRWF3YnI0ejBWWkVSSVBpWnZ5OGJ5UnF6RVUyQjRvcEZHV1VfOEVoelExU0lfSnhOOHhuSkREbHZuRDk1WWJWRVNjWTZaRDk0eFRTa3ctNHc3a00zRG5GTDRvazlqWUhSMFhBUlNqcC1FdG5IMDNRVFdRSDFCLTVBcTBCODNBT3JLS2JnQWF2cWlXd1dNNHRrcmZVZDBLY0c4LUdfck1YRXRQLXlzVGJSWndRWlhlOFN1TFE2bzBxQ05yck5lTQ?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "GameGPU",
+"score": 2,
+"kind": "news",
+"words": [
+"fps",
+"rtx",
+"ренде",
+"5090",
+"получ",
+"dlss",
+"нейро",
+"релиз",
+"180",
+"благо"
 ]
 }
 ],
