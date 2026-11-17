@@ -477,7 +477,7 @@ def normalize_chat(raw):
 
 
 # ---------------------------------------------------------------- join requests
-def approve_join_requests(token, cfg, state, wait=0):
+def approve_join_requests(token, cfg, state, wait=0, chat=None):
     """Approve pending join requests to the channel. `wait` > 0 = long-poll that many seconds."""
     jcfg = cfg.get("join_requests", {})
     if not jcfg.get("auto_approve", True):
@@ -485,11 +485,18 @@ def approve_join_requests(token, cfg, state, wait=0):
     base = f"https://api.telegram.org/bot{token}"
     r = session.get(f"{base}/getUpdates", timeout=wait + 20, params={
         "offset": state.get("tg_offset", 0), "timeout": wait,
-        "allowed_updates": json.dumps(["chat_join_request"])})
+        "allowed_updates": json.dumps(["chat_join_request", "message"])})
     r.raise_for_status()
     approved = 0
     for u in r.json().get("result", []):
         state["tg_offset"] = u["update_id"] + 1
+        msg = u.get("message")
+        if msg and chat:
+            try:
+                handle_owner_message(token, chat, state, msg)
+            except Exception as e:  # noqa: BLE001
+                log("owner message:", e)
+            continue
         req = u.get("chat_join_request")
         if not req:
             continue
@@ -597,6 +604,149 @@ def publish_pins(token, chat, state):
     save_state(state)
 
 
+# ---------------------------------------------------------------- video link posts (YouTube / TikTok)
+URL_RE = re.compile(r"https?://\S+")
+
+
+def send_link_post(token, chat, url, text, silent=True):
+    """Post whose preview is the video itself: YouTube links play right inside Telegram."""
+    r = session.post(f"https://api.telegram.org/bot{token}/sendMessage", timeout=30, data={
+        "chat_id": chat, "text": text, "parse_mode": "HTML", "disable_notification": str(silent).lower(),
+        "link_preview_options": json.dumps({"url": url, "prefer_large_media": True, "show_above_text": True})})
+    if not r.ok:
+        raise RuntimeError(f"Telegram error {r.status_code}: {r.text[:200]}")
+    return r.json()["result"]["message_id"]
+
+
+def owner_id(token, chat, state):
+    if not state.get("owner_id"):
+        admins = session.get(f"https://api.telegram.org/bot{token}/getChatAdministrators",
+                             params={"chat_id": chat}, timeout=20).json()
+        state["owner_id"] = next((a["user"]["id"] for a in admins.get("result", [])
+                                  if a.get("status") == "creator"), None)
+    return state["owner_id"]
+
+
+def handle_owner_message(token, chat, state, msg):
+    """The channel owner sends the bot a video link (+ optional description) -> it goes to the channel."""
+    sender = msg.get("from", {}).get("id")
+    if msg.get("chat", {}).get("type") != "private" or sender != owner_id(token, chat, state):
+        return
+    text = msg.get("text") or msg.get("caption") or ""
+    base = f"https://api.telegram.org/bot{token}"
+    m = URL_RE.search(text)
+    if not m:
+        if text.startswith("/start") or text.startswith("/help"):
+            session.post(f"{base}/sendMessage", timeout=20, data={"chat_id": sender, "text":
+                         "Пришлите ссылку на видео (TikTok, YouTube, Shorts) и, если хотите, описание "
+                         "в том же сообщении — я опубликую его в канале в течение ~10 минут."})
+        return
+    url = m.group(0).rstrip(").,")
+    desc = (text[:m.start()] + text[m.end():]).strip()
+    platform = ("TikTok" if "tiktok.com" in url else "YouTube" if re.search(r"youtu\.?be", url) else "видео")
+    body = [f"🔥 <b>{html.escape(desc, quote=False)}</b>" if desc else "🔥 <b>Видео дня по GTA 6</b>",
+            f'▶️ <a href="{html.escape(url)}">Смотреть в {platform}</a>', "#GTA6 #видео"]
+    mid = send_link_post(token, chat, url, "\n\n".join(body), silent=True)
+    session.post(f"{base}/sendMessage", timeout=20, data={"chat_id": sender, "text": f"✅ Опубликовано в канале"})
+    log(f"owner link posted to channel: message {mid}")
+
+
+def fmt_views(n):
+    if n >= 1_000_000:
+        return f"{n / 1_000_000:.1f}".rstrip("0").rstrip(".").replace(".", ",") + " млн"
+    if n >= 1000:
+        return f"{n // 1000} тыс."
+    return str(n)
+
+
+def iso_duration_s(d):
+    m = re.fullmatch(r"P(?:(\d+)D)?T?(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", d or "")
+    if not m:
+        return 0
+    days, hrs, mins, secs = (int(x or 0) for x in m.groups())
+    return days * 86400 + hrs * 3600 + mins * 60 + secs
+
+
+def post_viral_youtube(token, chat, state, cfg, dry_run=False):
+    """Find GTA 6 videos that are blowing up on YouTube and post the best as playable links."""
+    vc = cfg.get("viral", {})
+    key = os.environ.get("YOUTUBE_API_KEY")
+    if not vc.get("enabled") or not key:
+        return
+    now = time.time()
+    # YouTube API quota: each search costs 100 of 10 000 daily units — search every N minutes only
+    if not dry_run and now - state.get("viral_checked", 0) < vc.get("check_every_minutes", 120) * 60:
+        return
+    state["viral_checked"] = now
+    posted_today = [t for t in state.get("viral_ts", []) if t > now - 86400]
+    budget = vc.get("max_per_day", 4) - len(posted_today)
+    if budget <= 0:
+        return
+    since = (datetime.now(timezone.utc) - timedelta(hours=vc.get("window_hours", 48))).strftime("%Y-%m-%dT%H:%M:%SZ")
+    api = "https://www.googleapis.com/youtube/v3"
+    ids = []
+    for q, lang in vc.get("queries", [["GTA 6|GTA VI", "en"], ["ГТА 6|GTA 6", "ru"]]):
+        r = session.get(f"{api}/search", timeout=20, params={
+            "key": key, "part": "id", "type": "video", "q": q, "order": "viewCount", "maxResults": 25,
+            "publishedAfter": since, "relevanceLanguage": lang})
+        if not r.ok:
+            raise RuntimeError(f"YouTube search {r.status_code}: {r.text[:200]}")
+        ids += [i["id"]["videoId"] for i in r.json().get("items", [])]
+    ids = list(dict.fromkeys(ids))
+    if not ids:
+        return
+    r = session.get(f"{api}/videos", timeout=20, params={
+        "key": key, "part": "snippet,statistics,contentDetails", "id": ",".join(ids[:50])})
+    r.raise_for_status()
+    kw_re = re.compile(cfg["keywords_regex"], re.I)
+    skip_channels = {c.lower() for c in vc.get("skip_channels", [])}
+    seen = set(state["seen"])
+    cands = []
+    for v in r.json().get("items", []):
+        sn, st = v["snippet"], v.get("statistics", {})
+        views = int(st.get("viewCount", 0))
+        age_h = max(1.0, (datetime.now(timezone.utc) - parse_date(sn["publishedAt"])).total_seconds() / 3600)
+        key_id = h(f"yt:{v['id']}")
+        if key_id in seen or views < vc.get("min_views", 100_000) or sn["channelTitle"].lower() in skip_channels:
+            continue
+        if not kw_re.search(f"{sn['title']} {sn.get('description', '')[:300]}"):
+            continue
+        if sn.get("liveBroadcastContent") != "none":
+            continue
+        cands.append({"id": v["id"], "title": html.unescape(sn["title"]), "channel": sn["channelTitle"],
+                      "views": views, "age_h": age_h, "speed": views / age_h, "key": key_id,
+                      "short": iso_duration_s(v.get("contentDetails", {}).get("duration")) <= 60})
+    cands.sort(key=lambda c: c["speed"], reverse=True)
+    recent_titles = [p["words"] for p in state.get("posted", []) if p["ts"] > now - 86400]
+    tr = cfg.get("translate", {})
+    for c in cands[:budget]:
+        title = (translate(c["title"], tr.get("target", "ru")) if tr.get("enabled") else None) or c["title"]
+        if is_similar(title, recent_titles, cfg.get("filters", {}).get("similar_threshold", 0.6)):
+            state["seen"].append(c["key"])
+            continue
+        url = (f"https://youtube.com/shorts/{c['id']}" if c["short"] else f"https://youtu.be/{c['id']}")
+        hours = int(c["age_h"])
+        when = f"за {hours} ч" if hours < 48 else f"за {hours // 24} дн"
+        text = "\n\n".join([
+            f"🔥 <b>Вирусное видео: {html.escape(title, quote=False)}</b>",
+            f"👀 {fmt_views(c['views'])} просмотров {when} · 📺 {html.escape(c['channel'], quote=False)}",
+            f'▶️ <a href="{url}">Смотреть на YouTube</a>',
+            "#GTA6 #видео #вирусное"])
+        if dry_run:
+            print("-" * 60, "\n" + text)
+            continue
+        send_link_post(token, chat, url, text, silent=True)
+        state["seen"].append(c["key"])
+        state.setdefault("viral_ts", []).append(time.time())
+        state.setdefault("posted", []).append({"ts": time.time(), "title": title[:200], "url": url,
+                                               "tags": ["видео"], "score": 2, "kind": "viral", "img": None,
+                                               "source": c["channel"], "words": list(words(title))})
+        recent_titles.append(list(words(title)))
+        log(f"viral video posted: {c['views']} views, {c['channel']}")
+        time.sleep(3)
+    state["viral_ts"] = [t for t in state.get("viral_ts", []) if t > now - 86400]
+
+
 # ---------------------------------------------------------------- short videos
 def channel_owner_and_link(token, chat):
     base = f"https://api.telegram.org/bot{token}"
@@ -651,7 +801,7 @@ def run_once(dry_run=False):
     chat = normalize_chat(str(cfg.get("channel") or "") or os.environ.get("TELEGRAM_CHANNEL"))
     if token and not dry_run:
         try:
-            approve_join_requests(token, cfg, state)
+            approve_join_requests(token, cfg, state, chat=chat)
             save_state(state)
         except Exception as e:  # noqa: BLE001
             log("join requests:", e)
@@ -787,6 +937,10 @@ def run_once(dry_run=False):
                 log("  digest failed:", e)
         elif not dry_run:
             state["digest_date"] = now_msk.date().isoformat()  # quiet day: nothing to digest
+    try:
+        post_viral_youtube(token, chat, state, cfg, dry_run)
+    except Exception as e:  # noqa: BLE001
+        log("viral:", e)
     if not dry_run and token and chat:
         try:
             send_daily_short(token, chat, state, cfg)
@@ -820,7 +974,9 @@ def main():
             try:
                 cfg = yaml.safe_load(CONFIG_FILE.read_text("utf-8"))
                 state = load_state()
-                approve_join_requests(token, cfg, state, wait=int(min(50, max(1, until - time.time()))))
+                approve_join_requests(token, cfg, state, wait=int(min(50, max(1, until - time.time()))),
+                                      chat=normalize_chat(str(cfg.get("channel") or "")
+                                                          or os.environ.get("TELEGRAM_CHANNEL")))
                 save_state(state)
             except Exception as e:  # noqa: BLE001
                 log("join requests:", e)

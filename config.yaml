@@ -122,3 +122,17 @@ join_requests:
 shorts:
   enabled: true
   hour_msk: 19
+
+# Вирусные видео с YouTube: бот публикует ссылку, ролик проигрывается прямо в Telegram.
+# Нужен секрет YOUTUBE_API_KEY. Квота API — 10 000 единиц в сутки, один поиск = 100,
+# поэтому проверяем раз в 2 часа (2 запроса × 12 раз = 2 400 единиц).
+viral:
+  enabled: true
+  check_every_minutes: 120
+  max_per_day: 4
+  min_views: 100000          # минимум просмотров
+  window_hours: 48           # ролики не старше
+  queries:                   # [запрос, язык]
+    - ["GTA 6|GTA VI", "en"]
+    - ["ГТА 6|GTA 6", "ru"]
+  skip_channels: ["Rockstar Games"]   # официальное и так публикуется
