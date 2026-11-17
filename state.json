@@ -2749,7 +2749,37 @@
 "f977764fb5208fe5",
 "bd994795198e845f",
 "8e59f1cf1d8c7bd6",
-"fb7e70f419f76fb6"
+"fb7e70f419f76fb6",
+"a14c8ad735d55026",
+"c9edda5ff17dfcb0",
+"b94e513fc2a96fd1",
+"914328edfc00f673",
+"4bee49d1c96e2084",
+"6e72f77d29eb4ef0",
+"7b9b850eaf096fad",
+"3304d83dd0b97f0e",
+"6ec062104847eeb1",
+"282337ed888641eb",
+"440c3e772d0400a7",
+"4d47a6832380ac81",
+"5f5f664a5a00d3a6",
+"6ead0ceb38a79b53",
+"14a7008e2144b693",
+"25664c13b041cc27",
+"9d2f0254345d7b6a",
+"9cafa3f6025755a3",
+"30cd0465b40fe286",
+"ff489d7dcdcbb704",
+"494c2da6096f621d",
+"6e518be6abbe7174",
+"ce2d50cca5bb79d6",
+"8bac855fbd5d5227",
+"7dab27981d84f47c",
+"eb9eabf379546e58",
+"59a362a29b114948",
+"f91d386400b95e37",
+"3f96ffd1647f7bbd",
+"a6ffcef4f4b99df5"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -3403,6 +3433,88 @@
 "потря",
 "heat",
 "суд"
+]
+},
+{
+"ts": 1794951116.7666483,
+"title": "Главное за день: GTA 6 на TGA 2026, большой сбой Рунета, трейлер Exodus",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlR6RHp2OTMxOURMUWctYmxrTmF0Ump3Q0NGbm9tSFZDWU1fZ3kzYmo5XzBuLUJyaHdDQXhzWXBYV1BIbVhzTnl6ZzFOTkNZMDRjUm84a0xxTHpqY1o5YnJ4RU1fdzJSVENPR2hKc1VIaU5ZaDlHckc3ZzBQV2VpUktVNUxybXh6ZDNMUlkxQ2R0b2hLVFVZV0NjMGpyd2xqMW54MWVVN1pQMXpfR0pBY3BTeEtWQQ?oc=5",
+"tags": [
+"трейлер"
+],
+"img": null,
+"source": "VK Play",
+"score": 4,
+"kind": "news",
+"words": [
+"2026",
+"сбой",
+"трейл",
+"exodu",
+"tga",
+"рунет",
+"больш",
+"день",
+"главн"
+]
+},
+{
+"ts": 1794951119.9228432,
+"title": "30 FPS для GTA VI — это норм или позор?",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQzBDYUUzREstdUUyYzFCMVBNVXRneTYzVWQ4MmVFZGVoTzR3S3N3Z1YxUEpoRnBvT0E3N2NGMF9JMWdIQUViUGlRcXFMTW1yUTEyWGVldk5WTExIRDNqaG42QmtOblBkSnMyXzdPR0RFNU5JanU1R3NOZVRaQjdSMW5qOTl0V3JLSnc?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "Mobile-review.com",
+"score": 2,
+"kind": "news",
+"words": [
+"fps",
+"позор",
+"норм"
+]
+},
+{
+"ts": 1794951123.085684,
+"title": "GTA VI на Xbox Series X и S получит оптимальные настройки изображения для 30 FPS",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2U0dVBWZFgzZnZtaW9ZeU84U201ZUllVzhOVFBSSXYzLTU0dzZNQi1SNU04UjVWZVBUbi0tdTJYeVBDV2E4M3RuLW85aDhXRFlYWFFENmtVRWZkOThqZjJHVTQ4bVkySkpKd1BrdkVPNEwyX3p2NGV1Z2hveExtWHM4UkUtUVpMNjIyclFjYmtqVEllRUF3VXM4Y2l2NFJJX1dOLUNBYWRDbExySU04WVpKOA?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "GameGPU",
+"score": 2,
+"kind": "news",
+"words": [
+"оптим",
+"serie",
+"изобр",
+"fps",
+"настр",
+"xbox",
+"получ"
+]
+},
+{
+"ts": 1794951132.2540736,
+"title": "Актер озвучки GTA 4 предсказал оценку GTA 6: игра получит от 94 до 96 баллов",
+"url": "https://www.playground.ru/gta_6/news/akter_ozvuchki_gta_4_predskazal_otsenku_gta_6_igra_poluchit_ot_94_do_96_ballov-1891622#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/nzpPA4twbZSta1SvMLokEA.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"озвуч",
+"предс",
+"оценк",
+"актер",
+"игра",
+"балло",
+"получ"
 ]
 }
 ],
