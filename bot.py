@@ -120,6 +120,16 @@ def parse_feed(xml_bytes):
                     and re.search(r"\.(jpe?g|png|webp)|ytimg", c.get("url", "")):
                 thumb = c.get("url")
                 break
+        if not thumb:
+            for c in el:
+                if local(c.tag) == "enclosure" and (c.get("type", "").startswith("image")
+                                                    or re.search(r"\.(jpe?g|png|webp)", c.get("url", ""))):
+                    thumb = c.get("url", "")
+                    break
+        if not thumb:
+            raw = text_of(el, "encoded", "description", "summary", "content")
+            m = re.search(r'<img[^>]+src=["\'](https?://[^"\']+)', html.unescape(raw))
+            thumb = m.group(1) if m else ""
         items.append({
             "id": guid,
             "title": strip_html(text_of(el, "title")),
@@ -344,13 +354,60 @@ def render(it, cfg):
     return "\n\n".join(p for p in (head, body, link, hashtags) if p)
 
 
+# ---------------------------------------------------------------- images
+BANNER = ROOT / "assets" / "banner.jpg"
+OG_RE = [re.compile(r'<meta[^>]+(?:property|name)=["\'](?:og:image(?::secure_url)?|twitter:image(?::src)?)["\']'
+                    r'[^>]*content=["\']([^"\']+)', re.I),
+         re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]*(?:property|name)=["\']'
+                    r'(?:og:image|twitter:image)["\']', re.I)]
+
+
+def find_image(it):
+    """Picture for a post: feed thumbnail, else the article's og:image, else None (banner is used)."""
+    if it.get("thumb"):
+        # some feeds give tiny previews; ask for the large variant
+        return re.sub(r"(//images\.(?:pushsquare|purexbox|nintendolife)\.com/[^/]+/)small\.jpg", r"\1large.jpg",
+                      it["thumb"])
+    url = it.get("url", "")
+    if not url.startswith("http") or "news.google.com" in url:  # Google News links are JS redirects
+        return None
+    try:
+        r = session.get(url, timeout=12, stream=True)
+        head = r.raw.read(300_000, decode_content=True).decode(r.encoding or "utf-8", "ignore")
+        r.close()
+        for rx in OG_RE:
+            m = rx.search(head)
+            if m:
+                img = html.unescape(m.group(1)).strip()
+                if img.startswith("//"):
+                    img = "https:" + img
+                if img.startswith("http"):
+                    return img
+    except Exception as e:  # noqa: BLE001
+        log(f"  og:image lookup failed for {url[:80]}: {str(e)[:100]}")
+    return None
+
+
 # ---------------------------------------------------------------- telegram
-def tg_send(token, chat, text, photo=None):
+def tg_send(token, chat, text, photo=None, state=None):
+    """Send a post with a picture. Picture fallback chain: given URL -> channel banner -> text only."""
     base = f"https://api.telegram.org/bot{token}"
-    for attempt in range(4):
-        if photo:
+    state = state if state is not None else {}
+    if len(text) > 1024:  # photo captions are limited to 1024 chars
+        text = text[:1000].rsplit("\n", 1)[0]
+    banner = BANNER.exists()
+    photo = photo or ("BANNER" if banner else None)
+    for attempt in range(5):
+        if photo == "BANNER" and not state.get("banner_file_id"):
+            with open(BANNER, "rb") as fh:
+                r = session.post(f"{base}/sendPhoto", timeout=60, files={"photo": fh}, data={
+                    "chat_id": chat, "caption": text, "parse_mode": "HTML"})
+            if r.ok:
+                state["banner_file_id"] = r.json()["result"]["photo"][-1]["file_id"]
+        elif photo:
             r = session.post(f"{base}/sendPhoto", timeout=30, data={
-                "chat_id": chat, "photo": photo, "caption": text[:1024], "parse_mode": "HTML"})
+                "chat_id": chat, "parse_mode": "HTML", "caption": text,
+                "photo": state["banner_file_id"] if photo == "BANNER" else photo})
         else:
             r = session.post(f"{base}/sendMessage", timeout=30, data={
                 "chat_id": chat, "text": text, "parse_mode": "HTML",
@@ -360,8 +417,13 @@ def tg_send(token, chat, text, photo=None):
             log(f"  telegram flood limit, waiting {wait}s")
             time.sleep(wait + 1)
             continue
-        if r.status_code == 400 and photo:  # bad thumbnail — fall back to plain message
-            photo = None
+        if r.status_code == 400 and photo:  # picture rejected: try banner, then text only
+            log(f"  picture rejected ({r.json().get('description', '')[:80]}), falling back")
+            if photo == "BANNER":
+                state.pop("banner_file_id", None)
+                photo = None
+            else:
+                photo = "BANNER" if banner else None
             continue
         if not r.ok:
             raise RuntimeError(f"Telegram error {r.status_code}: {r.text[:300]}")
@@ -451,6 +513,8 @@ def run_once(dry_run=False):
         except Exception as e:  # noqa: BLE001
             log(f"Twitch: {e}")
 
+    # on duplicates prefer direct article links (they have pictures) over Google News redirects
+    items.sort(key=lambda i: "news.google.com" in i.get("url", ""))
     cutoff = datetime.now(timezone.utc) - timedelta(hours=cfg.get("max_age_hours", 48))
     fresh, batch_keys = [], set()
     for it in items:
@@ -483,12 +547,12 @@ def run_once(dry_run=False):
     posted = 0
     for it in fresh[:limit]:
         text = render(it, cfg)
-        photo = it["thumb"] if it["kind"] in ("stream", "video") else None
+        photo = find_image(it)
         if dry_run:
-            print("-" * 60, f"\n[{it['source']}] photo={bool(photo)}\n{text}")
+            print("-" * 60, f"\n[{it['source']}] photo={photo or 'BANNER'}\n{text}")
         else:
             try:
-                tg_send(token, chat, text, photo)
+                tg_send(token, chat, text, photo, state)
             except Exception as e:  # noqa: BLE001
                 log("  send failed:", e)
                 continue

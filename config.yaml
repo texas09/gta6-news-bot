@@ -28,6 +28,14 @@ sources:
     filter: false
     tag: официально
 
+  # --- Прямые ленты сайтов (стоят выше Google: при дубле берётся версия с картинкой) ---
+  - {name: Shazoo,                type: rss, url: 'https://shazoo.ru/feed/rss',                        filter: true}
+  - {name: GoHa.Ru,               type: rss, url: 'https://www.goha.ru/rss/news',                      filter: true}
+  - {name: Чемпионат,             type: rss, url: 'https://www.championat.com/rss/news/cybersport/',   filter: true}
+  - {name: Polygon,               type: rss, url: 'https://www.polygon.com/rss/index.xml',             filter: true}
+  - {name: Push Square,           type: rss, url: 'https://www.pushsquare.com/feeds/latest',           filter: true}
+  - {name: Pure Xbox,             type: rss, url: 'https://www.purexbox.com/feeds/latest',             filter: true}
+
   # --- Агрегаторы новостей ---
   - name: Google Новости
     type: rss
