@@ -2851,12 +2851,21 @@
 "86be90dbdcae934d",
 "85111ac534e6d351",
 "ac8af24c6035ec38",
-"e33c01371231fd00"
+"e33c01371231fd00",
+"71889c9e7ad88736",
+"dc67b3419714d319",
+"263200a800b82db5",
+"4948493b245030fa",
+"7b6f013b6fdaeff7",
+"cf6da383dd9516da",
+"ac55865ce499d94e",
+"3e2eb7beda3ab404",
+"6b740545a3400681"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328262,
+"tg_offset": 706328266,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -3818,6 +3827,27 @@
 "force",
 "разны",
 "air"
+]
+},
+{
+"ts": 1794955868.1798403,
+"title": "Игроки GTA 6 официально получают бесплатную награду стоимостью 70 долларов",
+"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdlV0WFE0OTU0UjBPQ3VhdmZodVdqcUQwN3dGOExlWUx1X0pMUFdlTW9uRUZXejJXems0MzJSOXJMem1ERGNvTDJFY3lyNWVBaVVSdlRwZGZBdkNGY2dPT0o5N0k3azJGNW5hTVRMem5LUnN3OWFBUEFGcGIxTG5QQXIxUQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "ScreenRant",
+"score": 0,
+"kind": "news",
+"words": [
+"беспл",
+"награ",
+"долла",
+"стоим",
+"получ",
+"игрок",
+"офици"
 ]
 }
 ],
