@@ -3373,7 +3373,13 @@
 "18b4a33e3116c678",
 "5814ed0d8d9f58e0",
 "ab478b4408cae5a1",
-"5ce3e027103aff75"
+"5ce3e027103aff75",
+"898eddb093fea61b",
+"888c969d12c8192f",
+"35edf37432908ff2",
+"764f1a5b2291be05",
+"27525a9e0b867329",
+"ae5cd6bc0b8be823"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -6179,6 +6185,29 @@
 "deser",
 "номин",
 "crims"
+]
+},
+{
+"ts": 1794988913.589213,
+"title": "Sony выпустила официальное предупреждение об обновлении прошивки PS5 и подтвердила требования GTA 6",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXJSZ1NLOFhhUE5fUmdHTjVYcHRlbTRGTjVmUFhxX2Jlbm5EeFYtUFZfT1Nyd1JvQ1dBZU9YSW9tUmNyUU03WGxHZ2NUN3lNSWxfOWxWeVVFX2FIak8tMTl5eTFzaEdmdzkwRm5pVjFmazlTcDF1WEYwbWtma25jd1pkSktFSXZkN0Z3NWR4RXdRck5UMEo1ZUxtbnkxbHZocmZjQWs2VQ?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "IGN",
+"score": 3,
+"kind": "news",
+"words": [
+"sony",
+"ps5",
+"подтв",
+"обнов",
+"требо",
+"проши",
+"преду",
+"выпус",
+"офици"
 ]
 }
 ],
