@@ -4660,7 +4660,49 @@
 "2c31d07d07716f29",
 "c8951eb08394b366",
 "11befe6a8f4c7413",
-"eacebe24aa0f1133"
+"eacebe24aa0f1133",
+"918a5b8daaf2b4f0",
+"c8ea3f8fc21f6b5b",
+"0a9a6355b776ba88",
+"33fd1a4c700098cc",
+"8336a6b4e300ddd1",
+"aa0a95b9f29178ae",
+"d80eb4eea408013c",
+"f618601bab25c537",
+"4946033943d91c89",
+"b5fa02c595f4bc8e",
+"6a12da3ed683efe8",
+"6b32337f3c30a496",
+"fd51d4efe0fb7889",
+"9ec6c92d8a8f288f",
+"dfa3633852b12cca",
+"a2684cfaacaa34c0",
+"61f25eed731f89fc",
+"7b8703860e27bceb",
+"95b0ce44b680019b",
+"926cdcb4cb5cb7ba",
+"278e540dc77baa9f",
+"9e680f20d9498419",
+"c2a38c5b591a91d8",
+"f37420457c5c87e4",
+"e1b64e7c72098578",
+"ffff34be4b8b83f5",
+"b615e6f9fb5d6f91",
+"f9220ead5c576432",
+"7ad8b0cbb8f6f63a",
+"1048a2bd3bd79275",
+"2f2355acf17c29e5",
+"fcc07bd4ea7788b4",
+"696987a95c67150c",
+"dd9c598cd96480e3",
+"a3e35c825b32459d",
+"ff0dd828a312ec9b",
+"f9249fa4a2d11137",
+"f3504dd1cefd7242",
+"f136beeb16bf1775",
+"59dab853def37b7e",
+"1b995dee338bc4f5",
+"e0727137a8fc924e"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -9309,6 +9351,79 @@
 "броне",
 "оружи",
 "коды"
+]
+},
+{
+"ts": 1795022503.3150685,
+"title": "GTA 6: Как продавать продвинутые машины-трекеры",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pTHN2WFk3TG1HMUtyMDV3WF9IMzlXM1M4cVpsNzdGRFFSbkNWeHZ6UGhsa21OX0FoZTJaajFMMFlkZF96WjRhbmhlQXBqR19uY1FLLW52NGlBQ1NOMEJybERVVmM4VW5iYnRJQ3JRYmxoWVFnZlFYNQ?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Cultured Vultures",
+"score": 2,
+"kind": "news",
+"words": [
+"треке",
+"продв",
+"прода",
+"машин"
+]
+},
+{
+"ts": 1795022506.5189471,
+"title": "GTA 6: как быстро путешествовать",
+"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYSml5Skx1ZTZVN0laV1BlOHBTTnVPOFR6YUM5cDFrME9KTmhRZWlXbnpMWHFhMXRhb0o0MkVuaGoxMFNxdkduMnl3UXVPTldJV085OUkwaUZ0THBfZzBLR0VaTnRPZw?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "ScreenRant",
+"score": 2,
+"kind": "news",
+"words": [
+"быстр",
+"путеш"
+]
+},
+{
+"ts": 1795022509.7101889,
+"title": "GTA 6: Как открыть банковский счет",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Vdnd4bmtpYlVSMlFtOTdva29EVVA4OEpZQ1VmLXVVTlc0X0Z6QUk4c3l5ZU9HcGJiM0RIbDZuaHh0XzRQbHktSW5nMkJDQ21fTkN3b2Y2WDFseWdfTUdHbmlYaHBFV0ItVFd5bk9Sbw?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Cultured Vultures",
+"score": 2,
+"kind": "news",
+"words": [
+"счет",
+"банко",
+"откры"
+]
+},
+{
+"ts": 1795022513.191169,
+"title": "Я играл первые 30 минут в GTA 6 на каждой консоли, вот как сравнивается производительность",
+"url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWUxzSGFScExITFE4bHMwbHJSc0FpTWJMWFBnV1JaaUdmMmRoZm1RaVlfQ3dBVldYVm5fQkVwMWljby1vUnFHbWhQbTFvWjBLUnR6N3V1UUFnWFRWdVQ2ZHhkME5fN21HLThXWkItcE9hZWxOd0xYejR5X0hRSjhlNGxTZnk4LTBQa0ZGR3pPbDZtVy0xZTJLd3Z3NkRWRG9wb3k0Q25kNG53YVRSUmNUWnJYV0l1SDNkN21TSGpfYmxUc0Y0Z2xJVzJqQThlVS1LRTF1Ug?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "IGN Nordic",
+"score": 2,
+"kind": "news",
+"words": [
+"сравн",
+"минут",
+"консо",
+"произ",
+"играл",
+"каждо",
+"первы",
+"вот"
 ]
 }
 ],
