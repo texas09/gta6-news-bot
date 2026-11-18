@@ -4225,7 +4225,61 @@
 "3b8a96eca69e91ac",
 "e459cac267123150",
 "62413c551b86afe8",
-"452e7a955a431f12"
+"452e7a955a431f12",
+"9d0f0a49740a154f",
+"9d0f0a49740a154f",
+"edb3c40d5d37cd8f",
+"7afca288a498cfdd",
+"7afca288a498cfdd",
+"b4f59347a5ad1c48",
+"0a2b7c64d4665e91",
+"2f44f31e75651089",
+"ced8a3c50a26f7f2",
+"ee33248b59c41cd2",
+"f855b52989e5cc43",
+"9693c1053c511c9c",
+"d9b1411c0448ef1b",
+"9f18e4592f760bc4",
+"c838eec180fdb020",
+"22aec100a131c596",
+"ac352a8744624218",
+"6ac23cfa668f5eee",
+"d847b07d3d6e09db",
+"5b70702909a74294",
+"6266d7d25b616037",
+"8fc5f163f036546b",
+"43eda0ee1d37896b",
+"9401c160c5734f28",
+"3139ac14475f6739",
+"471aa89c3f33c66f",
+"35b1892589ffdc8d",
+"cb19a3eff2b931f7",
+"8322f9f981a8c3cf",
+"6325c2a6acaa648c",
+"7b039507f14f59dc",
+"c8e295884193f5cf",
+"42cfd1bb314d9a97",
+"eaca2ba14de8ec42",
+"01caa915e5441ec7",
+"e165b5e4cd175502",
+"be62f1fdac846b2e",
+"4b92a38b208d681e",
+"5ce0a0454ebf640e",
+"1da9b94c01dbf774",
+"83fd0b73606d6d15",
+"a832132ba2365c02",
+"324d247e3fff94ba",
+"83c44e29ec02523a",
+"b76f5085953ffa80",
+"a1b1672c669cb7c2",
+"7c1ee6728ff87f17",
+"b027724fe4a59ff2",
+"e4cfddd29bb66af2",
+"64b965104bf143c3",
+"ca57b682066e0b11",
+"9fbff2e8b8097ab9",
+"9b91943f6f85eaa9",
+"2726da8e93d356ec"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -8442,6 +8496,87 @@
 "words": [
 "смени",
 "одежд"
+]
+},
+{
+"ts": 1795014693.1793337,
+"title": "GTA 6: Как разблокировать Vault Radio",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5waHhEd05vVFFzNHh6X1lVMzl0R3BtVWxrZTRIUnd4LWpsSTlncHdBX2xUd0xsaXQ5Z2FQeVJkZm1tcllUWlUxNVFEb1ViTnByVWc3UGU3U3FWaU9oRFJxTE5rOWQ2VXpRVFhTcERB?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Cultured Vultures",
+"score": 2,
+"kind": "news",
+"words": [
+"разбл",
+"vault",
+"radio"
+]
+},
+{
+"ts": 1795014696.3521552,
+"title": "Ограничение GTA 6 лишь 30 FPS — это идеальный баланс, говорят в Rockstar",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3AwUEc5aVU4NmQ1Rm1JR2NCSUhENHRmT0FIenViSGI1VFRSbGlxcTU4dWtoTmJWdHItdWcxUDBpQzFubGNKTnhzU2s0WVVsRVZ6aEg3MnNQWGdYSWZKaF9la0tSb2Z2TEZtX0ozQkFpcGdORl9mYmUxSElyNFJJVUhhczZiWWQ5RnVERmswUnlrODlTRkNUVW15VTJJV09IRXh3Nlc1OWNxLTgyMmc?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "Igromania.ru",
+"score": 2,
+"kind": "news",
+"words": [
+"fps",
+"rocks",
+"балан",
+"огран",
+"идеал",
+"говор",
+"лишь"
+]
+},
+{
+"ts": 1795014700.5200942,
+"title": "GTA 6 наконец-то изменила стандартное управление Rockstar-Game",
+"url": "https://www.gamespot.com/articles/gta-6-finally-changed-the-default-rockstar-game-controls/",
+"tags": [
+"настройки"
+],
+"img": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-28.jpg?w=300",
+"source": "GameSpot",
+"score": 3,
+"kind": "news",
+"words": [
+"након",
+"rocks",
+"game",
+"управ",
+"измен",
+"станд"
+]
+},
+{
+"ts": 1795014703.9483454,
+"title": "Анализ производительности базовой PS5 в GTA 6 показывает «борьбу» за постоянное поддержание 30 FPS",
+"url": "https://www.videogameschronicle.com/news/gta-6-base-ps5-performance-analysis-shows-struggle-to-maintain-30-fps-at-all-times/",
+"tags": [
+"настройки"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/gta-grand-theft-auto-6-pic26.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"fps",
+"базов",
+"подде",
+"посто",
+"анали",
+"борьб",
+"произ",
+"ps5",
+"показ"
 ]
 }
 ],
