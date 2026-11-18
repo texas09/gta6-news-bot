@@ -3454,7 +3454,22 @@
 "02857f227d3a38b8",
 "ed43da69f7aa4f25",
 "4fc2af2a6709386f",
-"dbec73da458ddc88"
+"dbec73da458ddc88",
+"07232c840735f5e2",
+"d9775b493a53b010",
+"66f6be80f81dedbe",
+"8a3379ebe77c96d6",
+"6a13028862e05b7d",
+"02dc8c94c2fbf68d",
+"af290830003add06",
+"af290830003add06",
+"1e9295f999769e04",
+"4ff8aa1a54cb452c",
+"5eb859a864a048ea",
+"26a9d02a8f19ac2f",
+"5f064ca4a00dd47b",
+"ae23e45fd77564f5",
+"aeee1b7a156f1524"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -6504,6 +6519,93 @@
 "майку",
 "подро",
 "miami"
+]
+},
+{
+"ts": 1794993666.2989247,
+"title": "GTA 6: в сеть просочились шесть новых скриншотов, раскрывающих интересные детали",
+"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcUJJS1B5X3FIR1NIb2M5Q1RBUkJ0dzI1bzd4c29wMkJMRF9mMS00Uy1lTjBWdktrT0tvcm1lS1kwRldPWjJrdnozRnRGcEliakNDb1h1cEpYeTZKaVlCMXp0VExHQk5GTG9ZeV9EcUFJc2JGYnFob2ZsLWdXd25ZanprbGdaUWwxdkRQYndnbXZLd1NNTHJXcVA0SlFsMkE5Y01XSzJsUW5MZzg?oc=5",
+"tags": [
+"слухи"
+],
+"img": null,
+"source": "Notebookcheck",
+"score": 1,
+"kind": "news",
+"words": [
+"детал",
+"шесть",
+"раскр",
+"интер",
+"новых",
+"просо",
+"скрин",
+"сеть"
+]
+},
+{
+"ts": 1794993669.4785492,
+"title": "Devolver Digital раздаст новую игру тем, кто удалит предзагрузку GTA 6",
+"url": "https://shazoo.ru/2026/11/18/194251/devolver-digital-razdast-novuiu-igru-tem-kto-udalit-predzagruzku-gta-6",
+"tags": [
+"обновление"
+],
+"img": "https://cdn.shazoo.ru/891933_Me4xyWM_devolver.jpg",
+"source": "Shazoo",
+"score": 4,
+"kind": "news",
+"words": [
+"новую",
+"предз",
+"разда",
+"игру",
+"тем",
+"удали",
+"devol",
+"кто",
+"digit"
+]
+},
+{
+"ts": 1794993672.661495,
+"title": "PlayStation выпустила новое предупреждение об обязательном обновлении перед запуском GTA 6",
+"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdGVYYnBSZ05VM0luVHBRcnJNTTZra05Pd3dsaE5PZE01WF91a2JRUVFBRUpxYTVzWXljWlVsZHJFWEw4dXhxWDZld3VjUGJhZzFUSnhkd0lUalpOcXducmV3QW1OVHJNR1c3RU54S0dkbWI0cWpoTzA3NjJlZzBXYndySEFKSXFIUk94Y0JWbmRtNThDd2g3UU0xTXNvZEhrckkxODZn?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "OpenCritic",
+"score": 3,
+"kind": "news",
+"words": [
+"новое",
+"обяза",
+"перед",
+"запус",
+"plays",
+"выпус",
+"преду",
+"обнов"
+]
+},
+{
+"ts": 1794993675.8511596,
+"title": "Тренер поделился с геймерами советами в день выхода GTA 6",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUS1jVHFXSEFCLXY2aGNzaGlBUkZPMVJHbHNHUGdGQlNLMG1UNlJUcmNhLVhDYVN2Q1hpeTVyT1J6MHFTYWpwSDBEUXZ6OHBOYnZpbk93VFBfN051M2YwWjBsR0lONEhjc3lzbUxpNDlzNm44N3c5TVBMbk5xbTBjZTVuY2t1dVZMVUh2M2VrOGrSAZYBQVVfeXFMT0dWaU55NWdzTXV4cWtxT1pESzJrSE1vcFB2NF80NXFIV1UzR1ZHOXhZdE80dEFyXy1Sc3BZbktjd1VpM2docGJxYXhWUVhDMm9ra1EzdFBYMHlRTTd0UVNUaDY5M2NRNXpSTkZRT1VPTDdnZmp1T3NWMGFvMl9PZG9rR3NNM2Y1bHc0WkczSjBVc3d4bnBR?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "78.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"подел",
+"день",
+"трене",
+"гейме",
+"совет",
+"выход"
 ]
 }
 ],
