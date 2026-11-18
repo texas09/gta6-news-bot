@@ -4438,7 +4438,43 @@
 "b5c37f85392865d3",
 "72ba6c70225e4547",
 "1cad3e922c98aacb",
-"33c41d55331bea8a"
+"33c41d55331bea8a",
+"c7619505c56ad22f",
+"c7619505c56ad22f",
+"ce33ebca2efa0d9c",
+"ec249b5f3e2ef985",
+"146a4de9482d12eb",
+"132cdcb0121526ce",
+"fe3598f2100478aa",
+"ebc3d25bc6571fad",
+"683498a60200bf05",
+"85224a934a2e5798",
+"ae453391f5e5a2f8",
+"8d97af78c9fcbc24",
+"d5a7cc2d3bd4e317",
+"ef09f21bde8c5a1e",
+"12d3a8f220d3f539",
+"c3d9e019634f11e7",
+"c6ba9907e18db06f",
+"8f02f53ac25e144f",
+"ef069ec4d59c5884",
+"74151bb1e36e745c",
+"930de69a0a22576e",
+"c6a28e262755e9a6",
+"d54a83caa714d5b2",
+"a12fef0831d67d6a",
+"a0f2c6ccecd5e22b",
+"28cffe2a9ab4da01",
+"cba3900b91ff0753",
+"2b40a4b886804d68",
+"eeee89fca30e1fd4",
+"1595bc992eba5cf8",
+"e62f38896fec8784",
+"a03617ec2c96994a",
+"dfd0960f0c7b57b1",
+"48e2edd891a2c945",
+"5edff89385244f13",
+"8c401f597d56375e"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -8881,12 +8917,101 @@
 "заста",
 "digit"
 ]
+},
+{
+"ts": 1795018329.5067766,
+"title": "За что ругают GTA VI? Ограничение 30 fps, затянутый сюжет и социальная сатира",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWNQb3VpclpqbXJwXzVBOXh0clUwUUtvZlBXc1RKemwxdDJZbnpQMkc0anFreVZDTC1oQzFJVEdlamNaemxrMnRNdTVqSllka3E1TmpRZG5SXzVjYVdCSTQxZUttX3NSWGZIb3dHMlJqQmVvNkZGNUhxaDU2OU5BXzVUc05oQ3NEcTFfeHhEc1YyRUtUSkJRVnRsWGJ1RzRWRVVscW1KMjhLY2hLdjJHeGRoZ041Zw?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "click-or-die.ru",
+"score": 2,
+"kind": "news",
+"words": [
+"затян",
+"сатир",
+"сюжет",
+"социа",
+"ругаю",
+"огран",
+"fps"
+]
+},
+{
+"ts": 1795018332.7316678,
+"title": "Эксперты сравнили графику и производительность GTA VI на консолях PlayStation 5 и PS5 Pro",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUmRJVnk0dTktTUc4eFBtdW5vc05YNGNSWVNGZVdPT2oxWXd2ak9pWjhjRjVEaFBNUGFieUVvbk1DZ0UtZVJ6UVpzSzhWRnFGay0zTUxyU1d6Zkg1c2FfajAzaFFVYl9oamYzeEZkdDVYZDFZdmp0WDdGOEhRbFJSYkxWZEJJNndlRFNWS3pVT3BQbnpFc3NBY1N3UTl3M1JDNUxUNXVZRXd1WU9JVGhNUGFldGRUck1jSnFZ?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "GameGPU",
+"score": 2,
+"kind": "news",
+"words": [
+"ps5",
+"экспе",
+"графи",
+"произ",
+"консо",
+"сравн",
+"pro",
+"plays"
+]
+},
+{
+"ts": 1795018337.324573,
+"title": "Rockstar заявляет, что PS5 Pro не справится с GTA 6 при 60 кадрах в секунду",
+"url": "https://www.videogameschronicle.com/news/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps/",
+"tags": [
+"настройки"
+],
+"img": "https://www.videogameschronicle.com/files/2026/08/GTA-6.jpeg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"ps5",
+"заявл",
+"кадра",
+"секун",
+"справ",
+"pro",
+"rocks"
+]
+},
+{
+"ts": 1795018341.768694,
+"title": "Базовая производительность GTA 6 на PS5 страдает от «незначительных» и «постоянных» падений частоты кадров, но на PS5 Pro она «непоколебима»",
+"url": "https://www.pushsquare.com/news/2026/11/gta-6-base-ps5-performance-suffers-minor-and-sustained-frame-rate-drops-but-its-unwavering-on-ps5-pro",
+"tags": [
+"настройки"
+],
+"img": "https://images.pushsquare.com/c1bbd6bf78ac4/large.jpg",
+"source": "Push Square",
+"score": 3,
+"kind": "news",
+"words": [
+"ps5",
+"паден",
+"базов",
+"страд",
+"часто",
+"кадро",
+"незна",
+"произ",
+"посто",
+"непок",
+"pro"
+]
 }
 ],
 "digest_date": "2026-11-17",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-18",
-"viral_checked": 1795011089.6738875,
+"viral_checked": 1795018344.768952,
 "viral_ts": [
 1794942693.4130518,
 1794942696.725639,
