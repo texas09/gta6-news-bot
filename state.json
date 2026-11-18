@@ -4828,12 +4828,51 @@
 "b0587c35a255d0fa",
 "1d65bbcc001107db",
 "ce175eda17649287",
-"9bd53e9b9ed43a99"
+"9bd53e9b9ed43a99",
+"4233b65db9985415",
+"4233b65db9985415",
+"3fedec8dcf789081",
+"8fe60487182b4795",
+"f944b80e51da3f54",
+"6006121b46e5fed3",
+"fdd649db5ad89306",
+"fdd649db5ad89306",
+"62416ce27b9f548d",
+"a3f738baa4649118",
+"e5c381662df30f41",
+"39ba567edc603465",
+"32631356994574b2",
+"2e036e1f550670e3",
+"83d031b5baddea7a",
+"62711443b16f7d56",
+"fdb7ce2d94414e4c",
+"8c92744fc1d9cdee",
+"64fb85c9c17aad48",
+"e2270b2ba2f051eb",
+"a5324a7ee02c1539",
+"ea9b8a5b022e29b6",
+"de47d8159f54d58c",
+"7475ce4a63e77bb4",
+"435e11c186621b3e",
+"f5ffafd5a747fcd5",
+"9f7de02c3c1b24f2",
+"c426600b0b341419",
+"89f39264c7ade7c6",
+"5f7687c63cb2f7d6",
+"0cf3be53fd1630bc",
+"ec77dc32668c8867",
+"dd1b101329cecd86",
+"387ce3487493495b",
+"28414a598e5cb0f4",
+"dd26ae1ba1b4a504",
+"31f106af23f2570d",
+"4e1309ae053fa1fc",
+"91ad75dfec268182"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328437,
+"tg_offset": 706328439,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -9591,6 +9630,79 @@
 "живые",
 "запус",
 "откры"
+]
+},
+{
+"ts": 1795025504.31275,
+"title": "Как достичь 6 звезд в GTA 6",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-six-stars/",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/a2EBYfsQCg3Z7cTSiCUoi3-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"звезд",
+"дости"
+]
+},
+{
+"ts": 1795025508.6593351,
+"title": "Как сохранить игру в гта 6",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-save-game/",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/zYTGMKa5Yy92oP6w5igeLb-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"игру",
+"сохра"
+]
+},
+{
+"ts": 1795025512.079097,
+"title": "Расположение военной базы GTA 6: Как попасть на авиабазу Mile Zero",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/nkTuv8W9dvEdx56yb5eLEV-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"базы",
+"авиаб",
+"распо",
+"военн",
+"попас",
+"mile",
+"zero"
+]
+},
+{
+"ts": 1795025517.2502892,
+"title": "Как получить парашют в ГТА 6: Купи, прежде чем лететь",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-parachute-how-to-get/",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/mnt9JkyWF2kKne4zyqEG2n-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"чем",
+"получ",
+"параш",
+"летет",
+"прежд",
+"купи"
 ]
 }
 ],
