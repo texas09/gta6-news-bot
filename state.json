@@ -3349,7 +3349,28 @@
 "43ebf9c07bcea773",
 "5ee09179945ef51d",
 "b7eed5357392afe1",
-"69acd2a90634a25e"
+"69acd2a90634a25e",
+"df5c98dae05278ad",
+"686f89886afbb8ff",
+"7e04a4eb128318ad",
+"a84f1eedf21452bd",
+"a84f1eedf21452bd",
+"d011312a51980268",
+"3618989bb678af07",
+"4b59ef58b4e0146c",
+"7f218d3f0e831e9c",
+"c77ad391b8903e5f",
+"7b1c42a7ead6a87f",
+"044bd048ba864714",
+"f1ffc9e3bafd990b",
+"36af3b31459f930f",
+"4c51075f4af8a0bf",
+"40fa041ffc9e8bb2",
+"94369ea0d937d0ec",
+"2e181bdaa2747dc7",
+"d96b71572d66e0a8",
+"f495b25686c3ed87",
+"18b4a33e3116c678"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -6043,12 +6064,125 @@
 "rocks",
 "award"
 ]
+},
+{
+"ts": 1794987693.3278697,
+"title": "GTA 6: Почему игра только для взрослых, возрастные рейтинги по странам",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOTBTb1FibjhXMFBMam9OUHd0VjNzSGFQZ0pRYmh0bl9qNWl1ZkktRnJXQXQ3a20zdTlVa043T3JJOG1WMkdPWlllaTRsbDdoOGs5TmdTVU9VbWRYYmg1Nm1mX2ZtYUxLcVJlUWdEck1DTWZDOEVKeVVpRnlEZkdDM1Q1NHFxX3JFUXJ6NzJHRkFOa3FwQUp4ZWZtbXFycDZN0gGzAUFVX3lxTE4zQjdzU0thbV9XOC1qR19rckNVUEExd24ySjBBQUdWYlR3M0RlNWQyOUVodkVzX1ZrLWVTV3NZTjRYNkY0S1hLV1BPNzZDN0c0SmJ0QUprX21zRFN0MV9xWVBsRVJuMmpQcUhSMklZbUJkUTNkMTFMcXdfZldYZFNod1h1VWY1REVtX2dCbDAzSnBlRlRYd3J0R3RpUTZnTmRfdEozRGFmZHIwQmZ6dE94aS1Z?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Gulf News",
+"score": 0,
+"kind": "news",
+"words": [
+"возра",
+"игра",
+"почем",
+"тольк",
+"рейти",
+"стран",
+"взрос"
+]
+},
+{
+"ts": 1794987696.5330698,
+"title": "После GTA 6 я хочу, чтобы Rockstar снова делала игры меньшего размера.",
+"url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONnY1ekx5bVNWUUxZMU5PclAyajc4S3czTVdKZnhSV0JJX2txeEEtaWZhd1FnNVRWVVdDOGtfSmtXcEUyMG9MUW1ZaGotMy1RdnhyMHZTam5QTHNYdUJralVtenhpQ0o5d1dxRDNOT1NUUjAxVzUtYUUtbW5VQ2VEUG5YQVFxQW54bUpmSXpRQ215R3Z2X0F5NTlpN3JIdUhHY0ItcnBDaXJuN3lqWnQ3MTRTMDFhR2tnZVl0Q0Rxb1Nmd25JZmpYeg?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Tom's Guide",
+"score": 0,
+"kind": "news",
+"words": [
+"хочу",
+"после",
+"делал",
+"rocks",
+"чтобы",
+"игры",
+"разме",
+"меньш",
+"снова"
+]
+},
+{
+"ts": 1794987699.7658732,
+"title": "GTA 6 Xbox Cloud Time: начало в США по часовому поясу",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RamotS191VFpJUFJFMDg2UlZBTjNRaFdiYTlSTXZzdXVTem9PX2xPWU9vbXZjNW1iRGxsYU5YUGttb3g5Ml9HeXhhamVHN2QzcGltbElCSmdwVWUyalYwZGM3Ml9JZ1hsZjhnRHZCSGhtVDFiUXF6Smk3a0RSdw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "NeoTeo",
+"score": 0,
+"kind": "news",
+"words": [
+"time",
+"cloud",
+"начал",
+"часов",
+"поясу",
+"сша",
+"xbox"
+]
+},
+{
+"ts": 1794987702.971745,
+"title": "«Мамонт» атакует фанатов GTA VI: скамеры предлагают пополнить баланс PlayStation Store через фейковый сервис",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kUXhXdmlHLW8zM05KcklzMlpEZWl2eFZMcVJDTkNhWHhVWUhON1RmMzBoN19CSVhMMElxaUJLNVo1RHctaVZvVlJvcm5IY1BuQ3Rnc19ucEFPRTI2SWQ4RjBEeWxqZEZnTG1J?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "www.f6.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"атаку",
+"plays",
+"серви",
+"попол",
+"фейко",
+"мамон",
+"скаме",
+"store",
+"балан",
+"предл",
+"через",
+"фанат"
+]
+},
+{
+"ts": 1794987706.1848881,
+"title": "Номинация GTA 6 на GOTY вызвала дебаты по поводу пренебрежения Crimson Desert",
+"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yaHRsNWM5RzZtOWhkek81RHQzeGpZdmJqVGQtdnlRNmR2U0pRaHZuRzFGbWtxUFhLRWF5a2Y3Mkw0MHBjRzNVU3BRaHJpLUVFTi0yWkdhbFRPWkJBcDlZdjI1WEdrYnUydXB0SWlpTngwb05HcFRj?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "ThePCEnthusiast",
+"score": 0,
+"kind": "news",
+"words": [
+"прене",
+"goty",
+"дебат",
+"вызва",
+"повод",
+"deser",
+"номин",
+"crims"
+]
 }
 ],
 "digest_date": "2026-11-17",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-17",
-"viral_checked": 1794979923.7182255,
+"viral_checked": 1794987709.1851425,
 "viral_ts": [
 1794942693.4130518,
 1794942696.725639,
