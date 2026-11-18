@@ -4585,7 +4585,55 @@
 "0fd9bc5cc7646942",
 "bab679eab31a45a4",
 "ee6f13da24e880a4",
-"2bec7eacc2d2a649"
+"2bec7eacc2d2a649",
+"d1058cd6adb75387",
+"36db7daa93304c11",
+"45689599575da2c4",
+"f463373d7e6112a4",
+"8adeab28a510a69a",
+"ee380460210833d0",
+"2c3f45009e29f5cf",
+"e6fabe7f2b036908",
+"2862631337ff65c5",
+"7dd90f5ae3e3f76e",
+"a30b325c62bbb201",
+"1d22587f08a71203",
+"6bceaccfa28cc3a3",
+"a7c5a101e7d6470f",
+"21849dff16858118",
+"11a94db298b0f453",
+"5f229beab90623c4",
+"248ec1cd894d6b41",
+"6716e50a883248da",
+"1d91f33807a3ff51",
+"be09402d271f56d5",
+"69c6aacb1391bc96",
+"f1eeb28c28628ea6",
+"95e20f23ad32843e",
+"b186bcce210212cf",
+"0795a34663aff800",
+"ab816c18aeb2d014",
+"0c3f63317ab69bf1",
+"c63346174fc05ebd",
+"4a7ba86538561c10",
+"28bf1696dce88bfd",
+"4f25cc9c11f5d3a7",
+"55b64f61abe326b0",
+"de10ef8767c8ce3d",
+"d60dfb9d9dafa82d",
+"bba8dcf38121b2b8",
+"789cafee4df186ef",
+"dc2b4f25c7566962",
+"95e5e5e8a9939665",
+"8de966431ab87445",
+"4850f959f14bf0dd",
+"1365486899496432",
+"bec3a8f72293e009",
+"3802f2f36892d5ef",
+"e688027ae214b11c",
+"4e5d98f0c1930cb0",
+"9d5dd8aeea69a271",
+"be19d2abd7d16b79"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -9136,6 +9184,104 @@
 "контр",
 "схема",
 "xbox"
+]
+},
+{
+"ts": 1795021320.6463828,
+"title": "GTA 6: Как зарегистрировать новый автомобиль",
+"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RanF0djlIeG5FdkxGODJYdHl4TENLX2FhY2FTdkg4Qk5iZkhqM2p2aWpkZENJYXVGY3FBUHR6Y0d5WVU0ZGU4dkYxTDZTYW8zb0JqQmtMVDZIWk10eXBzMl9UaWpYOFVDaHBUZHFBNkxNRHM?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Cultured Vultures",
+"score": 2,
+"kind": "news",
+"words": [
+"автом",
+"зарег",
+"новый"
+]
+},
+{
+"ts": 1795021323.8403835,
+"title": "GTA VI при 30 кадрах в секунду: сможет ли ваш телевизор спасти положение?",
+"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUpxZ1FieS15dHJZTjVqNU5DZXdKS25IeTB0WHJTSjhwY1FibHlhbWkwLVBEbjBQVXlCbm1DcnhwNThOc2tQMlU0ZGpmNDNSbWVSUWlfSDE1YmtOVHMtaVhiQUs2bWVkM19JODN0ajREcjBXbldPbHJOOWczTXBYdg?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "RTINGS.com",
+"score": 2,
+"kind": "news",
+"words": [
+"ваш",
+"сможе",
+"кадра",
+"спаст",
+"телев",
+"полож",
+"секун"
+]
+},
+{
+"ts": 1795021327.065633,
+"title": "Тесты показывают, что GTA 6 не поддерживает стабильные 30 кадров в секунду, но пока трудно не впечатлиться",
+"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOElnck1SYWFDeW5MODZxUmptTldreHNQeFBsYlZlMzRNLU80UFRTZUY0eVJzWkVXbllOQU51c1h1eGZiT1FqSWJtR3o1Yi1waEI3NW42WjBfUHRmMVJjclN2V29SVTZiT1VaTU9XOEpkNV9wSkVyeUFoVUExOWo0ODhmemNPZ2dSOW05YkJ4MkthdElIa1N0aTNHU1p4OGZ0THhucHNJSTFRcFFqbGt2WW1iT0hBYkdKb2tyWjR1Mks?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "PC Guide",
+"score": 2,
+"kind": "news",
+"words": [
+"тесты",
+"подде",
+"показ",
+"впеча",
+"стаби",
+"трудн",
+"секун",
+"пока",
+"кадро"
+]
+},
+{
+"ts": 1795021330.2630389,
+"title": "Читы GTA 6: Все коды и как их разблокировать",
+"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fN0M0MldZbU1FaUhjeFlTRFBHenFZa0N6RWtlcWV5OVJydDNqVThyUC1IaWVVeEp0Z1Z5R2tndGZVTVVQakhfRTdQTEJxZFN4SUtYbHpwU1NadlVt?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Red Bull",
+"score": 2,
+"kind": "news",
+"words": [
+"коды",
+"разбл",
+"читы"
+]
+},
+{
+"ts": 1795021333.4863849,
+"title": "Все чит-коды в GTA 6: как получить деньги, бронежилет и оружие",
+"url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYi10azdPQmZMbnFGSl9PTXFUSl8tckV5V3A4SDBTSnhFdnNGdWRSOFU3TTFCX0ZZQUYyT0pBOXZZLW56RTFQYml3UWdMSF83WnVRSGpSZThfbGt4ZnhOSTlLSVo4dmQ5cnVVMUhGczlNNTdTbGloN1ZvejVsTTlzM0k3SHlkR0wtaGlFWkRfV2JYSzRia2Rqa19TN1Y?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Plugged In Ru",
+"score": 2,
+"kind": "news",
+"words": [
+"чит",
+"деньг",
+"получ",
+"броне",
+"оружи",
+"коды"
 ]
 }
 ],
