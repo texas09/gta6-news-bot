@@ -3043,7 +3043,22 @@
 "4990a48f4f1eefd9",
 "71c79c769c958992",
 "197c0caa5fea994b",
-"9ed0de96777751f0"
+"9ed0de96777751f0",
+"b5058a3c475a56a7",
+"8df39833e6a24486",
+"bfd347c90ea52210",
+"557f2c2a5dde134c",
+"2896c3b99a9eeb5f",
+"3bccd9d2f0d21107",
+"1fbbaa8689dbc896",
+"8a49fe895d237528",
+"ffae61f5c383d698",
+"ca2a7270fc229982",
+"2c229f08096adfde",
+"9189b9f96687c07e",
+"8cfd2acc6d96f9d0",
+"3acb8b4e374d36ab",
+"6cb393fd5f8d854a"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -4485,12 +4500,122 @@
 "появл",
 "игры"
 ]
+},
+{
+"ts": 1794964869.6600852,
+"title": "Аферисты заработали 914 тысяч рублей на желании россиян поиграть в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNDZwaS14VWFKR3BvSjMtbTFtU0pBZTFGajV4bEdQSFppUWk1aFBFOHo2RjRmRm1QeTNTc1d0dDlEb1VLcUNtc2RoeW1rajYxSU1FU2tXcC1Ta2dXQ2xmYWFCMi1iQ1VFbTBLZjhEOGRNWlVtRTlhbk9FZXd2Z2FwMS1xcjV2Z0dXYVcyQVI4S19vM05xT0UyVWlkdEt2S2ROeVQxOHMwZjVzWWZ5Y05CeA?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Общественная служба новостей",
+"score": 0,
+"kind": "news",
+"words": [
+"зараб",
+"желан",
+"тысяч",
+"поигр",
+"афери",
+"рубле",
+"914",
+"росси"
+]
+},
+{
+"ts": 1794964872.8337839,
+"title": "Фанаты GTA 6 массово берут отпуска и идут на хитрости ради игры",
+"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1hGV0NFdnlQTTc2eWtZVW9KY0U1ZXEtS3g0bFhJdEFzMU01LU5XenRrRTYzdkpHb1Y1RG9VY0NLbFBILWpkNS1GbXd2OU9ZeXJEcGwxZXRxUzVsVG5LWEhXRjZvMTE2bTA0NmlxRzd3OHdkb1Nwb1BGQ1NrXzlSZFl6NFkzOENBalI3Y0ZialpoenRDeGd1eVVnQnZSX1XSAaQBQVVfeXFMT1FQU21xVFA3bzRrVk12UTA2NG9xaGUzMTR4cFFFenl3Z1Q5eWJYN1VnTHZlV1JKWDFKQkVfU2ZDYnlLbENUcWlFVjlVV3NTNjBDbzY5blpsaDFyUUNueFNCR3hCQUJFYjhWX1hCME1CY28xX1hRclZpWEVaT0FteFB3alFIbFQzdVp2RmllMm9VWEY2Qkppb2NjRGNEaXhHRFRfY3o?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Cursorinfo",
+"score": 0,
+"kind": "news",
+"words": [
+"игры",
+"фанат",
+"берут",
+"массо",
+"хитро",
+"отпус",
+"идут",
+"ради"
+]
+},
+{
+"ts": 1794964875.9979262,
+"title": "Объяснение цен и выпусков GTA 6: сколько стоит Grand Theft Auto VI на PS5 и Xbox?",
+"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWcWt0S0M2ckx0TkhRNjZxc005XzEwZ2d5Z2ZvV1dmVUwwZ0hmOGVTTFpsZGNURHFoY3RJczE1VHRGallnakxCbEFXd0wzeVdvQXdudDhjc2hiWllfMUhvYXljUVBGdw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "IMDb",
+"score": 0,
+"kind": "news",
+"words": [
+"цен",
+"объяс",
+"xbox",
+"сколь",
+"стоит",
+"ps5",
+"выпус"
+]
+},
+{
+"ts": 1794964879.169636,
+"title": "GTA VI тестирует мировую цифровую инфраструктуру перед запуском – анализ",
+"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVTVSRDR1aGpxa2ZjdlluNVJreTdiaEJrcXhsNmZTejdyVzBReTlEbkNqX3V4a3NHUW5uT09pRXoyX3hwYVNta3NKWGZpbEpySnNmeFFYZHZoQjhGMW9lOWlBbDBaOEVhbmJrc2xUVHU4eDlMclpfM2dFeURIOU5ubzVncjIwaGl0aVZiUTk0UzVRVGNoZFM2dC1xYVJyMmJQVUFyLXdDcmZrdWJXX3JtNzNxbTM?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Eurasia Review",
+"score": 0,
+"kind": "news",
+"words": [
+"тести",
+"перед",
+"запус",
+"анали",
+"инфра",
+"миров",
+"цифро"
+]
+},
+{
+"ts": 1794964882.3532622,
+"title": "Вблизи все три цвета Трэвиса Скотта x GTA 6 x Nike Air Force 1 Low Colorways",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2lrMktvWVFxazNmSXBSOG0zY1Y1ZE1fSUNzUy1fU3ZVc0QyWmZEWGpwSEk3YW50LTltcFpENVhzVnNicVdvUklZOHlhdUtvNFpoWWRXdXhZLVd1U3V5OFBWdWV2cTFDMmZ6REpBVm04SWJ2eUpMOXI1c3ZGWENvRkVSelVBMmFQYTYyN2EzSTNDd9IBkgFBVV95cUxNM2lrMktvWVFxazNmSXBSOG0zY1Y1ZE1fSUNzUy1fU3ZVc0QyWmZEWGpwSEk3YW50LTltcFpENVhzVnNicVdvUklZOHlhdUtvNFpoWWRXdXhZLVd1U3V5OFBWdWV2cTFDMmZ6REpBVm04SWJ2eUpMOXI1c3ZGWENvRkVSelVBMmFQYTYyN2EzSTNDdw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Sneaker News",
+"score": 0,
+"kind": "news",
+"words": [
+"low",
+"color",
+"nike",
+"air",
+"force",
+"трэви",
+"скотт",
+"вблиз",
+"цвета",
+"три"
+]
 }
 ],
 "digest_date": "2026-11-17",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-17",
-"viral_checked": 1794957667.8596897,
+"viral_checked": 1794964885.3535037,
 "viral_ts": [
 1794942693.4130518,
 1794942696.725639,
