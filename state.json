@@ -4867,12 +4867,21 @@
 "dd26ae1ba1b4a504",
 "31f106af23f2570d",
 "4e1309ae053fa1fc",
-"91ad75dfec268182"
+"91ad75dfec268182",
+"af59e9cc7efc8999",
+"ee1487d17417879f",
+"d8961974c1b86eef",
+"f17e8c8056a8e5d9",
+"e9fcf864a7260e02",
+"36ebeb6fe16ccb06",
+"44da0a2534782bc4",
+"68e8a826fb948560",
+"3865176805b216cb"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328439,
+"tg_offset": 706328443,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -9709,7 +9718,7 @@
 "digest_date": "2026-11-18",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-18",
-"viral_checked": 1795018344.768952,
+"viral_checked": 1795026069.4286098,
 "viral_ts": [
 1794942693.4130518,
 1794942696.725639,
