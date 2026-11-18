@@ -3229,7 +3229,25 @@
 "32187e1907a63c03",
 "1b392eaedbda1ab9",
 "f3dbdec28254a425",
-"168daf43608bf73e"
+"168daf43608bf73e",
+"8b2053e336a1b10b",
+"49e74dc2daa3f16b",
+"663beb1df89723e2",
+"38d1f42c8a22561f",
+"401ab68962ec7e32",
+"b5552aac5485d78c",
+"2352e08edd8c1594",
+"f2d90d7daa3334fe",
+"96ec93a7b3ddba7a",
+"7ff0661f3889990f",
+"8df9019c7baa0e02",
+"2d42b934cb4f915f",
+"7c94b8014b20a623",
+"e6e54f2cb38a29d5",
+"686c47c7e4532ff8",
+"298de14ac5134a5f",
+"72fc2379351bf813",
+"551cbbe0eeaf5b40"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -5482,12 +5500,124 @@
 "полны",
 "радио"
 ]
+},
+{
+"ts": 1794979908.0388656,
+"title": "Россияне потеряли 914 тыс. рублей из-за мошенников перед выходом GTA VI",
+"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObTBrZjlUU2xKY3FtNFFBRmZYV2lCRDNnZktBc0lqYWRQbWtGeE9OUU0yU1k0bmdSSVE2Sm5yY3lraUpHY2pzeEhMQmd2WWEyRGp4d3RJbXNNRGluSTJaeUZyTFNyMURZZXFQbzJzbzhLUXBSZkpIRGZiWnpqWkNPLWVCY3o2LUN4OGxqbTN4aG04NERzZ25tQm0xLVFjb2dHYlZBbHBmaUF6YkJvVjhlc3czdWg?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "newizv.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"потер",
+"перед",
+"рубле",
+"914",
+"росси",
+"мошен",
+"тыс",
+"выход"
+]
+},
+{
+"ts": 1794979911.2002175,
+"title": "Мошенники украли у россиян почти 1 млн рублей из-за ажиотажа вокруг GTA VI",
+"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNREQ2bWZQc3JHWTljMkw2TG9IaExSLTJJbzFBNWI4OGhxczJxMGxjQ3FyMnpkLV9nZ0tjOXNCU3NhUW9WR2ZOY2xCWTU0N0N1NlpUeW5XUkpoUnVfeklFdHU4NWoxOXZSYXozMDBIZ2szNV9RaTZ0MGxxY005QzVQRUxtQkwwUnFMQXNqMi1xTXJlOC1BbS14V0VBTDIwUUtTeUdWeEpSVUpESTlMdWx4UG1Jenl2M3M1eUJmdDM3LXo?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Мойка78.ру",
+"score": 0,
+"kind": "news",
+"words": [
+"млн",
+"вокру",
+"украл",
+"почти",
+"рубле",
+"росси",
+"мошен",
+"ажиот"
+]
+},
+{
+"ts": 1794979914.4302769,
+"title": "Мультфильм «Angry Birds 3 в кино» рекламируют постером в стиле далеко не детской GTA 6",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZy1VQTlUR1pNbHo3RXQ0c3NjaFhaOWMzcVN2UjZiREVnTEFnRWhySGREa3JsczVTWG9HZFFvdDgwZkNwQVJ0V0FKNko0b0VWUERDMDZuV1ZnT0NxM283RjhnUHVFVGFXV2dUY050MDA1N2RUNFRMSFNCMDJad2xHbFJOTVRtYl9SVERPX01ndDJyOGw4Wk9uaTVfTUFnN1VuZXhucWU4YXJzcHh0TWRvWXZZZEU3Tk9RdWpTSVln?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Игромания",
+"score": 0,
+"kind": "news",
+"words": [
+"рекла",
+"посте",
+"кино",
+"angry",
+"мульт",
+"birds",
+"стиле",
+"далек",
+"детск"
+]
+},
+{
+"ts": 1794979917.5770118,
+"title": "100 часов в GTA 6: VK Play устроит игровой марафон с подарками для зрителей",
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWk1jc3BKdDdqYnJYWWJlZUQ2X0lBaXVSVDR4Y2RfcF9ST3F2Y2p3YkJMRWVkWHlVTG9oNXNjeFVBRXIyZl9VRm55NTE3ZzM0Y3FvYUdZRFc3MzRYWWJHU19QcE9faVA5eTROUTJIbV9GVkNUWFBoNnB6UU4wYnp4MElMT0sxVE5TdWQyUXUtYlBJTVFyOTBsTVpJMkpDTEtMMDVQQUE2SEhxYUJmMnRSVHlB0gG3AUFVX3lxTE1abm1jMi1ROEhBYlM5d2s2Z0h5VE0wYkRic1M2MU9sZm40aXNXTUM2VlhjTlFxVDhNMENzaVZPaS1COGRXX0lGRDEyOERlMTZiUDNPaEVTOHhWVTJ5bGRKcW5GclZzWDdsYjktcE1PUUUtVE85YWZmMUc3R3VhdUszLW41WUdXVFZiOHpkcTZyeTFQUm9MSWlWeVhIMEs2R25wY1N2NFIwbUZJTVNteVp1Sk9pNXdlTQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "www1.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"игров",
+"мараф",
+"часов",
+"100",
+"устро",
+"play",
+"зрите",
+"подар"
+]
+},
+{
+"ts": 1794979920.717936,
+"title": "Вам не придется ждать: этот консольный трюк приведет вас в GTA 6 уже сегодня",
+"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWkMteTZ6cGF1RTBRNHFJTTlZam9xblIzT2drdkhUYlJUaTFvNS1QMjMwaHhVTGtOUW9mc2s1S0lYcDBuazhLLS1YM3ZLNld5ZWRramRBeFFqbTdoSUFUVVFSVHlXdFktaU5CME8wdFhyVk9LOFJHMFZUM1FkRTRvd3ZPSExTR1RaQV9wNTI3Q0N3Z1A5UFE?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "PCMag",
+"score": 0,
+"kind": "news",
+"words": [
+"приве",
+"вам",
+"приде",
+"ждать",
+"консо",
+"сегод",
+"трюк",
+"вас",
+"этот"
+]
 }
 ],
 "digest_date": "2026-11-17",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-17",
-"viral_checked": 1794972692.2498527,
+"viral_checked": 1794979923.7182255,
 "viral_ts": [
 1794942693.4130518,
 1794942696.725639,
