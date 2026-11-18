@@ -4999,12 +4999,33 @@
 "ed079224edb35e4e",
 "b5916fbcd5089f4c",
 "b5916fbcd5089f4c",
-"d830b624a844487c"
+"d830b624a844487c",
+"822a9330b628203f",
+"822a9330b628203f",
+"8788a0af1f2d96a3",
+"43f7f207cd723068",
+"43f7f207cd723068",
+"7456150ff190b0ba",
+"e2d10bdd4f354a38",
+"e2d10bdd4f354a38",
+"619142936abec156",
+"08be453655fbcdbd",
+"08be453655fbcdbd",
+"4e9efe4df557e242",
+"ead8a8ebe3f9e449",
+"ead8a8ebe3f9e449",
+"2b04dbafec94cdd1",
+"bdaaeef12dae4a08",
+"bdaaeef12dae4a08",
+"0f8295e8be53e7df",
+"8c5e4245980a5eaa",
+"d2211f4456f60db7",
+"3c8566e04d32311b"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328448,
+"tg_offset": 706328449,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -9954,6 +9975,98 @@
 "беспл",
 "утили",
 "можно"
+]
+},
+{
+"ts": 1795029284.4161797,
+"title": "Прощай, Люсия: официальная новая одержимость фанатов GTA 6 — Мэнди",
+"url": "https://www.polygon.com/gta-6-mandy-who-is-pipework-mission-lucia-jason-chapter-reddit/",
+"tags": [
+"новости"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mandy1.JPG",
+"source": "Polygon",
+"score": 1,
+"kind": "news",
+"words": [
+"проща",
+"фанат",
+"одерж",
+"новая",
+"офици",
+"люсия",
+"мэнди"
+]
+},
+{
+"ts": 1795029288.3057506,
+"title": "GTA 6 не позволит вам использовать читы, пока вы не завершите основную историю, и блокирует прогресс, когда вы это сделаете.",
+"url": "https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story",
+"tags": [
+"новости"
+],
+"img": "https://assetsio.gnwcdn.com/GTA-6-review-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+"source": "Eurogamer",
+"score": 1,
+"kind": "news",
+"words": [
+"испол",
+"вам",
+"блоки",
+"прогр",
+"читы",
+"сдела",
+"когда",
+"позво",
+"пока",
+"истор",
+"основ",
+"завер"
+]
+},
+{
+"ts": 1795029292.225884,
+"title": "GTA 6 удерживает ваши 100% статистику до конца — по уважительной причине",
+"url": "https://www.polygon.com/gta-6-completion-menu-ending/",
+"tags": [
+"новости"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-motorcycle.jpg",
+"source": "Polygon",
+"score": 1,
+"kind": "news",
+"words": [
+"удерж",
+"100",
+"ваши",
+"причи",
+"стати",
+"уважи",
+"конца"
+]
+},
+{
+"ts": 1795029297.767592,
+"title": "GTA 6 побила рекорд потокового вещания за все время еще до того, как была выпущена полностью",
+"url": "https://www.pushsquare.com/news/2026/11/gta-6-obliterates-all-time-streaming-record-before-its-even-fully-released",
+"tags": [
+"новости"
+],
+"img": "https://images.pushsquare.com/8b7789a44d27e/large.jpg",
+"source": "Push Square",
+"score": 1,
+"kind": "news",
+"words": [
+"вещан",
+"выпущ",
+"поток",
+"рекор",
+"была",
+"того",
+"еще",
+"побил",
+"полно",
+"время"
 ]
 }
 ],
