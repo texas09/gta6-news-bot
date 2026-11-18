@@ -4804,12 +4804,36 @@
 "ac3e45d0ff5573eb",
 "c47364e48c3d3f2c",
 "cbf1bdbd917051ef",
-"967c0be465438984"
+"967c0be465438984",
+"221dd5d4a7d26e41",
+"221dd5d4a7d26e41",
+"558325d62d2feffd",
+"041e5381ae694316",
+"f776955eb00fd7fd",
+"35ab9a008b68d9a7",
+"e7b88c30a7d70492",
+"7d0f4f36837eea6e",
+"48c9c1c3a44ac905",
+"91fd35c999cf6884",
+"15bc32453956f74b",
+"0f30da610a8acda7",
+"ed5f30b2713a8d4b",
+"ef57b1021c7d177b",
+"2cb662579996113b",
+"0b78323884450f87",
+"96484c697b7bcd30",
+"c40877e8387edbf2",
+"348487f6661138e0",
+"8e8ae445e59c4ce1",
+"b0587c35a255d0fa",
+"1d65bbcc001107db",
+"ce175eda17649287",
+"9bd53e9b9ed43a99"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328436,
+"tg_offset": 706328437,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -9548,9 +9572,29 @@
 "быстр",
 "зараб"
 ]
+},
+{
+"ts": 1795024922.5441434,
+"title": "GTA 6 запускает живые обновления: новости, беседы и открытия",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXA0V0MxaUtnUVM4ZHg2MkVkeGM5TV9xaW1KNzR2V2puREg4eTBoVTc3V2gzV3VDakNZaUw0aE9wV1lldnRYQ0ZKYUVOSURaMUlWUFNYTTA2ZW94YzBVX0wxbFhJQ29FNk5NOGRXaUdlSHFNMzNFRVJodVdnbE1PRGVxS21sdWhqVFQxemNlQTJIQQ?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "Kotaku",
+"score": 3,
+"kind": "news",
+"words": [
+"новос",
+"бесед",
+"обнов",
+"живые",
+"запус",
+"откры"
+]
 }
 ],
-"digest_date": "2026-11-17",
+"digest_date": "2026-11-18",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-18",
 "viral_checked": 1795018344.768952,
