@@ -3166,7 +3166,28 @@
 "6b538ce5f7d58a35",
 "82e6e6d0352f2b99",
 "87ba4847d134e68b",
-"4d25b4efc8919b20"
+"4d25b4efc8919b20",
+"ec91beb22787f177",
+"b7a40c007d5d6dbb",
+"69b96b21ecb6d3d6",
+"6b7ecb1d8ceaed56",
+"03606a8a2addc4f1",
+"f451eff81ecb0405",
+"844a4648def1bde1",
+"d86d9f6d2aa26a16",
+"f92027b0472989e7",
+"2190af1bd7536143",
+"2a477f14069091ed",
+"e14a33f89efa2415",
+"c987f23f23a42ec1",
+"95849cb1be29e8e4",
+"f5e8b3232709d5fd",
+"f60c98f325f41664",
+"57d10c0ff16c9003",
+"7ed402b984aa2c04",
+"5546fa2fbb3c5792",
+"984e124679823ef2",
+"5f52a5e7d36d8e81"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -5185,6 +5206,123 @@
 "games",
 "дата",
 "факто"
+]
+},
+{
+"ts": 1794975668.9657073,
+"title": "Фотосессия GTA 6 продолжается — крутые Лусия и Джейсон на новых скриншотах шепчут вам: «Уже скоро»",
+"url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNXdUUk1NcGpSTXFiZ1NlR0lqdEdjWkpfTnNQWkZlc0xMb3hPQU82R2VfdmFyWnFZODlVQXNCeW51UHRBZ2xIOHdjNUtpT0JDaXA5QzFPcVVxdzV2ZWxmZlQ5X3plclZMU28tZzJFaGtId1NpelNXcVFSYUM4dDgyeWd6a3NoRWEzRkxkdW1vaDR4dkNxVmY0WTZrX2VhWFRlWkJ3Q2tETjJHOGRQQmdvTldZVEJSMXJoYjhZeEh2VGVtVS1kcVVNLW5hTFJlMTJUYVBtaEIxb0w3Zw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Игромания",
+"score": 0,
+"kind": "news",
+"words": [
+"скоро",
+"круты",
+"фотос",
+"лусия",
+"новых",
+"вам",
+"продо",
+"джейс",
+"шепчу",
+"скрин"
+]
+},
+{
+"ts": 1794975674.9571283,
+"title": "Мемы оказались правдой: 46,5% опрошенных геймеров пропустят работу ради запуска GTA 6",
+"url": "https://www.playground.ru/gta_6/news/memy_okazalis_pravdoj_46_5_oproshennyh_gejmerov_propustyat_rabotu_radi_zapuska_gta_6-1891661#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/Lpg-msObLIvcnyFQ9ROYmA.jpeg",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"пропу",
+"мемы",
+"оказа",
+"запус",
+"работ",
+"ради",
+"правд",
+"гейме",
+"опрош"
+]
+},
+{
+"ts": 1794975678.1013758,
+"title": "Игроки «Майами Хит» хвастаются аккуратно выглядящей GTA 6 — тематические плюсы PS5",
+"url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1VRZ1BXTmtYUS1YR21TcEJZRk9SYkJLckxTR2lDYVMxbVgzdE5KRl9sWHJ2U0JrTi1zUGctRVpVRU9tZFVRNVNKZUtvNW5BczVYTmMtYzc3VTA4RDJsUnJUSTJwbFNtRWE2OHdQZEVkMVRtbUdmSTFfUmpSTzBZWUV6S1FhNGtCMzBndmVSRkp4dXFr?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Kotaku",
+"score": 0,
+"kind": "news",
+"words": [
+"хваст",
+"хит",
+"ps5",
+"аккур",
+"майам",
+"игрок",
+"темат",
+"плюсы",
+"выгля"
+]
+},
+{
+"ts": 1794975681.2446065,
+"title": "Поклонники восхищаются промо-акцией GTA VI возле Kaseya Center в Майами в преддверии «A Night in Vice City» от Heat.",
+"url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtS1pQdzQtdkdfbE92cy1RNFRBRmVYRWFMZnNfYUxTdnJYYkpETjFYUlk0N3lZakNKczUySm9kN2tHckg4SGVGMGxqcko4NHBGR2pIelU1OEtTYlVQWkkzSTJIcDVsMDlhcDItS1lCYktuSEgt?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "WSVN",
+"score": 0,
+"kind": "news",
+"words": [
+"cente",
+"heat",
+"возле",
+"kasey",
+"покло",
+"предд",
+"восхи",
+"vice",
+"city",
+"промо",
+"майам",
+"night",
+"акцие"
+]
+},
+{
+"ts": 1794975684.391528,
+"title": "Есть ли у GTA 6 физический диск? Объяснение кода в коробке",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUzY1RmxHSnZSXzUyeW01aS1GWGpMZGxwNEIwbGFQWUlXT3o3SnlJaWtXSzVZcjVKM0dXTU0wYm9xTDdva0VEUGM1WTA5OVlrank3dENBNUdKaEhlTThBWWRzdWZTVUlKNXpnRXdIZmVha0ZpMkJjV1dsUkJTQW9XVGttSTJsNjZSRFREa0dSamNwQTV1Q0lmbWI2UQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "The Game Haus",
+"score": 0,
+"kind": "news",
+"words": [
+"есть",
+"короб",
+"диск",
+"физич",
+"кода",
+"объяс"
 ]
 }
 ],
