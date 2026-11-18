@@ -3250,7 +3250,16 @@
 "551cbbe0eeaf5b40",
 "55b5b9fa42555068",
 "4ddfc222d4c7ba2c",
-"2f6e30db37f780f1"
+"2f6e30db37f780f1",
+"27a4cd7e278d9486",
+"95e1507351689531",
+"812dba6104459842",
+"44c74782d9b5c382",
+"ccc6d346a2254727",
+"8decb46da779e48f",
+"8cd6d78cb101d5a3",
+"83d503c39ee89b08",
+"b5e343fc4b07baed"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -5614,6 +5623,29 @@
 "трюк",
 "вас",
 "этот"
+]
+},
+{
+"ts": 1794981064.416288,
+"title": "Sony предлагает обязательное обновление безопасности для PS5 за два дня до запуска GTA 6",
+"url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYZnZtSTBrdjNhdlpVY3VBUUNDa0JKc3dWVVNjd3pQbVMtUGpaQ0FybDFNTUlOX2JDc1ZCZlFFOHBETl90VERZRU9OR2pBcE1nQVlpbm8wN3doOGVFT0Z4dHBUVmxRZWpT?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "GodisaGeek.com",
+"score": 3,
+"kind": "news",
+"words": [
+"обяза",
+"обнов",
+"sony",
+"безоп",
+"предл",
+"ps5",
+"два",
+"дня",
+"запус"
 ]
 }
 ],
