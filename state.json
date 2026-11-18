@@ -4126,7 +4126,70 @@
 "b16347627b07eff1",
 "d91962db1f69a894",
 "c5d5e0c4a35e8c29",
-"66eff4aca71bd86a"
+"66eff4aca71bd86a",
+"2b38aa54f25a721c",
+"fc004d83f1f12862",
+"dd109ce75afcee79",
+"a9c2937cdf338ea6",
+"a9c2937cdf338ea6",
+"5fdd94e3a299e2db",
+"417e6e22456e9829",
+"aa8c757eaf7247d3",
+"89cba244afcf489a",
+"fbb39385e351d282",
+"93e7ad281d8bd16b",
+"0c80ad4094107981",
+"be8f722b9ac2a90f",
+"c1f7643a5a028d82",
+"5a1cbc3b7344c632",
+"c64b20e836d1e1b6",
+"5560e036a6154b08",
+"a07047c0da0132a7",
+"d16dc4b9c0cb47b7",
+"39db7930b4888bae",
+"b20a7ce0c617dd52",
+"91fc63393b105b50",
+"4ba7797e19639d21",
+"a1c742896965fce2",
+"f32d4b29dc8e6f64",
+"8f773cfac16a4288",
+"324c71e4d66eb5a5",
+"61a868e2d8dac17b",
+"1d4f0dfdcd8ef605",
+"90c05465303641f9",
+"8238c27bbd915953",
+"50d4982a3528b418",
+"0efc1cdd0c0369d9",
+"36543da9b0addc55",
+"b14234241368ddca",
+"416f0cb9499bb9e6",
+"d57c2a6543bad1e3",
+"62610631d6236ea7",
+"742b4553e07e9441",
+"63447f170a38de53",
+"f2369ff81f7d405c",
+"34097d6d40955864",
+"4120e6f3217f07f4",
+"04875b09c66743b1",
+"c7dfe1135b1d8de3",
+"ffa02eb89dcc7942",
+"ae859ef7b4cdbb60",
+"6b27ed796084f5a4",
+"f867e5218e752d33",
+"cc023926b0c64cb8",
+"933f6483cbc719c2",
+"c6871d674d4e8e46",
+"b3ec062cf92d373a",
+"6f425de5503b9d80",
+"c7c1eab184fa6539",
+"baab1ab7d32b0d4b",
+"3fdda933e4fb846a",
+"a81b68dd632bd1d3",
+"e9145ec02f96ae56",
+"73ffb20c4bcfc7f3",
+"280d6bc491fdedc6",
+"b0f3c8e01bb76548",
+"583af02b3212f990"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -8253,6 +8316,96 @@
 "кадро",
 "восхи",
 "анали"
+]
+},
+{
+"ts": 1795013471.26498,
+"title": "Все испытания GTA 6 и способы их выполнения",
+"url": "https://insider-gaming.com/gta-6-challenges/",
+"tags": [
+"гайд"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/Ambrosia_06-scaled.jpg",
+"source": "Insider Gaming",
+"score": 3,
+"kind": "news",
+"words": [
+"выпол",
+"испыт",
+"спосо"
+]
+},
+{
+"ts": 1795013474.6733456,
+"title": "Руководство по GTA 6: полное описание всех наших советов и рекомендаций по системам Vice City.",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/kKdLdoqBqEoLHHRF5ECvGa-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"полно",
+"реком",
+"наших",
+"vice",
+"описа",
+"совет",
+"систе",
+"всех",
+"city",
+"руков"
+]
+},
+{
+"ts": 1795013478.2888558,
+"title": "GTA 6 Эй, Арнольд, прохождение",
+"url": "https://www.videogameschronicle.com/guide/gta-6-hey-arnold-walkthrough/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Hey-Arnold-Walkthrough-3.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"прохо",
+"арнол"
+]
+},
+{
+"ts": 1795013482.1169615,
+"title": "Прохождение GTA 6 Island Dreams",
+"url": "https://www.videogameschronicle.com/guide/gta-6-island-dreams-walkthrough/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Island-Dreams-Walkthrough-1.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"islan",
+"прохо",
+"dream"
+]
+},
+{
+"ts": 1795013486.2555473,
+"title": "Как сменить одежду в ГТА 6",
+"url": "https://www.videogameschronicle.com/guide/how-to-change-clothes-in-gta-6/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"смени",
+"одежд"
 ]
 }
 ],
