@@ -3736,7 +3736,43 @@
 "20cec382efe461b1",
 "1b12bbb1f7290a54",
 "1b12bbb1f7290a54",
-"abd6d4ce48b8deda"
+"abd6d4ce48b8deda",
+"2fc98ac10da5c738",
+"2fc98ac10da5c738",
+"cd6c16a6d59a0497",
+"9ff5c6d2df62b6a9",
+"78b696fc77c641f1",
+"481ff913f787b710",
+"a10c27e2cdf8a2e7",
+"7d0e058879580f30",
+"eedcf4573ace644d",
+"dfd656739756cb67",
+"7868efa69fba5b9c",
+"574e01b37d0fce79",
+"c482889fdfcbc267",
+"81e79a64e1dafc53",
+"6f19218bf7cc5690",
+"cf900dcfbf1c70ef",
+"846fc9b40e71b944",
+"efdb70a189282e2a",
+"9511e14ce06d6109",
+"5911ebb0040e735a",
+"30f137a2c9f1a0f9",
+"e749fd1297e44aa8",
+"0b1d5207092cf8dc",
+"42d185a546c144b0",
+"107e67f87eb0e691",
+"8ad6a87347c46a55",
+"d6b5fa62dbe0021b",
+"515a5ecd0e586087",
+"c7b93d1231d8eb23",
+"9374671c54286c9b",
+"5b34940197a448d6",
+"2898ce5381905211",
+"3cc102650db6b526",
+"2010620bef7f490a",
+"c6762f8a9443ef5c",
+"868bcec0fe2960ee"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -7625,6 +7661,118 @@
 "работ",
 "конце",
 "нагру"
+]
+},
+{
+"ts": 1795009301.5392778,
+"title": "\"Он полностью меняет игру\": в Rockstar довольны, что главный секрет GTA 6 удалось уберечь от утечек",
+"url": "https://www.playground.ru/gta_6/news/on_polnostyu_menyaet_igru_v_rockstar_dovolny_chto_glavnyj_sekret_gta_6_udalos_uberech_ot_utechek-1891817#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"гайд"
+],
+"img": "https://i.playground.ru/e/aC_4qGT5MI72tksCE5iiEQ.webp",
+"source": "PlayGround.ru",
+"score": 3,
+"kind": "news",
+"words": [
+"главн",
+"rocks",
+"полно",
+"убере",
+"утече",
+"удало",
+"игру",
+"секре",
+"меняе",
+"довол"
+]
+},
+{
+"ts": 1795009305.3082833,
+"title": "Руководство: кто такая девушка с обложки GTA 6 и основана ли она на реальном человеке?",
+"url": "https://www.pushsquare.com/guides/who-is-the-gta-6-cover-art-girl-and-is-she-based-on-a-real-person",
+"tags": [
+"гайд"
+],
+"img": "https://images.pushsquare.com/9621677820dd9/large.jpg",
+"source": "Push Square",
+"score": 3,
+"kind": "news",
+"words": [
+"девуш",
+"челов",
+"руков",
+"облож",
+"такая",
+"основ",
+"кто",
+"реаль"
+]
+},
+{
+"ts": 1795009309.1978724,
+"title": "Rockstar объясняет, почему в GTA 6 нет режима 40 FPS",
+"url": "https://insider-gaming.com/rockstar-explains-why-gta-6-doesnt-have-a-40-fps-mode/",
+"tags": [
+"настройки"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/10/gta-6-gameplay-leaked.jpg",
+"source": "Insider Gaming",
+"score": 3,
+"kind": "news",
+"words": [
+"rocks",
+"режим",
+"объяс",
+"почем",
+"fps",
+"нет"
+]
+},
+{
+"ts": 1795009313.859943,
+"title": "Объяснение автосигнализации GTA 6: Как угнать машины с сигнализацией в GTA 6",
+"url": "https://www.videogameschronicle.com/guide/gta-6-car-alarms-explained-how-to-steal-cars-with-alarms-in-gta-6/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/gta-grand-theft-auto-6-pic09.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"автос",
+"угнат",
+"объяс",
+"сигна",
+"машин"
+]
+},
+{
+"ts": 1795009317.0869904,
+"title": "Будьте готовы к запуску GTA 6. Узнайте время выпуска, информацию о предварительной загрузке и возможность начать игру раньше.",
+"url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRTFwSDZiMC1oLUpmd19RS3pQZUFCYXlHMEFSdy1MMk5aTmFreFgtTW41SGp2T2dtV1VEV2hZR0JHSlFPY2JVR0I4dFZIY1I1U1htcy1HTURqMXhObFpWYXZQZlZ0TVFIWExldkNiWWJsODVNZHNVTDRVb3pMbVZLeGgzaHhOWlZpUU9uZnFwUEV6dnl3eEU0Z1Fkd015a0t1Y3RQeTAxajUzd0pTVlR4NXRoUGdlU0FkSGxkQWlqbVh5Rm9sRDFTc2l4djdVMUpzR1BlN0doSUJ3a0U?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "Facebook",
+"score": 3,
+"kind": "news",
+"words": [
+"будьт",
+"раньш",
+"узнай",
+"готов",
+"начат",
+"предв",
+"игру",
+"инфор",
+"запус",
+"время",
+"возмо",
+"загру",
+"выпус"
 ]
 }
 ],
