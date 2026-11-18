@@ -3469,7 +3469,25 @@
 "26a9d02a8f19ac2f",
 "5f064ca4a00dd47b",
 "ae23e45fd77564f5",
-"aeee1b7a156f1524"
+"aeee1b7a156f1524",
+"5a3bc8e1468bbb2f",
+"c5bd5df11f52bf39",
+"67835099242aa82a",
+"c02969add2caa6a9",
+"7065df211c976656",
+"320a9637067ecb42",
+"568b90a2796acf3e",
+"9def0b57724eee05",
+"9977a978fd5675eb",
+"23c8e70df09f482b",
+"7671044f716dea31",
+"9a8543ca905346fd",
+"97bc830380562ef9",
+"3cfb19f2757f8f52",
+"873d908c88b22e29",
+"5827cceee2cff3fc",
+"02323276682b454f",
+"cb161d168c454e74"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -6607,12 +6625,120 @@
 "совет",
 "выход"
 ]
+},
+{
+"ts": 1794995475.270623,
+"title": "Возрастной рейтинг GTA 6: маркировка ESRB и элементы управления PS5",
+"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TeThEZTB1Ylhlb19aUHY3RjhDZWgwOG1xWms2MGx5bDM3Mlo4YWpfSkwweWlhUkFlaFVENHNJQUhiX2pzMjZwSmp5MktucGlFcmQ2QXRtR1EyaTBfUjBqNXl1T0pnTkhBUWlOekkzT0U0djF1WkZQTkhB?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "NeoTeo",
+"score": 2,
+"kind": "news",
+"words": [
+"ps5",
+"рейти",
+"марки",
+"возра",
+"esrb",
+"управ",
+"элеме"
+]
+},
+{
+"ts": 1794995478.4812078,
+"title": "Когда появится трюк GTA 6 NZ? Вот как играть рано, но это сопровождается предупреждением",
+"url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPemozbUhneWZzOVRXOHZkTEo4YUhMbXJqX05IZGZxVm5LNnczeWlWWUhvOURsVXNTWmxwMC0wcGlqck1vbldDeGFIU3dKbWlMaUlyelpnUU45VVQ5dlZnaUdhaUhVUlUxVUk5RkdNR0dHYzFrbTF2YS1mNFVyeFdab2U0alVkYnlZZ2FoQ2tndUtlanFZUFhKVW9hLTh1d1dRaXZQMG1SbE1XUnRhb296N0ZyclFpR3VyVFE?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "PC Guide",
+"score": 2,
+"kind": "news",
+"words": [
+"вот",
+"когда",
+"преду",
+"появи",
+"сопро",
+"трюк",
+"рано",
+"играт"
+]
+},
+{
+"ts": 1794995481.673283,
+"title": "Геймеров PS5 предупредили об обновлении консолей перед запуском GTA 6",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5X21yTVV3Sy1ZUHNJTjk3M3V4U0Q4VHpodXRLMHJZWE9YNWxmd2xLWnhlN1NZT0kxOFhWaEZGWnNXSzA4cDFRcWlGSVR0cDI4eVdnSWsxUExhNHJVSTMwNA?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "The Big Lead",
+"score": 3,
+"kind": "news",
+"words": [
+"ps5",
+"перед",
+"консо",
+"преду",
+"гейме",
+"запус",
+"обнов"
+]
+},
+{
+"ts": 1794995485.8546276,
+"title": "Обновления акций PS5 Pro: Где купить консоль Sony для «ГТА 6» (не переплачивая)",
+"url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ncWRGLVFRVUFqM3BHWUpIdTkwSExuMzItLXE5ZldVeGpYSUFEajloSV95ZWx2SWU3aHBfUjBFZWdNR01hVUVLczQwM2ozTjNwcnNSbGw1UUZMRVNJWk9wTnF3?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "Mashable",
+"score": 3,
+"kind": "news",
+"words": [
+"ps5",
+"где",
+"переп",
+"pro",
+"акций",
+"консо",
+"sony",
+"купит",
+"обнов"
+]
+},
+{
+"ts": 1794995489.0542789,
+"title": "Будет ли GTA 6 в Xbox Game Pass при запуске? Все, что вам нужно знать.",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sZlBxQnA0c19nVXFvN3lqTmJ4RWRSR1RlZ2h3M3ZFeDQzR2IzWEJLTFlUbm5HOUhWQVZVOG5WM3I3MEZTclVwdFdENmV4bjhMcV9Ub2RZYVFNd21jZFVSOGlDVjlJRzcxb1FrR3dwTWxhSVRfN1E?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Mashable",
+"score": 0,
+"kind": "news",
+"words": [
+"знать",
+"pass",
+"вам",
+"game",
+"запус",
+"нужно",
+"xbox"
+]
 }
 ],
 "digest_date": "2026-11-17",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-17",
-"viral_checked": 1794987709.1851425,
+"viral_checked": 1794995492.0545318,
 "viral_ts": [
 1794942693.4130518,
 1794942696.725639,
