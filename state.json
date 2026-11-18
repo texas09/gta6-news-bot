@@ -5471,7 +5471,22 @@
 "f66084a8836bd6e0",
 "bb189e91026e159e",
 "82fe4060601a6378",
-"2f2c51d0f407ca2b"
+"2f2c51d0f407ca2b",
+"4c348eafa3107a63",
+"9639857638b888dd",
+"372ac3c33c6f321e",
+"1b5f67b1ccd5395d",
+"f5885621c76de0b5",
+"a587a3247e267425",
+"d8f6ab8da6b182bf",
+"1cb3816239f37876",
+"e4c5049077f32866",
+"7eb52712103c7937",
+"4c35ce0574cc20c4",
+"4848e37dd17c8915",
+"723d1511bd3c62da",
+"32032db731919275",
+"edd0b6a37ac13821"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -11020,6 +11035,59 @@
 "предв",
 "ultim",
 "получ"
+]
+},
+{
+"ts": 1795040468.304225,
+"title": "Rockstar говорит, что PS5 Pro просто «недостаточно мощна» для GTA 6 со скоростью 60 кадров в секунду, а я улыбаюсь, глядя на свою 5090",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-a-ps5-pro-is-simply-not-powerful-enough-for-60-fps-gta-6-as-i-crack-a-smile-at-my-5090/",
+"tags": [
+"настройки"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/7Pa25Qo3r5gyVPMLAShidR-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"глядя",
+"5090",
+"кадро",
+"мощна",
+"секун",
+"скоро",
+"улыба",
+"недос",
+"свою",
+"говор",
+"прост",
+"rocks",
+"ps5",
+"pro"
+]
+},
+{
+"ts": 1795040471.9558861,
+"title": "Devolver не просто запускает игру в тот же день, что и GTA 6, но и использует пошаговый римейк стартового трейлера GTA 6.",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/devolvers-not-just-launching-a-game-on-the-same-day-as-gta-6-its-using-a-shot-by-shot-remake-of-the-gta-6-launch-trailer-too/",
+"tags": [
+"трейлер"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/BV5HRktLj5m2UsevuRmAUc-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 5,
+"kind": "news",
+"words": [
+"день",
+"испол",
+"devol",
+"пошаг",
+"тот",
+"римей",
+"игру",
+"запус",
+"прост",
+"трейл",
+"старт"
 ]
 }
 ],
