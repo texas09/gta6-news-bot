@@ -4876,7 +4876,61 @@
 "36ebeb6fe16ccb06",
 "44da0a2534782bc4",
 "68e8a826fb948560",
-"3865176805b216cb"
+"3865176805b216cb",
+"bdee27890aec3b07",
+"8c43352def3bba28",
+"ea5cdb838b913470",
+"9cc408934a9aca7b",
+"0a3ada4a1619f42e",
+"8596045917c4d87b",
+"ef3d0ec3ddf3d989",
+"d16fe7bd5b18c1ee",
+"d2234ee168906981",
+"4b0a5e98853433df",
+"899c231ec6086885",
+"fd37095134ad76ac",
+"c053c77929fa9615",
+"91b1eed700425203",
+"3a8bf70ccb9dc7bc",
+"27a303e32f9bc18b",
+"f9b95ae01ca2563e",
+"e489ec0de76ef3ff",
+"c5706ea624685601",
+"96529095f30cf3cd",
+"19f731be3293ed49",
+"d1557b158fbe9267",
+"7faf9343a908752d",
+"120de10c9e66be51",
+"0da82508c8e04d18",
+"e641731c239ab81d",
+"699a1bb232ca37eb",
+"fcf466ec20678889",
+"7e50a3bf502ecf1d",
+"79c5decfac028c85",
+"94c90a3f86bd00b3",
+"52fe3a827c8c3443",
+"d33ba2ad1eed91e6",
+"a6a3a1aadb8f31ae",
+"d7138bf52fe9ea33",
+"38209ed283e6d157",
+"4a2208970147c5e0",
+"1977c8abfcf719e8",
+"e38b3852217df800",
+"d7130c18b2a5fd4f",
+"ec5403613fd456b8",
+"99b773ba84226a46",
+"9d3de0d536661d6a",
+"662c5330292e135b",
+"fceb4a1fccbd415c",
+"fea246d2d95fea5a",
+"c49d7b22482ea0e3",
+"eb207815c9cf56a3",
+"3c59096fe42927d5",
+"a90ac8614ffd1b6e",
+"072c37ce03b68c1d",
+"efbb4db034f210e1",
+"6e72d3207e829245",
+"14c6ee1221b5d484"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -9712,6 +9766,85 @@
 "летет",
 "прежд",
 "купи"
+]
+},
+{
+"ts": 1795026705.6686306,
+"title": "GTA VI взломали в день релиза на новой прошивке PS5? Хакер заявил о первых успехах",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMTd1aVE1VDFaTEFxall1SVJSVGlnQUQyWG1pS2d5enVWMmRDWjlyeGRxc3ExYkt2QmltQXFqajhmcnM0UWNPM1I4YzhkLXpBc2FFZVpwSlVHaXM2OFZXeE5HZExMQ3hrR01yRTFRemJaY0JOMnZ3TFVkOVNzcnRHM0VRd2RJMFV0d05Ic1BkclU5OC1IbVBNcG43bGRHWnVwX1RSVTMyWjQwazFMbGpyRzhzUzVXZVRDVVV0aDdR0gHDAUFVX3lxTE5FYmdVN3hMV040d3RkU1daY3U3SEVfTTlNeUpoTThGRG8tWVVDdWEtY3dCRVdxTUthUDZpcGF3SlJya3lTaVpJdE9xTklGU3BTWDNsczJvZjN2NmNKMm1GLTAyd2tfaUZxWko0Y2w5cmhnZFNNTFU3MWJKQmxMWG9kZlRTS3E0VmdYMWFKVTl5MVgyUTB1Mnh3UGE2TDBiRnNBSXhHQ1VmVWhhdldfZG0ya2pXekZNYTZqc1loeFBHcm1HUQ?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "iXBT.games",
+"score": 3,
+"kind": "news",
+"words": [
+"релиз",
+"успех",
+"ps5",
+"хакер",
+"первы",
+"проши",
+"новой",
+"день",
+"заяви",
+"взлом"
+]
+},
+{
+"ts": 1795026709.2985685,
+"title": "Как получить Слим Джима в GTA 6",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-slim-jim/",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/56BRYZarF8fzYxibbaoZbe-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"слим",
+"получ",
+"джима"
+]
+},
+{
+"ts": 1795026712.4795897,
+"title": "День запуска GTA 6: живые новости о самой большой игре года",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NYk0zaWJpWjh1T1psdXRtRHBiczlmY3ZBeTNVaFJrVVJGdDdYSVY1MTh3MVQ5a01LSjJTb2JxTms0MHRJeVNzU2x4aWdDUkdaMy1EcHZady15SDJFdWhUYS1NR2NEZTdBbmJhdU5n?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "Engadget",
+"score": 3,
+"kind": "news",
+"words": [
+"игре",
+"больш",
+"новос",
+"года",
+"живые",
+"день",
+"самой",
+"запус"
+]
+},
+{
+"ts": 1795026715.9210432,
+"title": "Как клонировать ключи в GTA 6",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-clone-keys/",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/7JnFQhcXfKXxucJNKQt3hS-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"клони",
+"ключи"
 ]
 }
 ],
