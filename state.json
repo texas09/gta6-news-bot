@@ -3544,7 +3544,37 @@
 "9d3fc8f4fb7e1c5a",
 "eb4ae8af85d6c3a9",
 "98ca6629c60dcaa8",
-"7f51d218a1454cf3"
+"7f51d218a1454cf3",
+"87fbfb11b28a0be0",
+"d0cb6bee89064fbf",
+"7000c29fc0bcc526",
+"eb5cbac412830fc8",
+"58b7eed025a404c8",
+"cf9ee897101611e0",
+"3ccb0aad8f1bfa5b",
+"4ed62eb16f8d29c5",
+"c6ee9630cc307060",
+"f68a8974168d9fde",
+"4836d6a5bd1d3387",
+"2eb9910b2a92fec1",
+"9f7b85cf88a87c90",
+"8fff96884a23a066",
+"f41d065b001d5986",
+"89f2683347abc53c",
+"89f2683347abc53c",
+"d8e0d761eee7807d",
+"2cb11ced39f65880",
+"0f9e751035ee8a90",
+"b8adf7f33b2c1424",
+"84b50641334733c1",
+"d36e7a2414608859",
+"77106b7096d44f05",
+"e8f1d534bf4df31f",
+"959cd24525971480",
+"cf2a331bbbfb0a58",
+"eb85283cf01e7e50",
+"8ab19133082798ea",
+"ce9da8364010fc2f"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -6905,6 +6935,109 @@
 "новой",
 "запус",
 "без"
+]
+},
+{
+"ts": 1794999716.2856352,
+"title": "GTA 6 не выйдет без этого антипиратского обновления для PS5, которое Sony только что выпустила",
+"url": "https://www.polygon.com/gta-6-grand-theft-auto-playstation-mandatory-ps5-update/",
+"tags": [
+"обновление"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/grand-theft-auto-6-couple.jpg",
+"source": "Polygon",
+"score": 4,
+"kind": "news",
+"words": [
+"тольк",
+"sony",
+"этого",
+"котор",
+"без",
+"ps5",
+"выпус",
+"обнов",
+"выйде",
+"антип"
+]
+},
+{
+"ts": 1794999719.4568503,
+"title": "Для запуска GTA 6 на PS5 действительно потребуется особый патч",
+"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSkxzNEFuZHJndEw2VFphMDRNNXA1YWNUYkpIRng3RGMtM2diTGxoaGhzNDJmRTVuZmlhcm93UV9wODMzS0JScDgyaUlHWTV2aDB0S3d1RUNQZWI4b0Q5VjFXS2Nibl80RlhFNnJFNUpQbFZkeFJBbUpCSkhXTUFCNmhWMGJ0aWdHeEJuX1BlRm9RV08zZGpnRjVDSVpyX0hqaHVqeUxB?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "Igromania.ru",
+"score": 3,
+"kind": "news",
+"words": [
+"особы",
+"дейст",
+"потре",
+"ps5",
+"патч",
+"запус"
+]
+},
+{
+"ts": 1794999723.4916956,
+"title": "Романтическое руководство по GTA 6: как на самом деле устроены отношения Джейсона и Люсии",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-romance-jason-lucia/",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/3sHZC8NBR3b3njThA3iVHF-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"руков",
+"устро",
+"роман",
+"люсии",
+"самом",
+"отнош",
+"деле",
+"джейс"
+]
+},
+{
+"ts": 1794999727.704506,
+"title": "Все читы GTA 6 и как их разблокировать",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/U2mFt6DGd5DhcWstmNHstX-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"читы",
+"разбл"
+]
+},
+{
+"ts": 1794999731.319481,
+"title": "Как получить бонус за предзаказ Vintage Vice City Pack в GTA 6",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-bonus-vintage-vice-city-pack/",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/bMkQ6VvMdc2JnuHAqggoHV-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"vinta",
+"получ",
+"pack",
+"предз",
+"vice",
+"бонус",
+"city"
 ]
 }
 ],
