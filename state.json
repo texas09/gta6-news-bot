@@ -3649,7 +3649,19 @@
 "bb99265a1b5e4dca",
 "dd55a034dc3f5a52",
 "d324c1a3dde7869d",
-"7431ee12de2a1bf8"
+"7431ee12de2a1bf8",
+"3478c206d0c00329",
+"f7f8eeb0564df715",
+"cbeaefe523020695",
+"059cbd43677fb1bd",
+"d0a09708cda011c4",
+"ffd2253baf3f2ce9",
+"7c12b57b69dbb8d9",
+"7682679be735e244",
+"b213e8e97cc7a37c",
+"17499c93a95eba71",
+"17499c93a95eba71",
+"8d69cd92f7b79b53"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -7335,6 +7347,26 @@
 "words": [
 "персо",
 "помен"
+]
+},
+{
+"ts": 1795005101.9140031,
+"title": "Трейлеры GTA 6 раскрыли только самое начало игры",
+"url": "https://www.championat.com/cybersport/news-6704392-trejlery-gta-6-raskryli-tolko-samoe-nachalo-igry.html",
+"tags": [
+"трейлер"
+],
+"img": "https://img.championat.com/news/big/a/r/trejlery-gta-6-raskryli-tolko-samoe-nachalo-igry_17950048932001551224.jpg",
+"source": "Чемпионат",
+"score": 5,
+"kind": "news",
+"words": [
+"трейл",
+"раскр",
+"тольк",
+"игры",
+"начал",
+"самое"
 ]
 }
 ],
