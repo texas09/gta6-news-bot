@@ -5586,12 +5586,39 @@
 "1f2c6ef1d3ea91b4",
 "a974288c2633f1d7",
 "019e2ea10fad1e3c",
-"cf06d8be1c4c897e"
+"cf06d8be1c4c897e",
+"b5f9d00b4faf33bb",
+"12c4b5e7481feb05",
+"0c702ba24070e001",
+"0af52ca9202ff2eb",
+"3473f9e8cf040ed5",
+"0bb34793c5d92fab",
+"50181492f1b0e0cb",
+"ac5df4cd470228fc",
+"fac5bbe95e2b0e6f",
+"bb6f0abdf7e2fce0",
+"621a5a9c6df58fcf",
+"8fb7c66e2375d8ab",
+"488ea95fedc2aac0",
+"15fd40ae6548b272",
+"08d456b12f4115b2",
+"08b839f929784a12",
+"668cdc6b8bfe1788",
+"8964bcd6b2749809",
+"90727800a7e11afb",
+"d3a2d681059999f4",
+"6005b760e22c2276",
+"3ed1cbd2ebcff29d",
+"e744e5fa502ac7f6",
+"0633cb6fca1130eb",
+"7e21f1db385e67f1",
+"3f4f03f28a7e38ea",
+"8be3831b3ae58a26"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328487,
+"tg_offset": 706328488,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -11367,6 +11394,33 @@
 "введе",
 "геймп",
 "часть"
+]
+},
+{
+"ts": 1795044073.8216457,
+"title": "В GTA 6 нашли локацию, которую Rockstar впервые показала ещё в 2021 году: внутри скрывается необычная пасхалка",
+"url": "https://www.playground.ru/gta_6/news/v_gta_6_nashli_lokatsiyu_kotoruyu_rockstar_vpervye_pokazala_eschyo_v_2021_godu_vnutri_skryvaetsya_neobychnaya_pashalka-1891966#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"гайд"
+],
+"img": "https://i.playground.ru/e/LMBqiAbu1gz5y6PGixHB1w.png",
+"source": "PlayGround.ru",
+"score": 3,
+"kind": "news",
+"words": [
+"необы",
+"локац",
+"котор",
+"rocks",
+"вперв",
+"внутр",
+"году",
+"ещё",
+"нашли",
+"2021",
+"скрыв",
+"пасха",
+"показ"
 ]
 }
 ],
