@@ -3100,7 +3100,25 @@
 "14242f1a4064dc4d",
 "71c162be1b38c3d4",
 "d137efca0d48d7f0",
-"9b7a5d4a724f9aa3"
+"9b7a5d4a724f9aa3",
+"c2d5333d6930f73c",
+"9f13f44b24071330",
+"4b279d0c81dc7729",
+"57ad99e30b1fcf3b",
+"d2663bca720c162c",
+"ccbdd3acb434e49a",
+"29ad307019783a91",
+"960a1ac30f1c0fbd",
+"73a4f907b639f2bb",
+"871525a3b9d3bffb",
+"c6a2898a1f2f9c60",
+"3184f392f7fc0948",
+"6525bad8680bfc98",
+"ea039ab6b440ed90",
+"52d351c04a33f342",
+"7d3cd190ad9c10e9",
+"564a130f1db205e6",
+"f211885ae3c07f42"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -4763,6 +4781,111 @@
 "школы",
 "погод",
 "дня"
+]
+},
+{
+"ts": 1794969103.1039674,
+"title": "Для игры GTA 6 требуется новое обновление прошивки PS5",
+"url": "https://www.pushsquare.com/news/2026/11/gta-6-requires-new-ps5-firmware-update-to-play",
+"tags": [
+"обновление"
+],
+"img": "https://images.pushsquare.com/475ec3fc1e4e1/large.jpg",
+"source": "Push Square",
+"score": 4,
+"kind": "news",
+"words": [
+"ps5",
+"новое",
+"требу",
+"проши",
+"обнов",
+"игры"
+]
+},
+{
+"ts": 1794969106.268097,
+"title": "GTA 6 сможет побороться за звание «Игры года» премии The Game Awards 2026",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTYzNUJ6aWZwOVVXVEhsdi1JOFJnaDBqSm1fM0NWcjBRdXNGbUpvR3diaHZFZjhoamNfUTdpZk14MlZ3WjAtQUhiMXJiRGktTWF0Wlg5Sk52ZVZiNjMwbzJKekFLdW42clJzZmJHWHRuZWVWOU1HTzdKbGxEU3lnRGJlRDllTmRtVnF4QTVFTEZab2I3YTZyZHphd1VZZ3UtWkh5Y1RwSi1FR0U3SWFpRFJobkR5QVB4LUQ0?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "rb.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"преми",
+"game",
+"звани",
+"2026",
+"побор",
+"award",
+"сможе",
+"года",
+"игры"
+]
+},
+{
+"ts": 1794969109.4317908,
+"title": "Rockstar объяснила, почему разработка GTA VI заняла 13 лет",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXBvaWJMaUFOU21WcWdESW1KS0pxYU5fVzNQVGJ4MUtoUnB4OEtNcWx6bTI0Nm1zY2tRSzltUE1aWUNfbHNzLXhiSFFoVDQzZVdmSWtYSUtHZFFWXzlLRVV6Z3JpWmNZRENGSlJGczRENkdpa2JRMm53bXNmQUI4WDZyVm4tNzdjcXhmMldCZUNnOWFOY3plTk1QMlg0Z0w4T1RVdk4zZ3l6YmlkTnfSAbMBQVVfeXFMTnQycWVYSG9NVVJyLS1jOHhjVkN1SEhqbVUtVFhfb0cwYVVGRFpQQUt2VUU0LWw1RFpTN0ZvQWdZNHhhUlRjQTFVLW9WV2VLLVRYQlJNbkRTWkZud29UZF9IeTBpdW0waHpDUEU2WWdieUNGVTRFWTZ2c3lScDRhczNxdEVGMFZOeHd6UzdoTDEzNzVobmFUdllSZnc4aEdqa0VQZzl6ZUoya18zMEwtd2lDNzA?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "iXBT.games",
+"score": 0,
+"kind": "news",
+"words": [
+"объяс",
+"почем",
+"лет",
+"разра",
+"rocks",
+"занял"
+]
+},
+{
+"ts": 1794969112.5823,
+"title": "Все на борту Vice City: обязательно загрузите GTA 6 сегодня",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdEoyM2NqTW1Sd2FsdUYwYzRrdDFvTFp0a2U5VEtzMkJSNExPZXE1S2FIekduaUxfcnNKSmlGTVdDR3oyaEFkV1FMa3JwbFpKWU85bThEYjRfQ0JhOWR0Mk9rZE1qQTBXYmRsSEx2U3pFT3RLMk5MdGFkTVVGMDREaFpUa19fS1NXQnplTHp3?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "PCMag",
+"score": 3,
+"kind": "news",
+"words": [
+"vice",
+"обяза",
+"борту",
+"city",
+"загру",
+"сегод"
+]
+},
+{
+"ts": 1794969115.7314148,
+"title": "Азиатские геймеры находят способы обойти цензуру, чтобы играть в GTA VI",
+"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSzRrcGN0aTJtVldEWHNkekFLcnZZTy16c3dLTDJKaVZBNHphemFrOGpYLVdrV01RU3hfR3ZsOFhSOUJDVEF2Mi1ZY2FjQmtSOWNCTFJQYXMzR2xGc3ZFSWZYYV96bFdIcW1rRTJUX1dfT1pmSGRHVTlrTlp4NWNPSkxsUlFLU1ZtZ3Vsb1duR0laUmowR2NoRkh2TVExRkdFQ0dj?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Resonate Voices",
+"score": 0,
+"kind": "news",
+"words": [
+"цензу",
+"наход",
+"обойт",
+"спосо",
+"играт",
+"азиат",
+"гейме",
+"чтобы"
 ]
 }
 ],
