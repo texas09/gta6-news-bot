@@ -3682,7 +3682,31 @@
 "ef54511610da1fe7",
 "51e13d049eb1ab79",
 "67da76c45c944b72",
-"ea60fa9f89ba0ca1"
+"ea60fa9f89ba0ca1",
+"77d196cb5fb1d276",
+"7f01d0e22b541291",
+"ec388c649ef7d3cc",
+"164bfdd1a6b1a274",
+"0f68cd2a183e05cc",
+"40d91169c0a80b6a",
+"ecd6254ddf744f03",
+"7a277c677de0edba",
+"137ef46bf68be586",
+"0a84d121557627aa",
+"87ee5a309669f925",
+"1781c84e2dbd49b8",
+"4b8ec135d12b02ee",
+"cabe49590f7ac30d",
+"e14ac62e31583c16",
+"59a96a951191ff30",
+"d9eea602f6750d31",
+"e3e73c4b85761915",
+"021ea2600fd140a7",
+"561a11a7d8169c69",
+"92e024a502c2b899",
+"0f2a63b7e2d97278",
+"3a105284d8707ede",
+"9355948594f14ad3"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -7470,6 +7494,86 @@
 "центр",
 "прохо",
 "полно"
+]
+},
+{
+"ts": 1795007017.8449948,
+"title": "Как получить эксклюзивные скины тропического оружия GTA VI",
+"url": "https://rockstarintel.com/how-to-get-the-exclusive-gta-vi-tropical-weapon-skins/",
+"tags": [
+"гайд"
+],
+"img": "https://rockstarintel.com/wp-content/uploads/2026/11/My-Great-Capture-Screenshot-2026-11-18-11-51-08-copy-1024x576.webp",
+"source": "Rockstar Intel",
+"score": 3,
+"kind": "news",
+"words": [
+"экскл",
+"получ",
+"оружи",
+"скины",
+"тропи"
+]
+},
+{
+"ts": 1795007021.1494987,
+"title": "ГТА 6 предустановлена? Перед игрой убедитесь, что вам не нужны дополнительные обновления",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLUtPRFh4U3NzdTNJVllYRnBNY3hLUGxYellrRHB6UHdDUlZ4MHp3ekRvczNvR256MjQyVlgwX3Uxd0wyWm1hMkVnMzRpSkpNR2tndXZPcmN1em9zSEV3NjFEWnFnQTNMbThtNTgycTB1dGpWNEt2eklnNFJ4WTByN3JFakdPWG9MV1F0eER1UjdSNHh5MTd0aEVIUQ?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "PCMag",
+"score": 3,
+"kind": "news",
+"words": [
+"игрой",
+"убеди",
+"допол",
+"преду",
+"нужны",
+"вам",
+"обнов",
+"перед"
+]
+},
+{
+"ts": 1795007025.707674,
+"title": "Прохождение миссии пролога GTA 6",
+"url": "https://www.videogameschronicle.com/guide/gta-6-prologue-mission-walkthrough/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Prologue-Walkthrough-5.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"проло",
+"прохо",
+"мисси"
+]
+},
+{
+"ts": 1795007030.092711,
+"title": "Руководство для начинающих GTA 6: 6 советов, которые нужно знать перед запуском GTA 6",
+"url": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/blehh-4.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"совет",
+"знать",
+"начин",
+"нужно",
+"котор",
+"запус",
+"руков",
+"перед"
 ]
 }
 ],
