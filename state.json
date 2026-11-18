@@ -2938,7 +2938,61 @@
 "902131715d1f2101",
 "bf5527d23f171af6",
 "2fc2a0860ab257fc",
-"919a85190e55533b"
+"919a85190e55533b",
+"c5a63e1105fc18ab",
+"58574429f8585484",
+"e310b1e26b54f0fd",
+"923156422c60d6ba",
+"39314732d59c1dca",
+"1bbc5be51bb4b83e",
+"644b7853773a4c0c",
+"717e4df5fac28817",
+"9eb564a5d254868c",
+"2792731cbab5eaa3",
+"6a965ed444315b3a",
+"a90c57cfb85f2987",
+"fba0c5c9ade1aea6",
+"addf923eb74899e8",
+"1c48c1ef77ff9c43",
+"ed503e41ab1d1e5d",
+"a07e9d2825990b93",
+"41855546d141de08",
+"ff3ab7a8444ba6d0",
+"4315104dff686650",
+"6d051ab44116d02d",
+"8c54f82ac11ff4f3",
+"e54bd802dbf2229a",
+"767cabc95054151d",
+"bb52296ab6515773",
+"1b101bdc9c5242b7",
+"037eadffa341b442",
+"6d0812964bd934dd",
+"75e7fe8097bcd8ef",
+"273c5975550bd5b0",
+"0eeae4bed2f52573",
+"c107fb520ef09fd1",
+"f760fafe73d9f388",
+"0db079aa0e185b71",
+"995a83258560a784",
+"3fb5cc82e1dfe5cb",
+"84c493ffab2a300d",
+"84c493ffab2a300d",
+"908a8e3947645292",
+"31ecdf9f84550285",
+"9bc6aa3c6b56fb2b",
+"bfe6c55be70f3d78",
+"894b64f3ea62af7e",
+"033361a0995995a3",
+"3a107b798d777f96",
+"b96c67d6702fd704",
+"98ea49fdd228c915",
+"3280878cb47cd1ba",
+"d697436417dd0bc6",
+"ce5336a6524c0b2c",
+"724268d2d02f5b16",
+"101fc151aace327a",
+"14a686ffa92aa1d1",
+"99220e251916e502"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -4148,6 +4202,116 @@
 "релиз",
 "года",
 "получ"
+]
+},
+{
+"ts": 1794960683.6494176,
+"title": "Только половина двойных главных героев GTA 6 была отмечена наградами The Game Awards, к большому удивлению фанатов",
+"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2plTHhTTDJZMExhaVFPT3RGbzZvOUQxS3loaGxYRlZ0cDR6OGZnb0ZEZXZrTGwwUmsyYXBFMlVmd0sxbGIwUncyaUFiZlpnUU12VTV6b3NNQ01ZYU5DVXFkcUhCV20xYTFqSFV3aTB1bWFKNF81YlBONng1M2QzRDZZVHo5cXpJRTM5VnpkS2FIdF9Zc1laNktfR3VLU3hJRTI0M3k0VVhiTTQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "IGN",
+"score": 0,
+"kind": "news",
+"words": [
+"тольк",
+"отмеч",
+"герое",
+"game",
+"удивл",
+"главн",
+"награ",
+"фанат",
+"больш",
+"полов",
+"двойн",
+"award",
+"была"
+]
+},
+{
+"ts": 1794960686.847782,
+"title": "Обновление 1.002.001 для GTA 6 выходит на PS5 за три волны до запуска",
+"url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQkNVaGdxQTRreVY5c2p4VDRPa3k4V1B2T3ZsZi1FSE8xUmhCazh6SEpYS2JxbUp6eV81eHpxenRpM1A3WkljTWtSemZpWS0xeTk3V19lWjJpRTRoVWRlR1Jxak9PVmQ0OWU2MTYtYmE4V3FsMmFXNnZyS1lqc05lVkpkcE1vOEE0d1J5cFhsalM4bG51M3RBbldkZndPUi1wNldBcFU1UExyblRwUkMyZlBMRXdaLU9JVFF2VmltX0RJM2hvOXdLaThXc1NUYTVCVjdqTzY1WDJYWlNKTHhXdWEtbzZvMXRMcTg1cVNn?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "Forbes",
+"score": 3,
+"kind": "news",
+"words": [
+"запус",
+"выход",
+"ps5",
+"001",
+"обнов",
+"волны",
+"002",
+"три"
+]
+},
+{
+"ts": 1794960691.4130952,
+"title": "Новые скриншоты GTA 6 Surface Online с новым оружием и сценами",
+"url": "https://insider-gaming.com/gta-6-screenshots-surface-social-media/",
+"tags": [
+"новости"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/gta-6-2.jpg",
+"source": "Insider Gaming",
+"score": 1,
+"kind": "news",
+"words": [
+"новым",
+"сцена",
+"surfa",
+"onlin",
+"скрин",
+"новые",
+"оружи"
+]
+},
+{
+"ts": 1794960694.5924933,
+"title": "Вы уходите с работы, чтобы поиграть в GTA 6? Расскажите нам об этом",
+"url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS04xTGxGUTJuRDYyZENmZDZDNTNQWm5ZdjVRU3VvYktrdmpOUHZ3bDFEdThSZ3FwNWZkX3FtZXEwejRFSXhxQXpDYkFWdm1tVkdfRC1uUXZnZWpfUVBlUE1KOTh5LTVueHVIMEVBT3pGVXFiSTI5SElDWlhkWm9ybWxqSEpkTjVZYndwOWJFbkZpdlJkaTBlag?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "The Seattle Times",
+"score": 0,
+"kind": "news",
+"words": [
+"этом",
+"поигр",
+"работ",
+"уходи",
+"расск",
+"чтобы",
+"нам"
+]
+},
+{
+"ts": 1794960697.7786257,
+"title": "Отчет о мировом бизнесе | Оправдает ли GTA VI шумиху?",
+"url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xeE1nc1NxZWp1aFZ3VGl1aG1Idi1pLWlKLS1HZzN6Qy04am5lVjZNbkg5ZWRTUjJoUU9mbUM1SWRlSWI2ajlZUlJFZGkwMkRW?oc=5",
+"tags": [
+"слухи"
+],
+"img": null,
+"source": "BBC",
+"score": 1,
+"kind": "news",
+"words": [
+"бизне",
+"шумих",
+"миров",
+"оправ",
+"отчет"
 ]
 }
 ],
