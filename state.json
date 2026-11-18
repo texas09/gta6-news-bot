@@ -3322,7 +3322,25 @@
 "657b4d63439e2a46",
 "6c322eaa75a4154a",
 "2382944bb5e6ec24",
-"04db73eab07ddeab"
+"04db73eab07ddeab",
+"2d8bee29061c8fe6",
+"0b3a2e2e7c0929c2",
+"35185ddccc54a789",
+"d4d8e2d2136da72a",
+"eedcd0c202a39091",
+"cf8aef1c782589e9",
+"f536bd657ab56a1d",
+"f6b4c830e5d18857",
+"315c5dc4a95fd787",
+"ffa3de2c5a77a13c",
+"b27348339d28aa97",
+"ef9c86c588c154e0",
+"64139a12e04234cc",
+"9c9ac4acc559b22b",
+"c5dc2833af405c3f",
+"98fd88b93551285c",
+"98fd88b93551285c",
+"d0ece036b7e930bc"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -5931,6 +5949,90 @@
 "того",
 "зараб",
 "нее"
+]
+},
+{
+"ts": 1794985865.6809022,
+"title": "Фонбет разыграет PS5, GTA VI и фрибеты по 20 000 ₽",
+"url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45TDVCREtaUUpQRWRLYW9fdzB4WmZKYXJoNUVEdXVOdGxZdDkzUUoxc1l1MHpkQ2hRWDdiaFJTbkZHRVpLaG1rYzVnUkJ2cEQwZHRieE05bVFULW1CWVJVdndVbGpvS2M?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Ставка ТВ",
+"score": 0,
+"kind": "news",
+"words": [
+"фонбе",
+"ps5",
+"разыг",
+"000",
+"фрибе"
+]
+},
+{
+"ts": 1794985868.8397682,
+"title": "За сутки до релиза на Таймс-сквер появилась реклама GTA 6",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS0dnOUhkWWpQSzZrRFVlUFZqYS1PX1lfZ1JwWlFtSmpHWmk4cUk5bUR1VjlXSVpub05hdUtPWE16NjRZUDUtcXNKVGRqVG5OZGdsdmI3akNXcm1QbERQWkwyUmdqLWloMGRYVzZOQWpHQzhRWGZRTF9rak9MbHQ2RnJNT2dQZ1hSVjJSYnQ3b0JZZw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Газета.СПб",
+"score": 0,
+"kind": "news",
+"words": [
+"таймс",
+"сквер",
+"появи",
+"релиз",
+"сутки",
+"рекла"
+]
+},
+{
+"ts": 1794985874.3256347,
+"title": "Pocketpair решила не конкурировать с GTA 6 за внимание игроков - новости о будущем Palworld подождут",
+"url": "https://www.playground.ru/palworld/news/pocketpair_reshila_ne_konkurirovat_s_gta_6_za_vnimanie_igrokov_novosti_o_buduschem_palworld_podozhdut-1891693#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/Dx1njcc1ZDDmCDtEbGFyxw.jpeg",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"подож",
+"palwo",
+"внима",
+"решил",
+"новос",
+"pocke",
+"конку",
+"будущ",
+"игрок"
+]
+},
+{
+"ts": 1794985878.8768387,
+"title": "Номинанты The Game Awards раскрыли голос Лусии в GTA 6 раньше Rockstar",
+"url": "https://shazoo.ru/2026/11/18/194222/nominanty-the-game-awards-raskryli-golos-lusii-v-gta-6-ranse-rockstar",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/891904_BvQXDKB_03e0m9lav92i1.jpeg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"голос",
+"номин",
+"game",
+"лусии",
+"раскр",
+"раньш",
+"rocks",
+"award"
 ]
 }
 ],
