@@ -5246,7 +5246,16 @@
 "38b1c6aff204d04d",
 "9eb2801d0714070a",
 "1dc6a12af6c4eb2d",
-"adcfb852a28f47cd"
+"adcfb852a28f47cd",
+"c3bdc81fa020af6c",
+"c3bdc81fa020af6c",
+"9166cced837dbc14",
+"b7aee8bd591f9422",
+"805cc3e7fd92c0d5",
+"fa315a428c681beb",
+"874db52389aa6dad",
+"54a5a97d1430a0f5",
+"d76e4aa2855e81d2"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -10555,6 +10564,34 @@
 "десят",
 "прохо",
 "игра"
+]
+},
+{
+"ts": 1795035080.699349,
+"title": "GTA 6 запускает живой блог: новости, анонсы, Twitch Drops, советы и каждое обновление, которое выйдет завтра",
+"url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeEVobHFTTUFVcFhOQWRyOGRiYmFwZ3pvT3JMZjgwdmZJS2hPU1JvR2Q4cFlNNnF1ekdCelVoNjNrSnZpbTZuZ3gyQm9OVnIxRW55YWF1aEotLTQ2SUVEMDRSNGRBbTVFOUJ1T0hVZlNiN1NTNWFEY0JuaFo3dWNhLWVlQWp0UHFjbDZOcVp4NWFvaGxOc2oxaDZfa2p1dmRMandHU3VLc2dTOEtWNXprUUxKVHR1bDhvRnBIWHAyZWotTFUxN21Z?oc=5",
+"tags": [
+"обновление",
+"гайд"
+],
+"img": null,
+"source": "PCMag UK",
+"score": 5,
+"kind": "news",
+"words": [
+"совет",
+"новос",
+"анонс",
+"завтр",
+"блог",
+"каждо",
+"twitc",
+"котор",
+"обнов",
+"выйде",
+"запус",
+"drops",
+"живой"
 ]
 }
 ],
