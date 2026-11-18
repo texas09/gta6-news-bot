@@ -3661,12 +3661,33 @@
 "b213e8e97cc7a37c",
 "17499c93a95eba71",
 "17499c93a95eba71",
-"8d69cd92f7b79b53"
+"8d69cd92f7b79b53",
+"de0d5fe2ea9ab4bb",
+"e8ed4e36fddb30e9",
+"c1c0f1acc305848c",
+"6e4f990740a23ae5",
+"10ff0d818850e1d5",
+"77738e30f79f3f57",
+"7ea413ed45f34333",
+"792027ceedf139aa",
+"6d114095c1fad63c",
+"6f178363e8577792",
+"a797509fcc6fad74",
+"c269e1a95a4bed30",
+"576345fd0822b935",
+"576345fd0822b935",
+"8ad95191b3d45075",
+"693c0e5c1f9852e2",
+"1c6ed41dbc5f55ff",
+"ef54511610da1fe7",
+"51e13d049eb1ab79",
+"67da76c45c944b72",
+"ea60fa9f89ba0ca1"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328387,
+"tg_offset": 706328388,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -7367,6 +7388,88 @@
 "игры",
 "начал",
 "самое"
+]
+},
+{
+"ts": 1795005671.8473692,
+"title": "Как поменять прическу в ГТА 6",
+"url": "https://www.videogameschronicle.com/guide/how-to-change-hair-in-gta-6/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/how-to-change-hair-in-GTA-6.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"помен",
+"приче"
+]
+},
+{
+"ts": 1795005675.016438,
+"title": "Sony сделала обязательной установку прошивки 14.23.00 для PS5 перед запуском Grand Theft Auto 6 — всё ради борьбы со взломами игры",
+"url": "https://www.goha.ru/sony-sdelala-obyazatelnoj-ustanovku-proshivki-142300-dlya-ps5-pered-zapuskom-grand-theft-auto-6-vsyo-radi-borby-so-vzlomami-igry-dvLKyy",
+"tags": [
+"обновление"
+],
+"img": "https://images.goha.ru/E:BS/zi/ueXQUSYmrM.jpg",
+"source": "GoHa.Ru",
+"score": 4,
+"kind": "news",
+"words": [
+"взлом",
+"игры",
+"сдела",
+"перед",
+"устан",
+"ps5",
+"ради",
+"sony",
+"запус",
+"всё",
+"проши",
+"обяза",
+"борьб"
+]
+},
+{
+"ts": 1795005678.1795106,
+"title": "Как включить 60 FPS в GTA 6 на PS5 и Xbox: гайд по генерации кадров",
+"url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVE1rc0xSaUhlNnJEOVp6bTN3VS1LYXg5MGY5b29ablh4bGtNNU5uSGxIVXFRdkZfSmxWVklyMHgxbmNsclhwOXg3OGFwQ0ZFVHNCUnU2UGpTcFFQcUdjRXIwZ3Y5MkZGbS1WV1Y3bHd5WGhGS3ctZUxYdzU1ZkR1Wm9LSUpYUVZkYjJCNmVUUDdWY1BLYzdJM0VETmlBeTY4ZVZUa0VrQVNMelM4M3Q2ZkZGZ0FFOGVob1lyX1l4eTZQeWpHUnBF?oc=5",
+"tags": [
+"гайд",
+"настройки"
+],
+"img": null,
+"source": "SIMHOST",
+"score": 4,
+"kind": "news",
+"words": [
+"xbox",
+"ps5",
+"включ",
+"кадро",
+"гайд",
+"генер",
+"fps"
+]
+},
+{
+"ts": 1795005682.7886412,
+"title": "Центр полного прохождения Grand Theft Auto 6",
+"url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/10/grand-theft-auto-gta-6.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"центр",
+"прохо",
+"полно"
 ]
 }
 ],
