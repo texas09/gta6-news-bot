@@ -3493,12 +3493,30 @@
 "69ecb4103767c821",
 "14331e21ce921009",
 "73637466527ba9d1",
-"3b830467bfb34f09"
+"3b830467bfb34f09",
+"e5c194518059ef43",
+"84a17d2d457d0606",
+"3b34fc5811b08446",
+"bbdf409be3c0b31d",
+"1fa75e4d5eee1e7b",
+"1973206ec6d97fb6",
+"55ab4c58a875b696",
+"7134756cd8fe9f82",
+"e76dffca92446ee3",
+"eb77bba9aaca3fed",
+"72b0583bd188a9bc",
+"08f9d1d04c0bc290",
+"0f1fa3623e83d678",
+"990c6649de3cc3e6",
+"70959db9a4ab81d4",
+"828ce6b41e74a7ea",
+"c08f13650501cace",
+"1fed216826395df3"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328367,
+"tg_offset": 706328368,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -6763,6 +6781,97 @@
 "ps5",
 "систе",
 "получ"
+]
+},
+{
+"ts": 1794997281.7056422,
+"title": "Игроки GTA 6 на PS5: обновите свои консоли сейчас, чтобы избежать задержек",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VR3p4b1BpYTdlQ3laRjJuSnhCYmNCWGZ4VFFOVzJaLUs1NENGX3FYYllzYUdnNFZlOXdMTk9XVmx5cEthSm5wZzhxenF4V2hfZHAyYTlNNU1yTVdfV3dKODhtWlBORHVGMEh1Vkd3WUY?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "Mashable",
+"score": 3,
+"kind": "news",
+"words": [
+"избеж",
+"ps5",
+"игрок",
+"консо",
+"сейча",
+"чтобы",
+"обнов",
+"свои",
+"задер"
+]
+},
+{
+"ts": 1794997284.8674176,
+"title": "Обзор GTA 6 в прямом эфире — последние обновления, поскольку критики выносят свой вердикт о новой Grand Theft Auto",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FaGlDNXBDeHNDV1Joa21VRS0zMGQyX2s2YmhkdlpzQ3NTU1ZJQzRqZVg5VHZESGVnRXh3cE5GYkZPQm0zSDl1ZW9saUEyRGhXRzdKUVhIbjBydFBoSGlDTm96WERtXzJ2N2xiNTdUMDRjd19YeERCYg?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "Tom's Guide",
+"score": 3,
+"kind": "news",
+"words": [
+"после",
+"прямо",
+"крити",
+"поско",
+"верди",
+"новой",
+"свой",
+"обзор",
+"вынос",
+"обнов",
+"эфире"
+]
+},
+{
+"ts": 1794997288.0218399,
+"title": "Хитрость с GTA 6 для Новой Зеландии: как начать играть на Xbox и PS5 заранее",
+"url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzc1VVSHVleTBqbGxuYjVQUU9vb19Fbkc4R2hpMThHTERQdEJ6ZUQwN3phaUE3SUxXM296TVo3SGhla3JXNjJiTEhjWUVGQTA1UlV2M09sYUI1UnJHSktCS0RoOEtuTzBl?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Techloy",
+"score": 2,
+"kind": "news",
+"words": [
+"начат",
+"ps5",
+"хитро",
+"заран",
+"xbox",
+"зелан",
+"новой",
+"играт"
+]
+},
+{
+"ts": 1794997291.2062116,
+"title": "Sony подтвердила: GTA 6 не запустится на PS5 без новой прошивки",
+"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVmxlWXpDMWdyamFHVjQ2d3J5NTNtZmJmaGYxWC1WWkJqeXh5bVZESUpadzZEU0FuSExSLW4xYmZuS3g4YlZVUVlKcmJ2NnRBSWs2a1IxMVdGSVFLVUd2RzRKci1NVWM1ZjBxOEtWZThodUxKSWY0S0trQU1LX2w0QXBNTnFuREdTUUlLRVJ5RXlhVDN0enBmamZnRnVETGNFUzUwSUpNQTVpZU0?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "CyberMeta",
+"score": 3,
+"kind": "news",
+"words": [
+"ps5",
+"проши",
+"подтв",
+"sony",
+"новой",
+"запус",
+"без"
 ]
 }
 ],
