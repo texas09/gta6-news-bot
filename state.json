@@ -5137,12 +5137,70 @@
 "3993d4aac53600c4",
 "f48e34c12995283c",
 "9f33c33cc17950b4",
-"cbbb9cd8a2b5eee8"
+"cbbb9cd8a2b5eee8",
+"e61d65ed1d0e2e77",
+"e61d65ed1d0e2e77",
+"9ef9fa0a55c3b045",
+"f9cedc06d86b5057",
+"c8ebcfc3fd3f2a5e",
+"c739e21e1ff2a819",
+"d940826f4b18a873",
+"6c583f807c22ed83",
+"0f8faab78f3980cd",
+"644f4986d034bfbb",
+"a0f2bb23aa4a63ec",
+"2df680f6fe6d9e40",
+"a1d000d64ee314d3",
+"3f3bd476bdca09f8",
+"7584ae738e747dbe",
+"2b0e08abfa12de34",
+"90cc813f9dd790d4",
+"1721b6e45a81b262",
+"adf9ac46863c7d31",
+"db9cf612996cee0c",
+"f99a26693205feae",
+"125aee7a8ed417a6",
+"0019b76dd5cd634c",
+"107eee5efec4699f",
+"b87f296d212d83b2",
+"6c5c1b86ff1a7ad1",
+"259fb15a511deb3e",
+"8cecc165c272ba5e",
+"9d11375fe4515afb",
+"dd564cd8359186ec",
+"40f02666443c6e87",
+"11e27348a962ad2c",
+"aca25b40941ab692",
+"e5a03caceb63721a",
+"afe3bd84397fa2fd",
+"f32f45b2a57d981a",
+"6850f3932be98d3e",
+"a9bd1bd8fd948acb",
+"baa178d7eaa0973d",
+"c21046c4f43bfceb",
+"befec1d97371deb8",
+"43a9019419a84f74",
+"cd24cc215aa3b0da",
+"8416edfa0b0c32fd",
+"3b25ca9d4c69c884",
+"84db0c64ffb1bc2f",
+"f78e73bd04fa2e86",
+"f880cdf106c5c98f",
+"e81fd765eb28959d",
+"191efdeca9599884",
+"017648a876c551cb",
+"a0d0884fda6cc16a",
+"a0d0884fda6cc16a",
+"d0f8b5ef60b2582d",
+"caa0204c33869521",
+"38ab08c9c3a939a2",
+"de55dd838a3d5cfc",
+"583ec414ff2e838a"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328458,
+"tg_offset": 706328459,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -10308,17 +10366,155 @@
 "опров",
 "слухи"
 ]
+},
+{
+"ts": 1795033357.5051408,
+"title": "Как владеть большим количеством автомобилей и других транспортных средств в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLUlfbjBBcWxWZ2FNbkVlR2dlLXZpTjRkbUhrUUdncFB3MXRpZjZDMkJrcWdmR0tmUThoaEE2MzA1YmhQM0Y5SEMyVlZPRlI1Z1B1NEkzZ1pxQUZjeHl6bTJLcDJpa2NsNHpLZ3hOLXRsbDhQUllTQ0tWR2ZkNjZCUVY4LVRTSGpVaUtF?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "GameSpot",
+"score": 2,
+"kind": "news",
+"words": [
+"средс",
+"транс",
+"автом",
+"больш",
+"владе",
+"други",
+"колич"
+]
+},
+{
+"ts": 1795033360.6642392,
+"title": "Как получить пистолет-отмычку в GTA 6 и взламывать замки",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOak1uTFhLNklYWGxwWmphRUM1cmMtM0hHbHF1SVNuM1FkbktGbTRrLTlKVFNibTNFd0VYSVQtdnM0MXNFNFhTdGpnTlpoS004dnQ0OVdORTItNVNULVNRQ0ZvZExMVHExTDl0Qi1peFRaNno4bTBmcncxT2l5NEEyeXdQSkhiVkZRUUFQU3Z2Vi1lZw?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "VK Play",
+"score": 2,
+"kind": "news",
+"words": [
+"отмыч",
+"взлам",
+"получ",
+"писто",
+"замки"
+]
+},
+{
+"ts": 1795033363.858045,
+"title": "Военная база в GTA 6 — как найти танк, вертолет и истребитель",
+"url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYko3UEc4YXdGcXZ3dzhJYVE3enRFQ0thQXZieGJKQW1kOEl1RU50bnh0RUVYUGN5a2NvRWZrVXI2VXlJOVR2aXhIb0Z1dHJraEZJb29lTnd5SVR0WFhPZ1RudmpKV3F6M05paFlnOWZMaXppTVBFTVkwTkY2Skh0dmtZQTF3YXJDYkVpZngxUU9iWXAz?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "VK Play",
+"score": 2,
+"kind": "news",
+"words": [
+"найти",
+"база",
+"военн",
+"истре",
+"верто",
+"танк"
+]
+},
+{
+"ts": 1795033367.018173,
+"title": "Завершились слушания по делу об увольнениях в Rockstar",
+"url": "https://stopgame.ru/newsdata/73559/zavershilis_slushaniya_po_delu_ob_uvolneniyah_v_rockstar",
+"tags": [
+"новости"
+],
+"img": "https://images.stopgame.ru/news/2026/11/18/Yjnqiyyj.jpg",
+"source": "StopGame",
+"score": 1,
+"kind": "news",
+"words": [
+"слуша",
+"делу",
+"rocks",
+"уволь",
+"завер"
+]
+},
+{
+"ts": 1795033371.0018442,
+"title": "GTA 6 ВЫШЛА! - СТРИМ ШИМОРО! - ПРОХОЖДЕНИЕ НА XBOX UBER SERIES X БЕЗ DLSS 5",
+"url": "https://youtu.be/uVBSjaKoZhk",
+"tags": [
+"видео"
+],
+"score": 2,
+"kind": "viral",
+"img": null,
+"source": "SHIMOROSHOW",
+"words": [
+"прохо",
+"uber",
+"вышла",
+"xbox",
+"шимор",
+"без",
+"serie",
+"стрим",
+"dlss"
+]
+},
+{
+"ts": 1795033374.1567013,
+"title": "GTA 6 НАКОНЕЦ-ТО ВЫШЛА! Пошла движуха в Вайс-Сити! #1",
+"url": "https://youtu.be/NXtfe1zdbQE",
+"tags": [
+"видео"
+],
+"score": 2,
+"kind": "viral",
+"img": null,
+"source": "Видео от SoLiD'a",
+"words": [
+"вайс",
+"сити",
+"вышла",
+"пошла",
+"движу",
+"након"
+]
+},
+{
+"ts": 1795033377.3062518,
+"title": "GTA 6: ИГРА ДЕСЯТИЛЕТИЯ ➤ Grand Theft Auto VI ◉ Прохождение 1",
+"url": "https://youtu.be/OQ1ChQdQ48M",
+"tags": [
+"видео"
+],
+"score": 2,
+"kind": "viral",
+"img": null,
+"source": "TheGideonGames",
+"words": [
+"десят",
+"прохо",
+"игра"
+]
 }
 ],
 "digest_date": "2026-11-18",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-18",
-"viral_checked": 1795026069.4286098,
+"viral_checked": 1795033370.0184917,
 "viral_ts": [
-1794942693.4130518,
-1794942696.725639,
-1794942702.4534361,
-1794942706.4796717
+1795033371.001843,
+1795033374.1567006,
+1795033377.306251
 ],
 "group_id": -1003664956927,
 "group_checked": 1795014067.2833996
