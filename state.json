@@ -5351,7 +5351,52 @@
 "e2afa528e32515be",
 "507659922e070b08",
 "d26b15173e27dedc",
-"d9ace1d7ffecdf6c"
+"d9ace1d7ffecdf6c",
+"9f7caabd1316b1fa",
+"9f7caabd1316b1fa",
+"a38dbb0bf13bcc51",
+"06d1f0dc148799df",
+"686167fbc1f91f2d",
+"aac572cac46b6448",
+"9fc3063bad0632e1",
+"4c2200060d171279",
+"87c48f433f0ee0b3",
+"0091f0cc23b96adc",
+"572f0a5661849de3",
+"e04d01af7109caf6",
+"185f17002842a3ea",
+"ffe2a14effbee95f",
+"0ee30c9660ec7c1f",
+"a14f48323629c91e",
+"cc9ac445f7cf159b",
+"a1fd8ef234d6b6a6",
+"72baf8baad2daa92",
+"f6ced17ec3be41bc",
+"42d9168537fb0adb",
+"43ba33a0b2356208",
+"2a12a8247abf8cac",
+"ed34c3eff65a4598",
+"ff4be3403c14aff9",
+"b3413f513b71ee34",
+"3ec8154105e62deb",
+"31012d3e797845d9",
+"8a6ffdbfbb591e9b",
+"f695245c550a6b6c",
+"00915754f2723fe5",
+"a85e8888b44e63c2",
+"ede42acbb9ec2c18",
+"18cbf62138ebfa31",
+"18cbf62138ebfa31",
+"e29ddf29673fa4aa",
+"0e88986fc4123bb5",
+"0e88986fc4123bb5",
+"1ef727f4dfca0a2a",
+"bc093ceec1a74fcf",
+"1c8cf7e5a155b3eb",
+"7de2b361ec749b7e",
+"7c2714ed2d26d68b",
+"a853f52779239543",
+"18ee1e2941e7336d"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -10733,6 +10778,151 @@
 "media",
 "рекор",
 "virgi"
+]
+},
+{
+"ts": 1795037522.5398257,
+"title": "Как найти квартиру Декстера Моргана в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTDBuZ2U3dnN6Q213NF82QnJQcDBjRXBCWjNtRFhmYWZXWWNRVWduckU4cC0zZ3FMV1VjSXJRVzVFd3FRemtXeUVuUVlBUVAtYnp3R2FYa0syQ1ZkRUxCcVhxaTdZeGNla0FGbHVJMjFmRmx6Z3dtUHNWTncxN1BsU3U3VDd2NkE?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "GameSpot",
+"score": 2,
+"kind": "news",
+"words": [
+"кварт",
+"найти",
+"декст",
+"морга"
+]
+},
+{
+"ts": 1795037525.8711455,
+"title": "Путеводитель по животным GTA 6: что можно увидеть, погладить, охотиться и ловить рыбу в Леониде",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBudExMV3Nzc2FpdFREY0NBMDhONWdlcUIyd1FDN0xGZXpYNkkwbXZxbWFCYUxoMFUtb2JMejlfUHNOQl9JRUtYQmNleVkxRjIyVnlHSjlEMUk3MGp0ZkR4TFI0X0pmRXVRY1lPY3FyMXo?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Mashable",
+"score": 2,
+"kind": "news",
+"words": [
+"охоти",
+"леони",
+"погла",
+"ловит",
+"рыбу",
+"увиде",
+"можно",
+"живот",
+"путев"
+]
+},
+{
+"ts": 1795037529.0667715,
+"title": "Как играть в GTA 6 все выходные, не разрушая свое тело",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWxVaUJQNmJyZjdncGJWS2FZQ2FrbTcybE9CRXIySGlQMlhTeWlUM0Z6MEpmamtUdzJPUVVJYkg0TWotQy11Qk9OX2FLdlB4b19nQ3MydEFEbUxyaHdVRmxhaGRRd002cU1YcGhycHM3Q2xkei0xUDZjMElHeWg2dVNn?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "GQ",
+"score": 2,
+"kind": "news",
+"words": [
+"тело",
+"играт",
+"разру",
+"выход",
+"свое"
+]
+},
+{
+"ts": 1795037532.2661161,
+"title": "GTA VI наконец вышла. Что нужно знать о долгожданном продолжении серии?",
+"url": "https://stopgame.ru/newsdata/73553/gta_vi_nakonec_vyshla_chto_nuzhno_znat_o_dolgozhdannom_prodolzhenii_serii",
+"tags": [
+"новости"
+],
+"img": "https://images.stopgame.ru/news/2026/11/18/lleJJSN.jpg",
+"source": "StopGame",
+"score": 1,
+"kind": "news",
+"words": [
+"серии",
+"продо",
+"након",
+"вышла",
+"нужно",
+"знать",
+"долго"
+]
+},
+{
+"ts": 1795037537.2464063,
+"title": "В канун дня релиза GTA 6 произошел сбой в сети PlayStation Network",
+"url": "https://www.polygon.com/gta-6-is-psn-down-detector-account-services-busy-server-connection-error/",
+"tags": [
+"новости"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ultimate_edition_grotti_cheetah_02.jpg",
+"source": "Polygon",
+"score": 1,
+"kind": "news",
+"words": [
+"канун",
+"дня",
+"сбой",
+"релиз",
+"netwo",
+"произ",
+"plays",
+"сети"
+]
+},
+{
+"ts": 1795037540.440807,
+"title": "Новозеландский трюк работает как шарм. Как играть в GTA 6 прямо сейчас",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWsteU5JeWFTMnB5UEJjcUdZVHptX3hoMTRwaUlmV01pNUI0a2dkdjZVa3B6WlNjR3g1dW1fYkNBR2dROUtJMTh5NnB2X2pKSUYzTllOaXZicDhIRm42ZjdZdTl5WUx4eU9xSmRjWWhDZk9LbU5BblJ5TDZsYXRPMjFLbEtUNkw5cGJhS0ZvV3FxOVNoY0hUTXlYWQ?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "PCMag",
+"score": 2,
+"kind": "news",
+"words": [
+"играт",
+"трюк",
+"прямо",
+"работ",
+"шарм",
+"сейча",
+"новоз"
+]
+},
+{
+"ts": 1795037544.9227824,
+"title": "Модернизации процессора PS5 Pro недостаточно для GTA 6 при 60 кадрах в секунду",
+"url": "https://insider-gaming.com/ps5-pros-cpu-upgrade-is-not-enough-for-gta-6-at-60-fps/",
+"tags": [
+"настройки"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/10/Lucia_Caminos_10-scaled.jpg",
+"source": "Insider Gaming",
+"score": 3,
+"kind": "news",
+"words": [
+"pro",
+"проце",
+"секун",
+"недос",
+"модер",
+"кадра",
+"ps5"
 ]
 }
 ],
