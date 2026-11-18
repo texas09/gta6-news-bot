@@ -3589,12 +3589,33 @@
 "6aab7f7df7e1d196",
 "4d7337ffb2249a2c",
 "ca84d43e5a84f880",
-"d31753432b1f6efb"
+"d31753432b1f6efb",
+"4b24a195ff9c27cb",
+"365686b23437e051",
+"464b01bb6f773b10",
+"ff2a505567628175",
+"1f7a520487e32b9a",
+"f8465d1c1fa1be9e",
+"539328c428ab806e",
+"ecac48eb5b41b743",
+"2a348a76473f4236",
+"244f828490e6cccb",
+"1e9e7ddaf46602d3",
+"aaa778cc7f1b52d9",
+"aee61723cce28bc6",
+"7c50884d58aceba2",
+"c2a3cb3c5b5740fd",
+"37a8709304e91818",
+"3dd905baae52d000",
+"6305dc616ff7ec18",
+"cd5819428ecda86e",
+"08055f7489a54b35",
+"532a93036b2e9ae9"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328377,
+"tg_offset": 706328378,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -7077,6 +7098,92 @@
 "игру",
 "часов",
 "трюко"
+]
+},
+{
+"ts": 1795001511.4672868,
+"title": "99 очков у вас под рукой: GTA VI стала самой рейтинговой игрой 2026 года",
+"url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnJRZnlhUG5ZZ29SbkxEVUZMcXBPYVJpeG9wRWVwblNvdHRiRDZvTEF3Vy1pYnVtdUQ1eE1CRUkybTl4Vml6bUQ2alh1T29EZVhzZG50SGFQVnNvSTN3b2pVRzZvZHpULXQxRExvRlltdVpPSk9rbnhjLXpOYThMbGhzTjgteklGMHpTdVdGSXgxREVrRlJNWTU4Y0VHTWVTZ2xyVGVwamlPMzFXRi0yN1NIVm5zSnRSSjJIaElpMNIBxAFBVV95cUxPZVMyOWtnQTV6ZlplRWZpTVFRZVdpNGJScG9qNE1BOEQ1cjlCOVpGM215bTU4MFZXbWxKdVJnS2FvSkxBZU05SkpNT1FuOUdXV19IaThmc1JpdlktVXlDWjg4QWpqY3M3Qk1sTHZKS1hqYUtXeXIzdzMxeHdmd3hUQ2ZtMW9rbXd1cFl3OTZxMDZRRXFKNnhKMFVoNkxqSWtGYmZrS2hIX18xblBJOGtIMElVN1pBblJNS1p6ejc0QnZhT1dp?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "iXBT.games",
+"score": 2,
+"kind": "news",
+"words": [
+"самой",
+"2026",
+"года",
+"стала",
+"рейти",
+"вас",
+"игрой",
+"очков",
+"рукой",
+"под"
+]
+},
+{
+"ts": 1795001517.4821467,
+"title": "Rockstar официально подтвердила: в GTA 6 не добавят режимы 60 или 40 FPS даже на PS5 Pro",
+"url": "https://www.playground.ru/gta_6/news/rockstar_ofitsialno_podtverdila_v_gta_6_ne_dobavyat_rezhimy_60_ili_40_fps_dazhe_na_ps5_pro-1891755#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"настройки"
+],
+"img": "https://i.playground.ru/e/I2aufFQFVlkdJ2oHO6YFqA.jpeg",
+"source": "PlayGround.ru",
+"score": 3,
+"kind": "news",
+"words": [
+"fps",
+"режим",
+"офици",
+"подтв",
+"rocks",
+"добав",
+"даже",
+"ps5",
+"pro"
+]
+},
+{
+"ts": 1795001522.0145662,
+"title": "Есть ли в Grand Theft Auto 6 фоторежим? Как использовать Photo Studio, объяснение",
+"url": "https://insider-gaming.com/does-gta-6-have-photomode-photo-studio-how-to/",
+"tags": [
+"гайд"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/9d3bab81-f14a-47e5-934e-209973780dda-1024x576.png",
+"source": "Insider Gaming",
+"score": 3,
+"kind": "news",
+"words": [
+"studi",
+"испол",
+"фотор",
+"есть",
+"photo",
+"объяс"
+]
+},
+{
+"ts": 1795001526.0405147,
+"title": "Полный список трофеев GTA 6 — как получить все трофеи и достижения",
+"url": "https://insider-gaming.com/complete-gta-6-trophy-list-how-to-get-all-trophies-achievements/",
+"tags": [
+"гайд"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/Jason_and_Lucia_14-scaled.jpg",
+"source": "Insider Gaming",
+"score": 3,
+"kind": "news",
+"words": [
+"дости",
+"списо",
+"трофе",
+"получ",
+"полны"
 ]
 }
 ],
