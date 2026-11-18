@@ -3634,12 +3634,21 @@
 "727a6842d59801ad",
 "d7482c2cc51a6b70",
 "51e86529bc63f681",
-"3d08b280ec4caa33"
+"3d08b280ec4caa33",
+"0d24a9816a1d587c",
+"8afc2532e83b9561",
+"75eee43b7c80fb0c",
+"a9ffc6608c1833d7",
+"b89a886965f24c18",
+"eda8d1e96c11697d",
+"73f7c83e86ab8527",
+"48dc114c097056b1",
+"e9f20a64a8c29194"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328382,
+"tg_offset": 706328386,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -7304,6 +7313,22 @@
 "проса",
 "первы",
 "fps"
+]
+},
+{
+"ts": 1795003883.3780658,
+"title": "Как поменять персонажей в GTA 6",
+"url": "https://www.videogameschronicle.com/guide/how-to-change-characters-in-gta-6/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/how-to-change-characters-in-GTA-6-.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"персо",
+"помен"
 ]
 }
 ],
