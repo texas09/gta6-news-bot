@@ -5288,7 +5288,34 @@
 "ae40f6e4a2612835",
 "e89b15f9e4f847f4",
 "f9e61b9e267ea66e",
-"8a7ec82011b02bea"
+"8a7ec82011b02bea",
+"44157888feac291b",
+"8b96f85620256a55",
+"a7faf433fe39cda8",
+"0baebcec06bd87b9",
+"483d5e1f3e79b72e",
+"da9f26475529a4b5",
+"654d38f92a1397a8",
+"0c7d8c189d064b0d",
+"50562854cb226a3f",
+"f8dd6f09aabd8191",
+"c5a0acce4469d648",
+"2f7689ca00a906c3",
+"552315a5bd6675b8",
+"c5863ebb880f2181",
+"a514c7aab6d990e3",
+"a1c874b73fcd9275",
+"80c1b1745a2ebbce",
+"70e13ecdfb534436",
+"5480c44a41bb706a",
+"c987e09563e41c9d",
+"82d6c2ec651f05b3",
+"4a9f6cc0a99cc56a",
+"4a9f6cc0a99cc56a",
+"3c83e773cbc2e494",
+"b9a1bbc74fb179b3",
+"2773f1105a5ed94d",
+"c9a48edb64661716"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -10626,6 +10653,51 @@
 "drops",
 "живой"
 ]
+},
+{
+"ts": 1795036292.2172604,
+"title": "GTA VI не получит апдейт с поддержкой 40/60 fps, заявила Rockstar",
+"url": "https://stopgame.ru/newsdata/73560/gta_vi_ne_poluchit_apdeyt_s_podderzhkoy_40_60_fps_zayavila_rockstar",
+"tags": [
+"настройки"
+],
+"img": "https://images.stopgame.ru/news/2026/11/18/0lQKT8F.jpg",
+"source": "StopGame",
+"score": 3,
+"kind": "news",
+"words": [
+"подде",
+"получ",
+"апдей",
+"rocks",
+"заяви",
+"fps"
+]
+},
+{
+"ts": 1795036295.3978643,
+"title": "За девять дней до запуска предварительные загрузки GTA VI установили ежедневный рекорд данных Virgin Media O2",
+"url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2N1UnQ4Y1NzU3NpeVQ1cnY4MmVuUERDeGg2LXJMWThIak00eFM5UzBfdkZiaXN2ci1EWWNSRWZvMzBaMkxGakhFb3hEZXJHOW9fNmFMbjNYOUtSYmhZMDNrQ004S3hJRUI2YnB1LVNLd0dpOExlVGxlSDJzZlEzSkE4TU95MGlCeGFwOHZaT3phTWI5LTJ2cW9odndyWW41YkI0bHlVN3puRFo2eV93OExmRXNsZXZKMlE?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "MarketScale",
+"score": 3,
+"kind": "news",
+"words": [
+"данны",
+"предв",
+"запус",
+"ежедн",
+"девят",
+"загру",
+"дней",
+"устан",
+"media",
+"рекор",
+"virgi"
+]
 }
 ],
 "digest_date": "2026-11-18",
@@ -10638,5 +10710,5 @@
 1795033377.306251
 ],
 "group_id": -1003664956927,
-"group_checked": 1795014067.2833996
+"group_checked": 1795036238.1504138
 }
