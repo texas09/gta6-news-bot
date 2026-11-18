@@ -3202,7 +3202,10 @@
 "46743bebf3cecbef",
 "74b2f7712b449c26",
 "ead7fa3b826efe3a",
-"5e40edc7d505289f"
+"5e40edc7d505289f",
+"9380a042200c2287",
+"e98a9e6f1a4b63ab",
+"feab2c49088bf6c0"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -5338,6 +5341,29 @@
 "физич",
 "кода",
 "объяс"
+]
+},
+{
+"ts": 1794976873.110719,
+"title": "Поддержка PlayStation сообщила, что для запуска GTA 6 на PS5 потребуется обязательное обновление прошивки 14.23.00",
+"url": "https://www.playground.ru/gta_6/news/podderzhka_playstation_soobschila_chto_dlya_zapuska_gta_6_na_ps5_potrebuetsya_obyazatelnoe_obnovlenie_proshivki_14_23_00-1891666#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"обновление"
+],
+"img": "https://i.playground.ru/e/qQEvHSVvXD8mOM2IOIPi3w.png",
+"source": "PlayGround.ru",
+"score": 4,
+"kind": "news",
+"words": [
+"сообщ",
+"потре",
+"подде",
+"обнов",
+"проши",
+"ps5",
+"запус",
+"plays",
+"обяза"
 ]
 }
 ],
