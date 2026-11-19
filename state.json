@@ -6351,7 +6351,25 @@
 "fea10a8acb05c8d0",
 "9a0ecb1399f16262",
 "2ac237db3dfb04bd",
-"0945a30cc5a670d0"
+"0945a30cc5a670d0",
+"c166b03ca50cbb74",
+"b90e3963bcf9dcfd",
+"5a282ee1e7c91f3e",
+"2358ff86fad098bb",
+"14d813b3969b899f",
+"fc0e253da34f607f",
+"c974d74d287679ac",
+"00c93c3ac0487d51",
+"4489925c3fa9166e",
+"5dd3350250700045",
+"e4e1bb63d6f15b8a",
+"bf15b23f3095efd2",
+"f5792ecf1a72bc09",
+"b7ac0e8ac00d69e1",
+"95cd6106ebf6bd48",
+"d080334aa14b8ed3",
+"e9d36efa84ee90de",
+"98c1b5a77a6e0f47"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13644,12 +13662,49 @@
 "предп",
 "бюдже"
 ]
+},
+{
+"ts": 1795071726.215535,
+"title": "GTA 6: Как попасть в банковские хранилища",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZZVV6eXo2WUZKVGcxbUN4VHZhTmRsWHRwVEVBNkZaRmpndF9hQkludWpYZ0NPbnlwY1h5dXhhMnJNVXFPVmtyMGxvTHZiUXRkY2l4UWg1ZEVlckZNM2U4MWppRlZRQTF6RVpqTXRzNDI?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "DualShockers",
+"score": 2,
+"kind": "news",
+"words": [
+"банко",
+"попас",
+"храни"
+]
+},
+{
+"ts": 1795071729.5081427,
+"title": "GTA VI на базовой PS5: графика, 30 FPS и первые впечатления",
+"url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyT2hLS2QwWkJ3SkZ6WExXU1NUbmQ3SW8xcElDSnJkTDROc3dBVkRmdjZEMUotLWh4YkxXQzhOZkdndHEyVnpiTm4xd0NqQU9I?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "Код.ру",
+"score": 2,
+"kind": "news",
+"words": [
+"первы",
+"базов",
+"fps",
+"впеча",
+"графи",
+"ps5"
+]
 }
 ],
 "digest_date": "2026-11-18",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-18",
-"viral_checked": 1795063872.685049,
+"viral_checked": 1795071732.5083973,
 "viral_ts": [
 1795033371.001843,
 1795033374.1567006,
