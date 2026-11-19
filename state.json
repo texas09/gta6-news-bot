@@ -8331,7 +8331,31 @@
 "ab6d33f9937d968e",
 "afd4828652dee502",
 "bd4fe401cc6a571d",
-"0de360f53f11f6d7"
+"0de360f53f11f6d7",
+"f52a77e3f08edd69",
+"f52a77e3f08edd69",
+"55e7c5133a94d903",
+"1c7666dad6660933",
+"e0137a3dec0a62ae",
+"1c5e73692b678d84",
+"97aeb6d64ce4357f",
+"2eae7cdbb0dcfd3e",
+"0d670e2c313a981b",
+"648142dfb4b78e3d",
+"d266d0e9ab3a5a7e",
+"e40cb3030badbace",
+"a88dcf26590e0927",
+"438fbd3e9bac6070",
+"b079c6bac883e672",
+"6b55c7a59e3b63f7",
+"523dcf3312d7b3a2",
+"d7e2f93a432c6316",
+"88f466f6fbe4d6cf",
+"88f466f6fbe4d6cf",
+"3819fdd5ce235197",
+"163264e87f02dae2",
+"bbce7192a4351232",
+"51f041fdabd83ba8"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -8339,120 +8363,6 @@
 "tg_offset": 706328681,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794948247.887855,
-"title": "Digital Foundry заявляет, что требования к процессору GTA VI делают режим 40 FPS на PS5 Pro слишком сложным",
-"url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYTg0S1hQOTlmZndwb1VRNEg0S1Z2QnhNcUk3XzBORVZUZE8yV1gtYzZLVkxhbnBma2RUV2hoQXlDNlBuRkpKRFJERWpmem10TlhkOEc3MHFaU25PX0tTQUkwaWFjU2RFYjIzN00wSlUzR2NhdVlqNVRCNHpkYWdJaEYyLUxaR0pZcVNoQ0hDT2lld1hTRWEzWkgteHlQRndRdlZuRnJVX3NIRHpBUzR2b0F6a2JudDkyVGVJdFA5TzR4RE9OajJvcndYaHFXQQ?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "TweakTown",
-"score": 2,
-"kind": "news",
-"words": [
-"ps5",
-"делаю",
-"проце",
-"слишк",
-"режим",
-"fps",
-"сложн",
-"found",
-"digit",
-"заявл",
-"pro",
-"требо"
-]
-},
-{
-"ts": 1794948252.5740004,
-"title": "Sea Of Thieves получит значительно уменьшенный размер файла на Xbox и других платформах",
-"url": "https://www.purexbox.com/news/2026/11/sea-of-thieves-is-getting-a-massively-reduced-file-size-on-xbox-and-other-platforms",
-"tags": [
-"новости"
-],
-"img": "https://images.purexbox.com/8c1eae891c774/large.jpg",
-"source": "Pure Xbox",
-"score": 1,
-"kind": "news",
-"words": [
-"платф",
-"xbox",
-"разме",
-"sea",
-"значи",
-"получ",
-"файла",
-"други",
-"умень",
-"thiev"
-]
-},
-{
-"ts": 1794948258.3002045,
-"title": "Paramount Pictures представила новый постер \"Angry Birds 3 в кино\", выполненный в стиле Grand Theft Auto 6",
-"url": "https://www.playground.ru/misc/news/paramount_pictures_predstavila_novyj_poster_angry_birds_3_v_kino_vypolnennyj_v_stile_grand_theft_auto_6-1891604#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"img": "https://i.playground.ru/e/ecybQvYKj-c_KIon8dZ6zA.jpeg",
-"source": "PlayGround.ru",
-"score": 1,
-"kind": "news",
-"words": [
-"посте",
-"angry",
-"выпол",
-"стиле",
-"кино",
-"новый",
-"pictu",
-"birds",
-"param",
-"предс"
-]
-},
-{
-"ts": 1794948261.4534712,
-"title": "Как получить бесплатную копию GTA VI Ultimate Edition на Twitch",
-"url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLTEtQ1dMcTUzaDh1Q2xSOHBkeVRaRE1pV3gxd0IwblBTeEVFVUNpOF9LLVZyd1dvRTNyVnE0OHhuWk9heWkwMHpBbDV1NVRBVXVxWjFieWU1Q0h0bnJHcHJ3ZUp0alJycmRqVlJmT3JWalZhSFhmekY0R0k2VW05dXRfRXBmTmtKVWl5Y2txalVwMTVzTVZVYlpYQ3V2QjZPNmJGV1NUN25CRDlvallaSnM3UHcwY1pDQjdHUVhCVzE4dFNIZWU4b296SFZxXzY4MEE?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "iPhones.ru",
-"score": 2,
-"kind": "news",
-"words": [
-"ultim",
-"editi",
-"беспл",
-"twitc",
-"получ",
-"копию"
-]
-},
-{
-"ts": 1794948264.605246,
-"title": "Суд Vice City в GTA VI для The Heat просто потрясающий",
-"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DVVVjdmZqcjZuamdpVUJ2UGxiS3RvSk1jU2dPTlA2T1RocjEtczlOMGM0MGp1SnZna3picDBaejltUG55SWlpU3BiMWxaZWtIVEpXb2dYbXdXR2ROV1dldFdlVEx6UWtoRl9uV0ZuTkpOZnpkVVVJ?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "SB Nation",
-"score": 0,
-"kind": "news",
-"words": [
-"vice",
-"city",
-"прост",
-"потря",
-"heat",
-"суд"
-]
-},
 {
 "ts": 1794951116.7666483,
 "title": "Главное за день: GTA 6 на TGA 2026, большой сбой Рунета, трейлер Exodus",
@@ -17609,6 +17519,43 @@
 "ps5",
 "фоны",
 "новые"
+]
+},
+{
+"ts": 1795121557.2916756,
+"title": "GTA 6 гайды и прохождения",
+"url": "https://www.polygon.com/gta-6-guides-walkthroughs-tips/",
+"tags": [
+"гайд"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-vi_20261119163142.jpg",
+"source": "Polygon",
+"score": 3,
+"kind": "news",
+"words": [
+"гайды",
+"прохо"
+]
+},
+{
+"ts": 1795121560.478043,
+"title": "Руководство по персонажам GTA 6: познакомьтесь с Джейсоном, Люсией, Мэнди и другими",
+"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SR2Z0YkdMSmRLY2RfZlQtd3ZaTG1MQnJhUC1mVWpTUnUyZDRPdmRKYTRtUEthSXdWU0pfcmR5SGpudGNKSld2N01OelBWSlRlM2FjcndZdDJPY3g0OUs4Yk5XWlRkY3lINkJzNlpXWFM2UQ?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Mashable",
+"score": 2,
+"kind": "news",
+"words": [
+"джейс",
+"мэнди",
+"люсие",
+"руков",
+"позна",
+"персо",
+"други"
 ]
 }
 ],
