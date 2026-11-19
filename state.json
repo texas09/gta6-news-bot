@@ -6432,12 +6432,57 @@
 "b437e2a113068571",
 "d84c6c96b4c80cd2",
 "1cef1f072814128d",
-"456ab6dfef268b32"
+"456ab6dfef268b32",
+"411a38cdd0b7ee36",
+"aa259df0f60061f3",
+"0651278fe6d75f89",
+"045dbaa6510e1326",
+"5afd5f1ddd93cdd2",
+"8a1e7ad194f3fba4",
+"ff9cedda71a0503f",
+"485bf84d61493883",
+"816f8c4d4c387366",
+"7a63af362e2b1064",
+"120952a2558e3ac3",
+"abac8e72bf3ee82d",
+"7db90428196ec7f7",
+"96207a1c1ca41d7d",
+"a4840017654faa97",
+"7ea78a5f7fe5eb4d",
+"8504814952a67081",
+"302044ec8d924021",
+"ef7cfbdf29507cec",
+"6971a13cdc5956a8",
+"280cf759ccb13ff0",
+"5f4db40990fb3d5c",
+"c97c8472995ac978",
+"0979c2b6dcdd9305",
+"3e89bdc99424814b",
+"bcf27a714b3f8ebe",
+"c0110f6623efc543",
+"22e38acf75e93ac6",
+"22e38acf75e93ac6",
+"df0131ee483da8e1",
+"148fad757c6eeab1",
+"148fad757c6eeab1",
+"9350fc0bb99273d0",
+"15d3a88bb2a1458a",
+"15d3a88bb2a1458a",
+"21d3322bd2028cf0",
+"450efa3c2c2ae130",
+"0f1c37f267adef23",
+"4224a69e704bedba",
+"847d942626e87ca1",
+"847d942626e87ca1",
+"bd9325d80fcffb05",
+"af95f4e4ab449175",
+"c550b802ac869017",
+"3a0ad6c2283883ba"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328560,
+"tg_offset": 706328561,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -13787,6 +13832,154 @@
 "pro",
 "home",
 "захва"
+]
+},
+{
+"ts": 1795074157.8774247,
+"title": "GTA 6 - How to Become a Backyard Wrestler",
+"url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11RjZaY0ZiWmZaUjhQR3BLampyVm5VUDc4UE4wX0E2MHFZSzZUdDg4ZXc2b0RUSmttWVpPNmJ1RFVzTDQwQTF2Vl9ydG16NzFxUmdXSDZDTjBZeTd3TDdHWE1ab1E3Mm1yLWJLaVp3RkNaY1hf?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "IGN",
+"score": 2,
+"kind": "news",
+"words": [
+"wrest",
+"how",
+"becom",
+"backy"
+]
+},
+{
+"ts": 1795074161.0282457,
+"title": "В GTA 6 нашли шутку про GTA 7 и долгое ожидание фанатов",
+"url": "https://shazoo.ru/2026/11/19/194285/v-gta-6-nasli-sutku-pro-gta-7-i-dolgoe-ozidanie-fanatov",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892074_M5fUxUD_gta-6.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"ожида",
+"шутку",
+"нашли",
+"фанат",
+"долго",
+"про"
+]
+},
+{
+"ts": 1795074164.169447,
+"title": "В GTA 6 у каждого холодильника в магазине свой звук",
+"url": "https://shazoo.ru/2026/11/19/194316/v-gta-6-u-kazdogo-xolodilnika-v-magazine-svoi-zvuk",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892113_qgqGdUQ_gta-6.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"каждо",
+"звук",
+"магаз",
+"свой",
+"холод"
+]
+},
+{
+"ts": 1795074188.164486,
+"title": "Состоялся мировой релиз GTA 6 — игра вышла по всему миру",
+"url": "https://www.championat.com/cybersport/news-6705372-sostoyalsya-mirovoj-reliz-gta-6-igra-vyshla-po-vsemu-miru.html",
+"tags": [
+"новости"
+],
+"img": "https://img.championat.com/news/big/v/j/sostoyalsya-mirovoj-reliz-gta-6-igra-vyshla-po-vsemu-miru_1795072606504244622.jpg",
+"source": "Чемпионат",
+"score": 1,
+"kind": "news",
+"words": [
+"миров",
+"игра",
+"состо",
+"миру",
+"вышла",
+"всему",
+"релиз"
+]
+},
+{
+"ts": 1795074191.3552687,
+"title": "«585 Золотой» и Askona открыли игровую комнату в стиле GTA VI, 19.11.2026 г. - Новости",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRuSy16VVlTOUdhRU1KQnctOEctRXdzSEFWQ2VaRDZxT3A5X21hMnU2WWpEXzNRMy1DZHZiSVVtZzhuZG40ZGxIR2hLa2FlczM5Rmg5UzZidEVPVk44UlFVekNoVUdlSXNfTjZqSl9oNEF4M1ZORnZDb0RlS2E2bUFtRjh1YzFPQ0N4ZFlaTmE?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "ShopAndMall.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"2026",
+"новос",
+"игров",
+"золот",
+"585",
+"комна",
+"откры",
+"askon",
+"стиле"
+]
+},
+{
+"ts": 1795074194.5416553,
+"title": "Rockstar объяснила, почему в GTA 6 есть казино, зоопарк и кладбище, в которые нельзя зайти",
+"url": "https://shazoo.ru/2026/11/19/194298/rockstar-obieiasnila-pocemu-v-gta-6-est-kazino-zoopark-i-kladbishhe-v-kotorye-nelzia-zaiti",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892045_3y48MCj_hxz51bvw4aannzl.jpeg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"нельз",
+"почем",
+"котор",
+"кладб",
+"казин",
+"зоопа",
+"объяс",
+"rocks",
+"зайти",
+"есть"
+]
+},
+{
+"ts": 1795074197.7164445,
+"title": "How to rob banks in GTA 6: unlocks, payouts and vaults worth up to $205,000",
+"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOclowWlp1NUkwT08tRXdVbkVuUDQ3X1RRZmxRRmlfd3NWdkVOcXVubGlrY0trRGpfN0pVS2E0TXRzMEdRRFNMN3cyWERMVzZ3Q01URm9HWU5lU1dQVGNyRXc5TTdjVTVfYzJ3ZWZJRFdDOS1KTmMxUHBUTGh0ekVmOHBCYXBXbjhFeGdfeks0ZEhDX1AwVFE?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "eGamers.io",
+"score": 2,
+"kind": "news",
+"words": [
+"000",
+"worth",
+"how",
+"rob",
+"205",
+"vault",
+"unloc",
+"payou",
+"banks"
 ]
 }
 ],
