@@ -7491,7 +7491,19 @@
 "9700fc988b502374",
 "40501ec4fc4e42d4",
 "af7a6192b667f01c",
-"e5ad047fe7927520"
+"e5ad047fe7927520",
+"c15827a29ce22e76",
+"6b31b73f5543cfcb",
+"3f6177258081888d",
+"2fb4eb0c16a01811",
+"5fb36b96a787a7d2",
+"b5271424f00a5591",
+"0e04dd38216904c7",
+"0d6e8394418ce2f8",
+"2c523d67ddc7bd26",
+"e8636db2651a6405",
+"e8636db2651a6405",
+"d75b9ec1dab95b79"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -16448,6 +16460,52 @@
 "яйца",
 "mitsu",
 "уокер"
+]
+},
+{
+"ts": 1795103472.1679897,
+"title": "Как включить фары в ГТА 6",
+"url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBRmFVUTBRcTZpemw5YUswME93SVpEa1lDNlBYUGc5RUdYXzBoczhTekRuOFUxR2M2cFl0VEdsbmpwaDR1VWxYeF9yb2xjMHpiNk00RA?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Eurogamer.net",
+"score": 2,
+"kind": "news",
+"words": [
+"фары",
+"включ"
+]
+},
+{
+"ts": 1795103475.7490654,
+"title": "Сообщается, что более 2 миллионов игроков Xbox в Великобритании и США использовали «новозеландский трюк», чтобы рано поиграть в GTA 6 — это более трети населения страны.",
+"url": "https://www.eurogamer.net/gta-6-new-zealand-trick-2m-players-early",
+"tags": [
+"слухи"
+],
+"img": "https://assetsio.gnwcdn.com/jason-nz.jpg?width=690&quality=85&format=jpg&auto=webp",
+"source": "Eurogamer",
+"score": 2,
+"kind": "news",
+"words": [
+"рано",
+"чтобы",
+"милли",
+"стран",
+"новоз",
+"трети",
+"игрок",
+"насел",
+"xbox",
+"испол",
+"трюк",
+"более",
+"сша",
+"сообщ",
+"велик",
+"поигр"
 ]
 }
 ],
