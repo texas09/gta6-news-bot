@@ -7440,7 +7440,43 @@
 "a714d2488fd4612a",
 "b439b415db57ec1f",
 "61828083bac76e5b",
-"c6ddbc0900435486"
+"c6ddbc0900435486",
+"4fd072c30945ce3a",
+"4fd072c30945ce3a",
+"8c6ff1ee1827e185",
+"11a65bdbc654a2a3",
+"1f38e6232f8c54a2",
+"3e742223d4cf3098",
+"0e2c10ba8e4ebb6c",
+"96c1425b41fb01e5",
+"915b117d6c91ddfc",
+"9597fc1f0e09e382",
+"206ad69cd1f0d1c8",
+"b99687fa6ae3439f",
+"15c3225cedc7498b",
+"15c3225cedc7498b",
+"a9af41d0f14a206e",
+"8e1e1b7fbb45879a",
+"9b8aaa9537372524",
+"47ffa3090dbff1e0",
+"eb7188a71c381305",
+"eb7188a71c381305",
+"7981be855ef7688a",
+"a2a64bd92fe95868",
+"9198789b6b52f9d7",
+"9c4be485a7cdd876",
+"5cad6a1aae83a102",
+"5cad6a1aae83a102",
+"bb727f1e1bbc2392",
+"cbf7b554ce72ce4d",
+"b64c0e8ebde5e82f",
+"1ac82b20cde468c4",
+"5c412e243ea2c760",
+"60949bbc6f2eae49",
+"b3a56805a9e5dcbc",
+"612233012e44aa74",
+"396acd2705b1f71b",
+"7784f1e6a83cd86e"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -16229,6 +16265,175 @@
 "розыс",
 "быстр"
 ]
+},
+{
+"ts": 1795102328.7288668,
+"title": "Что нужно делать каждый день в GTA 6 — гайд для прокачки героев",
+"url": "https://www.championat.com/cybersport/news-6705804-chto-nuzhno-delat-kazhdyj-den-v-gta-6.html",
+"tags": [
+"гайд"
+],
+"img": "https://img.championat.com/news/big/f/y/chto-nuzhno-delat-kazhdyj-den-v-gta-6-gajd-dlya-prokachki-geroev_17951011881895294340.jpg",
+"source": "Чемпионат",
+"score": 3,
+"kind": "news",
+"words": [
+"день",
+"гайд",
+"нужно",
+"кажды",
+"делат",
+"прока",
+"герое"
+]
+},
+{
+"ts": 1795102331.9023376,
+"title": "Как ловить рыбу в ГТА 6",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ndXFJZUtHUzRhbVRna0poSkRPYng0MjBaZVFiMXhDMW1nXzYwVW52UjZiQm5vMndWaWVCbkg4Qm5Ed1ZJWXdNMUw3aWhVdGVwcmxOZ19Oa0pkWldCTmpv?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Rock Paper Shotgun",
+"score": 2,
+"kind": "news",
+"words": [
+"рыбу",
+"ловит"
+]
+},
+{
+"ts": 1795102337.1109517,
+"title": "Есть ли в GTA 6 «легкий режим»? Не официально, но есть две очень важные настройки, которые вы можете изменить, чтобы сделать игру менее сложной.",
+"url": "https://www.eurogamer.net/gta-6-easy-mode-accessibility-options",
+"tags": [
+"настройки"
+],
+"img": "https://assetsio.gnwcdn.com/Easy-mode-gta.jpg?width=690&quality=85&format=jpg&auto=webp",
+"source": "Eurogamer",
+"score": 3,
+"kind": "news",
+"words": [
+"чтобы",
+"легки",
+"есть",
+"две",
+"настр",
+"менее",
+"сложн",
+"сдела",
+"игру",
+"очень",
+"может",
+"важны",
+"котор",
+"офици",
+"измен",
+"режим"
+]
+},
+{
+"ts": 1795102344.1343596,
+"title": "Ролик о разблокировке FPS через VRR в GTA 6 на Xbox вызвал споры о привязке физики к кадрам",
+"url": "https://www.playground.ru/gta_6/news/rolik_o_razblokirovke_fps_cherez_vrr_v_gta_6_na_xbox_vyzval_spory_o_privyazke_fiziki_k_kadram-1892149#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"настройки"
+],
+"img": "https://i.playground.ru/e/87X5ZrhriFeI1iPTgMPtOA.png",
+"source": "PlayGround.ru",
+"score": 3,
+"kind": "news",
+"words": [
+"через",
+"vrr",
+"кадра",
+"вызва",
+"разбл",
+"физик",
+"fps",
+"xbox",
+"споры",
+"привя",
+"ролик"
+]
+},
+{
+"ts": 1795102347.3226166,
+"title": "В GTA 6 доступно 55 трофеев и отдельная награда за 100% прохождения",
+"url": "https://shazoo.ru/2026/11/19/194322/v-gta-6-dostupno-55-trofeev-i-otdelnaia-nagrada-za-100-proxozdeniia",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.shazoo.ru/892147_5EM4ItR_gta-6.jpg",
+"source": "Shazoo",
+"score": 3,
+"kind": "news",
+"words": [
+"трофе",
+"досту",
+"прохо",
+"награ",
+"100",
+"отдел"
+]
+},
+{
+"ts": 1795102350.470343,
+"title": "Как сохранить игру в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pNDNJU3RXY2NEWnU5SXpxcVQwLUdRWE8wUE5OcXBkN3RycUxzSXB6RkVjNGJwZS1YbWRXNVJiZmZfSTdmZW10WkRiZnFzTjZWZjF0UHZDUUNDMjJSNXB1TXpMY3ktWXZaZUt3dW1UWlZBUVNNVVZVZg?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Yahoo Tech",
+"score": 2,
+"kind": "news",
+"words": [
+"игру",
+"сохра"
+]
+},
+{
+"ts": 1795102353.6190164,
+"title": "GTA 6 наконец-то здесь. Как купить и играть в Grand Theft Auto VI",
+"url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFZMNGhFbk12a3puSjBvMkRDWlZjb043VV91VU5tXzhSUWpYT2pKMGJmRnlGcFRwWWtTVVVSeDZwZVFFcmlnT2k2eW81eGk1Y0tXaFRaXzFUOVdtWWNxMklMUXh6Nkl0RWdxQVVGMTZmd1V2LTI4cl9yeU9ZNXZIWHNld0ttTWE2UlM5bzhlbzBRNlY0MWk3VWs2Q0s3SmRsQ01jV3pDZk9Kc1paY1puSjk2Sm9qd09VcHN1eGFhNnhZa2RNM0oyd0Q4SVg?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Democrat and Chronicle",
+"score": 2,
+"kind": "news",
+"words": [
+"купит",
+"након",
+"играт",
+"здесь"
+]
+},
+{
+"ts": 1795102357.5551882,
+"title": "Как найти Mitsubishi Eclipse Пола Уокера в GTA 6 — локация пасхального яйца «Форсажа»",
+"url": "https://insider-gaming.com/paul-walker-gta-6-easter-egg/",
+"tags": [
+"гайд"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2025/08/gta-6-80-dollars.jpg",
+"source": "Insider Gaming",
+"score": 3,
+"kind": "news",
+"words": [
+"пола",
+"форса",
+"пасха",
+"найти",
+"eclip",
+"локац",
+"яйца",
+"mitsu",
+"уокер"
+]
 }
 ],
 "digest_date": "2026-11-18",
@@ -16242,5 +16447,5 @@
 1795041216.7890708
 ],
 "group_id": -1003664956927,
-"group_checked": 1795080037.8082561
+"group_checked": 1795102254.568127
 }
