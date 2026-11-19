@@ -7302,7 +7302,49 @@
 "d4693f885c5c37a1",
 "2cb3a273e7027495",
 "3f759d6a6401fbb2",
-"78bbf8c8539c6e58"
+"78bbf8c8539c6e58",
+"b150d813417cf424",
+"55367769fb758f38",
+"845826848702c265",
+"05cc18a89ece2cf9",
+"02e39313aab00f2b",
+"7339d51e71a3ab07",
+"b54408abeb460aca",
+"fec79e366bc74732",
+"748e0ee15d2e1398",
+"40247a8b8702460d",
+"e56b8ce6eaafccb0",
+"161014a8ce96db5c",
+"b1a52507806f4658",
+"8f159475d0a5d917",
+"f0a7a180937768bc",
+"0951f067a34951f0",
+"885e973f5fc898bc",
+"2913925be018b7c5",
+"af601cbdc2ada41c",
+"277d8458ccc50291",
+"dcaa6f062639cff6",
+"b0879aa5d28a905d",
+"2538a7b36597c85a",
+"f3f3a18168180d5c",
+"9110ebea9a665ca4",
+"162bfdeafb92ea76",
+"efe211590bd67524",
+"e78d554003463a7e",
+"70fdb6360c30a5f1",
+"67e21d7168537633",
+"1881fe162fb58675",
+"d71b21dedcc4c55c",
+"7c54107d669f687e",
+"4fd543e3eb1677a3",
+"5cd26c5be1bff708",
+"56b655065e3d8260",
+"654d3b0fb53724ce",
+"f1458a251f138d00",
+"1e1e603112288c4e",
+"4b6baa44e8cf6a54",
+"573aa5ba71808cdf",
+"41600ad4665d800e"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -16054,6 +16096,42 @@
 "kind": "video",
 "words": [
 "досту"
+]
+},
+{
+"ts": 1795099280.3204193,
+"title": "Как грабить бизнес в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsMU1yR1IyWFhhRnltdFRya0g3TVFGT3RtWWZsMWNldDVSc0xybDBjQngwSDhQVWZBb1BMZTdYcFB2Z1BQSmIwQkoyTTZHTzhWcXlYR0RINzRDZzVlYkhSNUFySmV2RUMtOTBHYWtmOGRtMTA?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "GameSpot",
+"score": 2,
+"kind": "news",
+"words": [
+"граби",
+"бизне"
+]
+},
+{
+"ts": 1795099283.491958,
+"title": "Как быстро повысить и понизить уровни розыска и жары в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ncnlZeVU0M2hIRklPVVh3eUMtb3UzcXh2QzdGWE5lM1BWQm1PY1RSMEJqS3piZGJfNFNMem50ai11OUlHTzJCNUpzM1M3QjU3eGxtRnJWNlktMHVUYkFGa2xvZ3A?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Red Bull",
+"score": 2,
+"kind": "news",
+"words": [
+"повыс",
+"уровн",
+"жары",
+"пониз",
+"розыс",
+"быстр"
 ]
 }
 ],
