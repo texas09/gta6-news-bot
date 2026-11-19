@@ -6228,7 +6228,40 @@
 "bebce7c1a0aadd2d",
 "95f6e381c078a01a",
 "43b89719fa842d60",
-"e3e81e7bfb059b63"
+"e3e81e7bfb059b63",
+"5ffc733e2101b950",
+"82b70c87f2bfed6a",
+"c4a9fa1ad4d96476",
+"a8fe01e00ecdf31e",
+"1ba3915cb87fe401",
+"9c51206368e05093",
+"1fd51a41f7d937e0",
+"4cb994165899a466",
+"b9007f263072c198",
+"4412501cc22e0bf3",
+"680e0741a4652ee2",
+"33eacfe59a0b5419",
+"e2a8fa2134107cb7",
+"8e9209b18ac92477",
+"5fda7fd0f19d6538",
+"fe517e5430fda057",
+"fe517e5430fda057",
+"77b0bd7c0573826b",
+"aa0d4b6e080f1b03",
+"aa0d4b6e080f1b03",
+"ad887fd3c8e1e843",
+"ac7c280cb8b6019f",
+"ac7c280cb8b6019f",
+"87b174c37dea7e71",
+"4eebf15207415692",
+"3036e2049610fdd2",
+"393cc452f8aa35d1",
+"3ac0403e91508fe7",
+"0b7935822581b696",
+"d077309eebf2bfef",
+"c318e014e65ae688",
+"ee8dc29546b84c03",
+"5b481735bf7fe223"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13121,6 +13154,179 @@
 "ps5",
 "rocks",
 "pro"
+]
+},
+{
+"ts": 1795065669.6127691,
+"title": "GTA 6 падает до 720p и менее 30 FPS на одной из консолей, геймерам советуют играть на других платформах",
+"url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUms3SnVmelVpWm44QkV2Rkp3V2s5ODVSWWNCSG5oeVd3akRXTWdxNmFtcENIcjFCZzFJUGFhT3BDZUdEeHlIemxsLWJQSENfeG1xbkNzTm1RQWVsOU1WY0xRa0xVR0p2TnBhYUlyUFNiSUZNaks5bDRIS0R1V2toWHZKV01aR0dXTnZjZ2IzUFFfSXc3YS12alFlRWlBRlFvUmhqR2lmeEl5S3ZTTjBwaWVQb1JlcEVkX21kd1owM1lkbno0Zk9ETzdIc3pkdw?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "TweakTown",
+"score": 2,
+"kind": "news",
+"words": [
+"fps",
+"одной",
+"играт",
+"менее",
+"платф",
+"консо",
+"падае",
+"совет",
+"720p",
+"други",
+"гейме"
+]
+},
+{
+"ts": 1795065674.875301,
+"title": "В Rockstar Games объяснили, как дизайн окружения формирует глубину мира GTA 6",
+"url": "https://www.playground.ru/gta_6/news/v_rockstar_games_obyasnili_kak_dizajn_okruzheniya_formiruet_glubinu_mira_gta_6-1891988#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/zT6fnXcYXkj2dm6e48Gk-A.jpeg",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"форми",
+"games",
+"мира",
+"глуби",
+"объяс",
+"окруж",
+"дизай",
+"rocks"
+]
+},
+{
+"ts": 1795065678.0219927,
+"title": "Все чит-коды в GTA 6",
+"url": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
+"tags": [
+"новости"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-jasopn-lucia-bank-robbery.jpg",
+"source": "Polygon",
+"score": 1,
+"kind": "news",
+"words": [
+"чит",
+"коды"
+]
+},
+{
+"ts": 1795065681.179268,
+"title": "Список актеров GTA 6: кто играет Джейсона, Люсию и других персонажей",
+"url": "https://www.polygon.com/gta-6-cast-list-actors-cameos-grand-theft-auto/",
+"tags": [
+"новости"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg",
+"source": "Polygon",
+"score": 1,
+"kind": "news",
+"words": [
+"джейс",
+"персо",
+"кто",
+"играе",
+"списо",
+"люсию",
+"актер",
+"други"
+]
+},
+{
+"ts": 1795065684.3231013,
+"title": "Сколько времени потребуется, чтобы пройти GTA 6?",
+"url": "https://www.polygon.com/gta-6-how-long-to-beat-grand-theft-auto/",
+"tags": [
+"новости"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_11.jpg",
+"source": "Polygon",
+"score": 1,
+"kind": "news",
+"words": [
+"сколь",
+"пройт",
+"чтобы",
+"потре",
+"време"
+]
+},
+{
+"ts": 1795065687.4624555,
+"title": "Как GTA VI может повлиять на спортивных звезд: сон, отдых и «зависимость»",
+"url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzdEWXZZRWtJbUJhbXJHU05TbzI1dmlYMUtmUWtCbVNodldIQ3NKUV9BekY3eTdzeWR5dGdTaVFCY19iMzI3ckoxbmZLM2lYMVBlY2FickN4S3lBMVJKbklkcmxkR2JSN3JGOGFDZ3JGYnZfWGVzMkhaM3RGQ1gxOGg5dkNMM1B1OXc0RmozdE5MM2NNenBMdHdwaVY?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "The New York Times",
+"score": 0,
+"kind": "news",
+"words": [
+"спорт",
+"завис",
+"отдых",
+"сон",
+"повли",
+"может",
+"звезд"
+]
+},
+{
+"ts": 1795065690.611837,
+"title": "GTA 6 сталкивается с перебоями в работе сети для пользователей PlayStation, и психическое здоровье становится приоритетом",
+"url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPNk5Ma1ZnbE84dWQwdnVfVFJiUXJPZjVMczItN0ZmX0hNR1BSOGh0ZFh3dDBhWlI5YnF4cXZRMFNzQ0hrYW9wczE3Y1VEYXNieHQtdldIZHplSTNUbjFjc1k2dUZ5UFpoZ2xNR0x0Z01pZDlwVVpLcmduWm12dlRyRUhiRzFrb2daWGlmRlpobDFGem9VSGtvQkx6dmVOdEw5UWV3bGVMZ19HV0pMamJWNDNablFfMHFrWXdySEU4RVNJb0tqcnlqckljYlQ3MGJmd1BLUUNFazVCT1VRcVhJRWluWE1zQ0RrcTlLZ2pBMnBCU2VfYUJCUk5qNWJtTUVld3BmanF2eVNIcDJ2anFTT2pIdWxhRWNnMDluSWlWUENiVTFhU0F6NlFVMVVpd0ZGWDUtYlQ4Sk9wSlh1TnRSTVJNUQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "12newsnow.com",
+"score": 0,
+"kind": "news",
+"words": [
+"приор",
+"психи",
+"польз",
+"сети",
+"plays",
+"здоро",
+"стано",
+"переб",
+"работ",
+"сталк"
+]
+},
+{
+"ts": 1795065693.755392,
+"title": "PlayStation рухнула перед выходом GTA VI: игра получила 99 баллов и взвинтила акции издателя",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWlnX1J0dnEtdjF4bFl2NV9UbmpFaThZNW53dUNnUDByRFRTODltYlVPdWNrNE56cnBCb0d5aThOdTRPM3pqQjZZX0FWMm84aWlDMHd2OUtYRUdHRXA4YzdGaHhNbV9zYUVHWTRrZndqVnl3ekI2WnhhaE1UVGhXa0dzVnA0eUF3amxzVGpfaExvaU02Sjd1WGRB?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "RTVI",
+"score": 0,
+"kind": "news",
+"words": [
+"издат",
+"взвин",
+"получ",
+"игра",
+"выход",
+"балло",
+"plays",
+"перед",
+"акции",
+"рухну"
 ]
 }
 ],
