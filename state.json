@@ -8445,7 +8445,19 @@
 "f4b0d0a4e603c261",
 "b5b809ff86059e10",
 "8815c43cd03b1dab",
-"b4bd82c371007e34"
+"b4bd82c371007e34",
+"47f9d2578bb9ded5",
+"22659a2cc4344d55",
+"24844ca3038c02b7",
+"274e23b0ed301cb4",
+"f4d2013ac67644fb",
+"6e64583352046fa8",
+"df0223bd1dffb3bc",
+"5cc0ce4eb66d8743",
+"a2350b5522309425",
+"d43b1b86119de223",
+"5b52536982c7fe82",
+"a64f57d1000aa14f"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -8453,88 +8465,6 @@
 "tg_offset": 706328694,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794951116.7666483,
-"title": "Главное за день: GTA 6 на TGA 2026, большой сбой Рунета, трейлер Exodus",
-"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlR6RHp2OTMxOURMUWctYmxrTmF0Ump3Q0NGbm9tSFZDWU1fZ3kzYmo5XzBuLUJyaHdDQXhzWXBYV1BIbVhzTnl6ZzFOTkNZMDRjUm84a0xxTHpqY1o5YnJ4RU1fdzJSVENPR2hKc1VIaU5ZaDlHckc3ZzBQV2VpUktVNUxybXh6ZDNMUlkxQ2R0b2hLVFVZV0NjMGpyd2xqMW54MWVVN1pQMXpfR0pBY3BTeEtWQQ?oc=5",
-"tags": [
-"трейлер"
-],
-"img": null,
-"source": "VK Play",
-"score": 4,
-"kind": "news",
-"words": [
-"2026",
-"сбой",
-"трейл",
-"exodu",
-"tga",
-"рунет",
-"больш",
-"день",
-"главн"
-]
-},
-{
-"ts": 1794951119.9228432,
-"title": "30 FPS для GTA VI — это норм или позор?",
-"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQzBDYUUzREstdUUyYzFCMVBNVXRneTYzVWQ4MmVFZGVoTzR3S3N3Z1YxUEpoRnBvT0E3N2NGMF9JMWdIQUViUGlRcXFMTW1yUTEyWGVldk5WTExIRDNqaG42QmtOblBkSnMyXzdPR0RFNU5JanU1R3NOZVRaQjdSMW5qOTl0V3JLSnc?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "Mobile-review.com",
-"score": 2,
-"kind": "news",
-"words": [
-"fps",
-"позор",
-"норм"
-]
-},
-{
-"ts": 1794951123.085684,
-"title": "GTA VI на Xbox Series X и S получит оптимальные настройки изображения для 30 FPS",
-"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2U0dVBWZFgzZnZtaW9ZeU84U201ZUllVzhOVFBSSXYzLTU0dzZNQi1SNU04UjVWZVBUbi0tdTJYeVBDV2E4M3RuLW85aDhXRFlYWFFENmtVRWZkOThqZjJHVTQ4bVkySkpKd1BrdkVPNEwyX3p2NGV1Z2hveExtWHM4UkUtUVpMNjIyclFjYmtqVEllRUF3VXM4Y2l2NFJJX1dOLUNBYWRDbExySU04WVpKOA?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "GameGPU",
-"score": 2,
-"kind": "news",
-"words": [
-"оптим",
-"serie",
-"изобр",
-"fps",
-"настр",
-"xbox",
-"получ"
-]
-},
-{
-"ts": 1794951132.2540736,
-"title": "Актер озвучки GTA 4 предсказал оценку GTA 6: игра получит от 94 до 96 баллов",
-"url": "https://www.playground.ru/gta_6/news/akter_ozvuchki_gta_4_predskazal_otsenku_gta_6_igra_poluchit_ot_94_do_96_ballov-1891622#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"img": "https://i.playground.ru/e/nzpPA4twbZSta1SvMLokEA.png",
-"source": "PlayGround.ru",
-"score": 1,
-"kind": "news",
-"words": [
-"озвуч",
-"предс",
-"оценк",
-"актер",
-"игра",
-"балло",
-"получ"
-]
-},
 {
 "ts": 1794951693.911416,
 "title": "GTA 6 номинирована на звание «Игра года» до публикации обзоров PS5",
@@ -17886,5 +17816,5 @@
 1795123303.1496847
 ],
 "group_id": -1003664956927,
-"group_checked": 1795102254.568127
+"group_checked": 1795124437.7652595
 }
