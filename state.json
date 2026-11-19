@@ -6939,7 +6939,25 @@
 "240c2d1984ad88c3",
 "cdf04cf7a56a1b09",
 "7ea48bd4536134e6",
-"409e148ecb675a02"
+"409e148ecb675a02",
+"32bb715aea56b237",
+"cd25da2c1a029019",
+"796e5641891811c3",
+"28fa477d708c2303",
+"174a1c97ed8786f1",
+"604d46aedf95c06b",
+"ac257d0aab51f653",
+"8cdc7ee1c72939f7",
+"6a30b2633f29779e",
+"489147c3f6e3d764",
+"4e444b16f1986d12",
+"e098c51ab7920165",
+"156dbed6571e2a88",
+"f3dbfa1d7d77ddd7",
+"6b25bdc32a9de637",
+"3ca8def2211c3892",
+"5a7cf0758925277f",
+"ff0ee84cd4c37a0f"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -15284,6 +15302,48 @@
 "стира",
 "автом",
 "сохра"
+]
+},
+{
+"ts": 1795091506.0687222,
+"title": "Обновления запуска GTA 6: размеры патчей, версии и даты выпуска",
+"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOQjQ3SXpQNUdMQXFOemRjSkFfc2huSGE5dDdKdUJRQW9seUJ3Nm12SktXQ2dNNUJVb2VvaTdLem0tek81WHdPVG5hR01WWms3djBZVk5MS1QxVnVYRlNjX1U5dThUQQ?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "Red Bull",
+"score": 3,
+"kind": "news",
+"words": [
+"даты",
+"выпус",
+"патче",
+"запус",
+"верси",
+"обнов",
+"разме"
+]
+},
+{
+"ts": 1795091509.7681847,
+"title": "Как найти Lucky Dog в GTA 6 — секретное местонахождение собаки на гидроцикле",
+"url": "https://insider-gaming.com/how-to-find-lucky-dog-in-gta-6-secret-jet-ski-dog-location/",
+"tags": [
+"гайд"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/gta-6-lucky-dog-location-1024x576.png",
+"source": "Insider Gaming",
+"score": 3,
+"kind": "news",
+"words": [
+"место",
+"dog",
+"секре",
+"гидро",
+"собак",
+"найти",
+"lucky"
 ]
 }
 ],
