@@ -6726,7 +6726,61 @@
 "a50fa0f4aab10e44",
 "363a8d6b12a776ed",
 "14cc112cfb44cf38",
-"2dd3b1037b18231b"
+"2dd3b1037b18231b",
+"697e7f1b46570e42",
+"697e7f1b46570e42",
+"1f9b2c614459dad0",
+"c57bc014a94389eb",
+"4dc3b647b6ccd698",
+"6a4d292ca2df2717",
+"3ca9f9a3f8161bd2",
+"92cfa39f7dfc8b14",
+"1204aaad45b2eb84",
+"cf992aa85c266582",
+"f1c1ba7af88980e9",
+"5b73f3d373b50beb",
+"8287b45c14918826",
+"5205e4b3e3b93fc7",
+"33f44b14abc439b6",
+"1e6c6ca02a968107",
+"75134f24ea5f36c6",
+"a6ea2ef9164aa4ff",
+"fce8787645cfee3d",
+"0238c74bd759c4c4",
+"b8fb88946c5762f9",
+"de4502fc722fe4a7",
+"10e31af3793089d2",
+"d00696ceb912cb09",
+"925eea5f05c28735",
+"46a8ec239296ca83",
+"833314d210507c83",
+"b1e110be8a2b54e8",
+"b1e110be8a2b54e8",
+"8d2d8ec5e67c078a",
+"9955dd9251a1ad76",
+"b1d765769f5798bf",
+"b626db5abf0032cd",
+"edf749031beb06e8",
+"413e0beb132e2155",
+"b4e1997d593380c4",
+"6c25442a563e2cc7",
+"6c25442a563e2cc7",
+"60b8c677984e74e8",
+"05874b328888d37f",
+"05874b328888d37f",
+"1ab329f7b60bd016",
+"369113328c6996cc",
+"369113328c6996cc",
+"4c527da1b10ae325",
+"1489811c244137e9",
+"1489811c244137e9",
+"f0d835734ab4e9de",
+"6934119b951d9807",
+"6934119b951d9807",
+"6be3687816656bfe",
+"8d615cad532d7baa",
+"8d615cad532d7baa",
+"859c47a31634cb6b"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14710,12 +14764,168 @@
 "обман",
 "переп"
 ]
+},
+{
+"ts": 1795086378.9115522,
+"title": "Объяснение уровней отношений Джейсона и Люсии в GTA 6: как улучшить отношения Джейсона и Люсии",
+"url": "https://www.videogameschronicle.com/guide/gta-6-jason-lucia-relationship-levels-explained-how-to-improve-jason-and-lucias-relationship/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Relationship-Levels-Explained-2.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"улучш",
+"отнош",
+"уровн",
+"люсии",
+"джейс",
+"объяс"
+]
+},
+{
+"ts": 1795086382.075247,
+"title": "GTA 6: как вернуться к управлению GTA 5",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xWE1yUHVlVHZuYUxLSHMtV1pPTWZRV0xLRUFzU3RQdE1KZndjLXdOX0llNGtfVFJoRlh3cl93emJWcmFpa0tHY2hKVm8tdTR1VEx5U3pXSkktVHNNbFd5S2k5WXZsa2pvR3Vtd2g2T1hlSWZNMjZmbDNZaVU?oc=5",
+"tags": [
+"гайд",
+"настройки"
+],
+"img": null,
+"source": "Cultured Vultures",
+"score": 4,
+"kind": "news",
+"words": [
+"управ",
+"верну"
+]
+},
+{
+"ts": 1795086385.2644248,
+"title": "Разработчики Grand Theft Auto 6 раскрыли детали движка RAGE: 30 fps на всех консолях, 720p, FSR 4 на Series S и зачем сделали виньетку на экране",
+"url": "https://www.goha.ru/razrabotchiki-grand-theft-auto-6-raskryli-detali-dvizhka-rage-30-fps-na-vseh-konsolyah-720p-fsr-4-na-series-s-i-zachem-sdelali-vinetku-na-ekrane-l5Z8kp",
+"tags": [
+"настройки"
+],
+"img": "https://images.goha.ru/E:CA/0n/th661hcJ4G.jpg",
+"source": "GoHa.Ru",
+"score": 3,
+"kind": "news",
+"words": [
+"сдела",
+"fps",
+"720p",
+"детал",
+"зачем",
+"fsr",
+"разра",
+"винье",
+"раскр",
+"экран",
+"движк",
+"rage",
+"консо",
+"serie",
+"всех"
+]
+},
+{
+"ts": 1795086389.4384704,
+"title": "Как изменить свой криминальный профиль в GTA 6",
+"url": "https://www.polygon.com/gta-6-criminal-profile-how-to-improve-change-reputation/",
+"tags": [
+"гайд"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6-improve-criminal-profile-1.jpg",
+"source": "Polygon",
+"score": 3,
+"kind": "news",
+"words": [
+"измен",
+"профи",
+"свой",
+"крими"
+]
+},
+{
+"ts": 1795086393.6488845,
+"title": "Как сохранить украденные машины и оружие в GTA 6",
+"url": "https://www.polygon.com/gta-6-keep-stolen-vehicles-weapons-register/",
+"tags": [
+"гайд"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6-claim-vehicles-weapons-1.jpg",
+"source": "Polygon",
+"score": 3,
+"kind": "news",
+"words": [
+"сохра",
+"машин",
+"украд",
+"оружи"
+]
+},
+{
+"ts": 1795086397.8962297,
+"title": "Как изменить свою внешность в GTA 6",
+"url": "https://www.polygon.com/gta-6-how-to-change-your-appearance-clothes-grand-theft-auto/",
+"tags": [
+"гайд"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6-how-to-change-clothes-appearance-1.jpg",
+"source": "Polygon",
+"score": 3,
+"kind": "news",
+"words": [
+"измен",
+"внешн",
+"свою"
+]
+},
+{
+"ts": 1795086401.9326034,
+"title": "Как украсть красного Феникса за «Нежелательное внимание» в GTA 6",
+"url": "https://www.polygon.com/gta-6-unwanted-attention-steal-red-phoenix-grand-theft-auto/",
+"tags": [
+"гайд"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6-unwanted-attention-1.jpg",
+"source": "Polygon",
+"score": 3,
+"kind": "news",
+"words": [
+"феник",
+"нежел",
+"внима",
+"красн",
+"украс"
+]
+},
+{
+"ts": 1795086405.6344323,
+"title": "Как ограбить Фронт экзотических животных в GTA 6",
+"url": "https://www.polygon.com/gta-6-grand-theft-auto-how-to-rob-exotic-animal-front-cash-location/",
+"tags": [
+"гайд"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6-exotic-animals-front-1.jpg",
+"source": "Polygon",
+"score": 3,
+"kind": "news",
+"words": [
+"экзот",
+"фронт",
+"живот",
+"ограб"
+]
 }
 ],
 "digest_date": "2026-11-18",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-18",
-"viral_checked": 1795078938.3087695,
+"viral_checked": 1795086408.6346817,
 "viral_ts": [
 1795033371.001843,
 1795033374.1567006,
