@@ -7896,7 +7896,22 @@
 "95d806bf9649e03d",
 "f6ca1989d42abd26",
 "a194193381d79876",
-"c06eda1ede935d7e"
+"c06eda1ede935d7e",
+"8efce06b5e7df263",
+"8efce06b5e7df263",
+"4498ed44212c28ec",
+"7158b60d03c1535c",
+"003f72154c6b399e",
+"5952fbc18337f456",
+"b487b5d1ec196959",
+"eb5a1516ac4a43f1",
+"1bb61bf267c96c91",
+"4dba3493a29d6c05",
+"b930633a6f1d8d3d",
+"7f70f1fd7bba46b0",
+"ce7fe3e9110ab625",
+"94f9be163d944424",
+"44febfa9dd5ece49"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -7904,211 +7919,6 @@
 "tg_offset": 706328661,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794939782.2074041,
-"title": "Take-Two увольняет сотрудников Firaxis накануне запуска Grand Theft Auto VI",
-"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFRCbUVieWgxNFcwMzloNDdsNWI3a3AxRVNheWVQODhYM1RqUjFMeFVkSG9DRTJKc3hPT1ZTXzFFVWxQcGE1ZVhvQVY2Xy1NUDg1T0RSeUhQTGxtNUliY3FXZEZTVlJJd3BsNVY4ZVZhbm1PNDlnbjFTR2ZnRmxzU0JWSFBUR2xYdnpYSDZ1VElqMkt4cmx4d2hWVENFbTUzbDlMV0s2Y3RFakhtYlI0cQ?oc=5",
-"tags": [
-"новости"
-],
-"score": 0,
-"kind": "news",
-"words": [
-"сотру",
-"two",
-"накан",
-"запус",
-"уволь",
-"take",
-"firax"
-]
-},
-{
-"ts": 1794939785.3895662,
-"title": "Sony выпустила обязательную прошивку 14.23 для GTA 6 на PlayStation 5 и PS5 Pro",
-"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDBDQWZ6UGtOR1p1bUNiWmxlN1dUUS1tT2N3WFdEaTlxMGdLNHBtQ1Itc1IyazNwV3lrQlVqQTFCQTU2R0ZwTTBhaElFWHJNSVNHckJtSXJ3Zm4tbWJjT2dpakE2QXNGX3MyTGM3Vy03eVRoNHcwcjVINmhVSDlPTUxUcFZSUUppaEh4azBCZnJPVm5fN3lFXzFTM05fNzBqSHZFQVJ1d2FIMmU4T2Y1SHJB?oc=5",
-"tags": [
-"обновление"
-],
-"score": 3,
-"kind": "news",
-"words": [
-"обяза",
-"sony",
-"проши",
-"выпус",
-"pro",
-"plays",
-"ps5"
-]
-},
-{
-"ts": 1794939788.5728054,
-"title": "Сеть ресторанов быстрого питания на ограниченное время запускает сэндвич «Spice City» в рамках ажиотажа GTA VI",
-"url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaThCWi1RVXAzSVd1Yml6S0tZVnNNZ3JnSWJQLVpSZVVjSXpPWU1MU1Y5OEhWT3RxcjRrclNvY1BUZHlCZ01KcXN2S1FpLS1JZXFXSXJsem9sOEVxR0VWRXozWjJObFQzZFJIUm5oeEY3eXdJNTdOMXM4REt1M0dwNlF3bWlVOWlTTUhUVWpTSXBBOXVVOVlUMEpUUDAxZjIxbnJrN1BXSUlXQXNDZDU3aE95cGZzcTZMTjZ4OHI0RQ?oc=5",
-"tags": [
-"новости"
-],
-"score": 0,
-"kind": "news",
-"words": [
-"city",
-"рамка",
-"сеть",
-"запус",
-"ажиот",
-"питан",
-"огран",
-"время",
-"сэндв",
-"быстр",
-"spice",
-"ресто"
-]
-},
-{
-"ts": 1794939791.762317,
-"title": "GTA VI лидирует на The Game Awards 2026 несмотря на отсутствие релиза",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jeUdnbkZvUU1pWFlsYzFQUWxZTy1TYV9ramFSM254TEdOOHV6OWRMM2wwaGNpZkVaZHhBWkhCMWppRlBNSTdNbDdYQ1VFa2VaVUFXLVVLVGo0SUwyR1YyZ2RlcWtfZGdFQU9nT3FR?oc=5",
-"tags": [
-"новости"
-],
-"score": 0,
-"kind": "news",
-"words": [
-"релиз",
-"лидир",
-"отсут",
-"award",
-"game",
-"несмо",
-"2026"
-]
-},
-{
-"ts": 1794939804.3321047,
-"title": "В Германии число заявок на отпуск перед выходом GTA 6 выросло на 38% - эксперт сравнил ажиотаж с летними каникулами",
-"url": "https://www.playground.ru/gta_6/news/v_germanii_chislo_zayavok_na_otpusk_pered_vyhodom_gta_6_vyroslo_na_38_ekspert_sravnil_azhiotazh_s_letnimi_kanikulami-1891573#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"score": 1,
-"kind": "news",
-"words": [
-"экспе",
-"выход",
-"число",
-"герма",
-"ажиот",
-"отпус",
-"заяво",
-"каник",
-"сравн",
-"летни",
-"вырос",
-"перед"
-]
-},
-{
-"ts": 1794940331.8613086,
-"title": "Запуск GTA VI знаменует новую эру для игр, создателей и инвесторов из стран Персидского залива",
-"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU2JVbFVSWUt6ZHhOVDBmNk9FTWFCVTIzNFd6TTljNmpSQmVodGNiSWlhMnFXTmZ0SUJieHlCYXowV0JTWFpybWVMQi1xd0ItaXJnY2NCR2RjdTBkVXhVYXhnY012eGJRNlQ2aTR2U1EyQ2M4aV9qV2pxS0w5TnJ0RFdHZk14WXl5aVlJbXhhcTc3VmVCb2hWWlozUFB1Yy1KMl91dXpZZEh1SXIyd0JTZnN4by1XZw?oc=5",
-"tags": [
-"новости"
-],
-"score": 0,
-"kind": "news",
-"words": [
-"новую",
-"инвес",
-"залив",
-"перси",
-"запус",
-"игр",
-"эру",
-"знаме",
-"стран",
-"созда"
-]
-},
-{
-"ts": 1794940335.1065586,
-"title": "Раскрыта исполнительница главной роли в GTA VI — номинация TGA 2026 подтвердила давнюю догадку игроков об актрисе Лусии",
-"url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdW1DVWRjWTFxejBwdXpCU2tEXzBidkVCby1jdjY5aXNrOUdheDA5NmE4NlR1bFFvdllZMV9oWjBsZUxLMFJvMnFHTDRJVlpHdVpvQk9zQ0ozU2ZGSFkxdjBLb2VsUUwtT3hxdHQtdWpzcWZEU1hBMFpCX0RDcTdBdkVYNkVibm9LQUpkM2lqaW9SWUd4YzZ4elp6Xy1qeW1NUHFGSjVlcENkS3hPVWpkZldpb2I4REpDcWUxRC0wYXBxMFIya3FiWUsyTDc1UHdDcFhrdkJqdC1PUG1PcDFaUy05OGHSAeoBQVVfeXFMTWRHY1lQMDV3MnVxRTNNOVQ5OC1YLW9JSFdlZzJWRGMzR2p5SjFLVjBBNnZBc3RlYWRaZzdwTFpaN1lkb01JS2dZZnp3Vlc0RkpRMTRjNW5TU0lrV2dOUTZMYnVkZ2tYa2h5b0lwTW1pcF9GOUItTlQ2QklLOHQyOGNnTjkta0lMVG8yWUpETFVhLVEyci1BUnBfcHRjX3hRTktQTkxIYmNhMVFhU0t4OEJyamVqRWZxMXozajA3VUdDV1NYdDAxQmtHUk4wbnN4SG50UEdMQjFIZlNrMUl5dWZ0VGowWkJTMEV3?oc=5",
-"tags": [
-"новости"
-],
-"score": 0,
-"kind": "news",
-"words": [
-"номин",
-"догад",
-"2026",
-"роли",
-"главн",
-"раскр",
-"tga",
-"давню",
-"актри",
-"игрок",
-"лусии",
-"подтв",
-"испол"
-]
-},
-{
-"ts": 1794940338.3257647,
-"title": "Розыгрыш Fonbet: PS5 и GTA VI за подписку вместе с Анаром",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wbWVJdHNHMU10a21XdnF2R3hDRXFDS1UxQ3A5eWt1NzFPa2dRdUNvZktpMU1KaHA3QjY4b1FxU1lKQmltSVJkRHpCaXVoZWJDekJIUm85MGtoNC1oeWJ3TTVKYlFYTFJ3Qjc1OXpVcXI?oc=5",
-"tags": [
-"новости"
-],
-"score": 0,
-"kind": "news",
-"words": [
-"подпи",
-"анаро",
-"розыг",
-"fonbe",
-"вмест",
-"ps5"
-]
-},
-{
-"ts": 1794940341.5266063,
-"title": "GTA 6 лидирует в номинациях TGA, а обзоры еще даже не опубликованы",
-"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0JwS3dLNFB4eHUxOTNzOURSXy1HSEl4dXpBOXhpVzdrVFNGZWlRWTNuQnpDYXVjV1hUOW12SldtTkVLaGZReU96QzNlVDNzREZUWmtJOVd5Q1BzWV9Ja0NtYVdRa2hzYjBod19KckZrSUtaOEp4MXFvQlNRSnhjdFBtOHFSd3ctZkItRm1hZHNmTERSeU52X0xR?oc=5",
-"tags": [
-"новости"
-],
-"score": 0,
-"kind": "news",
-"words": [
-"номин",
-"опубл",
-"обзор",
-"еще",
-"лидир",
-"tga",
-"даже"
-]
-},
-{
-"ts": 1794940361.8080895,
-"title": "GTA 6 выйдет через 24 часа в Индии",
-"url": "https://www.championat.com/cybersport/news-6703032-vo-skolko-vyjdet-gta-6-v-indii-na-xbox-i-ps5-iksboks-i-ps5.html",
-"tags": [
-"новости"
-],
-"score": 1,
-"kind": "news",
-"words": [
-"выйде",
-"индии",
-"через",
-"часа"
-]
-},
 {
 "ts": 1794942693.413053,
 "title": "Грег получает GTA VI",
