@@ -6684,7 +6684,19 @@
 "f16b409cfe04efd1",
 "c0c1d207769973a5",
 "5d4198db0dfaab5f",
-"5a1a8321f004740e"
+"5a1a8321f004740e",
+"808d5433e0a14e76",
+"7c12b6059db588d2",
+"b1095481a97050ce",
+"0ecb8e1b228b2698",
+"970582f9afb7dc51",
+"8330f3ffff694442",
+"04fa8354bf5aeec9",
+"96a60a0d798fc79e",
+"d25dd4b38ef142ed",
+"300c3696ee6a52cb",
+"300c3696ee6a52cb",
+"51eb5b6b663e75dd"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14618,6 +14630,55 @@
 "путев",
 "подво",
 "кенто"
+]
+},
+{
+"ts": 1795083667.149238,
+"title": "«Мы получим GTA 6 до возвращения Янника Синнера» – фанаты теряют надежду, когда появляются сообщения о последнем обновлении итальянца о травме колена",
+"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeXM0a25fMXEtLU1nZkpnZU0zVUlsNXphZ292VzNhRWFUNDdpQmZ3S0JLSmFVX1ZkVlgtYk1iaE5Za2UxdG9wbktHT1JLS2RTQV9MNWZkZHBsOXhfUHNrMC12VGFWTHQ2NkNxdy16Z3lkTk9hdlIxV1BfTnRzVE1ENUgzNA?oc=5",
+"tags": [
+"обновление",
+"слухи"
+],
+"img": null,
+"source": "Yahoo Sports",
+"score": 4,
+"kind": "news",
+"words": [
+"обнов",
+"когда",
+"синне",
+"фанат",
+"сообщ",
+"возвр",
+"янник",
+"надеж",
+"колен",
+"теряю",
+"получ",
+"после",
+"появл",
+"травм",
+"италь"
+]
+},
+{
+"ts": 1795083675.7727704,
+"title": "Трейлеры не обманули — пляжи в GTA 6 переполнены людьми",
+"url": "https://www.championat.com/cybersport/news-6705542-trejlery-ne-obmanuli-plyazhi-v-gta-6-perepolneny-lyudmi.html",
+"tags": [
+"трейлер"
+],
+"img": "https://img.championat.com/news/big/v/v/trejlery-ne-obmanuli-plyazhi-v-gta-6-perepolneny-lyudmi_1795083626836126043.jpg",
+"source": "Чемпионат",
+"score": 5,
+"kind": "news",
+"words": [
+"пляжи",
+"трейл",
+"людьм",
+"обман",
+"переп"
 ]
 }
 ],
