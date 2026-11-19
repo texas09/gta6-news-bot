@@ -6189,7 +6189,28 @@
 "2d659c3026396303",
 "9a1fc37b13ed8bff",
 "d06ed10070de30ae",
-"77cc39f72f577f93"
+"77cc39f72f577f93",
+"7f2492cd66850267",
+"e08c63d9bf85a72a",
+"c9fc33664698d17c",
+"91e05451a0b1ef52",
+"2b73b43ccbd0d1b6",
+"41df2734891e8414",
+"454552e95d053c66",
+"b2a62d78c02691bc",
+"5172e10f5a0d73cb",
+"45731c0672a59af5",
+"92ea02768898099b",
+"1779514e647a8654",
+"bd77247cd456263d",
+"37f0620d1c827a26",
+"16398fb7e8c97b2a",
+"4b16f97cfa1ec302",
+"3aa5ba9d0f0a8266",
+"7b78e22befdd8ff0",
+"814588a7318059c4",
+"814588a7318059c4",
+"33aa767870e1eb92"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13035,12 +13056,60 @@
 "привы",
 "объяс"
 ]
+},
+{
+"ts": 1795063866.4634087,
+"title": "«Пасхалки» в GTA 6 на сегодняшний день: находки фанатов в трейлерах и подтвержденные Rockstar факты",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQTQ2d0N6dXNLYTFVMGVRclhsdHRGNWZhQ2RuN3NCQ1V3cy1uTVYzNkpSUDZZVmdGNGFFbEpCTVJzZGg5WTQ0YllvaFNSajhJUDVXMnVLWDB2dk1JQXg3M3hfcDFlUVlEdTVHcFFPM1o1N2lPcVlpLXk4UzdxOXNLZ1pLVmhIbTJsajE3NFhIZ3FBbGRaeXV0OWE0REx0TTJaWUFuSTI0Yw?oc=5",
+"tags": [
+"трейлер",
+"гайд"
+],
+"img": null,
+"source": "eGamers.io",
+"score": 6,
+"kind": "news",
+"words": [
+"пасха",
+"трейл",
+"наход",
+"день",
+"факты",
+"сегод",
+"подтв",
+"rocks",
+"фанат"
+]
+},
+{
+"ts": 1795063869.6848075,
+"title": "Rockstar прямо заявила, что PS5 Pro \"недостаточно мощна\" для запуска GTA 6 даже при 40 FPS",
+"url": "https://www.goha.ru/rockstar-pryamo-zayavila-chto-ps5-pro-nedostatochno-moshhna-dlya-zapuska-gta-6-dazhe-pri-40-fps-ljjrRN",
+"tags": [
+"настройки"
+],
+"img": "https://images.goha.ru/E:BE/YQ/D8fpgkCYcj.jpg",
+"source": "GoHa.Ru",
+"score": 3,
+"kind": "news",
+"words": [
+"прямо",
+"заяви",
+"мощна",
+"даже",
+"запус",
+"недос",
+"fps",
+"ps5",
+"rocks",
+"pro"
+]
 }
 ],
 "digest_date": "2026-11-18",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-18",
-"viral_checked": 1795056157.2597356,
+"viral_checked": 1795063872.685049,
 "viral_ts": [
 1795033371.001843,
 1795033374.1567006,
