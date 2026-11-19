@@ -8268,7 +8268,37 @@
 "799ef54e2be44d10",
 "e2ce9afe9b06637f",
 "7e9db69ba546f782",
-"bbf56562c5fb51b6"
+"bbf56562c5fb51b6",
+"3f7c60e2a25687d0",
+"3f7c60e2a25687d0",
+"21408c4a488f207b",
+"15949ec6496d1bb4",
+"138073c02640a73a",
+"44a9e203a9cd4799",
+"7e3641831490e8f7",
+"e541ada102ab490a",
+"b86b2f7e97ad48c4",
+"b9bce403bcc4f92e",
+"52108a7bb2ff1660",
+"cdb851e2215a2bdd",
+"992b505b8f1578f1",
+"e97227e0cce3dfd7",
+"beae7e762b54e696",
+"4a4d7eedf8991030",
+"46c5dd3f55cc2844",
+"ddb0511fe88f907e",
+"c7fda59f8906bea9",
+"7a0eac7d1f9dda1b",
+"16d48babbc22e0d1",
+"db029d98ea632e03",
+"9fa3fc5c80a8effc",
+"b5c373cea851cb5e",
+"e4fb692141c6288e",
+"7c81030681c4406b",
+"7ea28d35d45d4100",
+"06657f81825e9a1a",
+"3e725e6f2ee02640",
+"04665f6f6de4cd67"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -8276,96 +8306,6 @@
 "tg_offset": 706328681,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794946956.2395496,
-"title": "Этот набор клавишных колпачков в стиле GTA 6 немного облегчит ожидание версии для ПК",
-"url": "https://www.gamespot.com/articles/this-gta-6-inspired-keycap-set-will-make-the-wait-for-a-pc-version-slightly-easier/",
-"tags": [
-"новости"
-],
-"img": "https://www.gamespot.com/wp-content/uploads/2026/11/W1AT_CloseUp_NeonVice-withoutNovelties_Edited_81fbc700-72cd-4e5f-99e7-3106364ba0fe.jpg?w=300",
-"source": "GameSpot",
-"score": 1,
-"kind": "news",
-"words": [
-"стиле",
-"этот",
-"немно",
-"набор",
-"колпа",
-"ожида",
-"облег",
-"клави",
-"верси"
-]
-},
-{
-"ts": 1794946959.4070501,
-"title": "Энтузиасты создали инструмент, позволяющий увеличить фреймрейт GTA VI на консолях с 30 до 120 fps",
-"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUhpOGxpSnlFMEJjS1pYbVoyMU5fTUh1bFRtZTNIYTZ5WGhFV2VMUnZPWmlGVEIwVk4wTmpUTml1azZ3SW9CMEg5RDZ4ZGVMeUwxV2h0aC16ZzdQZ183NDlTTUVqWjAxQUNJTTQxVmhCakxjSmJMaUltRWlKUG4xaFhrYmZHN2JHd1F6MVlRMTgteGdKc3hzWkd1Q0VHT1BaeEhJMWRXbGxVc2vSAbABQVVfeXFMTnA2NjE1VGhJUHRPaFpxQldHckdHTjFRTURVLS1jMjdaYnpUMm4weGg0cGgxaDFKcHEtdjlaVlZGcnJOTU9BQm1DR1FzcWZQUnBMV2w0WkJ3aG1JRUZpN0ozUFFLUUhhSjBnMlIySEM4OHFaRHBoTjU4cXY2YVRFX0R3VjYxOHMwUk9LU1Y4dUU1ejZhYXVMUXRDbllCTGRiNW42NmU4clNNdHVHSEFYTUc?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "Клуб DNS",
-"score": 2,
-"kind": "news",
-"words": [
-"120",
-"созда",
-"позво",
-"инстр",
-"увели",
-"фрейм",
-"энтуз",
-"fps",
-"консо"
-]
-},
-{
-"ts": 1794946963.7112012,
-"title": "Это одни из самых громких оскорблений на Game Awards 2026",
-"url": "https://www.gamespot.com/articles/these-are-some-of-the-biggest-snubs-at-the-game-awards-2026/",
-"tags": [
-"новости"
-],
-"img": "https://www.gamespot.com/wp-content/uploads/2026/11/tbod-image.jpg?w=300",
-"source": "GameSpot",
-"score": 1,
-"kind": "news",
-"words": [
-"одни",
-"game",
-"2026",
-"громк",
-"оскор",
-"самых",
-"award"
-]
-},
-{
-"ts": 1794946967.587825,
-"title": "Вы можете проголосовать за GTA 6, чтобы выиграть GOTY, прежде чем обзоры выровняются.",
-"url": "https://www.videogameschronicle.com/news/gta-6-reviews-vote/",
-"tags": [
-"новости"
-],
-"img": "https://www.videogameschronicle.com/files/2026/11/gta-grand-theft-auto-6-pic09.jpg",
-"source": "VGC",
-"score": 1,
-"kind": "news",
-"words": [
-"может",
-"чем",
-"выигр",
-"goty",
-"обзор",
-"чтобы",
-"выров",
-"прого",
-"прежд"
-]
-},
 {
 "ts": 1794947683.8250043,
 "title": "Игроки попрощались с Лос-Сантосом GTA 5 символическим перелетом из Сан-Андреаса в Вайс-Сити GTA 6",
