@@ -5982,7 +5982,16 @@
 "356954fbe54b5018",
 "fa4f863ed3c2301a",
 "42b2077ea6765b39",
-"c1d7eea37856993e"
+"c1d7eea37856993e",
+"b89b2dd0ae6761f8",
+"1a2b5ef80a93a2ef",
+"88e957b22f1ed5e6",
+"b6489f5af8e769cc",
+"0644cdcdff8ec893",
+"33dfba98211fb977",
+"1bf5f7bdd1bd3605",
+"aef92d5e9c935154",
+"0981b77a75ce4c07"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -12390,12 +12399,49 @@
 "товар",
 "менее"
 ]
+},
+{
+"ts": 1795056151.1249557,
+"title": "Разъяснение о том, как быстро перемещаться в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EdUwxUEhtaml6UG90WmhzMEx6MnZqM0RBYlNxbXdmN2NwdDZPZlNlQnA0WmxlRW85RzZod0dsTG9GVVB6RkU5WWhDQ2IzRUZtVWpWOUYyNXdxYzhrTUM3V2RuQTZ0amtXMHlmdzJ2QW1vY25CLWMtQ3gwXzllZw?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Radio Times",
+"score": 2,
+"kind": "news",
+"words": [
+"быстр",
+"разъя",
+"том",
+"перем"
+]
+},
+{
+"ts": 1795056154.259484,
+"title": "Как переключаться между Джейсоном и Люсией в GTA 6: объяснение",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM1pNMHB6SXFLdFhtS2lCSERfSlAxbnNnbzRHeDVkLXo3Qm5WWWZBdXpwN3huNGVXd3ExM0l3S3VxVGVlZEh6SjZvY2QtVlhWVndRQU1taGQ4S01ibThEOTh3dTQyVVVKdWMtaVhLdlpIelV1UGVPVHk3cDI0YW5RNFlR?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Radio Times",
+"score": 2,
+"kind": "news",
+"words": [
+"люсие",
+"джейс",
+"между",
+"перек",
+"объяс"
+]
 }
 ],
 "digest_date": "2026-11-18",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-18",
-"viral_checked": 1795048894.8348622,
+"viral_checked": 1795056157.2597356,
 "viral_ts": [
 1795033371.001843,
 1795033374.1567006,
