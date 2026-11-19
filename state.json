@@ -8064,7 +8064,28 @@
 "d84b1b757fa30fdd",
 "6384695115f91f53",
 "a9606f45e610a8a7",
-"4f501c75c271e009"
+"4f501c75c271e009",
+"a9daa28e11b6b3c1",
+"5d76edcdf256c5dd",
+"b83c24c7010dffae",
+"b7bcc2bc8a5add29",
+"2c11ba4a766cef1a",
+"371ddb4fac0f7968",
+"df47961e56b08744",
+"6e91614c69a05d82",
+"72190d1340f6e508",
+"c5b88740fb8fe87b",
+"a5068aada63ba0d5",
+"eeacd238e2cfd924",
+"226f38b1bb11b441",
+"c917d1e58065589e",
+"e2e78412f8554483",
+"b64cca028ad44259",
+"c9dc246daebf01fe",
+"bc07b55631b73f08",
+"889f69b4a6837703",
+"054ea9913121d5ab",
+"f4c54a4ba63e4ed6"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -8072,30 +8093,6 @@
 "tg_offset": 706328671,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794943921.1454346,
-"title": "GTA VI на релизе получит 180 FPS благодаря DLSS 4.5 и нейронному рендерингу DLSS 5 на ПК с RTX 5090",
-"url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaDdsOFRDRWF3YnI0ejBWWkVSSVBpWnZ5OGJ5UnF6RVUyQjRvcEZHV1VfOEVoelExU0lfSnhOOHhuSkREbHZuRDk1WWJWRVNjWTZaRDk0eFRTa3ctNHc3a00zRG5GTDRvazlqWUhSMFhBUlNqcC1FdG5IMDNRVFdRSDFCLTVBcTBCODNBT3JLS2JnQWF2cWlXd1dNNHRrcmZVZDBLY0c4LUdfck1YRXRQLXlzVGJSWndRWlhlOFN1TFE2bzBxQ05yck5lTQ?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "GameGPU",
-"score": 2,
-"kind": "news",
-"words": [
-"fps",
-"rtx",
-"ренде",
-"5090",
-"получ",
-"dlss",
-"нейро",
-"релиз",
-"180",
-"благо"
-]
-},
 {
 "ts": 1794944597.1156204,
 "title": "Служба здравоохранения Великобритании вынесла предупреждение по поводу GTA 6 и призывает игроков беречь свои руки",
