@@ -6528,7 +6528,28 @@
 "7b9aa0ded676e9cc",
 "6b2a2cadb500b02e",
 "263be0af5babf52f",
-"a42cf08cedd6298e"
+"a42cf08cedd6298e",
+"ce679d9e210b9418",
+"aaf35fd9f01cb837",
+"0fd725d76e0911a7",
+"6885515629eeadb9",
+"04b7c2293f66a7f9",
+"da6d81af1f1af4b2",
+"57142c982c8117d6",
+"93e19cf7f1c7e12c",
+"5454f6a6f14ea2b0",
+"1db8a9e50778f30e",
+"ea82a92a8d346dbc",
+"6a1028d90deaa06a",
+"237821548d543b9d",
+"344fa2f832e0b9de",
+"4167b8e01e347de4",
+"81ac34ee96305f27",
+"81ac34ee96305f27",
+"1d4267c840688d92",
+"15a686dabd4a25fe",
+"15a686dabd4a25fe",
+"f4952b6bafa2381d"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14076,6 +14097,94 @@
 "беспл",
 "plays",
 "созда"
+]
+},
+{
+"ts": 1795077778.5766797,
+"title": "GTA 6 разогнали до 280 FPS с помощью внешней генерации кадров — исходная картинка с PS5 Pro",
+"url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRWNkN1hKSE5WakJhbkItdWFtcHJPVnAtbWMtYVNIcHpHeFhWYktNOHo2WVoza0tqdlRHckVVN2JsSTFfLWtGOGpvV21rQ2c1WWZSUTd1NC0xeEYzX18zUjltbnlkQ1BrWWZybU5uLU9GRldJeUtHenFwblVzZkZ5NnRYVUEzOHRCZFBqNVFJN3NpalBnWDI3ZnlUczNfeVljWlB4S2hxTUNkOVdUNExNY29IcGstZl8zV2l4bTFZZUx0S0M1X2M5NDB0MDdBamxFMjZwQ0c4M29mUQ?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "VGTimes",
+"score": 2,
+"kind": "news",
+"words": [
+"карти",
+"помощ",
+"генер",
+"pro",
+"исход",
+"разог",
+"внешн",
+"280",
+"fps",
+"кадро",
+"ps5"
+]
+},
+{
+"ts": 1795077781.8231323,
+"title": "Производительность GTA 6 на консолях: ролики против опубликованных тестов",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWmt4UERHUHhZT2JDazVIbXB4YW90N0NLaW9NX1dncWxVMzNoTlRSRVh2RWtic2Y3dmdPSGtiNTN4RXpPOW9yazM1NUg1cWxya2Yya20xNjR1eHozQnBHX21OTmNsT2pTZDlpX0MtVVNURXNuTnZBRmNIaUhtVzFhTWh3?oc=5",
+"tags": [
+"настройки",
+"слухи"
+],
+"img": null,
+"source": "NeoTeo",
+"score": 3,
+"kind": "news",
+"words": [
+"произ",
+"опубл",
+"проти",
+"ролик",
+"тесто",
+"консо"
+]
+},
+{
+"ts": 1795077787.7608364,
+"title": "В Сети появилась полная карта GTA 6 — она гигантская и с кучей активностей",
+"url": "https://www.championat.com/cybersport/news-6705428-karta-gta-6-razmer-shtata-leonida-vse-regiony-gta-6.html",
+"tags": [
+"новости"
+],
+"img": "https://img.championat.com/news/big/y/y/v-seti-poyavilas-polnaya-karta-gta-6-ona-gigantskaya-i-s-kuchej-aktivnostej_17950760841050959975.jpg",
+"source": "Чемпионат",
+"score": 1,
+"kind": "news",
+"words": [
+"гиган",
+"карта",
+"полна",
+"кучей",
+"сети",
+"появи",
+"актив"
+]
+},
+{
+"ts": 1795077790.9867373,
+"title": "Игроки GTA 6 уже нашли Бигфута, и у него очень волосатые ноги",
+"url": "https://shazoo.ru/2026/11/19/194328/igroki-gta-6-uze-nasli-bigfuta-i-u-nego-ocen-volosatye-nogi",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892109_elFDZGK_1232.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"нашли",
+"ноги",
+"бигфу",
+"очень",
+"волос",
+"него",
+"игрок"
 ]
 }
 ],
