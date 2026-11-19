@@ -6549,12 +6549,33 @@
 "1d4267c840688d92",
 "15a686dabd4a25fe",
 "15a686dabd4a25fe",
-"f4952b6bafa2381d"
+"f4952b6bafa2381d",
+"784488bd7273adde",
+"733e3aef3405fa38",
+"7f22b8ca1ec9e093",
+"0ae0fde18c9ed141",
+"238691b18adfd3e4",
+"7bcf514f2f6d83ef",
+"7966bb021f2afd45",
+"3f3dd64b9a4d1157",
+"8848b887384a555f",
+"79d52a005fae3f25",
+"a45999a9d3dce4b7",
+"4ec8cfe3c3660ec6",
+"06be3bfd78aa74b2",
+"d45ab51759afde1e",
+"d25655fe4be4e7b9",
+"cc5d96c50423dc44",
+"e5cdeba9a34ee004",
+"d29631ec3c8b02d4",
+"8c586bd1f5220cd9",
+"6cc32ebc05846145",
+"1b36df4fbb891894"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328570,
+"tg_offset": 706328574,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -14185,6 +14206,105 @@
 "волос",
 "него",
 "игрок"
+]
+},
+{
+"ts": 1795078296.1011312,
+"title": "Игроки GTA VI просят Rockstar ускорить выход на ПК: перестрелки и взрывы вызывают просадки до 20 FPS и ниже на консолях",
+"url": "https://www.playground.ru/gta_6/news/igroki_gta_vi_prosyat_rockstar_uskorit_vyhod_na_pk_perestrelki_i_vzryvy_vyzyvayut_prosadki_do_20_fps_i_nizhe_na_konsolyah-1892050#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"настройки"
+],
+"img": "https://i.playground.ru/e/b4jWFfF-CzcZbuJ0NiBKuA.png",
+"source": "PlayGround.ru",
+"score": 3,
+"kind": "news",
+"words": [
+"игрок",
+"fps",
+"ускор",
+"вызыв",
+"консо",
+"проса",
+"прося",
+"выход",
+"перес",
+"rocks",
+"взрыв",
+"ниже"
+]
+},
+{
+"ts": 1795078300.0993488,
+"title": "Моддеры уже \"запустили\" GTA VI на ПК с DLSS 5 и генерацией кадров: RTX 5080 выводит до 60 FPS через PS5 Remote Play",
+"url": "https://www.playground.ru/gta_6/news/moddery_uzhe_zapustili_gta_vi_na_pk_s_dlss_5_i_generatsiej_kadrov_rtx_5080_vyvodit_do_60_fps_cherez_ps5_remote_play-1892051#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"настройки"
+],
+"img": "https://i.playground.ru/e/CHKeGmUbAWCCNXs5N6icEA.webp",
+"source": "PlayGround.ru",
+"score": 3,
+"kind": "news",
+"words": [
+"кадро",
+"модде",
+"rtx",
+"dlss",
+"fps",
+"через",
+"ps5",
+"5080",
+"запус",
+"вывод",
+"генер",
+"remot",
+"play"
+]
+},
+{
+"ts": 1795078303.3064363,
+"title": "GTA 6 заблокирована на 30 кадрах в секунду: даже PS5 Pro не может выдержать 60 кадров в секунду",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYUppWm5xT0llLU4zRkFTTkgxaG9uNjFOVERlWTJjTVhrOHZoUUpYRmlqejBqaEl4SkJOdDNWREZlckszU3ptX1hTQVBOSFhqVUpxb2VXRWQ0S2lkZUNqejJuMkhSR1doZF9nWmVZUDhDNmZMOVFXUGhaN2g4bkt0ZDlBbTg5Yk1TYjRWNjZiRDBTR21ub0xJYVNESUFOVVBXcF9CQkJqcw?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "autoevolution",
+"score": 2,
+"kind": "news",
+"words": [
+"pro",
+"кадра",
+"кадро",
+"выдер",
+"ps5",
+"даже",
+"может",
+"забло",
+"секун"
+]
+},
+{
+"ts": 1795078306.5496836,
+"title": "Ругать GTA VI – новая мода. Игроки устроили в сети скандал из-за падения FPS",
+"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmtHOWFOd2Frd29fR2lDUll0anlBeGF3cjJITXpOUWlkR1BLbVZNSzJ0Q1RBaFUyaWZMd2ZuN0JndmRBWlFKQXJ4aFR5T2gwRmJqdGszNU9qWnRMUWpDYnItU3ZnLTQyalUwLWZKTFJsUTVIbmxkZkpLaEVtQ3dWYUNFS3BXR2dpNVZSVGFsTldtNU1IUzlTbDNDOHdTelNkWUF5TEZFcHpPenVKVHRTa3I5bUPSAboBQVVfeXFMTWVqb2hVdWZQdm84Mjk5WW1kdU1sdTMtdnNLUEZsdUhKdVdWOGE2c09PR0taemJnUmhZbW14aGFBZ3JtYVdwbXAzTzRObk0wWFg0ZERNTFRsbUpUVUVMb3B0QUFSVE9lQ2ZTalRJNnF2N1R4LVZEUnZhWUE5TzZEU3k1SGEyZUE0T2JKN1IyYVJlbFAydXdjVmhnaUN1S0s4dFlBTkZBeTA4OE81OTJ2VTc1N0VXQ3pISUdR?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "iXBT.games",
+"score": 2,
+"kind": "news",
+"words": [
+"игрок",
+"fps",
+"устро",
+"мода",
+"новая",
+"паден",
+"ругат",
+"сканд",
+"сети"
 ]
 }
 ],
