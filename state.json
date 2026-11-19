@@ -7911,7 +7911,31 @@
 "7f70f1fd7bba46b0",
 "ce7fe3e9110ab625",
 "94f9be163d944424",
-"44febfa9dd5ece49"
+"44febfa9dd5ece49",
+"977c09ce4a684bd5",
+"64c266c187687969",
+"8fbc07af05a2e65b",
+"4507b638e3142316",
+"12ba49ffffe7a9cc",
+"c19db94cbb046429",
+"9b9c5a45ce9bca58",
+"2270b40a66e35142",
+"6fc9db5c99f6a919",
+"8182242788332b10",
+"f5a017a31734a344",
+"2f02be4405d8d05a",
+"9d69173accf71a3d",
+"47b0b76e6c3dc039",
+"f9f580286ed25029",
+"d03548c88b5e2635",
+"150592145b9fae37",
+"4a4e89fac256f810",
+"6f3a907330768c3d",
+"6f3a907330768c3d",
+"de1a507ca8ca89be",
+"e44e0d3fe16f788b",
+"b9103f24219e1c7d",
+"c012a6db686d21f2"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -17109,6 +17133,51 @@
 "боево",
 "украс",
 "истре"
+]
+},
+{
+"ts": 1795113756.2666914,
+"title": "Хотел рассмотреть чайку, а скинул женщину с пирса – игроки жалуются на управление в GTA 6 в стиле RDR 2",
+"url": "https://shazoo.ru/2026/11/19/194340/xotel-rassmotret-caiku-a-skinul-zenshhinu-s-pirsa-igroki-zaluiutsia-na-upravlenie-v-gta-6-v-stile-rdr-2",
+"tags": [
+"настройки"
+],
+"img": "https://cdn.shazoo.ru/892124_jA9tNRm_gta67.jpg",
+"source": "Shazoo",
+"score": 3,
+"kind": "news",
+"words": [
+"rdr",
+"управ",
+"женщи",
+"стиле",
+"скину",
+"игрок",
+"пирса",
+"жалую",
+"рассм",
+"чайку",
+"хотел"
+]
+},
+{
+"ts": 1795113759.4707615,
+"title": "Как играть в GTA VI на своем ПК сегодня – с помощью бесплатного приложения",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54WWNacnYxbTZEV2xMMTlFd1dVX2V3cGhOSGQ2MU9OS1drbFc4Q2h0REJ1eUsyV0t0b0t4Z0xoNjJvTHl0VWpMVktiYngwZ1ZIOHlRZ3NqUlNmbHlld1Nhczh2bUt5Um1PQ3pvVFRqOWE?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "ZDNET",
+"score": 2,
+"kind": "news",
+"words": [
+"прило",
+"помощ",
+"беспл",
+"своем",
+"играт",
+"сегод"
 ]
 }
 ],
