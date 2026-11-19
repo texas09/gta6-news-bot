@@ -6792,7 +6792,31 @@
 "12cb2875d81fd95e",
 "cc8324f08c3a304c",
 "7e93a2cf94138c11",
-"66971ae515c9f353"
+"66971ae515c9f353",
+"ba0ca66278daaaa9",
+"b6ba3994c8b6cda4",
+"01a87ec25b7af6df",
+"3d985ab6dd574f49",
+"917ada93ac521800",
+"083d3214613b266d",
+"6f3ecda623c11adb",
+"a68416c4168dc94a",
+"a9efc1f02df26d63",
+"b5ce14cdeaa5abc7",
+"842eef048a5a3fe6",
+"975aa5ef470935c3",
+"bb86343195d64f58",
+"65fa5a2e9a196f4c",
+"9c6eff6fa3aea84c",
+"831e743b15d082bf",
+"59e353f11bec84e3",
+"9dc10d33896fcb02",
+"0d303654891d580a",
+"722220f4898b0d13",
+"4240762658577a6a",
+"bd12796d271c4d1b",
+"6422eb36e4d5f277",
+"85a54be532e11255"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14931,6 +14955,47 @@
 "фронт",
 "живот",
 "ограб"
+]
+},
+{
+"ts": 1795087305.2517035,
+"title": "GTA 6 выходит после 13-летнего ожидания: постоянные обновления, пока геймеры исследуют Вайс-Сити",
+"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdlM5UExrWHBpSWhHS0JLMW8wb2dOM2Z5X3pBbmpaX0ZWZkhmaHZBbElrNjF6UGNiRmVLZldFaUlVal9uNG9ESnJ4NkZFQWM5SGJkTTNReFlvVmVsWGNXR3h4SHhzNHF0ZkotUTN6dkhvM0RrVEJTZVFGOGI0SXMxRS1ZdEdZV2tSUFcta1FEX0RJb0JpN3c?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "USA Today",
+"score": 3,
+"kind": "news",
+"words": [
+"обнов",
+"вайс",
+"выход",
+"сити",
+"после",
+"летне",
+"иссле",
+"пока",
+"гейме",
+"ожида",
+"посто"
+]
+},
+{
+"ts": 1795087309.7275445,
+"title": "GTA 6 Что в сумке? Прохождение",
+"url": "https://www.videogameschronicle.com/guide/gta-6-whats-in-the-bag-walkthrough/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Chapter-2.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"сумке",
+"прохо"
 ]
 }
 ],
