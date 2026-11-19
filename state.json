@@ -8355,12 +8355,48 @@
 "3819fdd5ce235197",
 "163264e87f02dae2",
 "bbce7192a4351232",
-"51f041fdabd83ba8"
+"51f041fdabd83ba8",
+"1ba878e9ee8aa2f3",
+"1ba878e9ee8aa2f3",
+"62d40224f86d7fab",
+"83c27ec4dea2c7bf",
+"c61dd57c2d4e2f79",
+"81cdccabbc7eb9c1",
+"cd4e6f28be7c2ac8",
+"4bc307d2eb20092f",
+"be37710e75b15310",
+"c267d4f3d97051fc",
+"d36f90536e175c19",
+"44b0dcc11169867e",
+"9dfe807eba8273fa",
+"973983e3e5f937df",
+"0f42a76f7121e327",
+"3e44bd4207c2f82e",
+"6d9218ce75209f4e",
+"3e5dfe14c940b67c",
+"2a5632a61dc568f1",
+"356ee0cf8f14093b",
+"3ce794a0893ffbd6",
+"1e4414a1e7e004eb",
+"8125176b52d06df2",
+"4d14e1edf382612d",
+"a9fa0e21f3cd3dc6",
+"03e747840e8c1738",
+"126f0b161e5c6f8d",
+"39e1b7b8f575c4ec",
+"3d59cc8c7a7d187e",
+"8f99462f9c43bf02",
+"a87416e7da76dfc1",
+"162e062aedb4681f",
+"7126ca5197c40e6d",
+"79a4a8a2a4062ed7",
+"86992bec706c7db9",
+"25ce769b06571d07"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328681,
+"tg_offset": 706328683,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -17556,6 +17592,26 @@
 "позна",
 "персо",
 "други"
+]
+},
+{
+"ts": 1795122122.3960598,
+"title": "В GTA 6 есть несколько дерзких пасхальных яиц с Декстером",
+"url": "https://www.ign.com/articles/gta-6-features-a-few-cheeky-dexter-easter-eggs",
+"tags": [
+"гайд"
+],
+"img": "https://assets-prd.ignimgs.com/2026/11/19/gta-6-dexter-1795102962512.jpg",
+"source": "IGN",
+"score": 3,
+"kind": "news",
+"words": [
+"неско",
+"декст",
+"яиц",
+"есть",
+"пасха",
+"дерзк"
 ]
 }
 ],
