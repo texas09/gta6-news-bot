@@ -6297,7 +6297,49 @@
 "2dd74c2f542830d7",
 "9b0ce4a7cf5cc198",
 "ebd37993f1dd22b4",
-"147e2c081e8f29ee"
+"147e2c081e8f29ee",
+"32eddeb755b643f0",
+"0da93f3f6b75ca6d",
+"9a535cf4605bd6ab",
+"ba58030acb161d44",
+"d5e85385d9015b65",
+"02761e5e6c5d283a",
+"409ecc9f06297a75",
+"bd36c261c283adc5",
+"c68ebb9dbbbe35db",
+"c0703568a27ffff9",
+"848bd4d37a206946",
+"576ee76363e2ba33",
+"91dd99d2e9d13865",
+"1f28badd2a98afd9",
+"dd1a83fe6fbc169c",
+"f16225e3ec0926a6",
+"19716e999292142c",
+"7a6880438dd41f6f",
+"27ca6fd1982668c5",
+"27ca6fd1982668c5",
+"7f51650eacce029c",
+"f0c9ad76fe87b251",
+"0b1e9b44eed51696",
+"ea5919cb27c9f0a5",
+"640b322ca93fee36",
+"aa49a2dc6bd75c2f",
+"5982d00297dcec02",
+"48ad508dc53f9eb5",
+"0d3712e3c7604623",
+"9f37daaa31eb0797",
+"bde4db81ae915784",
+"ab3d6f483176076a",
+"0737f29e973bc741",
+"bef94a60a5471c81",
+"e4e43015f392eb99",
+"c329bebff3ae8c0e",
+"6911ee48df22af0d",
+"499d6134afd2c2c7",
+"430e44d13de552c7",
+"7ce37457bd4d1784",
+"9f092e48038a5787",
+"bfa76601f6359c6d"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13402,6 +13444,193 @@
 "некот",
 "гейме",
 "сообщ"
+]
+},
+{
+"ts": 1795069896.829616,
+"title": "Игроки GTA 6 нашли новую любимицу – Мэнди затмила Лусию уже через 20 минут игры",
+"url": "https://shazoo.ru/2026/11/19/194330/igroki-gta-6-nasli-novuiu-liubimicu-mendi-zatmila-lusiiu-uze-cerez-20-minut-igry",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892116_gnJoiDA_mandy.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"через",
+"новую",
+"мэнди",
+"минут",
+"игры",
+"лусию",
+"игрок",
+"любим",
+"затми",
+"нашли"
+]
+},
+{
+"ts": 1795069901.8156278,
+"title": "В GTA 6 даже угон автомобиля может закончиться дракой с котом - Джейсону придётся отбиваться от пассажира",
+"url": "https://www.playground.ru/gta_6/news/v_gta_6_dazhe_ugon_avtomobilya_mozhet_zakonchitsya_drakoj_s_kotom_dzhejsonu_pridyotsya_otbivatsya_ot_passazhira-1892012#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/SNCASIh-sUDxtdNw21L3yA.jpeg",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"придё",
+"джейс",
+"автом",
+"котом",
+"отбив",
+"угон",
+"может",
+"драко",
+"закон",
+"даже",
+"пасса"
+]
+},
+{
+"ts": 1795069907.2187867,
+"title": "Датамайнер обнаружил эксклюзивные бонусы GTA+ в GTA 6 - даже владельцам Ultimate Edition доступен не весь контент",
+"url": "https://www.playground.ru/gta_6/news/datamajner_obnaruzhil_eksklyuzivnye_bonusy_gta_v_gta_6_dazhe_vladeltsam_ultimate_edition_dostupen_ne_ves_kontent-1892013#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/a6N0p2pbbZHhRp58Ky0IbQ.jpeg",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"экскл",
+"весь",
+"конте",
+"ultim",
+"бонус",
+"editi",
+"досту",
+"датам",
+"даже",
+"обнар",
+"владе"
+]
+},
+{
+"ts": 1795069912.7618897,
+"title": "Версия GTA 6 для PS5 получила тактильный контроль скорости при помощи геймпада DualSense",
+"url": "https://www.playground.ru/gta_6/news/versiya_gta_6_dlya_ps5_poluchila_taktilnyj_kontrol_skorosti_pri_pomoschi_gejmpada_dualsense-1892015#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/ddzl4BeT-MudiGqkDRlAdw.jpeg",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"помощ",
+"скоро",
+"ps5",
+"геймп",
+"контр",
+"получ",
+"такти",
+"duals",
+"верси"
+]
+},
+{
+"ts": 1795069915.9331336,
+"title": "GTA VI в будущем не получит 60 FPS даже на PS5 Pro. Rockstar объяснила причину",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWXlSc3NJVzk2SmdnZ1RpVjY1ZXkzVkZ0R0MtRTlYMkNWRTFvbkdmUUFaNjk1UFpkRDFoTDZyeHRFVkcwTFNtbHh5VlhDVzJRTzBaZ3dOdWlpRzJzSVFiZloyLS1SZnZ3d1AtWlhUNGxoai1QaGxEbEhqU1pua1BsYk9tSEpKTW5BTmxYMUF3QnhEWkVEVkxTWHIwenRnc2UyUGpSb1VWNEYwWFZKUXdFUmQyTWtkYnVYa1VfVjdn0gHDAUFVX3lxTE1hUzRYWENvd1FfR0RNUzZtc1dPN2RmdHU2R0NkRDhiQTBqVjh6Szd6MDBRZ1YyRlFMbVB0djBMc2JDczIydHlBb3ZBa2I1WlVfMkdQTXdFWGh2TGljRHBBdkp0ZjBiN093SG1pV2k4RmdNbzN0VDd4dkh6QVRtc2NQM2dQQXN3bHc2aWt0TFdjeUE1UGczOGMyRmV5alkyX29fQlZ0R2ljS05Xel8zeW9sVTVkWWd6SDVHUFFFQmxUNHJ5NA?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "iXBT.games",
+"score": 2,
+"kind": "news",
+"words": [
+"будущ",
+"ps5",
+"причи",
+"rocks",
+"pro",
+"fps",
+"получ",
+"даже",
+"объяс"
+]
+},
+{
+"ts": 1795069920.188043,
+"title": "Даже создатели GTA 6 боятся увольнений - разработчики Rockstar добиваются признания профсоюза",
+"url": "https://www.playground.ru/gta_6/news/dazhe_sozdateli_gta_6_boyatsya_uvolnenij_razrabotchiki_rockstar_dobivayutsya_priznaniya_profsoyuza-1892018#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/ecm067bJJzQ522FaN7DZlw.jpeg",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"уволь",
+"rocks",
+"созда",
+"профс",
+"добив",
+"боятс",
+"разра",
+"даже",
+"призн"
+]
+},
+{
+"ts": 1795069923.3408344,
+"title": "Как быстро путешествовать в GTA 6 и разблокировать приложение RydeMe",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYU1TTURFMHJvNGJ5LVBzdko5RW1jczVNaUFyZnk0Rkh0ZHp2VDVYWFpnRUppRXliWEJVNTBiU2czUnVhaWZKb1lzcEdYYUFUUFNXdWxobF9QWXFSQWYxQVVhWUVaZWlaU3FjMmJBdDFLSFJpbGQ0MmxEYzhWb0lTbzNMN1JQMm9xNmVfR2J5RQ?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "VICE",
+"score": 2,
+"kind": "news",
+"words": [
+"быстр",
+"путеш",
+"разбл",
+"прило",
+"rydem"
+]
+},
+{
+"ts": 1795069927.7350113,
+"title": "Создатель Deus Ex надеется, что GTA 6 станет последней игрой с миллиардным бюджетом: \"Я предпочёл бы сотни проектов\"",
+"url": "https://www.playground.ru/gta_6/news/sozdatel_deus_ex_nadeetsya_chto_gta_6_stanet_poslednej_igroj_s_milliardnym_byudzhetom_ya_predpochyol_by_sotni_proektov-1892020#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/qzV2GKPqeaSyOE8IOvhk4w.jpeg",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"после",
+"созда",
+"стане",
+"милли",
+"проек",
+"игрой",
+"deus",
+"надее",
+"сотни",
+"предп",
+"бюдже"
 ]
 }
 ],
