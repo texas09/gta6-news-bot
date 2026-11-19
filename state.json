@@ -6264,7 +6264,19 @@
 "5b481735bf7fe223",
 "c74289a9c22385ff",
 "cbfeed650a1acf52",
-"0524281274667558"
+"0524281274667558",
+"19407a9d9720c5cf",
+"5d8033071035f5be",
+"86ed0452dbdc7611",
+"cd40249f0d1bda67",
+"5fce3f3d0a59a56f",
+"3a09f616416875c0",
+"25050da3549db828",
+"7cd51f5a9d94830a",
+"3b6fa3072e88ada3",
+"36a238efc7f282ca",
+"395a0b63c99d9c70",
+"bc8173c70de70829"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13330,6 +13342,45 @@
 "перед",
 "акции",
 "рухну"
+]
+},
+{
+"ts": 1795067493.0353782,
+"title": "GTA 6: Как сохранить игру",
+"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85QmNyY0g2WWhqUFhFMXRLbWhsY1VFbkRjTm1hRV9PLXNlYkJPdFpPalFwMlpiZWNIdzRaVWV4dVpEbG5lR3dDVXc3OEkxUXhQWUFiSktuWlE0SHdsbjNrLVhiRWpTQ0RfTW1OWHpBTWh5dU9OUjRj?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Mobalytics",
+"score": 2,
+"kind": "news",
+"words": [
+"сохра",
+"игру"
+]
+},
+{
+"ts": 1795067496.247743,
+"title": "PlayStation не работает? Некоторые геймеры сообщают о проблемах с серверами PlayStation во время запуска GTA 6.",
+"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbnJUY2JpTkJOVXZFV1VRLXlldkNjZjU2SGROSmoxeGkzZlpSel9BbTEzbi1kRk5QM3I5Skx5SGdxclpZNTczSzUyYi1IXzFzY2lMRmpFaWp5eFdjMzdmT1Z4TFE2VUZoNWpidkx0UGhIcDJfZjZPM1hGUndhajhOblFMc2FOX0NwSml1enJXOVlTdl9jbEJB?oc=5",
+"tags": [
+"слухи"
+],
+"img": null,
+"source": "Mashable",
+"score": 1,
+"kind": "news",
+"words": [
+"plays",
+"работ",
+"серве",
+"пробл",
+"время",
+"запус",
+"некот",
+"гейме",
+"сообщ"
 ]
 }
 ],
