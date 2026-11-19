@@ -7779,12 +7779,42 @@
 "04acfe316b53e9e9",
 "d4dd88dfebbd48f9",
 "e24267e8bf05446f",
-"c9548fae372c2656"
+"c9548fae372c2656",
+"d72575432014e548",
+"d4c1f50f4515fa1a",
+"b4cbb66f55b93c8c",
+"10df595ec9c2a511",
+"21ce0cdf9c64fa00",
+"2ad04653d5041a78",
+"40563dbd5b887543",
+"ec5f05c6f423c7c8",
+"6ab21dce14e03b11",
+"e0889123594f1f2d",
+"90f2f7767823986d",
+"102e45954fba2b3d",
+"a0c23ebadfcaa648",
+"37b9fc0177489178",
+"44cff5ea43ac5c78",
+"c76db72f2a12eeef",
+"359a2013be26b8e1",
+"01c3b89448bad028",
+"5745f5d7ecf6806a",
+"1523ae83a21ab945",
+"893956e39aa88c15",
+"5b9e607466a7e3d0",
+"ab66053de92911ad",
+"7c60fc0599886c50",
+"4f3cf5b0ca139e38",
+"87542ab8ea686e5d",
+"48bfd80d136971ac",
+"64ad348cdb9157de",
+"64ad348cdb9157de",
+"c7939ed4f4adbcd8"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328650,
+"tg_offset": 706328652,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -17024,6 +17054,130 @@
 "насто",
 "джейс",
 "ком"
+]
+},
+{
+"ts": 1795110683.318936,
+"title": "Руководство по автоматическому вождению GTA 6: как ездить без рулевого управления",
+"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRFNSWVlHTEN6a1dydXBVMzFSZmlmYTVaV0ZfY0pnVnZfbUFlaEp0ak1rVUlQVGM3MGxqY1RQOEhTUVl5M1B0SlF6VE4yaXFQTFlQNExzcHBEVEVYVlVCWndUdFFiZw?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "PlayDayOne",
+"score": 2,
+"kind": "news",
+"words": [
+"рулев",
+"автом",
+"ездит",
+"руков",
+"управ",
+"вожде",
+"без"
+]
+},
+{
+"ts": 1795110686.5149248,
+"title": "Объяснено как найти собаку на водном мотоцикле в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qM2lpczlVVlhpY3BhS25DbXItUmZlbkREMGFMRjh3RmJ3TFNPcE9TTWx4T2UtLXJfUU1XRmNXNWVKSjQ4TnIwem1LcV90UmVTMkc1eUNtS3hWcXJONnlzaGhhRjd2SHdhWTVEYk5JT2I?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Radio Times",
+"score": 2,
+"kind": "news",
+"words": [
+"собак",
+"водно",
+"мотоц",
+"найти",
+"объяс"
+]
+},
+{
+"ts": 1795110689.7011702,
+"title": "Руководство по GTA 6 — все 4 видеоигры, в которые можно играть, и их расположение",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2UzdEd3Z1p0TXBWWGN4TktyejFScUtkcGEtZUd5YkZ4SkFBNndOQWxVWk1ING11ajRwejVjbFlkckFDQ0hsbHBMTS1uZDFJUkdjZGFTeWNVMWJNS1dsLU85dTVSNFl4UlRvekllTDVlSWtRVHpxVFNVWWtvN1dVbDlCcHpuM0Qxem90THFhc2tVVFk?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "GamingBolt",
+"score": 2,
+"kind": "news",
+"words": [
+"можно",
+"руков",
+"котор",
+"играт",
+"видео",
+"распо"
+]
+},
+{
+"ts": 1795110692.8742054,
+"title": "Как настроить и отключить размытие в движении в GTA 6, если вас тошнит",
+"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMDdpdVNOdkdaTzVKQ01BcV9zbTM5cTE2ZlladkJRbGNzRUdRRGw0LWg2elAyRzBXYTQtekpURWpMR0FJNGZ3RVA3S3RlWTVhZW9DQ3IwT2dKM2lKazBIRDdXazExWTJqMWFkVG1BUjl3YVZnUUkzODcwYTltMFE?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Engadget",
+"score": 2,
+"kind": "news",
+"words": [
+"движе",
+"отклю",
+"вас",
+"тошни",
+"настр",
+"размы",
+"если"
+]
+},
+{
+"ts": 1795110696.5000796,
+"title": "Даже нашу группу заядлых компьютерных геймеров не так уж беспокоят 30 кадров в секунду в GTA 6.",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/even-our-bunch-of-diehard-pc-gamers-arent-that-bothered-by-30-fps-in-gta-6/",
+"tags": [
+"настройки"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/TfNpPnryW9WRa9aLJbxRiE-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"гейме",
+"нашу",
+"кадро",
+"беспо",
+"групп",
+"заядл",
+"даже",
+"секун",
+"компь"
+]
+},
+{
+"ts": 1795110700.0102491,
+"title": "Игроков GTA 6 похищают инопланетяне и нокаутирует снежный человек",
+"url": "https://www.eurogamer.net/gta-6-ufo-bigfoot-easter-eggs",
+"tags": [
+"новости"
+],
+"img": "https://assetsio.gnwcdn.com/Screenshot-2026-11-19-at-17.37.59.png?width=690&quality=85&format=jpg&auto=webp",
+"source": "Eurogamer",
+"score": 1,
+"kind": "news",
+"words": [
+"челов",
+"нокау",
+"снежн",
+"игрок",
+"инопл",
+"похищ"
 ]
 }
 ],
