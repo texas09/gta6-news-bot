@@ -7809,12 +7809,51 @@
 "48bfd80d136971ac",
 "64ad348cdb9157de",
 "64ad348cdb9157de",
-"c7939ed4f4adbcd8"
+"c7939ed4f4adbcd8",
+"df5a10ca38ffa63b",
+"009f1dcd149a1eb0",
+"2c68995f56ecb4c0",
+"343bc93302671639",
+"aa560b28e1df7eb6",
+"4014475888fc14fb",
+"df3c5797c30e338d",
+"36ae262c1cd42a70",
+"c05410ee24ced11c",
+"c4bc81aac34a66f4",
+"c4bc81aac34a66f4",
+"0af1575acce18a2e",
+"381713e76535ca76",
+"68e90c370362e2bb",
+"7c9f5e56c61c0cfa",
+"6b8e8b52102d7f83",
+"04ca70d4942b24ed",
+"d13ba8f1725dba06",
+"4b2ceb66b7f23569",
+"74275b826fdc034f",
+"0cf70a045e522b38",
+"ff39171756072f45",
+"bc313f02ed75abfe",
+"8a1e56d2951af447",
+"cf5141599e1459b9",
+"c4291a22474cbc8c",
+"e87d85d158ce0755",
+"fee58ee8e3f8cde4",
+"81a8156a8e248a4c",
+"6408a2f40d9ae1a0",
+"4b6aedafaeca215a",
+"fc3e03526d4f984a",
+"2346c950e9fb7d4c",
+"dd7d23dbce2d511b",
+"1baca60421e4bb99",
+"c7e216fc7a3928ab",
+"5b8391e3d6ccc59b",
+"72a105ff94a94bf5",
+"9ba6a6a2957ecda5"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328652,
+"tg_offset": 706328658,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -17179,9 +17218,43 @@
 "инопл",
 "похищ"
 ]
+},
+{
+"ts": 1795111401.184491,
+"title": "Как использовать фоторежим в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QbUlrQmhLMGFReGEtakR2ejFJMDRjOTZSalhoZVZRUGdNdm9uMmtObzdlcDh4Yjhld1UyS3JQMXNxR2Jha0NJMVJTekxhb0VCalFreEJ3QmJDR21aX1hGTmRvQjk4OXNoT2tPclJrSTlLUQ?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "GameSpot",
+"score": 2,
+"kind": "news",
+"words": [
+"испол",
+"фотор"
+]
+},
+{
+"ts": 1795111404.3492937,
+"title": "Как украсть истребитель и боевой танк в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQzBwNXBuN1dlcHRBVldpdzRCSTZKdW1BWk1HOVlTNThVNmtrRGM1QlA2MktucktOU0J1SlRzYTk1a21IbHpMV2Q0Mmp3TXBmdEtKNHRaR0YwM3ZnZzhlU2cxdXg1MUVsdlhKMGY1OUx1em5Hby1IN01aMURISVhsX05hYzNQSGduaXdvbjhuWGZmQ0Y0R2FGRXNhUzVVS1E?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Military Times",
+"score": 2,
+"kind": "news",
+"words": [
+"танк",
+"боево",
+"украс",
+"истре"
+]
 }
 ],
-"digest_date": "2026-11-18",
+"digest_date": "2026-11-19",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-19",
 "viral_checked": 1795108869.6763546,
