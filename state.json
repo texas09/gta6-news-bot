@@ -6624,7 +6624,40 @@
 "5fe8f1acbd19cef1",
 "62cb97e113fbfb9f",
 "2b2b44a6cabc99f4",
-"e6d4fa1bdf2fee98"
+"e6d4fa1bdf2fee98",
+"9f04290f6fcd691e",
+"f3906c737b65b479",
+"2322ae6a27bb23c3",
+"f7189b8cebaa75e9",
+"a7e064c0b8b0553f",
+"8099626f959ffdf3",
+"3f06d3280d72968e",
+"b74ca44fea54d416",
+"85f097b14227520b",
+"1fa01751bd659b2b",
+"1fa01751bd659b2b",
+"c4c6c28a1e6d0a40",
+"5c4afbf05e6afc0c",
+"530db8f2727f6a76",
+"540ac8ec82dc48c1",
+"81cf5cad79c8eced",
+"424f03597d73cee2",
+"cca30028f8197c76",
+"1b21ef0bc62e7b2d",
+"cb36df0951182148",
+"473d0f7dae0aa457",
+"03bc1a91130d24c3",
+"52910c59291f49c3",
+"31f972d845e4f850",
+"d6bb030dcbf195f1",
+"8b053d6f5e046fe3",
+"42430576aa425a62",
+"1e386d367aa58bc5",
+"9d1695639a06f593",
+"84a64402e885ef26",
+"576b3c41af65cc3d",
+"56d1d32a95aac9a6",
+"7ebda3f068fef045"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14401,6 +14434,163 @@
 "преим",
 "xbox",
 "секре"
+]
+},
+{
+"ts": 1795081974.521603,
+"title": "Хотите GTA 6 в 120 FPS? Нет ничего проще, но вам все равно понадобится PC",
+"url": "https://www.goha.ru/hotite-gta-6-v-120-fps-net-nichego-proshhe-no-vam-vse-ravno-ponadobitsya-pc-lWoPkQ",
+"tags": [
+"настройки"
+],
+"img": "https://images.goha.ru/E:Mn/YZ/47XXECbxQA.jpg",
+"source": "GoHa.Ru",
+"score": 3,
+"kind": "news",
+"words": [
+"равно",
+"вам",
+"нет",
+"проще",
+"120",
+"хотит",
+"fps",
+"ничег",
+"понад"
+]
+},
+{
+"ts": 1795081977.7725427,
+"title": "3 настройки PS5, которые следует изменить перед игрой в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnNPVkNFUnlGaU43Szl1N2dCdEhqbTJoUlAzVTdVMF9JcTdtOWpMTlBFa0I4bXJBZXhKVkxIMlFmcXRJalRZRWJqcmo5UTVNMXNSVm41U1dqTmZITHd0MkNKWFpScnB3Z1RkQW9qYm9sb0dMMHVHTmQ3bDlJc2lNeFp1MzA?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "SlashGear",
+"score": 2,
+"kind": "news",
+"words": [
+"ps5",
+"котор",
+"настр",
+"игрой",
+"следу",
+"перед",
+"измен"
+]
+},
+{
+"ts": 1795081980.9881005,
+"title": "Руководство для начинающих GTA 6: важные советы и скрытые механики",
+"url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JVWEzQTB1RUsxeVp2YXpBVnNPQVNUOHdwTXcxb0xrUVJPMHpIQUxkZEk4YmlfV3pwdkJCSGFJc1J1MGQ1REs0WnZLVF81YXR2dVoxTVp3VTFWVWRTci14NTJn?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Red Bull",
+"score": 2,
+"kind": "news",
+"words": [
+"важны",
+"начин",
+"руков",
+"скрыт",
+"совет",
+"механ"
+]
+},
+{
+"ts": 1795081985.7529442,
+"title": "Объяснение подкастов GTA 6: Как слушать подкасты в GTA 6",
+"url": "https://www.videogameschronicle.com/guide/gta-6-podcasts-explained-how-to-listen-to-podcasts-in-gta-6/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2025/05/Jason_Duval_01.webp",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"слуша",
+"подка",
+"объяс"
+]
+},
+{
+"ts": 1795081988.9766064,
+"title": "Как GTA 6 идет на PlayStation 5 и Xbox Series: технические характеристики и производительность",
+"url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5lS0w0SmpRZUo4b2FoTEJIdkRhc2RQWHRsTW9lMXc1R0VDVW1PUkRXejJzS0U3QjlvR1Y0b0ZySWotUE5r?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "Т—Ж",
+"score": 2,
+"kind": "news",
+"words": [
+"serie",
+"техни",
+"произ",
+"харак",
+"plays",
+"идет",
+"xbox"
+]
+},
+{
+"ts": 1795081992.2017214,
+"title": "Как получить лодку в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzS2hNbE0wRjdZN3V3UUpkcm1WbWpVbGI4RmEwc2p1RkM2ZHpEam9jYTU5SXJDM3hwNG9NTjg1cV9MOWFabU5MUEJEclhoaVA5T0M4TDJWNWp3QXl5b0RsMUppYXJwalZmSDQzRTRB?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "GameSpot",
+"score": 2,
+"kind": "news",
+"words": [
+"лодку",
+"получ"
+]
+},
+{
+"ts": 1795081995.4223795,
+"title": "Трафик PlayStation вырос на 40% после начала предзагрузки GTA VI",
+"url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wZFpWT2FZWW5qZEpOT2JWNExKbHJsTTZJbkJWOGUySXd1eWN1bTQ1R1BrekV1SGlaMVhoM0YyV0xhczVNZTkzVzZIZGlaRE9LbGVR?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "НИА-Красноярск",
+"score": 3,
+"kind": "news",
+"words": [
+"предз",
+"трафи",
+"начал",
+"после",
+"вырос",
+"plays"
+]
+},
+{
+"ts": 1795081998.6359713,
+"title": "Все подводные открытия в GTA 6 – Путеводитель по сокровищам Кентона",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0ZGOGJEczlwT3VLRVZ1ajkyMjdXM24tSHFCdE1ZM2RDTVNINE9rZ1IxOW01WElzRzVGQlY0RklPbGJtMjhLeGJnekdIampoR0NSeVdsLVpLbjFIczB3dDlkdnlZdUZwTi1pWmF5NkliWFhDWVh5Y21iWTRNZm1VcW9QVUVEVmdINXdBSFoweUw?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "GameSpot",
+"score": 2,
+"kind": "news",
+"words": [
+"сокро",
+"откры",
+"путев",
+"подво",
+"кенто"
 ]
 }
 ],
