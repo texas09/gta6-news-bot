@@ -7116,7 +7116,43 @@
 "5406ec542844ee82",
 "e42224d7c59e248d",
 "02e803d914f4e1b1",
-"cd0a1fb34cb8f5f4"
+"cd0a1fb34cb8f5f4",
+"dbb2260c6660a031",
+"f4db949d2be4d328",
+"2def492e2ca812a5",
+"d93aec25ea5c7f0c",
+"756851fcaa780439",
+"86bfbd695e6bfbe7",
+"d715f4b9293227e3",
+"aa171b03c69197da",
+"e97bbd0aac9ace10",
+"8411148df7259d8e",
+"f4c23600ac6419c7",
+"b81453ccab55eca8",
+"455a11a7b05c2273",
+"f8f225b64b654520",
+"d7cd63266f88895f",
+"0d4a23409c6d2295",
+"e379e419ea4f2714",
+"57d3da12cf2a9f30",
+"760b061266790363",
+"3d71cd8cf474d5b7",
+"92d4a63af6cdd060",
+"93ffd95c38e671e1",
+"dd467cfcec80c467",
+"46cdf4a5a6c6f66d",
+"8b4d5d36676b9d62",
+"3760d36a0dc1691e",
+"b2a40dac57b29c0d",
+"6471dc39ee6d1577",
+"6d2ac6fc7d2f4d02",
+"b5be1ccd48a2d0d4",
+"bc77d9268ba66ef9",
+"5ee2f6905beeb5ba",
+"5db4a5a88119ca40",
+"eb2fe99406b147b2",
+"5d5f852c9ee56a3c",
+"12a8032c03d275c0"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -15667,6 +15703,49 @@
 "сексо",
 "секс",
 "занят"
+]
+},
+{
+"ts": 1795095668.2376177,
+"title": "В день предзагрузки GTA VI трафик ярославских геймеров вырос наполовину",
+"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRHlLMWxsUjRFdWxRRjVwWlE0aEpRODZHYnFjc2FfRXd4Z3JzN3BMUzZTZzVrbWZBOTZMN0lmT3FMOWd3SmttYkZzVWdSM0YyQWpVZ3hhYmprSmpZMFQ5WjkzMzl3WW01U0Qta0FZcWgwY2h4ZWtONEFueUtqRlZBQkh3dkpuOXc4Vk92N0duM0dTQTBHNDNXYnJSYW5kay1fX0Q3WElfWGtZTDFV?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "YarNews",
+"score": 3,
+"kind": "news",
+"words": [
+"день",
+"яросл",
+"вырос",
+"трафи",
+"гейме",
+"предз",
+"напол"
+]
+},
+{
+"ts": 1795095671.4750504,
+"title": "GTA 6 тормозит? Как повысить FPS и сделать игру плавнее на PS5 и Xbox",
+"url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2E0c1otOVlUM0Z4dUpDc2NoX1RDb3VURnhMTWVheTY0NGljdXdWY2FGU24tWnYzWFpXSkktb3ptMVlZUThxYnNFN2FubWJPc1dsd2lCTU8wWjJieFVMOEN3T2pjdVJja083N3NZdzB5QXBYckdCR0Y3V2NXSk5qUEZCWVBjWnRNUk14Q0MzcllxaGlRZmJ0ODZuN0JYUVlISVY0NXhaMFdVbTBhM2p4bWZXYjBaZk1PUjMyUTFEWkFsRVcybmVVakVR?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "sport-express.ru",
+"score": 2,
+"kind": "news",
+"words": [
+"повыс",
+"ps5",
+"игру",
+"xbox",
+"fps",
+"сдела",
+"плавн",
+"тормо"
 ]
 }
 ],
