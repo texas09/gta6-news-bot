@@ -6078,7 +6078,22 @@
 "23409139c7b70e8a",
 "0713a3f4f7d0b4f1",
 "85224cb3e2f713bc",
-"2498bf2c38be3855"
+"2498bf2c38be3855",
+"e6c09535917a2c4e",
+"1030dfeabe134d1e",
+"8b7534d9feeec063",
+"6cb211fd6e861f23",
+"54b9ccf4ad6be920",
+"f2f62f0206b33ea1",
+"2ae17edefe1fa00c",
+"ad96950654680bfb",
+"7d45e80d684e83a4",
+"b985a0890458cbd5",
+"b1a233ae993c572e",
+"b5060f0165364c7f",
+"67ff35202bc13ef1",
+"22eaeabf0c965c3b",
+"61fdbc6267d06552"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -12701,6 +12716,51 @@
 "экспе",
 "снизи",
 "орего"
+]
+},
+{
+"ts": 1795059760.0668275,
+"title": "Можете ли вы с другом играть в GTA 6 одновременно, используя одну копию игры? Согласно игровым гайдам, да, но с ограничениями.",
+"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU3pjRU16M05YVFM0ZVVvMW9CQmt5eFdodmhobGk3RFVna3F6eEV6elZhOFd4TVMtS1E5RlNrVDE5RnNtZE1XMFVOcFd4TG1JTWg0Mkx3MjJDUFlwTFdUOU13Y01SZE1STHdoVjk3WXMxMmJkRlp4Mk9IVV9UNkNfYUxqYlhXckJqbUgwMG5HRFZNMzBhVGhrOXlUZkpyOTVXLTdka3VDR29RUUd3eUhxOGFoV1Z0RTg?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Nacionale",
+"score": 2,
+"kind": "news",
+"words": [
+"согла",
+"может",
+"одну",
+"огран",
+"играт",
+"копию",
+"гайда",
+"игров",
+"игры",
+"испол",
+"однов",
+"друго"
+]
+},
+{
+"ts": 1795059763.1977925,
+"title": "Трафик «МегаФона» взлетел на 58% на старте предзагрузки GTA VI",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkTVl2Ymxtamp1d2dhNms3TWg5dnBWYUhoLWVlNUItdV9YWW53YVk3X0ZaNmFmLTZhVHpYTXRXZGdCaFZyRjJpWWx5d1R5azY3eV9BbDFKRWhEcGJpUy1KX25HX0Vwb2t3aGZGSmpqd184clVpeGc?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "Techora.ru",
+"score": 3,
+"kind": "news",
+"words": [
+"мегаф",
+"трафи",
+"старт",
+"предз",
+"взлет"
 ]
 }
 ],
