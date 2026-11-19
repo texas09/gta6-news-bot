@@ -8040,79 +8040,38 @@
 "a0833b7bb873b45c",
 "91174274ec5dca8d",
 "b88240418a30b5eb",
-"6a90fe410ccbe820"
+"6a90fe410ccbe820",
+"073bc9095da0a195",
+"a3d4365f2fe17790",
+"6f2be4f8a32a9210",
+"50a6d48ae8dfde64",
+"7d21ad32a2bda9a8",
+"50afb0b2603014f1",
+"c75dc63bb0c34983",
+"27faa8e373427ffa",
+"6400a6bf3ef9f4c3",
+"38e4b254ed081649",
+"1736144d517f5c68",
+"5c2b23fefc68d6c0",
+"1b51085f68e984ba",
+"9b561752205f6873",
+"c8c870a4259eab00",
+"4b810adf770ff83c",
+"3bc7e7f3877ed3d3",
+"cdb8ce050f705c89",
+"b354c16ee0c5ff9f",
+"aab410eb25508ab0",
+"d84b1b757fa30fdd",
+"6384695115f91f53",
+"a9606f45e610a8a7",
+"4f501c75c271e009"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328669,
+"tg_offset": 706328671,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794942693.413053,
-"title": "Грег получает GTA VI",
-"url": "https://youtube.com/shorts/qrptfvByXhM",
-"tags": [
-"видео"
-],
-"score": 2,
-"kind": "viral",
-"img": null,
-"source": "Zairegardnerd",
-"words": [
-"получ",
-"грег"
-]
-},
-{
-"ts": 1794942696.7256403,
-"title": "ГТА 6 МАРАФОН | Официальный трейлер",
-"url": "https://youtu.be/_AY5krZErfg",
-"tags": [
-"видео"
-],
-"score": 2,
-"kind": "viral",
-"img": null,
-"source": "Kai Cenat Live",
-"words": [
-"трейл",
-"мараф",
-"офици"
-]
-},
-{
-"ts": 1794942702.4534366,
-"title": "GTA VI ГОТОВ 100%!",
-"url": "https://youtu.be/diZ6-kQW_Ok",
-"tags": [
-"видео"
-],
-"score": 2,
-"kind": "viral",
-"img": null,
-"source": "Windah Basudara",
-"words": [
-"100",
-"готов"
-]
-},
-{
-"ts": 1794942706.4796727,
-"title": "Лос-Сантос до GTA VI 💀",
-"url": "https://youtube.com/shorts/4PDOG8k05HA",
-"tags": [
-"видео"
-],
-"score": 2,
-"kind": "viral",
-"img": null,
-"source": "Lugan3d Animations",
-"words": [
-"санто",
-"лос"
-]
-},
 {
 "ts": 1794943921.1454346,
 "title": "GTA VI на релизе получит 180 FPS благодаря DLSS 4.5 и нейронному рендерингу DLSS 5 на ПК с RTX 5090",
@@ -17457,7 +17416,7 @@
 "digest_date": "2026-11-19",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-19",
-"viral_checked": 1795108869.6763546,
+"viral_checked": 1795116088.8971064,
 "viral_ts": [
 1795033371.001843,
 1795033374.1567006,
