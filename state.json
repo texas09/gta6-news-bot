@@ -6498,7 +6498,25 @@
 "b977494fa782a6f4",
 "4cafd164cb02d0dd",
 "9964646ae955e11f",
-"5943d799bcd614f6"
+"5943d799bcd614f6",
+"3680f1051b686c0a",
+"d5c39af8c45d0b4b",
+"c44e636501b8999f",
+"068a94d3c93a26df",
+"09d34c920436f7e0",
+"5ac6eace7aafc612",
+"6184d89d7fe4bf4a",
+"f2028371a10df23e",
+"17ac518ff8926cad",
+"a1245548d9e6ea8c",
+"c2f2e8fcd5639625",
+"4da488faa43eaede",
+"f8e604f06402dcab",
+"f8e604f06402dcab",
+"93efdc2ab3d387d0",
+"6851ce76414e29d5",
+"58d0f81fab243bdd",
+"09fa0374ece69185"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14001,6 +14019,51 @@
 "unloc",
 "payou",
 "banks"
+]
+},
+{
+"ts": 1795075871.6303957,
+"title": "«Всем доброй ночи». Екатерина Мизулина начала прохождение GTA 6",
+"url": "https://www.championat.com/cybersport/news-6705400-vsem-dobroj-nochi-ekaterina-mizulina-nachala-prohozhdenie-gta-6.html",
+"tags": [
+"гайд"
+],
+"img": "https://img.championat.com/news/big/y/y/vsem-dobroj-nochi-ekaterina-mizulina-nachala-prohozhdenie-gta-6_17950744851034379815.jpg",
+"source": "Чемпионат",
+"score": 3,
+"kind": "news",
+"words": [
+"прохо",
+"добро",
+"екате",
+"ночи",
+"начал",
+"мизул",
+"всем"
+]
+},
+{
+"ts": 1795075874.8048108,
+"title": "До 120 FPS в GTA 6 на PlayStation 5: энтузиаст создал бесплатную программу, которая делает изображение...",
+"url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNXVORDFUendPLTE2NGpyZVZ2b0JWaTlSRUxfYU12V2piTTdYSWFGa2tqcXFCaXlmQ190ai0zQW1NN2MtWVktQ09ad0dmMzY4R0U5QUdLcWZiejQ1ZEFfeWJqX0o3Ti1TU0RSdll2bHFSaXFpejROSmM2NkVZOGtBdWtyeVRIa05WX09EeWV6X2NlNW92NmtTN0U5Mk95UHhBemw1VXhRbXRBcVduelhIYkNQWG1RanpoaGxGX3QtN2t1dk1yb2sxekdzSC1USXJsbTc5cEM3SHhUQ3h1Qm1hcTZhaHJYcFNfZVI4Qm94UzdSUdIB9wFBVV95cUxOdnkwWDl1NF9rOFlaWDBQdHItT1B2cE1nZ1RCYUw2OVlZQXJyUHpqUG9KRXFJSS1CQVBUcXVKUEFZcG9OT0xCWE0zQ3lEaW0xQjNyenVubUMwMUZ4cm5HQzFsd3VyMnAzTTNzYzNSSFM4T3JOWjlNelhRbEVSS2R0OC1IenVZTDlkd2NWY3R0bFhlbWlIajdlTkNQX2w5YWkzVUFVVkdxRUZBUDhFazRXR3RnS2tfcHU3MHZhUS1MNy1jUFZWUU9WUXZhdUQySVpQdzhmSWNIellsZ1hHNEZzWEJMaURoZ0Z2Tm1LVlFYUzViUlNmYlNF?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "iXBT.com",
+"score": 2,
+"kind": "news",
+"words": [
+"энтуз",
+"делае",
+"изобр",
+"120",
+"котор",
+"прогр",
+"fps",
+"беспл",
+"plays",
+"созда"
 ]
 }
 ],
