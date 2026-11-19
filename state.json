@@ -6585,7 +6585,28 @@
 "4c3a0171c724058d",
 "9113839fbeed977a",
 "83fff8e0dc196168",
-"44d7f4eebcfa24f6"
+"44d7f4eebcfa24f6",
+"ae57629cc3dfe174",
+"8f7f4eae8130f713",
+"abe7abb61296d54c",
+"f317e26a34e5c698",
+"4a0169efb32856fe",
+"b02a4220a863a7ef",
+"b342a9d63920073e",
+"1f4db2bc7350bd0c",
+"02d64bd9bf1064b8",
+"596af8e6358c2f08",
+"8e71210f4afa7e27",
+"a2e6e4c35a3e7608",
+"e2912dca675cd108",
+"c3398e4431648244",
+"9259004d550ff585",
+"70b54354281f405e",
+"08d45ceef4993f92",
+"b8ea0098247d0d9b",
+"fda882eec42e67f5",
+"fffc7815567e1f4d",
+"f3bcfd56c7125176"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14320,6 +14341,48 @@
 "ругат",
 "сканд",
 "сети"
+]
+},
+{
+"ts": 1795079492.3376176,
+"title": "Предзагрузка GTA VI вызвала рекордный рост трафика в России на 58%",
+"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOazJ5Y1BOd0o3VG9PTDJubWx4UXRfTVBrb29qSkhsTGYxa015eWtwOTBGRUhoSVJ2bkwwbVpwaDVOUGZqLW9SajdadnNybEFQUzhpR3JtRkJIeFUwQXIxdW81N1ZHTFlxTklzZGxETmw0QzVXT2w2eXV0bUVTSGZoWExfdw?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "Techora.ru",
+"score": 3,
+"kind": "news",
+"words": [
+"рекор",
+"рост",
+"трафи",
+"вызва",
+"предз",
+"росси"
+]
+},
+{
+"ts": 1795079496.925183,
+"title": "Почему у XBOX есть секретное преимущество в производительности GTA VI перед PS5",
+"url": "https://rockstarintel.com/why-xbox-has-a-secret-gta-vi-performance-advantage-over-ps5/",
+"tags": [
+"настройки"
+],
+"img": "https://rockstarintel.com/wp-content/uploads/2026/11/My-Great-Capture-Screenshot-2026-11-19-08-28-28-copy.webp",
+"source": "Rockstar Intel",
+"score": 3,
+"kind": "news",
+"words": [
+"ps5",
+"почем",
+"есть",
+"произ",
+"перед",
+"преим",
+"xbox",
+"секре"
 ]
 }
 ],
