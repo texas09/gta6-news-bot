@@ -7665,7 +7665,25 @@
 "f994f77b81fbce53",
 "5577543e6c1907e5",
 "30c871c1cbae73be",
-"6801c7e383f6a27c"
+"6801c7e383f6a27c",
+"7b56ad5f760ae5b9",
+"6a202d6de60752f4",
+"40c9bc73c5cea2c0",
+"4076f27f6c608456",
+"108400657bd77664",
+"62517e2e47881023",
+"42756a2189579fc0",
+"d5473ed6eeb190df",
+"6fd6bb0f60bc8ed9",
+"53dbedd0ac88be2b",
+"f197f808f04d60c3",
+"4e538828d6aed59b",
+"2ff34d389c6c4c7d",
+"1ee89f733f8788ae",
+"1d201a48a10c0031",
+"f8b5d211bd3f3dfe",
+"5d5281cd82a17bd6",
+"bc6923c21d95dcc2"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -16824,6 +16842,49 @@
 "покло",
 "пасха",
 "станц"
+]
+},
+{
+"ts": 1795107716.5510898,
+"title": "Не видите логотип Rockstar? Вот как исправить настройки яркости GTA 6",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRHBFdTlRWWNLZmgySEhNdGUteS13OHg5NmFiZHdfSUVQelRDeDNic3ZBcEtmQmlxbTAxWkxJcWlRWHBFUm00elRYZkh6MjZweF9wdnppQUdoRncybXlUZzlEYUhRYmgyT1BKT0hkNDZ3RzlfUTZWQUhqUUlCdnMtYllVRktPZmQweFEwTWpR?oc=5",
+"tags": [
+"гайд",
+"настройки"
+],
+"img": null,
+"source": "Radio Times",
+"score": 4,
+"kind": "news",
+"words": [
+"логот",
+"яркос",
+"вот",
+"видит",
+"настр",
+"испра",
+"rocks"
+]
+},
+{
+"ts": 1795107719.783367,
+"title": "Измените эти настройки Xbox Series X/S перед игрой в GTA 6.",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmhqZ3Q0Rk5YM2JQZmpORVpiV2MwQ0xhMHB2bUFYTUJvMkVjRGtxaHVPdGJjMXVNbTBDZEFsamhSR1NNaWpkVTVlRTd1YUtGa0JoUVVXR2d2Ymd4WlhheGdLQ3JMT0lxNFhETVNHQzB4SlB2bDZkalFZeTJYcWNoY3M3cFNCQWM0dEJZODlsQQ?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "Engadget",
+"score": 2,
+"kind": "news",
+"words": [
+"перед",
+"измен",
+"игрой",
+"serie",
+"xbox",
+"настр",
+"эти"
 ]
 }
 ],
