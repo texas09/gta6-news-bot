@@ -8631,7 +8631,50 @@
 "339222a3ec6d9089",
 "30f0680a394b2a80",
 "f9c2e6a84a4f6578",
-"7400314f00c03c72"
+"7400314f00c03c72",
+"5b8b1bb788b32f47",
+"e344faf298c39537",
+"cb314dc7dc1bb93f",
+"9fdf4447ac9c6d2d",
+"decd40fd07c5a977",
+"2c68a20e99664668",
+"ed6d8624278a1cf2",
+"19e3f438d8a17b5d",
+"655f35776279d5a9",
+"c341dbe9803fed63",
+"4e25f1b2c523ab94",
+"98327bd26ddbd677",
+"d04d357951ab444d",
+"d371b5a840a4d5c0",
+"755cc7cf96283bd6",
+"e20b60f8204b4786",
+"3bb69f11fc536ce9",
+"e75c06369b4fb197",
+"2223a9c2a04b5369",
+"4c1bfcfae357cc9e",
+"a74509acb5c96cec",
+"8674f707680e47f6",
+"c0478b6a415eb3c4",
+"225fc0cbc87a9c5a",
+"7bccc4b70a77783a",
+"d7866b674ddf0587",
+"cb0a3d58730b4124",
+"49c4141c8597c979",
+"f72e18a21d58c00a",
+"3d057699c69cafbf",
+"1c7c3a948c7ce4b2",
+"550cbdd103e6d7fb",
+"487261e33ac9d3e2",
+"3a13fcbe563c564d",
+"5be49a54c8223789",
+"d106ffb0bb722535",
+"b567d3ee7678d9e4",
+"d12256fa1af5d133",
+"8c13e174a03b61a0",
+"3b24e4cb4d10a78b",
+"69008df34a6e193c",
+"af189bb0d6cf712e",
+"5b860732c0428ff6"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -17842,17 +17885,245 @@
 "игрок",
 "однов"
 ]
+},
+{
+"ts": 1795131101.7951174,
+"title": "GTA 6: В поисках Skunk Ape (Кирк - Skunk Apeology 101) Прохождение",
+"url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWWhhelpFR2pfRWROTWlPS2NUSExlLVNZZUZTbzltZkxqRnZhV3c2bGlubklWWjhnMWlrQ3ZqYXZrYkFSdElaeTNBRU9EUU5fSDg4NXdVaUlFTDh6V0xRdXBnRzJFTEdpbXhTLW1KZHp5Q2tvcEJ4bzhzMWFaSVdWaHhrUzJKS2ZaRU9YaWoxWUZKV1RFZGw1Zk5lbnBFRlJlZVE?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Push Square",
+"score": 2,
+"kind": "news",
+"words": [
+"skunk",
+"ape",
+"кирк",
+"поиск",
+"apeol",
+"101",
+"прохо"
+]
+},
+{
+"ts": 1795131104.962478,
+"title": "Пасхалка GTA VI: игроки находят в игре квартиру Декстера Моргана",
+"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSkRpRkd2cWZZMUdZRGlzVkxfUjE1dWtPYnEwR3ZoTUE0RGtONWo2eFFJVnFBMEtnaXphTjRaalJQWThheENJWkVocmdQMGcxbW5kVVBNdVNIVkIwMk1qbWhkdnJGR3ZnRmxOa3k5NzhPZUhaOG9mSU11bmlTd0d4V200YTJqbWpGNHFab3RleENMa1ppWXc?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "TheWrap",
+"score": 2,
+"kind": "news",
+"words": [
+"декст",
+"пасха",
+"игрок",
+"игре",
+"морга",
+"наход",
+"кварт"
+]
+},
+{
+"ts": 1795131108.136423,
+"title": "Все, что вы пропустили в день запуска GTA 6 (и советы, которые стоит знать в первую очередь)",
+"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0t3Z0o0NlBMMVZudU9uc2NFTHVfcURWUTFod1dJaE9BeHRqVjl4ZnlPbnRYZmpaMW9uTjBqLTUtc052S3RYUGltOWFxUDBJZS1veUlpNUhaeU5KWHdmZGtNTXcza1RGbFVZcEpvOWRhNEF3cE9hSVNHOEQwZG93RUhFczZZejVKT1pFcjRHdTFUenlXZERLRzY5ZmRDSEF4TkRGdGNYUko?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "PCMag UK",
+"score": 2,
+"kind": "news",
+"words": [
+"запус",
+"перву",
+"очере",
+"совет",
+"знать",
+"пропу",
+"день",
+"котор",
+"стоит"
+]
+},
+{
+"ts": 1795131111.3115878,
+"title": "Лучшие музыкальные камеи и пасхалки в GTA 6: от Bad Bunny до возможного трибьюта Juice WRLD",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUtTNDVTWGRRRWdpVTFFdURqdXJLLTdlUUlLTncxTl9lVUZnSmwydV9mOXhFSzhxMGRzd2RYTGdCem9Zd3NrVzB1T3lqVFdBZTk2QmFtYkw0NWlYLWF0UkNTOTBhTUx1MXd5M2RxYUhHUmZSZ2hXZ0dTeVB4N2xwNFY0elRGUQ?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Complex",
+"score": 2,
+"kind": "news",
+"words": [
+"возмо",
+"пасха",
+"лучши",
+"juice",
+"музык",
+"bunny",
+"wrld",
+"камеи",
+"трибь",
+"bad"
+]
+},
+{
+"ts": 1795131115.3560925,
+"title": "Помогите: не могу перестать соблюдать правила дорожного движения в GTA 6",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/help-i-cant-stop-obeying-traffic-laws-in-gta-6/",
+"tags": [
+"новости"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/q5MfnxFC8y7WrZGptZueLF-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 1,
+"kind": "news",
+"words": [
+"дорож",
+"могу",
+"перес",
+"прави",
+"помог",
+"соблю",
+"движе"
+]
+},
+{
+"ts": 1795131119.569989,
+"title": "Лучшие локации в ранней игре для получения легких денег в GTA 6 — глава первая. Объяснение зарабатывания денег",
+"url": "https://insider-gaming.com/gta-6-early-game-locations-make-money/",
+"tags": [
+"новости"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/59ae1756-eaaa-45a2-9554-6fc9adfd0ce0-1-1024x576.png",
+"source": "Insider Gaming",
+"score": 1,
+"kind": "news",
+"words": [
+"ранне",
+"денег",
+"локац",
+"глава",
+"игре",
+"получ",
+"легки",
+"перва",
+"лучши",
+"зараб",
+"объяс"
+]
+},
+{
+"ts": 1795131124.3392842,
+"title": "Как заработать деньги в гта 6",
+"url": "https://www.videogameschronicle.com/guide/how-to-make-money-in-gta-6/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/How-to-make-money-in-GTA-6-4.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"зараб",
+"деньг"
+]
+},
+{
+"ts": 1795131128.379025,
+"title": "Cyberleek выкладывает в сеть, как они утверждают, почти полную сборку GTA 6 для Xbox",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-drops-what-they-claim-is-a-near-complete-gta-6-xbox-build-online/",
+"tags": [
+"новости"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/V9DvSFFdCfhszuTcqcQQ5a-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 1,
+"kind": "news",
+"words": [
+"выкла",
+"полну",
+"почти",
+"сборк",
+"сеть",
+"утвер",
+"cyber",
+"xbox"
+]
+},
+{
+"ts": 1795131132.1617692,
+"title": "Где сохраняются фотографии фотостудии в GTA 6?",
+"url": "https://insider-gaming.com/photo-studio-pictures-gta-6/",
+"tags": [
+"новости"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/IMG_9297.jpeg",
+"source": "Insider Gaming",
+"score": 1,
+"kind": "news",
+"words": [
+"фотог",
+"сохра",
+"где",
+"фотос"
+]
+},
+{
+"ts": 1795131136.4577281,
+"title": "«Она очень веселая»: Мэнди из GTA 6 влюбила игроков PS5",
+"url": "https://www.pushsquare.com/news/2026/11/shes-a-lot-of-fun-gta-6s-mandy-has-ps5-players-smitten",
+"tags": [
+"новости"
+],
+"img": "https://images.pushsquare.com/5309825e85a60/large.jpg",
+"source": "Push Square",
+"score": 1,
+"kind": "news",
+"words": [
+"весел",
+"ps5",
+"очень",
+"мэнди",
+"игрок",
+"влюби"
+]
+},
+{
+"ts": 1795131141.0244584,
+"title": "ИГРАЮ В GTA 6 ВПЕРВЫЕ (ЧАСТЬ 1)",
+"url": "https://youtu.be/VZqAPdUvqnQ",
+"tags": [
+"видео"
+],
+"score": 2,
+"kind": "viral",
+"img": null,
+"source": "Kai Cenat Live",
+"words": [
+"играю",
+"вперв",
+"часть"
+]
 }
 ],
 "digest_date": "2026-11-19",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-19",
-"viral_checked": 1795123294.2416413,
+"viral_checked": 1795131139.4579868,
 "viral_ts": [
-1795041216.7890708,
 1795123295.82305,
 1795123300.01039,
-1795123303.1496847
+1795123303.1496847,
+1795131141.0244575
 ],
 "group_id": -1003664956927,
 "group_checked": 1795124437.7652595
