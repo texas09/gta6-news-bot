@@ -10780,12 +10780,18 @@
 "a791f4c3e8b04259",
 "2e80d851add81cca",
 "2e80d851add81cca",
-"3ad3c483f0f94aeb"
+"3ad3c483f0f94aeb",
+"e55a56b807a03055",
+"40bfac2cc52a5bc7",
+"2e8efa45033d3d95",
+"5961b8d4e068f8bf",
+"59eb687b10f95f68",
+"1a80e17b32d5c8f7"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328896,
+"tg_offset": 706328898,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -19952,12 +19958,30 @@
 "милли",
 "сливк"
 ]
+},
+{
+"ts": 1795207270.3965101,
+"title": "«GTA 6»: Как слушать радио вне автомобиля",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1kzMzV4LWNId2VrTkZ2Tm9DVzUybzRva0llRFItTzhfNE9PcEV1UnhiVl83Y2FVcUVaeG81bUJjeGpneTQ2eDJyem84dHZpMEtpcnZELWlxNkRNajhZRWRWZVFrU0g2ZXU0cGtMQ3E1WlBxSF9nX1dSOFo3Rkx6WU1fQXZONFky?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Mashable",
+"score": 2,
+"kind": "news",
+"words": [
+"вне",
+"слуша",
+"автом",
+"радио"
+]
 }
 ],
 "digest_date": "2026-11-20",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-20",
-"viral_checked": 1795199518.1544425,
+"viral_checked": 1795207273.3967614,
 "viral_ts": [
 1795123295.82305,
 1795123300.01039,
