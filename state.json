@@ -9406,7 +9406,25 @@
 "b4ff35a4e03e8492",
 "30e37eb5ddf93f61",
 "59e214d6f44f5c4f",
-"d4e0b96181c6556f"
+"d4e0b96181c6556f",
+"b0540ead8ed9a028",
+"d1fe96c93efaca49",
+"263f74e9ff6596d4",
+"f722c6bddf1064b3",
+"d154ae8eafb32d6c",
+"8aee7da7177065c8",
+"159fe38e40155a44",
+"fb488d7dfbdf979d",
+"54e621853d6b6899",
+"4d003092f9d55206",
+"6e46223a0bd8e835",
+"cecac4367708cd90",
+"db548ede92360487",
+"416ca768007dc0bb",
+"89f1d684ce74b342",
+"8d9001e4574ae778",
+"8d9001e4574ae778",
+"fd22da4fc760aca4"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -9414,71 +9432,6 @@
 "tg_offset": 706328795,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794993669.4785492,
-"title": "Devolver Digital раздаст новую игру тем, кто удалит предзагрузку GTA 6",
-"url": "https://shazoo.ru/2026/11/18/194251/devolver-digital-razdast-novuiu-igru-tem-kto-udalit-predzagruzku-gta-6",
-"tags": [
-"обновление"
-],
-"img": "https://cdn.shazoo.ru/891933_Me4xyWM_devolver.jpg",
-"source": "Shazoo",
-"score": 4,
-"kind": "news",
-"words": [
-"новую",
-"предз",
-"разда",
-"игру",
-"тем",
-"удали",
-"devol",
-"кто",
-"digit"
-]
-},
-{
-"ts": 1794993672.661495,
-"title": "PlayStation выпустила новое предупреждение об обязательном обновлении перед запуском GTA 6",
-"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdGVYYnBSZ05VM0luVHBRcnJNTTZra05Pd3dsaE5PZE01WF91a2JRUVFBRUpxYTVzWXljWlVsZHJFWEw4dXhxWDZld3VjUGJhZzFUSnhkd0lUalpOcXducmV3QW1OVHJNR1c3RU54S0dkbWI0cWpoTzA3NjJlZzBXYndySEFKSXFIUk94Y0JWbmRtNThDd2g3UU0xTXNvZEhrckkxODZn?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "OpenCritic",
-"score": 3,
-"kind": "news",
-"words": [
-"новое",
-"обяза",
-"перед",
-"запус",
-"plays",
-"выпус",
-"преду",
-"обнов"
-]
-},
-{
-"ts": 1794993675.8511596,
-"title": "Тренер поделился с геймерами советами в день выхода GTA 6",
-"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUS1jVHFXSEFCLXY2aGNzaGlBUkZPMVJHbHNHUGdGQlNLMG1UNlJUcmNhLVhDYVN2Q1hpeTVyT1J6MHFTYWpwSDBEUXZ6OHBOYnZpbk93VFBfN051M2YwWjBsR0lONEhjc3lzbUxpNDlzNm44N3c5TVBMbk5xbTBjZTVuY2t1dVZMVUh2M2VrOGrSAZYBQVVfeXFMT0dWaU55NWdzTXV4cWtxT1pESzJrSE1vcFB2NF80NXFIV1UzR1ZHOXhZdE80dEFyXy1Sc3BZbktjd1VpM2docGJxYXhWUVhDMm9ra1EzdFBYMHlRTTd0UVNUaDY5M2NRNXpSTkZRT1VPTDdnZmp1T3NWMGFvMl9PZG9rR3NNM2Y1bHc0WkczSjBVc3d4bnBR?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "78.ru",
-"score": 0,
-"kind": "news",
-"words": [
-"подел",
-"день",
-"трене",
-"гейме",
-"совет",
-"выход"
-]
-},
 {
 "ts": 1794995475.270623,
 "title": "Возрастной рейтинг GTA 6: маркировка ESRB и элементы управления PS5",
@@ -18611,6 +18564,47 @@
 "предв",
 "заказ",
 "релиз"
+]
+},
+{
+"ts": 1795167179.438003,
+"title": "GTA VI на ПК: Почему 60 FPS может стать недостижимой мечтой – технический анализ",
+"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVndrSUxQYjBXTno2YTlYZERpem5acEoyNkpXVDhmWFp1Mmd4NXlQNWVqdmxDRkk3c19VU1dfRGNIcDdrQTAyamFHZW9rd1lJQjItMlFHQkZHZHpKUUZSWlNGa2JMMTRhc1NyNDYyWndqS1NjeGdPd3VCT0wzZWFlVGY0aS1oenZPZVd2amI4ZTRIVEo3cm9MNjlQME42S1lZeEFMQjV2ZHZBeWpDWDZHeTEyZmc?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "carexpo.ru",
+"score": 2,
+"kind": "news",
+"words": [
+"fps",
+"анали",
+"недос",
+"мечто",
+"может",
+"техни",
+"стать",
+"почем"
+]
+},
+{
+"ts": 1795167182.722461,
+"title": "GTA 6 сравнили с GTA 5 в деталях — графика, физика, автомобили",
+"url": "https://www.championat.com/cybersport/news-6706728-gta-6-sravnili-s-gta-5-v-detalyah-grafika-fizika-avtomobili.html",
+"tags": [
+"настройки"
+],
+"img": "https://img.championat.com/news/big/j/y/gta-6-sravnili-s-gta-5-v-detalyah-grafika-fizika-avtomobili_17951669431945901157.jpg",
+"source": "Чемпионат",
+"score": 3,
+"kind": "news",
+"words": [
+"сравн",
+"автом",
+"детал",
+"графи",
+"физик"
 ]
 }
 ],
