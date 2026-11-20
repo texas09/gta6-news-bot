@@ -9943,63 +9943,50 @@
 "7250a5a790afdcb4",
 "1c7fb1154a9e9ebb",
 "05d34c2430728d83",
-"bf0eb30833652994"
+"bf0eb30833652994",
+"c9a9463b95e3e4b5",
+"e61bb4435a9058ff",
+"93614f6c5a84ac9c",
+"7c429a85686b255b",
+"7abb5609c743353e",
+"d509affe07dafec6",
+"47aba4cd2b43f64b",
+"d362bbc0d307fb85",
+"55485afd29c91333",
+"b6095a2802e7dc4e",
+"e05683151b89c5ad",
+"f64c7914223f392f",
+"1db13af619fdca68",
+"be7d9dd1a046ed07",
+"144bcef3c2fbef77",
+"2f3934f0051dc733",
+"44cf322dd9fe387c",
+"d2b198106d516e76",
+"427054bb9cf3339a",
+"75000c4b8863a1c5",
+"bd48d7af811f6ada",
+"0c7993ba9b9a2573",
+"66ed4f0fa6e00787",
+"4b095745b9c81c9a",
+"a3cd69e3c4c6d1bc",
+"7fd5d34285a14895",
+"98c14b700510e54c",
+"f9e95b312c09345e",
+"8ffb7e941fb057d5",
+"77683e29d14c6f14",
+"050f0e05398c1688",
+"cdd015ffe20ea184",
+"42cceb494d92dbfa",
+"998eee4deab7055c",
+"2f9b376620b0ad3a",
+"5df5f311504bf484"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328837,
+"tg_offset": 706328839,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795011083.4836128,
-"title": "GTA 6 никогда не получит обновление со скоростью 60 кадров в секунду на PlayStation Pro, поскольку оно «недостаточно мощное»",
-"url": "https://www.ign.com/articles/gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-its-not-powerful-enough",
-"tags": [
-"обновление"
-],
-"img": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-18-1795006209352.jpg",
-"source": "IGN",
-"score": 4,
-"kind": "news",
-"words": [
-"plays",
-"кадро",
-"никог",
-"скоро",
-"обнов",
-"мощно",
-"pro",
-"секун",
-"оно",
-"недос",
-"получ",
-"поско"
-]
-},
-{
-"ts": 1795011086.6735713,
-"title": "Запуск GTA 6: игрокам PS5 необходимо загрузить это обязательное обновление перед игрой",
-"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3OHZoY0JfUXBnajJMOFRkVFZfYjNHd28wMWFYRENkaXZJRUs2d3lQNmlQUmlTUlRvdzZESzhVdFYxNUQ1aWhXN1B3VDBlandHNFl0MzQ5VHdSM01TTVNkYUlrRW9iTDRIemdONjF2TVVzZHlIWXNCMDd3NXo?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "SVG",
-"score": 3,
-"kind": "news",
-"words": [
-"необх",
-"загру",
-"обнов",
-"игрой",
-"перед",
-"игрок",
-"обяза",
-"ps5",
-"запус"
-]
-},
 {
 "ts": 1795012318.0904686,
 "title": "Анализ производительности GTA 6 Xbox Series S восхищается усилиями, но говорит, что «значительные падения кадров» являются проблемой",
@@ -19139,6 +19126,132 @@
 "brook",
 "кода",
 "безоп"
+]
+},
+{
+"ts": 1795184576.4252746,
+"title": "Руководство по топливу в GTA 6: как работают заправка, АЗС и датчики уровня топлива",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNkY3Wk5NWlhWWjNtUzBBMU9XRlUyM1M3YXdaMnl0R0hLa3NOeHRtWHVMTWpCYTMySlRCSEtIbkxGTkdWdGpYMGdGc2pUTXdyN0x1SU1hQ2VrWFZxaVVvOGo3VGJwRkd2YU5NZFMwZ1VybkVEdUQ4MjRJQUFpbC1WNGRVTFV1bDNVQ3R1dGZn?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "eGamers.io",
+"score": 2,
+"kind": "news",
+"words": [
+"запра",
+"работ",
+"уровн",
+"датчи",
+"азс",
+"топли",
+"руков"
+]
+},
+{
+"ts": 1795184579.6525283,
+"title": "Пароль от ноутбука в GTA 6: как разблокировать ноутбук в квартире Буби",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKYnMxRVZMbGlma3FZNmItb216NWhlcmQ2YXYwRVcwOXZ2MlVmN1JqUEdyZ2M1WklWNzRNaVdvdi1XUDhyQm1ZS3FvUG5lZ3l3RkR4TWtCejRld0R0NE0tazM4emtpbWJub0taeUJKdFZUQVNRR2c?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Radio Times",
+"score": 2,
+"kind": "news",
+"words": [
+"парол",
+"разбл",
+"ноутб",
+"буби",
+"кварт"
+]
+},
+{
+"ts": 1795184582.9658048,
+"title": "Как быстро оторваться от полиции в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1b196SmJCT1M0ZmZBVWhsVEJPUmNZeVpQLVNNWDRYYjc0czJMQ2REQnRIZFpiUy1ZZERtTXRnMkpBbFRnMmxxclB0Q1FaSGFlT0J1bFQxYUJvcjVXTWNmaWw1anAtTHFaQkd1SEc5MGN1UWo3V1E?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "VICE",
+"score": 2,
+"kind": "news",
+"words": [
+"быстр",
+"полиц",
+"оторв"
+]
+},
+{
+"ts": 1795184586.2140908,
+"title": "Запуск GTA VI в цифрах и графиках: беспрецедентное влияние на экономику и исторические рекорды франшизы",
+"url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTWRyaEQ2RHFIODBMZHE2aXhzMXhQMGFkWVpRdTJwY2xIcDhwSDQ1eHdzYkVhTWJzcksxT0hLZlhMeFVrTW1FTDZuZlRLQTNLQWxwX1MzQnVMWURlMGpkcVJuTlJKalNQRlI5ZnFxN1l5d2I5UjBsUkNKN1YwX3laSjJiWjFET1hPT1hTWmdxcjJWVjF5bjl0WkduU2thV0RLX1Itc3c1OFhMMFdYQ1FaaEFnWGJYc05sT3hlbUJYZVFCLWMxX3QtWDdLWjJEVTNjNThTbUxGZDVlZ0YwWVVjQXFn?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "App2Top.ru",
+"score": 2,
+"kind": "news",
+"words": [
+"франш",
+"истор",
+"беспр",
+"эконо",
+"графи",
+"запус",
+"рекор",
+"цифра",
+"влиян"
+]
+},
+{
+"ts": 1795184589.4624145,
+"title": "Может произойти утечка играбельной сборки GTA 6, но есть одна загвоздка на 15 миллионов долларов",
+"url": "https://www.gamespot.com/articles/a-playable-gta-6-build-could-leak-but-theres-a-15-million-catch/",
+"tags": [
+"слухи"
+],
+"img": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-16.jpg?w=300",
+"source": "GameSpot",
+"score": 2,
+"kind": "news",
+"words": [
+"может",
+"долла",
+"загво",
+"одна",
+"сборк",
+"утечк",
+"играб",
+"милли",
+"произ",
+"есть"
+]
+},
+{
+"ts": 1795184592.684116,
+"title": "HDR-калибровка GTA 6 работает некорректно, специалист посоветовал оптимальные настройки",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0gzSnBkdE0yZEJJNmVNS3lzMkVkUVdvdUlIVElaVmxBb0VTcmVOS3dVQ3hhQThNRGFCVjdLbjFwcG5TdzNfWFBBQk44NzkyQ1pDUFVpUkFwUlJpdzFZSmQ2MzZSMTZoZTMwWldTUmdfYmpES0RPUnBhNThPQk1LVjhNQTdWUkJ1SmlZcmRHZ1lFXzE4WENPSEg3TXFOUmp6R01CY1BDazlWOHZUVlkxRVVqdTIyLUVzd0U1VEtB?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "Newxboxone",
+"score": 2,
+"kind": "news",
+"words": [
+"калиб",
+"работ",
+"некор",
+"hdr",
+"посов",
+"настр",
+"оптим",
+"специ"
 ]
 }
 ],
