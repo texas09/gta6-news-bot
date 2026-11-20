@@ -8860,12 +8860,63 @@
 "38af85125de1a9e2",
 "7a6f712d91815c42",
 "52f16a0edbbe9566",
-"8f84304a32e72dc9"
+"8f84304a32e72dc9",
+"1fa10e6f1d687ad8",
+"28e0d1741094c6a4",
+"1086bde4f1e3e4d0",
+"3abc9acea8955c3e",
+"339ed2086e0d27ad",
+"5561ac6d123ab638",
+"8855fff885ed8c63",
+"204554351d88d735",
+"aa61e9ba81aa8e56",
+"b422adc1292f052f",
+"96ad35a0721b2433",
+"982a9b94e8ce657c",
+"2b98a0c08cdf09a9",
+"448d805c8d9aab95",
+"68354775ea5f05f2",
+"a2f52b7d5adae657",
+"a68f25de558f3685",
+"8d6929ab9673e843",
+"8c6ea611ecd014b1",
+"2fc33e3d9240efcd",
+"0c67da650634ea3a",
+"c9752a06225903d5",
+"c09ca19e158b5736",
+"7affee3cdde9d18c",
+"3fd1ec86ada77fd2",
+"b01328ba072ff4b9",
+"b9ced9110969c353",
+"1f92d519ff10dbee",
+"3e475c29b5c7fb64",
+"c637a9ba8bbbf0f7",
+"d17fdab781159e79",
+"2af45f16c23a5db5",
+"66c58212309b8deb",
+"f74c936fed1135c9",
+"16adc22932bf6020",
+"c083046c8abb1ae6",
+"6758a95da1bb5ccf",
+"4689a304782c21ea",
+"0213ef0575416b96",
+"e88f1c6da3af0b72",
+"1a59160f8c944215",
+"5bd346a193d2e828",
+"f3a529a371772b4c",
+"a426de557506fcc8",
+"bb969c79aee5758a",
+"cd9d38324071ab17",
+"532650f1dcd06ef4",
+"9ec0dcadc8a88e85",
+"b7163b39aa44a96c",
+"6c4df36fcbcae75e",
+"3a4ec750fee1f533"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328725,
+"tg_offset": 706328730,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -18171,6 +18222,110 @@
 "конск",
 "подпи",
 "игры"
+]
+},
+{
+"ts": 1795140114.5867705,
+"title": "Как сохранить оружие, которое вы найдете в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PQjdmZWFrM051OGQ0NFk2Z0lZaERuT29IaDN5SXFnN0NUcEc3NkgzNzBrZlVia3RKZ1ZJZ3Z1MldBc2NmQzluWEVRRWdRSG5QMy01WjZjaTd2LUFra2lrWFNJOVItenI3c0NuZklCWkhlZDZybkxJRFhKWFI?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "GameSpot",
+"score": 2,
+"kind": "news",
+"words": [
+"оружи",
+"сохра",
+"найде",
+"котор"
+]
+},
+{
+"ts": 1795140117.7920752,
+"title": "Феномен GTA VI объяснил психолог",
+"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSaWNGanVTRFB4ZmhRMWNqUHFiODZIaDNCX0N3MWxMQXZUVDlYQVlrd2JVa2FtaFo5VDVTc1hfMmR0V3JoYjFIbHlRVjFTZHIzcWZRVmJ2eXo3R2l1UUZ5cFZSUXN0UdIBa0FVX3lxTE9xTmNHYnhFbTFTTXgzSE40WmM4X0FFN1JHdlR1R0lyT0tfUW4wcWg5WjJDbEFCcUxxQm1RaTg1dFhGMDBtMG81cG9uUEc1UXd0MkJGeE9ieWhyTGMtVENzZlRveG5pN3YtTnNv?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "FOX 26 Houston",
+"score": 0,
+"kind": "news",
+"words": [
+"феном",
+"объяс",
+"психо"
+]
+},
+{
+"ts": 1795140120.9931114,
+"title": "GTA VI выходит за рамки преступности и хаоса: ключевые выводы первого дня игры",
+"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDhvazU2UmhiVUllYlNnZGdYanJiMDZwV1lqdnhHaTRsbG5lUTNFa291N25xb29INllPaWtDYUdtZWl5TW4ydDJpR3hiTDdmUlV2a0tPRmhyZ3BfZTFLeHRkR2ZvRHE2cFpRaGxfNjlLRHZ3VVhmeHB0MmYzME5KZjJVOVpNUmR4U0NtYXRYSFQweUIyYnIzZlI3VEFyWlg0Wk1waW1LOUNhWE5DWjBUSENlMUZkQW8?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "NBC News",
+"score": 0,
+"kind": "news",
+"words": [
+"дня",
+"игры",
+"хаоса",
+"вывод",
+"прест",
+"рамки",
+"выход",
+"перво",
+"ключе"
+]
+},
+{
+"ts": 1795140131.0091372,
+"title": "Полиция нескольких городов США призвала игроков GTA 6 не повторять преступления в реальной жизни",
+"url": "https://www.playground.ru/gta_6/news/politsiya_neskolkih_gorodov_ssha_prizvala_igrokov_gta_6_ne_povtoryat_prestupleniya_v_realnoj_zhizni-1892254#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/MOccDreFEHb1xqlf8h4Cyw.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"игрок",
+"жизни",
+"неско",
+"призв",
+"повто",
+"сша",
+"прест",
+"реаль",
+"полиц",
+"город"
+]
+},
+{
+"ts": 1795140139.3730733,
+"title": "В GTA 6 убрали возможность повторно проходить сюжетные миссии после их завершения",
+"url": "https://www.playground.ru/gta_6/news/v_gta_6_ubrali_vozmozhnost_povtorno_prohodit_syuzhetnye_missii_posle_ih_zaversheniya-1892255#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/RxnTo1U0itid36LYTMloJg.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"сюжет",
+"повто",
+"прохо",
+"убрал",
+"после",
+"завер",
+"мисси",
+"возмо"
 ]
 }
 ],
