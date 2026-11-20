@@ -9343,7 +9343,16 @@
 "ba2392a09b8d8cdc",
 "231a4ca814239cba",
 "4c2db3820dcc53da",
-"bc6ad9cc1b7dd101"
+"bc6ad9cc1b7dd101",
+"18dd00e3157628c3",
+"e13d5b82f1689e31",
+"05d0bf33fc1169b0",
+"cc129ca448192e20",
+"296db3a886f355f5",
+"d502a476f8fa2935",
+"b41e2782d523a29d",
+"2c04827ded130a27",
+"3bc3cef3278a40e1"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -18486,6 +18495,51 @@
 "лодко",
 "убийц",
 "нашли"
+]
+},
+{
+"ts": 1795163520.1149116,
+"title": "Утечка GTA VI для Xbox оказалась неполной: помимо EXE-файла отсутствуют важные системные компоненты",
+"url": "https://www.playground.ru/gta_6/news/utechka_gta_vi_dlya_xbox_okazalas_nepolnoj_pomimo_exe_fajla_otsutstvuyut_vazhnye_sistemnye_komponenty-1892302#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"слухи"
+],
+"img": "https://i.playground.ru/e/cqy73IGc2x_gY3zqhoJ5Kg.png",
+"source": "PlayGround.ru",
+"score": 2,
+"kind": "news",
+"words": [
+"важны",
+"компо",
+"систе",
+"помим",
+"exe",
+"отсут",
+"утечк",
+"оказа",
+"xbox",
+"непол",
+"файла"
+]
+},
+{
+"ts": 1795163524.6883721,
+"title": "Как разблокировать гараж в GTA 6 — объяснение сохранения и регистрации машин",
+"url": "https://insider-gaming.com/how-to-unlock-garage-in-gta-6-how-to-save-cars/",
+"tags": [
+"гайд"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/99fbcf8f-f661-408a-af71-e8468fffa5d0-1024x576.png",
+"source": "Insider Gaming",
+"score": 3,
+"kind": "news",
+"words": [
+"регис",
+"машин",
+"сохра",
+"разбл",
+"объяс",
+"гараж"
 ]
 }
 ],
