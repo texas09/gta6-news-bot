@@ -9307,12 +9307,33 @@
 "6e9480af676004e1",
 "9632e228bb4e4ef8",
 "08829858b3ff7156",
-"3056d6a9e9890e16"
+"3056d6a9e9890e16",
+"dc4f8a06dabf2197",
+"a1cdaebbc2fe55e9",
+"68f88986c4af5635",
+"a78c56cdfbdabd0c",
+"fc2e693d30ef7093",
+"5c00e976181d33f6",
+"3c71cea5ab8504c0",
+"921828ccc3852c4c",
+"f6a858702ce83a9f",
+"6c0436cfd45536e2",
+"466a763ac835884a",
+"e51cb3d7acb55942",
+"45b70352c2d2ec3a",
+"d6661089c5d2aa41",
+"cb39690a16bf93fe",
+"d9045f0cfbd6402b",
+"e55ba874163f353f",
+"2342caa54e07d707",
+"47b6b89fb239ec5b",
+"47b6b89fb239ec5b",
+"480b36f857fea1ee"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328775,
+"tg_offset": 706328784,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -18653,6 +18674,28 @@
 "чтобы",
 "данны",
 "анали"
+]
+},
+{
+"ts": 1795160480.589873,
+"title": "Игроки GTA 6 нашли квартиру Декстера с набором серийного убийцы и его лодкой",
+"url": "https://shazoo.ru/2026/11/20/194381/igroki-gta-6-nasli-kvartiru-dekstera-s-naborom-seriinogo-ubiicy-i-ego-lodkoi",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892261_0FQQvMj_gta-6.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"декст",
+"игрок",
+"кварт",
+"набор",
+"серий",
+"лодко",
+"убийц",
+"нашли"
 ]
 }
 ],
