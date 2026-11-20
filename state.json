@@ -9775,7 +9775,49 @@
 "286895b4867e27cd",
 "7d5e9a00646a31b4",
 "d9782b9270e2014c",
-"627e27e825ccf32c"
+"627e27e825ccf32c",
+"2e2c1a12217ffb15",
+"1d092217ca4b785e",
+"b80c3acc23cfeee1",
+"96dfde0e183bc868",
+"ed860ad8ef6835a0",
+"b0a5cf8391cad18e",
+"13c9a8809ae911f8",
+"77cf8d10344166a2",
+"ed2a2e6473e7b5b3",
+"e22ffe29ce2e2a2e",
+"0ca06b2633285e19",
+"dd3e30b4bbedcd6a",
+"e6784d62b9e9b594",
+"07b039512452fb50",
+"79b03194e06bab3a",
+"06f118c2e327aa5f",
+"576d77bd2393b5b4",
+"b30d156d4eff24de",
+"80e1bde4be69ead0",
+"8823aa5e2373b271",
+"ad8306491ed78c8b",
+"4bbe31d0e7643d16",
+"5670802ed5ef081a",
+"9f0b3c6b537ab3b8",
+"308db8d0e999d7b1",
+"b8dfc7ab3ec0dbc0",
+"fb0a0243543ad2ed",
+"cd2a9e679a7417f2",
+"68dfbbcda7de41a6",
+"ccc343204c8512da",
+"9156226be04f8d2f",
+"d7e1022299c25c3b",
+"45f5c5944f403b2b",
+"acbd1165fc6ed324",
+"b674ff6dfca6a906",
+"e4de8c1113d678d7",
+"8546fc1e56df0355",
+"98b2d4149bf0da80",
+"6918e8b48013d197",
+"8b8ede782ce8a5b0",
+"f3dd56a77f50cb9b",
+"146567471c64efba"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -9783,86 +9825,6 @@
 "tg_offset": 706328827,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795007017.8449948,
-"title": "Как получить эксклюзивные скины тропического оружия GTA VI",
-"url": "https://rockstarintel.com/how-to-get-the-exclusive-gta-vi-tropical-weapon-skins/",
-"tags": [
-"гайд"
-],
-"img": "https://rockstarintel.com/wp-content/uploads/2026/11/My-Great-Capture-Screenshot-2026-11-18-11-51-08-copy-1024x576.webp",
-"source": "Rockstar Intel",
-"score": 3,
-"kind": "news",
-"words": [
-"экскл",
-"получ",
-"оружи",
-"скины",
-"тропи"
-]
-},
-{
-"ts": 1795007021.1494987,
-"title": "ГТА 6 предустановлена? Перед игрой убедитесь, что вам не нужны дополнительные обновления",
-"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLUtPRFh4U3NzdTNJVllYRnBNY3hLUGxYellrRHB6UHdDUlZ4MHp3ekRvczNvR256MjQyVlgwX3Uxd0wyWm1hMkVnMzRpSkpNR2tndXZPcmN1em9zSEV3NjFEWnFnQTNMbThtNTgycTB1dGpWNEt2eklnNFJ4WTByN3JFakdPWG9MV1F0eER1UjdSNHh5MTd0aEVIUQ?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "PCMag",
-"score": 3,
-"kind": "news",
-"words": [
-"игрой",
-"убеди",
-"допол",
-"преду",
-"нужны",
-"вам",
-"обнов",
-"перед"
-]
-},
-{
-"ts": 1795007025.707674,
-"title": "Прохождение миссии пролога GTA 6",
-"url": "https://www.videogameschronicle.com/guide/gta-6-prologue-mission-walkthrough/",
-"tags": [
-"гайд"
-],
-"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Prologue-Walkthrough-5.jpg",
-"source": "VGC",
-"score": 3,
-"kind": "news",
-"words": [
-"проло",
-"прохо",
-"мисси"
-]
-},
-{
-"ts": 1795007030.092711,
-"title": "Руководство для начинающих GTA 6: 6 советов, которые нужно знать перед запуском GTA 6",
-"url": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
-"tags": [
-"гайд"
-],
-"img": "https://www.videogameschronicle.com/files/2026/11/blehh-4.jpg",
-"source": "VGC",
-"score": 3,
-"kind": "news",
-"words": [
-"совет",
-"знать",
-"начин",
-"нужно",
-"котор",
-"запус",
-"руков",
-"перед"
-]
-},
 {
 "ts": 1795008098.9801006,
 "title": "Как работает фитнес в GTA 6: советы по кардио, силовой нагрузке и концентрации",
@@ -18970,6 +18932,190 @@
 "этих",
 "прохо",
 "вашег"
+]
+},
+{
+"ts": 1795180277.6570241,
+"title": "В GTA VI сломана HDR-калибровка: игра игнорирует настройки PS5 и Xbox, а для дисплеев от 1000 нит советуют ставить 2000",
+"url": "https://www.playground.ru/gta_6/news/v_gta_vi_slomana_hdr_kalibrovka_igra_ignoriruet_nastrojki_ps5_i_xbox_a_dlya_displeev_ot_1000_nit_sovetuyut_stavit_2000-1892374#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"настройки"
+],
+"img": "https://i.playground.ru/e/GAlb2PhRfJEzb1_ByK5wPg.webp",
+"source": "PlayGround.ru",
+"score": 3,
+"kind": "news",
+"words": [
+"нит",
+"настр",
+"xbox",
+"диспл",
+"стави",
+"1000",
+"hdr",
+"игра",
+"ps5",
+"2000",
+"слома",
+"калиб",
+"игнор",
+"совет"
+]
+},
+{
+"ts": 1795180280.8280518,
+"title": "GTA 6 на PS5 может работать лучше: какие настройки исправят проблемы",
+"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOWpIWTBPcGpSZ1czRzg1dlpkMVg1QWtic0tzV1JiT0o4UXAzclRmMmg0V0s2N25JZ2tlalVkTlN5anNqYjlPUTM5bi00b201WTlZdHRrdjI5MVphbXNMMGUwenEzdEhtc2lHZVBUU2tzZ2xlMUZlZ2c2Mzc0SndLXzJUUW82RWl3SmVCbGpjbDM1RVk1bEl1dEZMLURDQUXSAaQBQVVfeXFMT1hyR1JGMVNrNUgzZU1ZajVoQjBWcmpLdElWeURrR1ZiSmxZM3hvRXBRUVBoTlRlbFgxNVFRblJsYktkYVhSNExoTjhVM05HalotWU9LSmFBWDJqTktubzBpTDhkdF95NHRNQTNTWlhtaDRlZXhYa2UtWGNDY2d5UlNTSm9vdXQ1MU0tWkItQUJVNkkzWUtQbENrbk5lUXExNjdEQ0E?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "РБК-Україна",
+"score": 2,
+"kind": "news",
+"words": [
+"настр",
+"работ",
+"может",
+"какие",
+"ps5",
+"пробл",
+"лучше",
+"испра"
+]
+},
+{
+"ts": 1795180283.9881017,
+"title": "Как стать жертвой убийцы в стиле SAW в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnR4NUZZa1NZRGZ6R0lqc09kaW41anVTLXpmTXVGMFhMdk9tTUpEaUFrakNtLWVrZ2xkYTBoQkxuNmtuOEI0M0tLUDlSTGhIbUpEdjI3bGhMSTZESDFxV3lHY3NYdFhILThYdzV6c3ItRjJISlR4ZlRidElMZ3NZLXM1aVZnRTZnNGNyNQ?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Yahoo Tech",
+"score": 2,
+"kind": "news",
+"words": [
+"saw",
+"жертв",
+"убийц",
+"стиле",
+"стать"
+]
+},
+{
+"ts": 1795180287.7540753,
+"title": "Утечка GTA 6 «Cyberleek», как сообщается, угрожает выпустить сборку для XBOX",
+"url": "https://insider-gaming.com/gta-6-leaker-cyberleek-reportedly-threatens-to-release-the-xbox-build/",
+"tags": [
+"слухи"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/GTA-6-Bank.jpg",
+"source": "Insider Gaming",
+"score": 2,
+"kind": "news",
+"words": [
+"cyber",
+"xbox",
+"утечк",
+"сборк",
+"угрож",
+"выпус",
+"сообщ"
+]
+},
+{
+"ts": 1795180290.9246776,
+"title": "Калибровка HDR в GTA 6 содержит ошибку и не учитывает системные настройки консолей — Винсент Тео",
+"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnNheGZCRC1KeVRVN2xJdmZXOF9IQXFoX3RCREkwUXJIMEgySjB6bU9CWmdZZnZaazBnYlByZGo1NWRiRWU0RVp4YU4yckdwYWN0VVE1VGtySEpzc0Zfc2x4V0dPX3ZkYk04dThZNG12ZktCMEJtdlMxSVotVjZZYTBIOVAzdVlaSGNDQ3lBZXdfWU5tc0o1eFZsSUdCU3MxT01NWFR0UU9jeEnSAbABQVVfeXFMTXJBTW55bzdIbFNVcUREZUVYYllBMVRDNmdLTlRzQWEtSjVIMWJIeExmSzBPeTMxM2FCTUp5dXktRlF1eTNmWHg4bmJRRU4yM2RVMW9heFU2bXV4X24tYVBGaDhjcy1Bb25rZXJQeGRIaTVpS3RjdHdaWVN2YjdyOWpGSjdQZnA5Y3dUektnQnJuMmpsTktxZTJmODJBQjJEYXBHaUdyZnRsTC1XSFByZGU?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "Клуб DNS",
+"score": 2,
+"kind": "news",
+"words": [
+"ошибк",
+"учиты",
+"настр",
+"содер",
+"hdr",
+"тео",
+"систе",
+"калиб",
+"консо",
+"винсе"
+]
+},
+{
+"ts": 1795180295.299316,
+"title": "Отчет: новозеландский трюк Xbox на этой неделе использовало сумасшедшее количество людей",
+"url": "https://www.purexbox.com/news/2026/11/report-xboxs-new-zealand-trick-has-been-used-by-crazy-numbers-of-people-this-week",
+"tags": [
+"слухи"
+],
+"img": "https://images.purexbox.com/762c90e0372da/large.jpg",
+"source": "Pure Xbox",
+"score": 2,
+"kind": "news",
+"words": [
+"xbox",
+"сумас",
+"трюк",
+"отчет",
+"недел",
+"испол",
+"людей",
+"колич",
+"этой",
+"новоз"
+]
+},
+{
+"ts": 1795180299.4168117,
+"title": "Как легко получить танк в GTA 6 — лучший метод и местоположение танка",
+"url": "https://insider-gaming.com/tank-gta-6/",
+"tags": [
+"гайд"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/How-to-Easily-Get-A-Tank-in-GTA-6—Best-Tank-Method-Location-guide-3.jpg",
+"source": "Insider Gaming",
+"score": 3,
+"kind": "news",
+"words": [
+"метод",
+"танка",
+"легко",
+"лучши",
+"танк",
+"получ",
+"место"
+]
+},
+{
+"ts": 1795180302.6190164,
+"title": "GTA 6 убедила меня: меня устраивают игры со скоростью 30 кадров в секунду, и тебе тоже должно быть",
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTZnY3FtU1ZFVFRVLWIzRXRoRTNjS1FXNXkyaEUxN3VGaU9SMXhfSmNPcHFhd0QzdEpoaW84cnNaa1gxbndsZmdJZWFNeXlDcHZIRE5zMlZtTjlNN3QteGFNSGlWVDhIR1FhdDRIZXZsU2xnOFMtUk81OERhUGFQaW9CNXllby1WaGVCck9qWDBObWYydVZwLW1WTWFEdkZkMTV3b2tqcDJBVTFhSjVhN0F3?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "PCWorld",
+"score": 2,
+"kind": "news",
+"words": [
+"кадро",
+"скоро",
+"меня",
+"тебе",
+"секун",
+"тоже",
+"устра",
+"быть",
+"должн",
+"игры",
+"убеди"
 ]
 }
 ],
