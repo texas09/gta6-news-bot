@@ -10864,7 +10864,19 @@
 "b3c94f4abed59bbc",
 "2a3d8aeb614b6bb7",
 "9ebf951624d46db1",
-"6d7effdd323e782e"
+"6d7effdd323e782e",
+"1a856fd734078ba2",
+"a675e549fc461ef4",
+"a4b70276716e2fe4",
+"8f6e97b2f2e2bf27",
+"293b81850f830dc5",
+"f5a4148e073d5230",
+"a2bdbe51281e5a31",
+"1039b2ac6b25f0f6",
+"61ffbb3ccfe1292d",
+"d46395f63e62271b",
+"22a77fc0de606d86",
+"b1b2d532f92b8149"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -10872,151 +10884,6 @@
 "tg_offset": 706328927,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795037522.5398257,
-"title": "Как найти квартиру Декстера Моргана в GTA 6",
-"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTDBuZ2U3dnN6Q213NF82QnJQcDBjRXBCWjNtRFhmYWZXWWNRVWduckU4cC0zZ3FMV1VjSXJRVzVFd3FRemtXeUVuUVlBUVAtYnp3R2FYa0syQ1ZkRUxCcVhxaTdZeGNla0FGbHVJMjFmRmx6Z3dtUHNWTncxN1BsU3U3VDd2NkE?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "GameSpot",
-"score": 2,
-"kind": "news",
-"words": [
-"кварт",
-"найти",
-"декст",
-"морга"
-]
-},
-{
-"ts": 1795037525.8711455,
-"title": "Путеводитель по животным GTA 6: что можно увидеть, погладить, охотиться и ловить рыбу в Леониде",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBudExMV3Nzc2FpdFREY0NBMDhONWdlcUIyd1FDN0xGZXpYNkkwbXZxbWFCYUxoMFUtb2JMejlfUHNOQl9JRUtYQmNleVkxRjIyVnlHSjlEMUk3MGp0ZkR4TFI0X0pmRXVRY1lPY3FyMXo?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "Mashable",
-"score": 2,
-"kind": "news",
-"words": [
-"охоти",
-"леони",
-"погла",
-"ловит",
-"рыбу",
-"увиде",
-"можно",
-"живот",
-"путев"
-]
-},
-{
-"ts": 1795037529.0667715,
-"title": "Как играть в GTA 6 все выходные, не разрушая свое тело",
-"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWxVaUJQNmJyZjdncGJWS2FZQ2FrbTcybE9CRXIySGlQMlhTeWlUM0Z6MEpmamtUdzJPUVVJYkg0TWotQy11Qk9OX2FLdlB4b19nQ3MydEFEbUxyaHdVRmxhaGRRd002cU1YcGhycHM3Q2xkei0xUDZjMElHeWg2dVNn?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "GQ",
-"score": 2,
-"kind": "news",
-"words": [
-"тело",
-"играт",
-"разру",
-"выход",
-"свое"
-]
-},
-{
-"ts": 1795037532.2661161,
-"title": "GTA VI наконец вышла. Что нужно знать о долгожданном продолжении серии?",
-"url": "https://stopgame.ru/newsdata/73553/gta_vi_nakonec_vyshla_chto_nuzhno_znat_o_dolgozhdannom_prodolzhenii_serii",
-"tags": [
-"новости"
-],
-"img": "https://images.stopgame.ru/news/2026/11/18/lleJJSN.jpg",
-"source": "StopGame",
-"score": 1,
-"kind": "news",
-"words": [
-"серии",
-"продо",
-"након",
-"вышла",
-"нужно",
-"знать",
-"долго"
-]
-},
-{
-"ts": 1795037537.2464063,
-"title": "В канун дня релиза GTA 6 произошел сбой в сети PlayStation Network",
-"url": "https://www.polygon.com/gta-6-is-psn-down-detector-account-services-busy-server-connection-error/",
-"tags": [
-"новости"
-],
-"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ultimate_edition_grotti_cheetah_02.jpg",
-"source": "Polygon",
-"score": 1,
-"kind": "news",
-"words": [
-"канун",
-"дня",
-"сбой",
-"релиз",
-"netwo",
-"произ",
-"plays",
-"сети"
-]
-},
-{
-"ts": 1795037540.440807,
-"title": "Новозеландский трюк работает как шарм. Как играть в GTA 6 прямо сейчас",
-"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWsteU5JeWFTMnB5UEJjcUdZVHptX3hoMTRwaUlmV01pNUI0a2dkdjZVa3B6WlNjR3g1dW1fYkNBR2dROUtJMTh5NnB2X2pKSUYzTllOaXZicDhIRm42ZjdZdTl5WUx4eU9xSmRjWWhDZk9LbU5BblJ5TDZsYXRPMjFLbEtUNkw5cGJhS0ZvV3FxOVNoY0hUTXlYWQ?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "PCMag",
-"score": 2,
-"kind": "news",
-"words": [
-"играт",
-"трюк",
-"прямо",
-"работ",
-"шарм",
-"сейча",
-"новоз"
-]
-},
-{
-"ts": 1795037544.9227824,
-"title": "Модернизации процессора PS5 Pro недостаточно для GTA 6 при 60 кадрах в секунду",
-"url": "https://insider-gaming.com/ps5-pros-cpu-upgrade-is-not-enough-for-gta-6-at-60-fps/",
-"tags": [
-"настройки"
-],
-"img": "https://insider-gaming.com/wp-content/uploads/2026/10/Lucia_Caminos_10-scaled.jpg",
-"source": "Insider Gaming",
-"score": 3,
-"kind": "news",
-"words": [
-"pro",
-"проце",
-"секун",
-"недос",
-"модер",
-"кадра",
-"ps5"
-]
-},
 {
 "ts": 1795039327.7312508,
 "title": "Руководство: GTA 6: как получить предметы Ultimate Edition и бонусы за предварительный заказ",
@@ -20359,6 +20226,66 @@
 "балла",
 "первы",
 "громя"
+]
+},
+{
+"ts": 1795210897.222339,
+"title": "Как клонировать ключи в GTA 6, чтобы вам было намного проще угонять машины",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVFB3Wm50b0I1T2gwcEt4SkFjQW54bXlrU2ktV0RKdXNRUk9WNW9OSGZsdE5HM3NVekNjM2U3U2hJT3B3NUVJLTBUekhMYWNjdzJzbkR2NkxleU1wZkZnaURwc1V6aXVmWWJ1eU54UWhqb1FPdVc1WXNUQkhZa0ZLX09B?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Yahoo Tech",
+"score": 2,
+"kind": "news",
+"words": [
+"ключи",
+"намно",
+"вам",
+"проще",
+"угоня",
+"машин",
+"клони",
+"чтобы"
+]
+},
+{
+"ts": 1795210900.3856876,
+"title": "Mitsubishi Eclipse из GTA 6: как найти машину Пола Уокера «Форсаж»",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWViYmI3YVlMd0JOdU9FbklKZl9NRHhfNEVEcGpKZ25WU0txZnh4M3hnLXViTHdpRGpzb29tQWhiNFZjODFSMWFaekIzOHJOaWI2NDFDR2E4elJZYVd5cE1XdERkR3VMMUp5NzlwWlg0aDhSSUYzLXpxU2l1eDUwSC1acGNpM2dxMXA2Vg?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Yahoo Tech",
+"score": 2,
+"kind": "news",
+"words": [
+"найти",
+"уокер",
+"eclip",
+"машин",
+"пола",
+"форса",
+"mitsu"
+]
+},
+{
+"ts": 1795210903.5482984,
+"title": "Все промахи главы 1 — Руководство по GTA 6",
+"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rVl9ZMzFLaGVCUTgwVmJyMlVuamFqUW5MX1ViMkN3a0dvWWkzNExIWUsyR0RvWHRBRUlyTWRZN1AtNWxhaWw1YnBkQmhoV05KQ193M1hYMC1Ubm5NTzQzbTZmRUNlUQ?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "IGN",
+"score": 2,
+"kind": "news",
+"words": [
+"главы",
+"руков",
+"прома"
 ]
 }
 ],
