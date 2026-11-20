@@ -8911,126 +8911,35 @@
 "9ec0dcadc8a88e85",
 "b7163b39aa44a96c",
 "6c4df36fcbcae75e",
-"3a4ec750fee1f533"
+"3a4ec750fee1f533",
+"5e2c5758441b2ad5",
+"9a35da9a069a6de9",
+"002f29c452bc9f68",
+"20844265f4741970",
+"aaa35e1a97faf1c8",
+"f848b26485a704e9",
+"27508426a991454f",
+"5a0c281c69534667",
+"daa24ad5e72e444a",
+"773595787909ef10",
+"9e2ab9ad50a97d95",
+"ff0b0ee674332eba",
+"dda851cace5e6af2",
+"095155be276db73c",
+"61028fac0a6832f9",
+"67b42e3564d649b9",
+"e559c59898117b6f",
+"3390ec1301967bcc",
+"1830c8ab36f9befb",
+"9d8419253d54d5e5",
+"5e809d999056c5db"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328730,
+"tg_offset": 706328735,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794967386.750678,
-"title": "Поклонники GTA 6 озадачены тем, что актер Джейсона не участвует в номинациях на награду Game Awards",
-"url": "https://www.ign.com/articles/gta-6-fans-baffled-after-jasons-actor-gets-left-out-of-game-awards-nominations",
-"tags": [
-"новости"
-],
-"img": "https://assets-prd.ignimgs.com/2026/11/17/gta-6-jason-1794955060145.jpg",
-"source": "IGN",
-"score": 1,
-"kind": "news",
-"words": [
-"джейс",
-"game",
-"актер",
-"участ",
-"озада",
-"тем",
-"награ",
-"номин",
-"покло",
-"award"
-]
-},
-{
-"ts": 1794967392.4822767,
-"title": "Выпуск GTA 6 вызовет стресс в Интернете, поскольку все разваливается",
-"url": "https://www.polygon.com/gta-6-release-apple-down-outages-microsoft-chase-bank-issues/",
-"tags": [
-"новости"
-],
-"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_duval_15-1.jpg",
-"source": "Polygon",
-"score": 1,
-"kind": "news",
-"words": [
-"выпус",
-"поско",
-"разва",
-"интер",
-"вызов",
-"стрес"
-]
-},
-{
-"ts": 1794967395.702007,
-"title": "Игровые приставки резко подорожали перед выходом GTA 6: цены в Челябинске",
-"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObHc4YTVnV3NHWGJJbEZCRnJNRnhhZUhHNTVfdUxuY3hBeG5xRUtoclFxWE45aDZLRG5DLVlfWkV6ZGh4UEZYNnBwSEFRSThianBpWEYyVEhKLTRPSDBEN1hPZ0hxX3lXeFFlZGU1ekUtX08zR1Y4OUpiUmUwVDNjamFBY3JLU3VVNHFVTkF3YUJnS3Nnd29uUy16UkJwVjFTMHNrVmhWR1k0Z1hSWXNIOFlUaEh1dUc1Y05tQnhR?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "kursdela.biz",
-"score": 0,
-"kind": "news",
-"words": [
-"выход",
-"подор",
-"цены",
-"челяб",
-"резко",
-"прист",
-"игров",
-"перед"
-]
-},
-{
-"ts": 1794967398.9098582,
-"title": "Роберт Паттинсон в роли агента 007, толстовка Chipotle и шумиха вокруг GTA 6",
-"url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42QzhPT19FOWVJOWVQeGNlY2FMcHJRcV9UellTTnVocHZfbUpaQ3ZiS2hUalJGSXBZUFJ6ZXpZdGVWYi03N29ERF9yVi14OU4xcWgwaEFmMEtZeUdhc3g0RGEyaVPSAWpBVV95cUxOSGtjOW5hSXdMSzJPNDU1THJEMVlRYjBuTVYyWi1BdENETWdJSjhhNUhLa2xaMHJGOGkwZDA4T2dCQ3pZTGJSUm1fRF9jTklhNkFLajZYeEZ0RGhiQXh3cEVsbE83YXFNa2pR?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "FOX 5 Atlanta",
-"score": 0,
-"kind": "news",
-"words": [
-"робер",
-"chipo",
-"шумих",
-"агент",
-"толст",
-"роли",
-"007",
-"вокру",
-"патти"
-]
-},
-{
-"ts": 1794967402.1191561,
-"title": "Наблюдатели за птицами, католические школы и канал погоды: все в восторге от дня выхода GTA 6",
-"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVdoeXo0U1lmMWx6ODVMakxsWGdjU2tRNko3QWZQam92MW5YclZrV0NxTXU0bXVkNGpyUUxqX0lVNmJ1dXRKek9tUzZ0dUc3VGE2Xy1rNlZUWHY0cU5pbXMyYXFkXzBxeURSRXRWT0FQeUxlUEI0OFZfek9lMHU4U2tLVW5tMVRUTVljUm16bzZlRHI0OWNETjN3a1FrV2JFU2lNOEJCQjVpanpkNWllZ1FZVk9wdG00ODZMZHVR?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Kotaku",
-"score": 0,
-"kind": "news",
-"words": [
-"выход",
-"наблю",
-"восто",
-"птица",
-"канал",
-"катол",
-"школы",
-"погод",
-"дня"
-]
-},
 {
 "ts": 1794969103.1039674,
 "title": "Для игры GTA 6 требуется новое обновление прошивки PS5",
