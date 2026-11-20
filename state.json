@@ -10234,12 +10234,78 @@
 "3c8db9cf38bd98e2",
 "e1151e856867ad55",
 "83dbab46ebfef187",
-"e6df24baf5fdf434"
+"e6df24baf5fdf434",
+"f31ff0bda1539984",
+"e39837302b76e44b",
+"09a3ce560a163338",
+"bffef6b6a08193a3",
+"2d534da3641069ec",
+"99ca8009a2cdc182",
+"fb3d95a155821c67",
+"e934850f172ddba7",
+"9392edcd4d2e4750",
+"c3e38a0050de9590",
+"86e3eeb50ad8b8d2",
+"1aae5f77d9544273",
+"b2e8a9d7f14aaacf",
+"551bb786edf31912",
+"d9cb4a20167d7678",
+"de32f301fb457f10",
+"bbd3da3f44530884",
+"705394dbd5c6da47",
+"402f74b1376524ab",
+"a0d6a7dd2886fcf5",
+"e168dc77c8aa6648",
+"b5b548cc7dea62d4",
+"a76dc0152182b1b3",
+"6763890e834cee95",
+"fe389cddd053e078",
+"f0c5929e3762b39a",
+"2219eb9929922c61",
+"6cde7e81d0951376",
+"32881acd6e607510",
+"f936228773c084cf",
+"9a3cfea34a02e098",
+"9e4067b59c641043",
+"e46edbc134314ad5",
+"1999d4bc423226fe",
+"9f1f848da0fd60a4",
+"27b211b304cfafa4",
+"b5b09b59a592f607",
+"197c9d14bf85f94f",
+"7a415b343dec089d",
+"bc311cfd70af6d3f",
+"cfdac0de4a557328",
+"aeba5368ebdf7585",
+"a9d257b6979ed091",
+"f5200c6c5dcdcf86",
+"212387154f36431f",
+"6dbbef7fcf0697c1",
+"6dbbef7fcf0697c1",
+"222cce554b032f7a",
+"74bd8ac67faf67b8",
+"74bd8ac67faf67b8",
+"b66f4d1afc9bcec1",
+"f54418d5d572ba39",
+"f54418d5d572ba39",
+"ad0fd9793d8be298",
+"06c29d7b7caa49bd",
+"06c29d7b7caa49bd",
+"9417c7d87224aa10",
+"a5248f6ddd2f8f3b",
+"a5248f6ddd2f8f3b",
+"e5b4dd42002a47ee",
+"3883bfa430e485db",
+"3883bfa430e485db",
+"2bfa48723ca255c6",
+"79c9d1dfc4b40405",
+"2fbf22dd75197515",
+"a3a60f7eb59e1b2a"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328857,
+"tg_offset": 706328859,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -19405,6 +19471,125 @@
 "стать",
 "дворе",
 "wrest"
+]
+},
+{
+"ts": 1795192309.2194993,
+"title": "Как сменить радиостанцию ​​в ГТА 6",
+"url": "https://www.polygon.com/gta-6-radio-station-how-to-change/",
+"tags": [
+"гайд"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-change-radio-how-to-header.jpg",
+"source": "Polygon",
+"score": 3,
+"kind": "news",
+"words": [
+"радио",
+"смени"
+]
+},
+{
+"ts": 1795192313.652058,
+"title": "Игроки GTA 6 уже выполняют трюки и другие впечатляющие трюки, всего через несколько дней после запуска.",
+"url": "https://www.eurogamer.net/gta-6-plane-vehicle-stunts-impressive",
+"tags": [
+"новости"
+],
+"img": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-screaming-car.png?width=690&quality=85&format=jpg&auto=webp",
+"source": "Eurogamer",
+"score": 1,
+"kind": "news",
+"words": [
+"выпол",
+"всего",
+"други",
+"запус",
+"после",
+"трюки",
+"через",
+"впеча",
+"дней",
+"игрок",
+"неско"
+]
+},
+{
+"ts": 1795192316.7954087,
+"title": "В GTA 6 нашли инопланетную загадку, похожую на тайну горы Чилиад",
+"url": "https://shazoo.ru/2026/11/20/194378/v-gta-6-nasli-inoplanetnuiu-zagadku-poxozuiu-na-tainu-gory-ciliad",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892241_xj07uKi_gta6-alien.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"чилиа",
+"нашли",
+"похож",
+"горы",
+"тайну",
+"загад",
+"инопл"
+]
+},
+{
+"ts": 1795192321.1390047,
+"title": "6 игр Steam, которые нужно добавить в список желаний, но не GTA 6",
+"url": "https://www.polygon.com/wishlister-nov-20/",
+"tags": [
+"новости"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/sink-my-bricks-key-art.jpg",
+"source": "Polygon",
+"score": 1,
+"kind": "news",
+"words": [
+"желан",
+"steam",
+"игр",
+"списо",
+"нужно",
+"котор",
+"добав"
+]
+},
+{
+"ts": 1795192325.0420046,
+"title": "Обнародована официальная связь GTA 6 с Red Dead Redemption",
+"url": "https://www.polygon.com/gta-6-red-dead-redemption-other-rockstar-games/",
+"tags": [
+"новости"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-helmet.jpg",
+"source": "Polygon",
+"score": 1,
+"kind": "news",
+"words": [
+"dead",
+"red",
+"обнар",
+"офици",
+"redem",
+"связь"
+]
+},
+{
+"ts": 1795192329.129692,
+"title": "Как получить маску в GTA 6",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mask-location/",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/7gWaHdgngPz72p9rRMGkbC-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"получ",
+"маску"
 ]
 }
 ],
