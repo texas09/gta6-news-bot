@@ -9136,12 +9136,15 @@
 "762a2ffc2e7dca8d",
 "45584062d9bbe501",
 "f31e4b8ae9363907",
-"d3bb200774410aec"
+"d3bb200774410aec",
+"635795850896d5a3",
+"10854ca166a9b7c4",
+"91a914a9b69fd140"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328745,
+"tg_offset": 706328754,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -18481,6 +18484,26 @@
 "резко",
 "подск",
 "начал"
+]
+},
+{
+"ts": 1795148467.5716364,
+"title": "Экономист из Лексингтона говорит, что GTA VI меняет существующие расходы",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZURKYi1rWFNlUW9fSElZSlRFcEZUZWUzMXBRWkJpWUxzSE40Mm1OQVFEbllKamw0QlBnT0ttYk5ESlFaYTF3TFJzZ1I0NEpJbjU1a1B5MExQV3RkWEtVTk90TXctSEN1dkxybnlUVnl0eEJXNDZrYzVXOXpPc0YzcHJLblhINjZOV1BYTmYtR0NRS1NndGdnZjNB?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "FOX 56 News",
+"score": 0,
+"kind": "news",
+"words": [
+"расхо",
+"лекси",
+"говор",
+"эконо",
+"меняе",
+"сущес"
 ]
 }
 ],
