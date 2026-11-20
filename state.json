@@ -10471,12 +10471,42 @@
 "bb429b4a37732668",
 "61aaef64405c0467",
 "07055242da5f01e7",
-"a2e8901b1ad7889f"
+"a2e8901b1ad7889f",
+"87d5cad99498095c",
+"c21e354ec628c1a0",
+"57639d1bbedb679e",
+"cf14153c169e90b7",
+"16453348d15095a6",
+"fb55caf6fff92834",
+"02e1d9a55cc6d91a",
+"14453f104135053a",
+"5f5a0569791a285a",
+"8725ab2f2066330f",
+"e064cea025da8091",
+"8a381903f79ba11a",
+"a61154faac68a849",
+"cd5bf9bfd872688d",
+"0fef0bc1864f99b6",
+"46acbf3fa190d722",
+"91bd65dd04975158",
+"9e624d40e7842b57",
+"6389025a0455fcea",
+"49558a934a50f4ab",
+"1070e3c89a239968",
+"7add9355fc4a315f",
+"19c1a186f1e14db7",
+"58d43c227fa5150c",
+"7a764e0cbe9e1a6e",
+"a41bdc606462e679",
+"8410d8aedc260d5f",
+"0bd4787cdb21f321",
+"3d6728cf5e9958d7",
+"6586097ceafb5ac1"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328875,
+"tg_offset": 706328876,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -19736,6 +19766,48 @@
 "мэдди",
 "ботов",
 "стрим"
+]
+},
+{
+"ts": 1795198271.4855917,
+"title": "Игроки GTA 6 обнаруживают спрятанное пасхальное яйцо GTA 5, которое оживляет тайну 13-летней давности",
+"url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHRUcl9QQV91ejFWSktFUUJRd1Q5akhFdjZHbnhKVkhPUHNXZ2dVdFplQWVZNjVVWC1PcWF1bzFzU1k3SXd1eHlCbDNPenljaHA3N0FuQXJ3VUI2ckFidDNwVDdidDhSaDRaUXhKaGE3OHc0WHFDdTFicjBsa1dVNFd3WWFxT0ZLaHByTjdtNFdqb0hudnBYcg?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "GAMINGbible",
+"score": 2,
+"kind": "news",
+"words": [
+"давно",
+"яйцо",
+"игрок",
+"котор",
+"тайну",
+"пасха",
+"оживл",
+"летне",
+"спрят",
+"обнар"
+]
+},
+{
+"ts": 1795198275.968418,
+"title": "Как исправить ошибку в GTA 6 Infinite Money?",
+"url": "https://insider-gaming.com/gta-6-infinite-money-glitch/",
+"tags": [
+"гайд"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/image_2026-11-05_151029562-1024x576.png",
+"source": "Insider Gaming",
+"score": 3,
+"kind": "news",
+"words": [
+"испра",
+"money",
+"infin",
+"ошибк"
 ]
 }
 ],
