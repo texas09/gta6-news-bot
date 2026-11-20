@@ -10651,7 +10651,31 @@
 "cb9a2e3ad0d67881",
 "5c1e30461ddf47df",
 "dc794d617164638b",
-"0e921dc538d8e58f"
+"0e921dc538d8e58f",
+"0d9d7c356ee6c15b",
+"0d9d7c356ee6c15b",
+"1d86408e91b30626",
+"303395382ffdd213",
+"94b9369e1d583c01",
+"4c78d73d7501fbe3",
+"e24ae96acda83e54",
+"7a6eafb649eab26e",
+"96a07e2453e424f8",
+"a8f2a4dfebd7cb32",
+"6e13b7b1e2afff21",
+"572f77811014387c",
+"9d94bda389c5b019",
+"40f09b8dbf281904",
+"fd1da1ff7715fc73",
+"ea0897c5302eeb4e",
+"c52c86e660d155b5",
+"e73d40188bf63e4d",
+"8075ac7962341eaa",
+"bc6e5dbb56e32c08",
+"89e5843a1d451acf",
+"1e4b880692072b48",
+"9754e45bfadc6e47",
+"15367c6c9fe1b0ca"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -19872,6 +19896,46 @@
 "words": [
 "время",
 "измен"
+]
+},
+{
+"ts": 1795203669.243391,
+"title": "23 лучших пасхальных яйца из GTA 6, найденных на данный момент",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iZXA0LU5IVTR4dHptenFIQ1JseHhuNDlLMzdJUEViUGt3S0VzNTFuTFM2SHgtUFNJMmhpczhJR2lUQlFMVGFzUEt2ZkpUbjRLUkkzQlBTN0JVYmJubWlyckdWLV9vNmlzYWZROS1B?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Yahoo News Singapore",
+"score": 2,
+"kind": "news",
+"words": [
+"яйца",
+"пасха",
+"момен",
+"найде",
+"данны",
+"лучши"
+]
+},
+{
+"ts": 1795203672.4730787,
+"title": "Руководство по GTA 6 — 10 самых быстрых машин и где их найти",
+"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQUV3aG9iYVJYbVBzb0s1QXFqTjIyb3B5WFhaTWt6b3RHQTVxZWZ2Ym5qZzdVMEN2Ml9nU3ZsWHVrTVZ3OEVQTldXb2g5WXFKWDFGLXNwVjJIN1ZKa2hCRmNyQVRVVjFEaGw5SV92N1pRd2IzdEt3c0JodmM3RTJTanZDYw?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "GamingBolt",
+"score": 2,
+"kind": "news",
+"words": [
+"найти",
+"где",
+"самых",
+"быстр",
+"машин",
+"руков"
 ]
 }
 ],
