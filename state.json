@@ -9265,7 +9265,49 @@
 "f5addb4afa98c183",
 "f26cc729faa4dd4f",
 "77893d7a59f69fb9",
-"688316acbcb03fa1"
+"688316acbcb03fa1",
+"152753c848bfb617",
+"73570dc81bfd8a1b",
+"15f81c7e7bfc1263",
+"1e96611fc74ce9d7",
+"6fe1873cbc01403e",
+"000c11c3c1e54f54",
+"234402948745a729",
+"44249eb5a6df9ac0",
+"2d7ee0330a8b9167",
+"8e9050caaa4c0770",
+"1d9ba243ffbca6d9",
+"813108a86834d0a3",
+"0e298dde34dc767f",
+"4cf2cf59df0996c7",
+"6424e462dfa4c398",
+"4c825afbf67f6244",
+"394a874385419e9e",
+"6633e617729bc1ca",
+"11e955edc8a2ac5a",
+"b6c50e15cd755144",
+"2d14149bf92f4c3c",
+"c0540ab3ca2ff42d",
+"c0540ab3ca2ff42d",
+"4d9f7a5cd57480e7",
+"a86780304bce10a9",
+"a86780304bce10a9",
+"34958c3e75457326",
+"f43865a507d21537",
+"2a35fa280f3400d9",
+"efd844838b8bb3c5",
+"9d95c8cae1f74628",
+"d4cea18ea01342ad",
+"53aa68e2753850a4",
+"cd98bb8a0c998c1e",
+"83a20cb678fbcf90",
+"bd08c2bf4412e9d7",
+"986426a6e93b5502",
+"986426a6e93b5502",
+"6e9480af676004e1",
+"9632e228bb4e4ef8",
+"08829858b3ff7156",
+"3056d6a9e9890e16"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -18405,6 +18447,212 @@
 "онлай",
 "игры",
 "тысяч"
+]
+},
+{
+"ts": 1795159908.9108322,
+"title": "Игроки в России массово арендуют PlayStation 5 ради запуска игры GTA VI",
+"url": "https://www.playground.ru/gta_6/news/igroki_v_rossii_massovo_arenduyut_playstation_5_radi_zapuska_igry_gta_vi-1892279#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/iFSTM0cV4G_4Qs4rp5rJqw.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"игры",
+"игрок",
+"запус",
+"росси",
+"plays",
+"ради",
+"аренд",
+"массо"
+]
+},
+{
+"ts": 1795159912.1181593,
+"title": "Саундтрек к «Grand Theft Auto VI», Грейси Абрамс, LISA, Tomorrow x Together и многое другое: Путеводитель по новой музыке в пятницу",
+"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0tsR19lNElBVktObFZsVGJzSk1BY3FLdTNmWjZBOHp2U05JM0tQbU9fUUlhRUtrQkZ5c2tqU05fX3JONGlTN0dFQWVidWd0OWNROGFISU1NVWhEYWdIQ0toRGxZb2Q1a1hUay0tUjFoZ0MyVW1HeVU1bnozUEkweFI4RktQeVF2VnY1RDQtX1NzQmFXckVYQ2Z1bV9ibEVrdDRGVFlVeWh0cTA0YWpPTQ?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Billboard",
+"score": 2,
+"kind": "news",
+"words": [
+"абрам",
+"tomor",
+"друго",
+"toget",
+"много",
+"пятни",
+"музык",
+"саунд",
+"lisa",
+"путев",
+"грейс",
+"новой"
+]
+},
+{
+"ts": 1795159915.3095107,
+"title": "Игроки GTA 6 научились запускать игру в 60 FPS с DLSS 5 через стриминг с PS5 на ПК",
+"url": "https://shazoo.ru/2026/11/20/194367/igroki-gta-6-naucilis-zapuskat-igru-v-60-fps-s-dlss-5-cerez-striming-s-ps5-na-pk",
+"tags": [
+"настройки"
+],
+"img": "https://cdn.shazoo.ru/892218_QnKfFxt_gta-6.jpg",
+"source": "Shazoo",
+"score": 3,
+"kind": "news",
+"words": [
+"ps5",
+"игрок",
+"игру",
+"запус",
+"научи",
+"dlss",
+"через",
+"fps",
+"стрим"
+]
+},
+{
+"ts": 1795159918.4907944,
+"title": "Полиция США напомнила фанатам GTA 6, что офицеры не NPC",
+"url": "https://shazoo.ru/2026/11/20/194389/policiia-ssa-napomnila-fanatam-gta-6-cto-oficery-ne-npc",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892262_MMwvfpf_gta-6.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"фанат",
+"полиц",
+"офице",
+"npc",
+"напом",
+"сша"
+]
+},
+{
+"ts": 1795159921.7353022,
+"title": "Почему все берут отгулы ради GTA-6 и чем опасно погружение в игру — мнение психолога из Екатеринбурга",
+"url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbFlHd0J1MWVMR3lYUmJxNFlLa1JBcW03X1FkbG9xLVBQMk5kNmZ2dFNJN3RWbTctMkJKZXJoY080YmV4dk9jQkdQNW9aRlJSRWFsdXNtX1p6Q1BNYWNwZFlFVjdkNWtWMGJKZlhLZ2hmSjJyVWtfZEJHa19yUDJuUzU0dlhlVFZKWjY2QXF1c3k5TEFKNUZiSmRiQjIwYlFfalpiX1o4NEJfYmlJRTJseUlqcUNBcGd0V2FmVF9WTkIwb2dtRmhwNkZNeGVBZzF1OVZITlNTVHhlSDRiVGNpclZR?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Европейско-Азиатские Новости",
+"score": 0,
+"kind": "news",
+"words": [
+"почем",
+"игру",
+"берут",
+"мнени",
+"психо",
+"опасн",
+"ради",
+"отгул",
+"погру",
+"екате",
+"чем"
+]
+},
+{
+"ts": 1795159924.9240212,
+"title": "Китай не продает GTA 6, но геймеры не могут остановиться и все равно не перестанут ее покупать",
+"url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNEtTbjg5anVzT0w2UUZZM1lmTnJwNnBINlhURVdXNERZVUoycDRTaXNWeDRnQVdrcWQ0RUNQZ18zMHlpUEdRVTNTV19UUEZfaXA4OENGVTNaNDhFTExwNER6d0xEUmZ1bWVZN2pZZFFZNnhhWl9LQmgwMnRNVUNyNU5vX1hZQml3Vmd3?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Business Insider",
+"score": 0,
+"kind": "news",
+"words": [
+"покуп",
+"остан",
+"перес",
+"прода",
+"китай",
+"могут",
+"гейме",
+"равно"
+]
+},
+{
+"ts": 1795159928.1272812,
+"title": "MotoGP в стиле GTA 6: пилоты и команды устроили перформанс в паддоке Гран-При Португалии",
+"url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdjVRbGZLMk5vSWduY0tVbjBTdW84VkhMNUVXcmxMZUpjeU9vc2FmYm9wNkdTbDlRaktEZ0lBcGxBWTBaNmdVQldRRGFDeGdJRWhhZjRtQnNhWmg0a29kVGlvV0tXWk1TUlBWNzZEbjA3R04zaWh4Z1ktN0R3NzhZaEhVLWZfZWY0NmNCRHVXTVlOX0NNb2JrcFlUUVNBeFdnWWRJVlBZQUo2aVVBWHVidUNETG40ekZEeGN2YkxKYzctVExlQTJtbFhpOA?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Motogonki.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"порту",
+"пилот",
+"перфо",
+"коман",
+"motog",
+"устро",
+"паддо",
+"гран",
+"стиле"
+]
+},
+{
+"ts": 1795159931.3172903,
+"title": "Хакеры слили актуальную версию GTA 6 в Сеть — для порта на ПК",
+"url": "https://www.championat.com/cybersport/news-6706580-hakery-slili-aktualnuyu-versiyu-gta-6-v-set-dlya-porta-na-pk.html",
+"tags": [
+"новости"
+],
+"img": "https://img.championat.com/news/big/h/b/hakery-slili-aktualnuyu-versiyu-gta-6-v-set-dlya-porta-na-pk_17951591021869545579.jpg",
+"source": "Чемпионат",
+"score": 1,
+"kind": "news",
+"words": [
+"слили",
+"сеть",
+"порта",
+"хакер",
+"актуа",
+"верси"
+]
+},
+{
+"ts": 1795159936.1816819,
+"title": "По данным аналитиков, более 2 млн игроков Xbox \"стали новозеландцами\", чтобы сыграть в GTA 6 пораньше",
+"url": "https://www.playground.ru/gta_6/news/po_dannym_analitikov_bolee_2_mln_igrokov_xbox_stali_novozelandtsami_chtoby_sygrat_v_gta_6_poranshe-1892295#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/uVK4fSHSFT_IbUnm8i6r_A.jpeg",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"xbox",
+"млн",
+"игрок",
+"более",
+"стали",
+"поран",
+"новоз",
+"сыгра",
+"чтобы",
+"данны",
+"анали"
 ]
 }
 ],
