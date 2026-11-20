@@ -10786,12 +10786,48 @@
 "2e8efa45033d3d95",
 "5961b8d4e068f8bf",
 "59eb687b10f95f68",
-"1a80e17b32d5c8f7"
+"1a80e17b32d5c8f7",
+"b8a44b9fe76d0291",
+"b8a44b9fe76d0291",
+"213c7ea00304667c",
+"096a51927a208637",
+"4c464cef5071ddf4",
+"b4254eaa7ad307e6",
+"5582017129ca9dbd",
+"5eae09a3e5b2ebc4",
+"b8f2d61c043128a9",
+"e7455bd2f128c91f",
+"e7455bd2f128c91f",
+"826c2219834b1d9d",
+"a28292bc38e7c8ce",
+"a04c3f04e1ad44f0",
+"98b207de992ddff8",
+"06b6c2580050ac20",
+"06b6c2580050ac20",
+"ebdc49b4ce7fbd1b",
+"75c08206d03db135",
+"a817eee719e478d1",
+"0ce635af28746358",
+"b6d9da903773e58a",
+"b447ab6225b01912",
+"31fef9dea6f7fb42",
+"9790d2960d2f1b65",
+"b218f686242c6013",
+"128c9b433a8d47d6",
+"b52a0095cb754c30",
+"0dec0dc36840477e",
+"dd4e906b225bd9a5",
+"368e39a242bac607",
+"7d22619377293ac5",
+"d77701f15be641ab",
+"11d30fef53882846",
+"4889d36a265e58b1",
+"7492cd6dbf9dbf0c"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328898,
+"tg_offset": 706328899,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -19975,6 +20011,241 @@
 "слуша",
 "автом",
 "радио"
+]
+},
+{
+"ts": 1795207809.356226,
+"title": "GTA 6: BuckMe объяснил, как положить наличные и использовать сберегательный счет",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUZYekM5OVdQa1dGS2JfVmhWMHlpZm5vd0JkTXQ4Rks1bXdoSG5haHdrUG5TWTRRMEZNR1RYaThaVnN3dkRZRXoyMVBOZzkzNERUekx0aHBBWkdfbER5cHQ2cXFCbUI2ajVrSGFLVk1hTEptbzIxSG95NXJMem5telZxYVhBYzg?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "space4games",
+"score": 2,
+"kind": "news",
+"words": [
+"полож",
+"налич",
+"испол",
+"buckm",
+"сбере",
+"счет",
+"объяс"
+]
+},
+{
+"ts": 1795207813.7210011,
+"title": "GTA 6 устанавливает еще больше рекордов",
+"url": "https://www.gamespot.com/articles/gta-6-sets-even-more-records/",
+"tags": [
+"новости"
+],
+"img": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6Circana.png?w=300",
+"source": "GameSpot",
+"score": 1,
+"kind": "news",
+"words": [
+"больш",
+"рекор",
+"еще",
+"устан"
+]
+},
+{
+"ts": 1795207816.9014556,
+"title": "В GTA 6 нашли книгу о стрелке из Red Dead Redemption 2, и она связывает обе серии в одну вселенную",
+"url": "https://shazoo.ru/2026/11/20/194424/v-gta-6-nasli-knigu-o-strelke-iz-red-dead-redemption-2-i-ona-sviazyvaet-obe-serii-v-odnu-vselennuiu",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892351_opN0r3V_gta-6.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"стрел",
+"серии",
+"red",
+"книгу",
+"нашли",
+"dead",
+"вселе",
+"redem",
+"связы",
+"обе",
+"одну"
+]
+},
+{
+"ts": 1795207820.0563607,
+"title": "Измените эти настройки, если хотите, чтобы GTA 6 выглядела как старая GTA",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWC1hOEZZQ1VYNWdUQjB5am82QUg4eHVyNWNxWWo2cTRPcmszTmhIaFRxV3ppWjVOTkZOU2tWeVh0cnNCcEtKeXVSdkprZlludHlyQkgzRHRkRk1zY1R3M0lGbE0xMXppYnNsc0ZLZDU2VUdENl94dUhxb1RQN2Zkd01wYWFlMTZqU1FvaTVkdHp2S2JzbTUzUHVB?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "Engadget",
+"score": 2,
+"kind": "news",
+"words": [
+"стара",
+"настр",
+"измен",
+"чтобы",
+"хотит",
+"если",
+"выгля",
+"эти"
+]
+},
+{
+"ts": 1795207823.5137708,
+"title": "Игроки GTA 6 столкнулись с загадочным сбоем игры",
+"url": "https://www.polygon.com/gta-6-crash-ps5-error-code-ce-108255-1/",
+"tags": [
+"новости"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-lucia-with-guns.jpg",
+"source": "Polygon",
+"score": 1,
+"kind": "news",
+"words": [
+"столк",
+"загад",
+"сбоем",
+"игры",
+"игрок"
+]
+},
+{
+"ts": 1795207827.0438116,
+"title": "Grand Theft Auto 6 побила рекорды продаж за один день",
+"url": "https://insider-gaming.com/grand-theft-auto-6-breaks-sales-records-in-one-day/",
+"tags": [
+"новости"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/GTA-6-Police-Chase.jpg",
+"source": "Insider Gaming",
+"score": 1,
+"kind": "news",
+"words": [
+"день",
+"прода",
+"побил",
+"один",
+"рекор"
+]
+},
+{
+"ts": 1795207830.2169092,
+"title": "Руководство по гонкам дронов в GTA 6: все 42 трассы Top Fun, номинальное время и четыре игровые видеоигры",
+"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZF80X3hTNDAxMk9JdlVuTTRyUmhhaE9wdm5fRldlWXJXLVlEejBsRVRZREpHYTJyMWVzdVptbFBPaUZGRC1XS2ZfSUJ3NFJjQnU5QjJLNnV5Z1F1cmJSNklWSUZMLWlaU2szWTlLYXl0T2VjMFVyT0VUQjJkZldKTkdDTXR2Sm5ZWGZmeVhtT19VendXbzhta3lna0Y0VENwSm1nT3pyUEdKU2RqdnRZ?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "eGamers.io",
+"score": 2,
+"kind": "news",
+"words": [
+"время",
+"четыр",
+"гонка",
+"руков",
+"top",
+"fun",
+"видео",
+"номин",
+"трасс",
+"игров",
+"дроно"
+]
+},
+{
+"ts": 1795207834.4780955,
+"title": "Подкаст: Глубокое погружение в GTA 6 с Джеффом Герстманном",
+"url": "https://www.videogameschronicle.com/blog/podcast/podcast-gta-6-deep-ish-dive-with-jeff-gerstmann/",
+"tags": [
+"новости"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/Jeff-Gerstmann-GTA-6.jpg",
+"source": "VGC",
+"score": 1,
+"kind": "news",
+"words": [
+"подка",
+"погру",
+"джефф",
+"герст",
+"глубо"
+]
+},
+{
+"ts": 1795207838.93683,
+"title": "Еще 35 000 учеников пропустили школу в Англии в день выхода GTA VI",
+"url": "https://rockstarintel.com/35000-more-students-missed-school-in-england-on-gta-vi-release-day/",
+"tags": [
+"новости"
+],
+"img": "https://rockstarintel.com/wp-content/uploads/2026/08/Vice_City_10-1024x576.jpg",
+"source": "Rockstar Intel",
+"score": 1,
+"kind": "news",
+"words": [
+"учени",
+"пропу",
+"день",
+"000",
+"школу",
+"англи",
+"еще",
+"выход"
+]
+},
+{
+"ts": 1795207842.6851506,
+"title": "Когда увеличатся лимиты BuckMe в GTA 6? Банковское приложение, объяснение",
+"url": "https://insider-gaming.com/gta-6-buckme-limits-when-increase/",
+"tags": [
+"новости"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/d793d309-4f5b-4706-a6b2-bae5eaead8da-1024x576.png",
+"source": "Insider Gaming",
+"score": 1,
+"kind": "news",
+"words": [
+"лимит",
+"банко",
+"прило",
+"buckm",
+"когда",
+"объяс",
+"увели"
+]
+},
+{
+"ts": 1795207846.512706,
+"title": "21% сотрудников Rockstar работают в компании более 10 лет, что многое объясняет в рекордном запуске GTA 6.",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/",
+"tags": [
+"новости"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/e3fPzBmapimeiWj59SBAiQ-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 1,
+"kind": "news",
+"words": [
+"rocks",
+"рекор",
+"запус",
+"компа",
+"работ",
+"лет",
+"объяс",
+"сотру",
+"много",
+"более"
 ]
 }
 ],
