@@ -8797,7 +8797,16 @@
 "4698a6dca1610611",
 "6a04a4b99ed635bc",
 "c895401d44061d94",
-"2956096c4cec2a55"
+"2956096c4cec2a55",
+"398ddf0898d71a53",
+"a20185b0a4184a3e",
+"ea2986f0469eede0",
+"35cab3e44d14e05b",
+"a88fdcf8bb1920df",
+"43f4faf5839b34da",
+"0e876b627a1052ef",
+"4189478fc9f33538",
+"3fd52edf4afe72b1"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -8805,127 +8814,6 @@
 "tg_offset": 706328725,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794963710.8634586,
-"title": "\"Майами Хит\" представила баскетбольную площадку в стиле GTA 6",
-"url": "https://www.playground.ru/gta_6/news/majami_hit_predstavila_basketbolnuyu_ploschadku_v_stile_gta_6-1891643#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"img": "https://i.playground.ru/e/BabxykMcMIuT3f2m6uKC6w.png",
-"source": "PlayGround.ru",
-"score": 1,
-"kind": "news",
-"words": [
-"баске",
-"предс",
-"майам",
-"стиле",
-"площа",
-"хит"
-]
-},
-{
-"ts": 1794963715.266003,
-"title": "Аналитик Newzoo ожидает, что Grand Theft Auto станет тяжелым годом для консольных игр: «без GTA 6 рынок консолей, скорее всего, в 2026 году упадет по сравнению с прошлым годом»",
-"url": "https://www.pcgamer.com/games/grand-theft-auto/newzoo-analyst-expects-grand-theft-auto-to-turn-around-a-rough-year-for-console-gaming-without-gta-6-the-console-market-would-likely-be-down-year-over-year-in-2026/",
-"tags": [
-"новости"
-],
-"img": "https://cdn.mos.cms.futurecdn.net/FNno9bDjnxEfqkvXjc3KzY-1920-80.jpg",
-"source": "cdn.mos.cms.futurecdn.net",
-"score": 1,
-"kind": "news",
-"words": [
-"анали",
-"newzo",
-"тяжел",
-"скоре",
-"году",
-"стане",
-"сравн",
-"прошл",
-"консо",
-"годом",
-"упаде",
-"ожида",
-"игр",
-"2026",
-"без",
-"рынок",
-"всего"
-]
-},
-{
-"ts": 1794963721.2757916,
-"title": "Rockstar опубликовала новые скриншоты уже вот-вот выходящей Grand Theft Auto 6",
-"url": "https://www.playground.ru/gta_6/news/rockstar_opublikovala_novye_skrinshoty_uzhe_vot_vot_vyhodyaschej_grand_theft_auto_6-1891646#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"img": "https://i.playground.ru/e/6B4TuY3kHza3E7Ex8YQ87A.png",
-"source": "PlayGround.ru",
-"score": 1,
-"kind": "news",
-"words": [
-"rocks",
-"новые",
-"опубл",
-"вот",
-"выход",
-"скрин"
-]
-},
-{
-"ts": 1794963724.4397206,
-"title": "Эксперты предупреждают, что драка в GTA VI может вызвать еще больший кибер-хаос и открыть дверь для мошенничества",
-"url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOEhMTzRpQThmc1dfd2lyMXRQTThYaUt4emVuNlhrY1lyNzB0aThVcXJDTTEzRnZMOFQyYkpYNlRPeTdlX2JwSTEzeDhVZ3JEWHZWcXdrYnFhN0lDQUZIRl9PVU13TVJydjc4ZGN6blZXNi1ZRmNoekFMYVItVnlhRXFwdHNxNlpUcGQtUVRYVHFIb21sMGlKcDJ2TmhWZTNLZnJlMVBSVlNWM3hvYUMwTGJMLWZqZkFF?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "New York Post",
-"score": 0,
-"kind": "news",
-"words": [
-"мошен",
-"больш",
-"хаос",
-"вызва",
-"экспе",
-"кибер",
-"преду",
-"еще",
-"может",
-"драка",
-"дверь",
-"откры"
-]
-},
-{
-"ts": 1794963731.7818553,
-"title": "Обзоры GTA 6 начнут появляться в 14:00 МСК - в одно время с релизом игры в Новой Зеландии",
-"url": "https://www.playground.ru/gta_6/news/obzory_gta_6_nachnut_poyavlyatsya_v_14_00_msk_v_odno_vremya_s_relizom_igry_v_novoj_zelandii-1891648#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"img": "https://i.playground.ru/e/w2qKHtvB1sHgt3X4QOmLmA.png",
-"source": "PlayGround.ru",
-"score": 1,
-"kind": "news",
-"words": [
-"одно",
-"начну",
-"мск",
-"новой",
-"время",
-"релиз",
-"обзор",
-"зелан",
-"появл",
-"игры"
-]
-},
 {
 "ts": 1794964869.6600852,
 "title": "Аферисты заработали 914 тысяч рублей на желании россиян поиграть в GTA 6",
