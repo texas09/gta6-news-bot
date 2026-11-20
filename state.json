@@ -10054,7 +10054,31 @@
 "e87d033da520e6e5",
 "f7fa8d107dbd5b7c",
 "c4dfc41cb9ec6db1",
-"d2cd7c8f4e8be0f1"
+"d2cd7c8f4e8be0f1",
+"a2a13863e928202d",
+"a2a13863e928202d",
+"55ea736cb695796d",
+"dff6fb25412cd1ab",
+"dff6fb25412cd1ab",
+"396976bee587e9ff",
+"ec06dcd9ad116027",
+"ec06dcd9ad116027",
+"26e7dfdb9e5e19f9",
+"a0b72260893aeba7",
+"bc62db61154e42e5",
+"727bd0e28e659838",
+"9dd539d94be1a271",
+"e5b6c059eaee5967",
+"8f5f0dd5b2cf1c4a",
+"ca396b4df7f10080",
+"04db76951fc2265f",
+"2cb431995cd2d51c",
+"a92a6a2fec6c999d",
+"f4b2f067c301788b",
+"d299d8eb4e30c712",
+"bb20b4b016dd3675",
+"22d5a66181e50c1d",
+"bc07726c8f6f671b"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -19211,6 +19235,49 @@
 "настр",
 "оптим",
 "специ"
+]
+},
+{
+"ts": 1795186915.2046921,
+"title": "Как зарегистрировать угнанные машины в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0RIdmZkR1dndVZLNVhXeVVrQjE2QzBjSFd2cmpZaHdSck1zWE5UMHlhTFppTzZnQ2xfdG5vWlZZd2tpQ3lHa3VKalpHbTd5UkFQMVV2ZHhSbkVKTmtDZFBsaWVhby1fLUNkaDdob1Z1VEUzQWdtdEVjeVV3XzBuZW8xbDQtdlk?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Yahoo Tech",
+"score": 2,
+"kind": "news",
+"words": [
+"зарег",
+"машин",
+"угнан"
+]
+},
+{
+"ts": 1795186918.3604386,
+"title": "В GTA 6 есть отсылка к трейлеру 1, которую легко не заметить, которая доказывает, что девушка в бикини никогда не была Люсией",
+"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqbVJja0NaSW5FOE5lV2NlSlNNc1dnOVp1YVZVRnpiQ01qanBuaDNJeDVxSlp3Vmx3dUVfeFVTTm0ybzNONUNkQVRRc2JUV3hkeDRiY2RFY1dFTFVFaFU2SmZINmZrdV9HT25IbEwzZlFRX2s?oc=5",
+"tags": [
+"трейлер"
+],
+"img": null,
+"source": "IGN",
+"score": 4,
+"kind": "news",
+"words": [
+"котор",
+"замет",
+"бикин",
+"никог",
+"есть",
+"люсие",
+"девуш",
+"трейл",
+"легко",
+"была",
+"отсыл",
+"доказ"
 ]
 }
 ],
