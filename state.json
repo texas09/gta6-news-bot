@@ -9517,7 +9517,13 @@
 "4c9bba219be0a0d0",
 "56f518afa3f253b8",
 "0b76f20c0da20be2",
-"17e3dfd5d4721477"
+"17e3dfd5d4721477",
+"8ea17a39bd425244",
+"98266c2d4a5d6c5e",
+"cdcbb9af00281ddf",
+"e708db835912785c",
+"13a10c924bc38506",
+"16cfdd01def1c8d4"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -18662,6 +18668,49 @@
 "зараб",
 "день",
 "милли"
+]
+},
+{
+"ts": 1795170801.2290258,
+"title": "Как включить автоматическое вождение в GTA 6: кинематографический вид, параметры скорости и многое другое",
+"url": "https://insider-gaming.com/how-to-enable-auto-drive-in-gta-6-cinematic-view-speed-options-and-more/",
+"tags": [
+"гайд"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/Jason_and_Lucia_11-scaled.jpg",
+"source": "Insider Gaming",
+"score": 3,
+"kind": "news",
+"words": [
+"вожде",
+"скоро",
+"друго",
+"много",
+"автом",
+"парам",
+"кинем",
+"включ",
+"вид"
+]
+},
+{
+"ts": 1795170805.674065,
+"title": "Как украсть скутер Пегги в GTA 6 — бесплатная машина в награду",
+"url": "https://insider-gaming.com/steal-peggys-scooter-gta-6-free-car-reward/",
+"tags": [
+"гайд"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/Jason_Duval-gta-6-grand-theft-auto-6-scaled.jpg",
+"source": "Insider Gaming",
+"score": 3,
+"kind": "news",
+"words": [
+"пегги",
+"украс",
+"награ",
+"беспл",
+"машин",
+"скуте"
 ]
 }
 ],
