@@ -9034,12 +9034,33 @@
 "478a78b1811201d5",
 "978ff2dc06892d23",
 "aeb9984469792dcc",
-"b49707ec2f2a9229"
+"b49707ec2f2a9229",
+"907ae33f74549ac2",
+"4e0ad5968c643ffd",
+"1834fc3959e411f4",
+"a55f6364fa46719c",
+"1e7eea0e87e466fa",
+"ac56e09fdd0e1c43",
+"11ec9dd1de84d8b4",
+"3d2f95ec2ec82550",
+"bbad1da29f09ec63",
+"2777da17dcbf7ff6",
+"3bee73eac8984d87",
+"9303e2d6d8ed2b2f",
+"7849d5a4d73d4bc7",
+"e5285258e200b64c",
+"68a904775a4c2a43",
+"52d14077dc1a9162",
+"de4e7396938241e3",
+"31d281847545b1c4",
+"1ba6045b9c8261e5",
+"0f764c5bafbf2a0b",
+"121875d78039a85f"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328735,
+"tg_offset": 706328741,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -18357,6 +18378,92 @@
 "шесть",
 "звезд",
 "красн"
+]
+},
+{
+"ts": 1795144267.5018048,
+"title": "ОБЗОР: GTA VI привносит совершенно новый стиль в ту же классическую серию",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWwzNV9vb3B5Vk5xaWVKWWVUNG1jZk10QkVocVNnYk0yOEFleERrQXIxQ0I4LTNaZUJ5Q3VEbWNoczVPSWhwckt1SUpkYVFvLURDTGdhazlUNUFWMUh6dlVpdnZfTmVXQlJrcXgzQzU3N291ZDVRdlF4d2ZLdUdDZzZva1JwNC1HMThCc2NCZFNqYkx3cWZMY1Jic1huelhFSGdjcEF0R3MxeENoY2h6Sl9KdXNtZw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "thesunflower.com",
+"score": 0,
+"kind": "news",
+"words": [
+"обзор",
+"новый",
+"серию",
+"привн",
+"совер",
+"стиль",
+"класс"
+]
+},
+{
+"ts": 1795144270.6382127,
+"title": "Как выход GTA 6 повлияет на экономику Северо-Западного Арканзаса",
+"url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ2RzU094MUhVakxiWlZLQ18xME5UNVU4dUJ3bldTVkJ0TTJIel9zTkhjTG1DZkNtZm1XbmRsUmZDUndRcDRzNVlnS2VPdjVYZ1FDVnU2WHJ0TXF5ZDlfcEN2b0VyUWI1Ym9zZm5wa21TMnlSczh1TTFLMi1sck9HLUttelVKelFzVFlPZ0p2QmlpdGZXbHhMOVhKWGhkWk1ITUdxaG9MbDA1dmxvOEYybDlhLWpJRzg2NGF2alFVV1FQT0xQXzRLTUFyM19BNWs1NjRVMlF6alhhT0Y0V0E?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "5newsonline.com",
+"score": 0,
+"kind": "news",
+"words": [
+"аркан",
+"эконо",
+"повли",
+"север",
+"выход",
+"запад"
+]
+},
+{
+"ts": 1795144273.8073835,
+"title": "Почему стоит поиграть в GTA: Vice City даже после GTA 6",
+"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ3N1aURVSjg2WE1VTGQ2bHNFeUdYYlVUbVc1c1hCRVp0Z1ZDMmJkSXpFSC1Xdk1aWGpoVlVOUXlSMHk4MnJCcmthbmFFUlhPMFg5ancwaHF3bUlRd3RXWW93OUdST3ZBUWR4Mm14MDJLQ0dzT0V4TlhDSWpZRGM0bFVQN3MzaWtCaE1NVkh5T0tLVnJ6cmNleHJKekhmQ202NV8yN1lGb1pTLThWUDJBeWtjNENjRVFWUkFrSA?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Igromania.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"vice",
+"даже",
+"после",
+"стоит",
+"поигр",
+"почем",
+"city"
+]
+},
+{
+"ts": 1795144280.2135007,
+"title": "По данным аналитиков, продажи GTA 6 составили 25 млн копий, что принесло более 2 млрд долларов",
+"url": "https://www.playground.ru/gta_6/news/po_dannym_analitikov_prodazhi_gta_6_sostavili_25_mln_kopij_chto_prineslo_bolee_2_mlrd_dollarov-1892259#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/mq5j-YxXzTp1yHxhnq5R0g.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"долла",
+"более",
+"прине",
+"прода",
+"млрд",
+"данны",
+"копий",
+"анали",
+"млн",
+"соста"
 ]
 }
 ],
