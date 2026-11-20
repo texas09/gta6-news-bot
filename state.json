@@ -10504,7 +10504,37 @@
 "6586097ceafb5ac1",
 "b7e92575fab12025",
 "df8a61aceedf8b75",
-"a27da00cfc1105da"
+"a27da00cfc1105da",
+"093f48d0f0c093c8",
+"093f48d0f0c093c8",
+"5a160f8fec476c7e",
+"f1e72d99c83e32b1",
+"1567001485fe3dce",
+"094cd5da9c19b7d0",
+"09941fbe58c18efc",
+"fb3e3470251ebc90",
+"d90e41e76270abe1",
+"639e4a3d6105a5e7",
+"7c58533529b9b6d0",
+"9b97c65fb2161bac",
+"b3cd3a028920ec0a",
+"93c4c35a6e88b0cc",
+"e4db1b9ee353d62c",
+"a930ac8bc80f1b52",
+"6af49afffddb1a49",
+"1391d835653ae147",
+"5c173b62029aabe8",
+"cc6c9f0b7217a67a",
+"72d93ba1721b2837",
+"4dfeed0ddd6557a9",
+"1802149396f0c6bf",
+"03b7309113cc9444",
+"254400902fc5a564",
+"c4a0e4e99d99e2ec",
+"810e4238251cae24",
+"19b730aa5f834b2f",
+"27a06b19e1cb5c6e",
+"691ee763e947ae62"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -10512,30 +10542,6 @@
 "tg_offset": 706328878,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795026705.6686306,
-"title": "GTA VI взломали в день релиза на новой прошивке PS5? Хакер заявил о первых успехах",
-"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMTd1aVE1VDFaTEFxall1SVJSVGlnQUQyWG1pS2d5enVWMmRDWjlyeGRxc3ExYkt2QmltQXFqajhmcnM0UWNPM1I4YzhkLXpBc2FFZVpwSlVHaXM2OFZXeE5HZExMQ3hrR01yRTFRemJaY0JOMnZ3TFVkOVNzcnRHM0VRd2RJMFV0d05Ic1BkclU5OC1IbVBNcG43bGRHWnVwX1RSVTMyWjQwazFMbGpyRzhzUzVXZVRDVVV0aDdR0gHDAUFVX3lxTE5FYmdVN3hMV040d3RkU1daY3U3SEVfTTlNeUpoTThGRG8tWVVDdWEtY3dCRVdxTUthUDZpcGF3SlJya3lTaVpJdE9xTklGU3BTWDNsczJvZjN2NmNKMm1GLTAyd2tfaUZxWko0Y2w5cmhnZFNNTFU3MWJKQmxMWG9kZlRTS3E0VmdYMWFKVTl5MVgyUTB1Mnh3UGE2TDBiRnNBSXhHQ1VmVWhhdldfZG0ya2pXekZNYTZqc1loeFBHcm1HUQ?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "iXBT.games",
-"score": 3,
-"kind": "news",
-"words": [
-"релиз",
-"успех",
-"ps5",
-"хакер",
-"первы",
-"проши",
-"новой",
-"день",
-"заяви",
-"взлом"
-]
-},
 {
 "ts": 1795026709.2985685,
 "title": "Как получить Слим Джима в GTA 6",
@@ -19739,12 +19745,52 @@
 "infin",
 "ошибк"
 ]
+},
+{
+"ts": 1795199511.9997952,
+"title": "В GTA 6 обнаружили несколько вариантов прохождения одной из первых погонь с полицией",
+"url": "https://www.playground.ru/gta_6/news/v_gta_6_obnaruzhili_neskolko_variantov_prohozhdeniya_odnoj_iz_pervyh_pogon_s_politsiej-1892500#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"гайд"
+],
+"img": "https://i.playground.ru/e/QvXgWTiRoDimieY-kua65g.png",
+"source": "PlayGround.ru",
+"score": 3,
+"kind": "news",
+"words": [
+"обнар",
+"прохо",
+"полиц",
+"одной",
+"неско",
+"первы",
+"погон",
+"вариа"
+]
+},
+{
+"ts": 1795199515.1541793,
+"title": "GTA 6: Как переключаться между Джейсоном и Люсией",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRF9vRFMyUV94WUU2OFkxbWcwNzlEanJWeVp3SFR4d3AtXzNWaWtYSGUzMlVXbWFFdUJubG8wVjZfX1h3SWRieC12RkRpQVZfT0VyQ0k5cFZ0bVcwUEwtQXA0RXNaMlRsYk1jeW9vNnVjb0tTVVF5LXpBd2NtS3k3ZDJn?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Rock Paper Shotgun",
+"score": 2,
+"kind": "news",
+"words": [
+"джейс",
+"перек",
+"люсие",
+"между"
+]
 }
 ],
 "digest_date": "2026-11-20",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-20",
-"viral_checked": 1795191772.251209,
+"viral_checked": 1795199518.1544425,
 "viral_ts": [
 1795123295.82305,
 1795123300.01039,
