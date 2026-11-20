@@ -9928,7 +9928,22 @@
 "9cdcbfb59e2a7375",
 "f1a6af21d262866b",
 "8681b850a7119251",
-"80c6abbab26d6f00"
+"80c6abbab26d6f00",
+"a775014c023a5f47",
+"c390b64722d2299a",
+"2c42f862166f1734",
+"1ebfbc4abcc4aedd",
+"13d7a91a77a1d3ac",
+"2409d6aafae75843",
+"0ea3b33f46803053",
+"b842cb348d89712c",
+"8b7baebe7dfa792c",
+"bdf4a0182875f7c7",
+"1755ad4ae2dcc28d",
+"7250a5a790afdcb4",
+"1c7fb1154a9e9ebb",
+"05d34c2430728d83",
+"bf0eb30833652994"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -9936,57 +9951,6 @@
 "tg_offset": 706328837,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795011076.242005,
-"title": "Производительность GTA 6 Xbox Series S: как самая слабая консоль справляется с самой масштабной игрой всех времен?",
-"url": "https://www.ign.com/articles/gta-6-xbox-series-s-performance",
-"tags": [
-"настройки"
-],
-"img": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-missions-1794996224895.jpg",
-"source": "IGN",
-"score": 3,
-"kind": "news",
-"words": [
-"самой",
-"всех",
-"масшт",
-"serie",
-"самая",
-"игрой",
-"консо",
-"произ",
-"справ",
-"слаба",
-"xbox",
-"време"
-]
-},
-{
-"ts": 1795011079.4382114,
-"title": "Еще одно обновление для PS5 вышло перед GTA 6, и Sony заявляет только «исправления безопасности».",
-"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94N3hWaE81T0lzNWl6WGtCMkN6VWJGVDdWcXNrRnZRNWxndEV5dXhTUVBvLUhEbVU1aTFOYnA2Und0VzMteUFTV2dFQ0tzd3RFMU03YUpldXR6MHBjdWc3WDNnSTZ6WmdSbFRpa2Ywb3J1UQ?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "MakeUseOf",
-"score": 3,
-"kind": "news",
-"words": [
-"безоп",
-"sony",
-"вышло",
-"обнов",
-"тольк",
-"испра",
-"перед",
-"заявл",
-"еще",
-"ps5",
-"одно"
-]
-},
 {
 "ts": 1795011083.4836128,
 "title": "GTA 6 никогда не получит обновление со скоростью 60 кадров в секунду на PlayStation Pro, поскольку оно «недостаточно мощное»",
@@ -19134,12 +19098,54 @@
 "списо",
 "спосо"
 ]
+},
+{
+"ts": 1795183884.0420175,
+"title": "Как проникнуть на военную базу в GTA 6 — расположение аэродрома «Нулевая миля»",
+"url": "https://insider-gaming.com/military-base-gta-6-mile-zero-air-station/",
+"tags": [
+"гайд"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261120133126-scaled.jpg",
+"source": "Insider Gaming",
+"score": 3,
+"kind": "news",
+"words": [
+"аэрод",
+"военн",
+"распо",
+"миля",
+"прони",
+"нулев",
+"базу"
+]
+},
+{
+"ts": 1795183888.0184455,
+"title": "Как пройти Brooks Boatworks в GTA 6 — объяснение местоположения безопасного кода",
+"url": "https://insider-gaming.com/gta-6-brooks-boatworks-location-and-safe-code/",
+"tags": [
+"гайд"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/fbb98e26-553b-4c38-9e75-010e9289fac3-1024x576.png",
+"source": "Insider Gaming",
+"score": 3,
+"kind": "news",
+"words": [
+"объяс",
+"boatw",
+"пройт",
+"место",
+"brook",
+"кода",
+"безоп"
+]
 }
 ],
 "digest_date": "2026-11-19",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-19",
-"viral_checked": 1795176157.2051537,
+"viral_checked": 1795183891.0187047,
 "viral_ts": [
 1795123295.82305,
 1795123300.01039,
