@@ -9430,7 +9430,49 @@
 "f934cf0b0f0eab8a",
 "cdc32382b3749b5c",
 "6b0d658fe4bbf92c",
-"6b7a13c9de068e04"
+"6b7a13c9de068e04",
+"6d6eed2b14bd58ba",
+"7a7775b1988bc1d6",
+"d36b5caf227f2c83",
+"cf8c785fc2ef3b91",
+"6e957f5d55ebbd8a",
+"11299020faf5a6f9",
+"b13a0d3d96d69517",
+"bab48e308d21b8b6",
+"fadf994191709afa",
+"319cb71c36c28b7d",
+"3604bc76c8a564c7",
+"0a2153af4b504988",
+"0fc758ba83b42aee",
+"271ff0ce3c2d1508",
+"8bd188786fc2645c",
+"cf82a3cae4624aef",
+"618cc9f08339f796",
+"b08c66bc70983312",
+"fc35a79046bf13b3",
+"434c47cfe41834cf",
+"b119bd5f1d5e3125",
+"89058c94c3450b10",
+"89058c94c3450b10",
+"7f033d76f7382e78",
+"4460f0fd06cf18ce",
+"4460f0fd06cf18ce",
+"715cb8c66266267f",
+"305efb9f193783a4",
+"305efb9f193783a4",
+"8567e5eaec345cfb",
+"9e7cabc60746d966",
+"9e7cabc60746d966",
+"8877f74b4a1876fc",
+"2dec56a2dd630d5e",
+"a757608b2a816c1e",
+"ef85b7d5e74a59ea",
+"973e4ced8b176d08",
+"973e4ced8b176d08",
+"c92eb2795ec6a73b",
+"1593b60f788e6dac",
+"949692c6801d94c2",
+"54effae2bfa00e28"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -9438,49 +9480,6 @@
 "tg_offset": 706328797,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794995475.270623,
-"title": "Возрастной рейтинг GTA 6: маркировка ESRB и элементы управления PS5",
-"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TeThEZTB1Ylhlb19aUHY3RjhDZWgwOG1xWms2MGx5bDM3Mlo4YWpfSkwweWlhUkFlaFVENHNJQUhiX2pzMjZwSmp5MktucGlFcmQ2QXRtR1EyaTBfUjBqNXl1T0pnTkhBUWlOekkzT0U0djF1WkZQTkhB?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "NeoTeo",
-"score": 2,
-"kind": "news",
-"words": [
-"ps5",
-"рейти",
-"марки",
-"возра",
-"esrb",
-"управ",
-"элеме"
-]
-},
-{
-"ts": 1794995478.4812078,
-"title": "Когда появится трюк GTA 6 NZ? Вот как играть рано, но это сопровождается предупреждением",
-"url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPemozbUhneWZzOVRXOHZkTEo4YUhMbXJqX05IZGZxVm5LNnczeWlWWUhvOURsVXNTWmxwMC0wcGlqck1vbldDeGFIU3dKbWlMaUlyelpnUU45VVQ5dlZnaUdhaUhVUlUxVUk5RkdNR0dHYzFrbTF2YS1mNFVyeFdab2U0alVkYnlZZ2FoQ2tndUtlanFZUFhKVW9hLTh1d1dRaXZQMG1SbE1XUnRhb296N0ZyclFpR3VyVFE?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "PC Guide",
-"score": 2,
-"kind": "news",
-"words": [
-"вот",
-"когда",
-"преду",
-"появи",
-"сопро",
-"трюк",
-"рано",
-"играт"
-]
-},
 {
 "ts": 1794995481.673283,
 "title": "Геймеров PS5 предупредили об обновлении консолей перед запуском GTA 6",
@@ -18612,12 +18611,200 @@
 "графи",
 "физик"
 ]
+},
+{
+"ts": 1795168280.3704116,
+"title": "Rockstar в комментарии для игрового издания Kotaku: «GTA 6 не получит 60 FPS на PS5 Pro в будущем»",
+"url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdzRrSjRjMUI3M2dRSFQ2aU90YmV3bGdyNkxhcnhuVkxHMWd1ZkY2NHZpS3RHUVZudXBvSk1WR05YSlEzMWpsN0VqVGNSSk54dzVpR2lUb0E3Q2F1YkExMGl0T2JaUHd1S1RGMlg2UlhWSWJHWjdDVVpLVG90OGdiS1YyckhnNEEwMkJRZmJEWUdTU1BWUTRWSjRJR1hONjFGSGkwb0VEWkZaM082VFU1alRDOE1rSUh3YUJkTTlMWVJzUlFfMEtKYnFqMjdnTkFsVWZ1cGVTWTZ0T21oekFTUGoyQmZGT1ZyZGJSMUVZTjRzR2duRF9IUy1hSU9hRDg?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "sport-express.ru",
+"score": 2,
+"kind": "news",
+"words": [
+"будущ",
+"pro",
+"комме",
+"fps",
+"получ",
+"игров",
+"rocks",
+"ps5",
+"kotak",
+"издан"
+]
+},
+{
+"ts": 1795168283.56896,
+"title": "Интернет-трафик во всем мире установил рекорд — вы знаете, кто виновен в этом",
+"url": "https://www.goha.ru/internet-trafik-vo-vsem-mire-ustanovil-rekord-vy-znaete-kto-vinoven-v-etom-dQYP0M",
+"tags": [
+"новости"
+],
+"img": "https://images.goha.ru/E:BE/iD/zHRBgR4QcB.jpg",
+"source": "GoHa.Ru",
+"score": 1,
+"kind": "news",
+"words": [
+"устан",
+"интер",
+"рекор",
+"кто",
+"этом",
+"трафи",
+"винов",
+"мире",
+"знает",
+"всем"
+]
+},
+{
+"ts": 1795168286.7556329,
+"title": "Чтобы получить шесть звёзд розыска в GTA 6, придётся стать настоящим психопатом",
+"url": "https://shazoo.ru/2026/11/20/194365/ctoby-polucit-sest-zvezd-rozyska-v-gta-6-pridetsia-stat-nastoiashhim-psixopatom",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892243_AzzV0Dy_hxfkxqzx0aapczl.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"стать",
+"придё",
+"получ",
+"звёзд",
+"чтобы",
+"насто",
+"шесть",
+"розыс",
+"психо"
+]
+},
+{
+"ts": 1795168289.9557076,
+"title": "Вы упоролись, какая GTA 6 на Switch 2? Digital Foundry «очень сомневается» в вероятности релиза на этой приставке",
+"url": "https://www.goha.ru/vy-uporolis-kakaya-gta-6-na-switch-2-digital-foundry-ochen-somnevaetsya-v-veroyatnosti-reliza-na-etoj-pristavke-lOmPG9",
+"tags": [
+"новости"
+],
+"img": "https://images.goha.ru/E:Mb/qo/SRk23Chz56.jpg",
+"source": "GoHa.Ru",
+"score": 1,
+"kind": "news",
+"words": [
+"очень",
+"упоро",
+"found",
+"какая",
+"сомне",
+"релиз",
+"вероя",
+"этой",
+"прист",
+"digit",
+"switc"
+]
+},
+{
+"ts": 1795168293.137557,
+"title": "Команда Battlefield 6 подколола релиз Grand Theft Auto 6 роликом с «сервером» Vice City Conquest и 30 Гц",
+"url": "https://www.goha.ru/komanda-battlefield-6-podkolola-reliz-grand-theft-auto-6-rolikom-s-serverom-vice-city-conquest-i-30-gc-dpPaGM",
+"tags": [
+"новости"
+],
+"img": "https://images.goha.ru/E:CO/dH/84kAD1DYGn.jpg",
+"source": "GoHa.Ru",
+"score": 1,
+"kind": "news",
+"words": [
+"серве",
+"релиз",
+"подко",
+"ролик",
+"battl",
+"conqu",
+"city",
+"коман",
+"vice"
+]
+},
+{
+"ts": 1795168299.6785326,
+"title": "Battlefield 6 потроллила GTA 6 из-за 30 FPS: разработчики анонсировали шуточный режим Vice City Conquest",
+"url": "https://www.playground.ru/battlefield_6/news/battlefield_6_potrollila_gta_6_iz_za_30_fps_razrabotchiki_anonsirovali_shutochnyj_rezhim_vice_city_conquest-1892327#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"настройки"
+],
+"img": "https://i.playground.ru/e/YvUfn3GK2L6CVAFDzHSrjQ.jpeg",
+"source": "PlayGround.ru",
+"score": 3,
+"kind": "news",
+"words": [
+"fps",
+"потро",
+"battl",
+"conqu",
+"city",
+"шуточ",
+"анонс",
+"разра",
+"режим",
+"vice"
+]
+},
+{
+"ts": 1795168302.880385,
+"title": "Rockstar объяснила, почему в GTA 6 впервые с 2001 года нет проституток",
+"url": "https://shazoo.ru/2026/11/20/194349/rockstar-obieiasnila-pocemu-v-gta-6-vpervye-s-2001-goda-net-prostitutok",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892191_7C2ksNL_gta-6.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"вперв",
+"почем",
+"rocks",
+"года",
+"объяс",
+"2001",
+"прост",
+"нет"
+]
+},
+{
+"ts": 1795168306.7266078,
+"title": "По оценкам, GTA 6 было продано около 25 миллионов копий и заработало 2,36 миллиарда долларов в первый день.",
+"url": "https://www.videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest/",
+"tags": [
+"новости"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/gta-grand-theft-auto-6-pic04.jpg",
+"source": "VGC",
+"score": 1,
+"kind": "news",
+"words": [
+"прода",
+"первы",
+"оценк",
+"долла",
+"около",
+"копий",
+"зараб",
+"день",
+"милли"
+]
 }
 ],
 "digest_date": "2026-11-19",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-19",
-"viral_checked": 1795161078.1224735,
+"viral_checked": 1795168309.7268388,
 "viral_ts": [
 1795123295.82305,
 1795123300.01039,
@@ -18625,5 +18812,5 @@
 1795131141.0244575
 ],
 "group_id": -1003664956927,
-"group_checked": 1795146638.4189403
+"group_checked": 1795168240.5341332
 }
