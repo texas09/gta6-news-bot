@@ -9238,7 +9238,13 @@
 "77784fe2e5ef1d4d",
 "107238bfc2c03d59",
 "d81195923af48919",
-"c839e2c15ceb27ab"
+"c839e2c15ceb27ab",
+"35a5b68263b611f4",
+"6217126b9edf137f",
+"e802035d9339f6e7",
+"823a61c1d2a7770c",
+"2be6114db1c4ad18",
+"3d801f9098502932"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -9246,134 +9252,6 @@
 "tg_offset": 706328775,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794984072.702308,
-"title": "Видео: Ожидание GTA 6 почти подошло к концу",
-"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RVWd0ZWdhLUwxUEJMSnZ2eDhGblFNRU1pZUF2QUthckc2MTN0dFJRMzM0SXJPLUEyTi1Pck80RXAtc0ZMaVZ4dEh5elI2Z2ZwMmhKSzFjMTAzNFl4X01yZG1YRHBSWmY1V0twcllSd3pKVEVuVmVJ?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "livetube.tv",
-"score": 0,
-"kind": "news",
-"words": [
-"концу",
-"почти",
-"подош",
-"ожида",
-"видео"
-]
-},
-{
-"ts": 1794984075.897189,
-"title": "Раскрыты кастомные пластины PS5 Pro для GTA 6, но Sony их вам не продаст — фанаты раскритиковали Rockstar",
-"url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWxRZjVSS1ZLWmxIdlFKR3ZXVS1XazhYWXB4NE9zUDVCZ29DMHprdnpwU0phM2ZkbVZRRXBDdnhLeHBsZHZkQllaVTIwYm1VTGRzTVhxVUtOS0lueGtTVjZBdUdBSjMydnRXV1duMFNMeFJIQklSeFAyTkhoVU9LMWRJU3dCczlQLWdLTUp3Zm1paXcxX2dyenlDUDJWak8wMmpNc01NaWlTSm1kUkdmWVd4bzFfTkVSRG9LVndUdWlGYmZCX0ZFOFRn?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Notebookcheck",
-"score": 0,
-"kind": "news",
-"words": [
-"pro",
-"раскр",
-"вам",
-"прода",
-"касто",
-"sony",
-"фанат",
-"пласт",
-"ps5",
-"rocks"
-]
-},
-{
-"ts": 1794984079.1824865,
-"title": "Zelda против GTA 6: ноябрьские распродажи",
-"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVFyYWVlZ0pWTFdvVGR4WVpBOUQ0ZEdZUHVKTHIzejEwUmx1OUVEUjAxNWZSdmZRckJhTklsRWhvUzdZVzlQWHBUR084cFlsSWhzTUNWcGNLMFdFVHhzaEVhTWVfTjNaQkxOVjl2ODh6ckZOSzRmS21sb3g2Y1hZLUtobDhtN3dD?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "조선일보",
-"score": 0,
-"kind": "news",
-"words": [
-"распр",
-"ноябр",
-"проти",
-"zelda"
-]
-},
-{
-"ts": 1794984082.3719842,
-"title": "Sony выпустила обязательное обновление системы PS5 для игроков GTA 6, что вызвало общественную реакцию",
-"url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMm5xbndfcHFFUGtyZHhQOUE0VjFCQ2FOaG9zTldMcXdaR0lXanZqOEQtSFBLVUw1ZWZnMmtfYUlHWDVOQ1ZIZVpsMkFUTzhGM0pZZno3TDA2ZFNpUWNSbW5MR2ZoYlJmbkhzaFFzZmFvSjc0UjBiRlR2dmpING9OdXpnRk5obGRnRmhFeko4NzZIZGZONi1zTEJJOUZ1RXdaN21YUjBBY1JhTVRpMV9BTkJsdld3d0xDdWtiTmtiS1FEWG9QSHpPbFJHTQ?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "autoevolution",
-"score": 3,
-"kind": "news",
-"words": [
-"общес",
-"обяза",
-"реакц",
-"выпус",
-"обнов",
-"вызва",
-"систе",
-"игрок",
-"sony",
-"ps5"
-]
-},
-{
-"ts": 1794984085.5544555,
-"title": "Второй патч GTA 6: что нам говорит загрузка Xbox",
-"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDI1a0NVYndxYlBMQ3VTa0R2YXFjeERBdmJlVmFYaTV4VnhMRkZGQk5WY2NoYXFSR3VCUlRpcGlmMEhEUkh6WTJGT0E3dnZjamNqU2pqaFA2NXRLVE5xdzAyQXlfNWtjUF9kX0NxRFl3LVhlU2l3U19zSEN4QlFVN0RsUEo4ZzNwa1N6dmV2VmJlbTVtUGc?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "NeoTeo",
-"score": 3,
-"kind": "news",
-"words": [
-"второ",
-"патч",
-"нам",
-"загру",
-"xbox",
-"говор"
-]
-},
-{
-"ts": 1794984668.0519161,
-"title": "GTA VI заработала более 1,5 миллиардов долларов еще до того, как в нее кто-то сыграл",
-"url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWVNLQU5uWWNEMGNFZUVLZF8zWVl6ZDRmMWpBMlQ1THZlTG54VkJCSENaai1Kd244MndJazdadVN3dVBxdnVyRmZjdDFSTUhzVEMwX05kVHpCSllwZm9kVWZ2QUF6aXRCVS1kVFJxb1FPbExRTlJtMW05Ri1vUEpsX09jdUZyX3U3b3N0dDlNTXVLNE8zcm5QUXpWZ2hqdzNLYkZHMlBTcXk3eUVMX0RkNlRmMlEwNV9qOEtCU1E3RjRjSmpaeC1KdDVTSURUNzBCQmI0cVlLa20yZmpRM2lfRnliNmtZQ2JMYWRxRw?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "news8000.com",
-"score": 0,
-"kind": "news",
-"words": [
-"милли",
-"более",
-"сыгра",
-"еще",
-"кто",
-"долла",
-"того",
-"зараб",
-"нее"
-]
-},
 {
 "ts": 1794985865.6809022,
 "title": "Фонбет разыграет PS5, GTA VI и фрибеты по 20 000 ₽",
