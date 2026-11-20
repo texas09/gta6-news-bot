@@ -10930,7 +10930,25 @@
 "183b37ef86a42876",
 "2931f2e9e8076d60",
 "2931f2e9e8076d60",
-"f53b5d761a3f89fd"
+"f53b5d761a3f89fd",
+"37425639260d47f1",
+"3f709846d6404eca",
+"8fb5a07addbe6c10",
+"c531b21100d43c68",
+"2a4b1a7c82c3a156",
+"43180717bc5d1852",
+"f2a2fc9a986b6c93",
+"6416c61f35b300f6",
+"88dcbcb70a26d327",
+"e025112f1986232c",
+"8b483ae9475596e3",
+"a6c707ce5ddaea82",
+"4fcc147fbb707c97",
+"4ac0938c97d4dc9e",
+"0e75b399284a3491",
+"41ecd4b4459f4d9d",
+"73252634be93c064",
+"704c20960dc24fd9"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -20441,17 +20459,129 @@
 "zuch",
 "suppo"
 ]
+},
+{
+"ts": 1795215068.699519,
+"title": "Лучшие настройки прицеливания и контроллера для GTA 6",
+"url": "https://insider-gaming.com/gta-6-best-aim-controller-settings/",
+"tags": [
+"настройки"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/10/GTA6Screen2.webp",
+"source": "Insider Gaming",
+"score": 3,
+"kind": "news",
+"words": [
+"настр",
+"лучши",
+"прице",
+"контр"
+]
+},
+{
+"ts": 1795215071.851987,
+"title": "Я нашел всех 60 птиц в GTA 6: путеводитель по дикой природе Вайс-Сити для орнитологов",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb25TUkJoX2NyYVI1VGdlZ1pnbmlnLWlrTUU3SnhyemdZNTVwVGY0S0FleUZYVUlYc0lscVFGYUJUb0R3Rzl6M1FLWUw4REpTbGhTblpNcGI1VHljY3BUN0sxUUhnVks2d0F5NHlDYVpvZnRhNzYxS2RoNFNFOGtOVDd6dzM?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "National Audubon Society",
+"score": 2,
+"kind": "news",
+"words": [
+"сити",
+"нашел",
+"орнит",
+"вайс",
+"птиц",
+"приро",
+"путев",
+"всех",
+"дикой"
+]
+},
+{
+"ts": 1795215075.1429303,
+"title": "Прохождение миссии «Утренний забег» в GTA 6",
+"url": "https://www.videogameschronicle.com/guide/gta-6-breakfast-run-walkthrough/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-breakfast-run-walkthrough-4.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"утрен",
+"прохо",
+"забег",
+"мисси"
+]
+},
+{
+"ts": 1795215079.8993623,
+"title": "Я выжил 100 часов в GTA 6",
+"url": "https://youtu.be/ymCHX_Dcc-U",
+"tags": [
+"видео"
+],
+"score": 2,
+"kind": "viral",
+"img": null,
+"source": "MrBeast Gaming",
+"words": [
+"часов",
+"выжил",
+"100"
+]
+},
+{
+"ts": 1795215083.7170553,
+"title": "МОЙ ПЕРВЫЙ ДЕНЬ В ВАЙС-СИТИ | ГЕЙМПЛЕЙ GTA 6 #1",
+"url": "https://youtu.be/169ZzvPxvvM",
+"tags": [
+"видео"
+],
+"score": 2,
+"kind": "viral",
+"img": null,
+"source": "Techno Gamerz",
+"words": [
+"геймп",
+"сити",
+"первы",
+"мой",
+"вайс",
+"день"
+]
+},
+{
+"ts": 1795215086.861148,
+"title": "ГТА 6: Неуязвимые зоозащитники?",
+"url": "https://youtube.com/shorts/WgKFuP55CS4",
+"tags": [
+"видео"
+],
+"score": 2,
+"kind": "viral",
+"img": null,
+"source": "i11ushenka",
+"words": [
+"зооза",
+"неуяз"
+]
 }
 ],
 "digest_date": "2026-11-20",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-20",
-"viral_checked": 1795207273.3967614,
+"viral_checked": 1795215078.143198,
 "viral_ts": [
-1795123295.82305,
-1795123300.01039,
-1795123303.1496847,
-1795131141.0244575
+1795131141.0244575,
+1795215079.8993616,
+1795215083.7170541,
+1795215086.8611474
 ],
 "group_id": -1003664956927,
 "group_checked": 1795212075.6042967
