@@ -9148,7 +9148,19 @@
 "311728e53a2cd30e",
 "9c7b975d0bbfcb8d",
 "b2ab76a0671c0252",
-"1bc876934de03d0a"
+"1bc876934de03d0a",
+"d0f458e15834b44b",
+"c85a4b4e5021d8a6",
+"8f4e9dffdf6ca241",
+"61acb0a006a2241f",
+"ebc208d561fa04ac",
+"fc066b4d2628e10d",
+"01fd9f866f608d19",
+"150147fa5d774cdd",
+"6a2c5d5dd30481f8",
+"4725e750dd10c099",
+"4725e750dd10c099",
+"86f49c4cff533c03"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -18280,6 +18292,52 @@
 "эконо",
 "меняе",
 "сущес"
+]
+},
+{
+"ts": 1795151490.3132672,
+"title": "Элементы управления GTA 6 для PS5 и Xbox: назначение всех кнопок, о которых сообщается",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcm9UYW5FWnVhLXQ5R2FKTndwMkRKUEp3WkRid1ZWVTE1TlR4SWdhakxJMmV0UmlydDIxdldteE9XU250QlB0RTRGMjlmb2JDN1ZGcmNOSV9ScXpSNU5kajlOaXNBdEY4c3ZPNjdGV2JBSXduRzkxNk5VS3pzekRBaGktcVhXOXUy?oc=5",
+"tags": [
+"настройки",
+"слухи"
+],
+"img": null,
+"source": "eGamers.io",
+"score": 3,
+"kind": "news",
+"words": [
+"xbox",
+"всех",
+"котор",
+"управ",
+"кнопо",
+"ps5",
+"сообщ",
+"элеме",
+"назна"
+]
+},
+{
+"ts": 1795151493.4936872,
+"title": "Рекомпилированную версию GTA 6 запустили на ПК — все меню работают, но геймплея пока нет",
+"url": "https://www.goha.ru/rekompilirovannuyu-versiyu-gta-6-zapustili-na-pk-vse-menyu-rabotayut-no-gejmpleya-poka-net-dJ0PJa",
+"tags": [
+"новости"
+],
+"img": "https://images.goha.ru/E:BB/ts/qfeG7TBcCJ.jpg",
+"source": "GoHa.Ru",
+"score": 1,
+"kind": "news",
+"words": [
+"реком",
+"пока",
+"работ",
+"запус",
+"геймп",
+"нет",
+"меню",
+"верси"
 ]
 }
 ],
