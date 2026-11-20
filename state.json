@@ -9235,12 +9235,15 @@
 "139737776e1cf58e",
 "14ed9aefc04fc76d",
 "4c8f981103d4b27b",
-"77784fe2e5ef1d4d"
+"77784fe2e5ef1d4d",
+"107238bfc2c03d59",
+"d81195923af48919",
+"c839e2c15ceb27ab"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328765,
+"tg_offset": 706328774,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -18558,6 +18561,35 @@
 "after",
 "relea",
 "long"
+]
+},
+{
+"ts": 1795156308.801498,
+"title": "После выхода GTA VI онлайн GTA V в Steam не упал, а вырос: более 136 тысяч человек одновременно играли в обе версии игры",
+"url": "https://www.playground.ru/gta_6/news/posle_vyhoda_gta_vi_onlajn_gta_v_v_steam_ne_upal_a_vyros_bolee_136_tysyach_chelovek_odnovremenno_igrali_v_obe_versii_igry-1892288#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/sXjU-nNdyx3JBnsq5NrJHA.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"верси",
+"выход",
+"после",
+"136",
+"более",
+"челов",
+"упал",
+"однов",
+"обе",
+"вырос",
+"steam",
+"играл",
+"онлай",
+"игры",
+"тысяч"
 ]
 }
 ],
