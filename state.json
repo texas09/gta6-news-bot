@@ -9472,79 +9472,20 @@
 "c92eb2795ec6a73b",
 "1593b60f788e6dac",
 "949692c6801d94c2",
-"54effae2bfa00e28"
+"54effae2bfa00e28",
+"2c84269b6842d0cb",
+"4f36d91512620eb3",
+"df781f0388f1e85d",
+"47ea573a0e3909c1",
+"36eb84fd477a2c97",
+"f024322b2c4db7f9"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328797,
+"tg_offset": 706328805,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794995481.673283,
-"title": "Геймеров PS5 предупредили об обновлении консолей перед запуском GTA 6",
-"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5X21yTVV3Sy1ZUHNJTjk3M3V4U0Q4VHpodXRLMHJZWE9YNWxmd2xLWnhlN1NZT0kxOFhWaEZGWnNXSzA4cDFRcWlGSVR0cDI4eVdnSWsxUExhNHJVSTMwNA?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "The Big Lead",
-"score": 3,
-"kind": "news",
-"words": [
-"ps5",
-"перед",
-"консо",
-"преду",
-"гейме",
-"запус",
-"обнов"
-]
-},
-{
-"ts": 1794995485.8546276,
-"title": "Обновления акций PS5 Pro: Где купить консоль Sony для «ГТА 6» (не переплачивая)",
-"url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ncWRGLVFRVUFqM3BHWUpIdTkwSExuMzItLXE5ZldVeGpYSUFEajloSV95ZWx2SWU3aHBfUjBFZWdNR01hVUVLczQwM2ozTjNwcnNSbGw1UUZMRVNJWk9wTnF3?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "Mashable",
-"score": 3,
-"kind": "news",
-"words": [
-"ps5",
-"где",
-"переп",
-"pro",
-"акций",
-"консо",
-"sony",
-"купит",
-"обнов"
-]
-},
-{
-"ts": 1794995489.0542789,
-"title": "Будет ли GTA 6 в Xbox Game Pass при запуске? Все, что вам нужно знать.",
-"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sZlBxQnA0c19nVXFvN3lqTmJ4RWRSR1RlZ2h3M3ZFeDQzR2IzWEJLTFlUbm5HOUhWQVZVOG5WM3I3MEZTclVwdFdENmV4bjhMcV9Ub2RZYVFNd21jZFVSOGlDVjlJRzcxb1FrR3dwTWxhSVRfN1E?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Mashable",
-"score": 0,
-"kind": "news",
-"words": [
-"знать",
-"pass",
-"вам",
-"game",
-"запус",
-"нужно",
-"xbox"
-]
-},
 {
 "ts": 1794996664.2618718,
 "title": "PS5 получает третье обновление системного программного обеспечения за месяц, прямо перед выходом Grand Theft Auto 6.",
