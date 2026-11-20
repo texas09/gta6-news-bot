@@ -9085,7 +9085,13 @@
 "d400084604981cb7",
 "a2354fed756e5e23",
 "88ae07ceefcd0f4a",
-"4729e264ad065a42"
+"4729e264ad065a42",
+"41641b3d0991f98b",
+"c389ece2e69db5ac",
+"464f8da86d58ea8e",
+"9510be8199a9eb14",
+"f2cee2dfbe62ce0d",
+"91e3a4db755cb674"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -9093,103 +9099,6 @@
 "tg_offset": 706328745,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794973271.183723,
-"title": "\"Глупо, зато смешно\": автор The Binding of Isaac не побоялся выпустить DLC в день релиза GTA 6",
-"url": "https://www.playground.ru/binding_of_isaac/news/glupo_zato_smeshno_avtor_the_binding_of_isaac_ne_poboyalsya_vypustit_dlc_v_den_reliza_gta_6-1891654#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"обновление"
-],
-"img": "https://i.playground.ru/e/D7rt4ztXyAtEXPXeXWRhxg.jpeg",
-"source": "PlayGround.ru",
-"score": 4,
-"kind": "news",
-"words": [
-"глупо",
-"релиз",
-"dlc",
-"смешн",
-"автор",
-"зато",
-"isaac",
-"день",
-"выпус",
-"побоя",
-"bindi"
-]
-},
-{
-"ts": 1794973276.022589,
-"title": "\"Милый аутсайдер\" между Zelda и GTA 6: авторы симулятора тануки не боятся титанов индустрии",
-"url": "https://www.playground.ru/tanuki_pons_summer/news/milyj_autsajder_mezhdu_zelda_i_gta_6_avtory_simulyatora_tanuki_ne_boyatsya_titanov_industrii-1891655#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"img": "https://i.playground.ru/e/fopbhdw-Rj36074xf2v1fQ.jpeg",
-"source": "PlayGround.ru",
-"score": 1,
-"kind": "news",
-"words": [
-"автор",
-"титан",
-"танук",
-"аутса",
-"индус",
-"симул",
-"zelda",
-"между",
-"боятс",
-"милый"
-]
-},
-{
-"ts": 1794973279.2049134,
-"title": "Новое приложение для ПК повышает частоту кадров в GTA 6 на PS5 с 30 до 60 кадров/с, но за это приходится платить",
-"url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNU1gxUlVoMWQtZ2lWZkNWMmIxS3hzOGRteTdqN0pJTm1LVUd3VF9ub191VHRQRy1iaTJBcU80RWs3alBaY3ZPazE3VTJ2VkhpbDF0VWtkMlF4eUxLUHVtS05tT1J5NHlIbk9YNTEzYTRHSlpxRXFjWDl5SEk4aGhsMGFURWF2MFpEd0JxMDZWenYyaGdrMHhxcC13ejYwZTVSbUM0NnJOS0RhVU94VE1jWVk4dGF5MFd0WDZWY3VRSmRKMTlZeU1wcl9YVmFFaS1IM1poVlcxZ3Fjd0tFczA5Q0x5QVUzOWZQaTNOTXRpMXRxY3hwWktMVg?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Notebookcheck-ru.com",
-"score": 0,
-"kind": "news",
-"words": [
-"часто",
-"кадро",
-"прило",
-"прихо",
-"новое",
-"повыш",
-"ps5",
-"плати"
-]
-},
-{
-"ts": 1794973282.3989692,
-"title": "Проверка фактов: ФАЛЬШЕВОЕ письмо Rockstar Games утверждает, что дата выхода GTA VI перенесена на 2027 год",
-"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb2ZTRjdGejRXaWZTNWRJUlI0STBYc2RqTWNmZ0hNemtpcE9aNVpfdjEwcVpCTXJPcVBEVTZ0dW1QYTZkaXJKelVYUTdPTGt1c0EzZ3BHRE8yeXRZOFZIUDRaT1dPMVlTeTdlNmhUREVVdTBQczBVSnZtRldRaHlYcVZmck93YnBLUGtRUw?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Yahoo Tech",
-"score": 0,
-"kind": "news",
-"words": [
-"утвер",
-"письм",
-"перен",
-"rocks",
-"год",
-"прове",
-"выход",
-"фальш",
-"2027",
-"games",
-"дата",
-"факто"
-]
-},
 {
 "ts": 1794975668.9657073,
 "title": "Фотосессия GTA 6 продолжается — крутые Лусия и Джейсон на новых скриншотах шепчут вам: «Уже скоро»",
@@ -18354,5 +18263,5 @@
 1795131141.0244575
 ],
 "group_id": -1003664956927,
-"group_checked": 1795124437.7652595
+"group_checked": 1795146638.4189403
 }
