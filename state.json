@@ -9070,7 +9070,22 @@
 "0910a162ffdd1aab",
 "4e27adac77570e58",
 "ccbfa2fa99fa9548",
-"290558cea8d2f6f0"
+"290558cea8d2f6f0",
+"6fa59d79ca9ef80d",
+"218ed915a65bf371",
+"ca88997e4bf9f85d",
+"bd6941eb5a36427f",
+"b999b6acffb221f6",
+"e6ff3b3bd08982cc",
+"430080d28bc02af0",
+"5a0074114c59d1ed",
+"1d3fdc1df72f30a5",
+"0fae09cdcf43ddac",
+"3c1d5f8a29e867fa",
+"d400084604981cb7",
+"a2354fed756e5e23",
+"88ae07ceefcd0f4a",
+"4729e264ad065a42"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -9078,31 +9093,6 @@
 "tg_offset": 706328745,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794973264.269252,
-"title": "Обзоры GTA 6 должны опубликовать сегодня, с релизом в Новой Зеландии — плюс наконец раскрыли «Лусию",
-"url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQamxSQVBkeUhBU0FlbFBpVEZNSTVjM0xzbmtEbEFVWUc3eGl6NWl6aXAyZXFUbWlZM3VBT2g4NExKX0R4dnZoV1JvWV9HdDBZUkhHN0xJal9zNDVmX1VDUjFoeXc0LWR6azJiLXRIbEtISnVZRWZaQ1VFZW4zTnRRSGs2SHZUbVM4eC1XWE5FWndlOFBaejNuQ1l1SW40OEdwSzQyTW5QTlFicXJLOEpJMWZSUzdzemNLandyZlVHeWt1SU0yNXBCeFBabjBkWDRBMDBFS05Vdw?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Игромания",
-"score": 0,
-"kind": "news",
-"words": [
-"релиз",
-"сегод",
-"лусию",
-"раскр",
-"должн",
-"новой",
-"зелан",
-"плюс",
-"опубл",
-"обзор",
-"након"
-]
-},
 {
 "ts": 1794973271.183723,
 "title": "\"Глупо, зато смешно\": автор The Binding of Isaac не побоялся выпустить DLC в день релиза GTA 6",
@@ -18356,7 +18346,7 @@
 "digest_date": "2026-11-19",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-19",
-"viral_checked": 1795138863.7982798,
+"viral_checked": 1795146065.287035,
 "viral_ts": [
 1795123295.82305,
 1795123300.01039,
