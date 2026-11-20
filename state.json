@@ -9202,7 +9202,10 @@
 "cdb80177501dd0f5",
 "907c86c38d15133c",
 "1858aa97f8cba113",
-"64a115b8a351cc9d"
+"64a115b8a351cc9d",
+"c4374acbc6d10cfc",
+"21f089ae2e6d61dd",
+"6481a135763afb6b"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -9210,29 +9213,6 @@
 "tg_offset": 706328765,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794981064.416288,
-"title": "Sony предлагает обязательное обновление безопасности для PS5 за два дня до запуска GTA 6",
-"url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYZnZtSTBrdjNhdlpVY3VBUUNDa0JKc3dWVVNjd3pQbVMtUGpaQ0FybDFNTUlOX2JDc1ZCZlFFOHBETl90VERZRU9OR2pBcE1nQVlpbm8wN3doOGVFT0Z4dHBUVmxRZWpT?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "GodisaGeek.com",
-"score": 3,
-"kind": "news",
-"words": [
-"обяза",
-"обнов",
-"sony",
-"безоп",
-"предл",
-"ps5",
-"два",
-"дня",
-"запус"
-]
-},
 {
 "ts": 1794981714.6291127,
 "title": "Спортсмены требуют выхода GTA VI, но настаивают на том, что повседневная работа стоит на первом месте",
@@ -18453,7 +18433,7 @@
 "digest_date": "2026-11-19",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-19",
-"viral_checked": 1795146065.287035,
+"viral_checked": 1795153868.2362418,
 "viral_ts": [
 1795123295.82305,
 1795123300.01039,
