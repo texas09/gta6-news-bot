@@ -9337,7 +9337,13 @@
 "85080f1b7f73402a",
 "b9c18d3e797207b9",
 "24607db31b700d05",
-"671436cd9cf2be77"
+"671436cd9cf2be77",
+"a0c0c151cbb5fabc",
+"b06ff292ea491199",
+"ba2392a09b8d8cdc",
+"231a4ca814239cba",
+"4c2db3820dcc53da",
+"bc6ad9cc1b7dd101"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -9345,95 +9351,6 @@
 "tg_offset": 706328785,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1794989567.1510868,
-"title": "Это конец! Купил Sony PlayStation 5 Pro, чтобы поиграть в GTA 6 в 30 кадров. Обзор и видеообзоры",
-"url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSEtNU3dBenVGMi1GYkNrZUlUOEJoX1BOdWt6QUwxS2tZQUZsbTVaSTVwMUpmZFdqS1dNX3RJbDU2OERHeG9Ya01yMEl0cHNjeVpqaHl1eTY3WmVXb2NCNFZIei16ZnRTMC1Pb25MNndzOXB4czIza2lEWUM2SE1kalBCQVVxYzR1Z25yVHJ0LUNZY0VkRUVicHJBQjY2LTQtWS05RWIzUWNBYXdDbWVvd2ZzdE96UGs5eGdmN3c1LXpfeVdZUXfSAcsBQVVfeXFMTlJoblZySnNmOTZNQVNXT2Niemh6VWJDZEY1cE4zSkNULU1oRWNOZFNlY3pjMFpFSlZnbUZHSDlvMmtlZGZYdWt2bWxWVFNNOWRVZlNFTi1XT25HZlJFTWJOZXp2N09lbVJ4b3E3MjVoY25GOXZhSkhjbDVsOTVpRjgwd2RFZWpiU1JqU0dNNm1nQTB6Y0F6M1h6dGRGTUVpYkx2akRtdUJ1ZVVuT1dKRVNQYUZXcVVBRm1wNDZ4Ym9wamxyQlhZTHl0TWs?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "iXBT.com",
-"score": 0,
-"kind": "news",
-"words": [
-"видео",
-"чтобы",
-"pro",
-"купил",
-"кадро",
-"sony",
-"конец",
-"plays",
-"обзор",
-"поигр"
-]
-},
-{
-"ts": 1794989570.4247007,
-"title": "GTA V и GTA VI: как изменился Якутск за это время?",
-"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GZWF4cEY0SkpzU1hpNUVleG92b050RjU2TElESTZEOExoRU1oeXZ1UVoxZ0tmVk11TEFWMk44OEVKdTRvdFpISTZaVVVjcDRmS2ViVDBVZldZLXJzdDJMNEVRakE1M1liMC1VSGZCYXNJc28?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Ykt.Ru",
-"score": 0,
-"kind": "news",
-"words": [
-"время",
-"измен",
-"якутс"
-]
-},
-{
-"ts": 1794989573.663553,
-"title": "Обратный отсчет до выхода GTA 6 начался. Вот всё, что вам нужно знать о самом громком релизе в мире игр",
-"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWhGZlJTd3ZpZG0yZEt1bVptQktDZWV5WGR6ZlV2VGZPMXJMelBuanJGRkFZR2pZczBKbHFPdlhfdEpjV3JyVlNaYlMtWGlsZW9NZkFLVlFjMnk0Q2VPZHRlQkFJVWotYXFhWjUxSThmc1RyTTRRU1BKOWtKMU00VlU5VXM2TzR2?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Yahoo Finance UK",
-"score": 0,
-"kind": "news",
-"words": [
-"нужно",
-"обрат",
-"громк",
-"игр",
-"начал",
-"вот",
-"самом",
-"выход",
-"всё",
-"вам",
-"релиз",
-"знать",
-"мире",
-"отсче"
-]
-},
-{
-"ts": 1794989576.8865788,
-"title": "Музыка из GTA 6: Justice, Pusher и песня из трейлера к релизу",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FZXlTaHhnZGYwNmZDZzlLelQxSFg5Ykk0dkxkazBkUEpmTTg2TWZ5NHVPQjlnUF83cEJmRF9MQmwwMUdJdnVlTVpBZXZyVGVtTUlDWEZpVFJKN0lsYXZRNk92VEw1QTU5aHhOUE53?oc=5",
-"tags": [
-"трейлер"
-],
-"img": null,
-"source": "MNEEMO",
-"score": 4,
-"kind": "news",
-"words": [
-"песня",
-"трейл",
-"музык",
-"justi",
-"релиз",
-"pushe"
-]
-},
 {
 "ts": 1794991549.0021396,
 "title": "GTA 6 получила предрелизный патч с изменениями AMD FSR 4.1.2 для Xbox Series X и S",
