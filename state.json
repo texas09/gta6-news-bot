@@ -10787,12 +10787,48 @@
 "5961b8d4e068f8bf",
 "59eb687b10f95f68",
 "1a80e17b32d5c8f7",
+"a0c2b7df93983e20",
+"df0e6a686989a087",
+"a9225626c768fb51",
+"caaec79ca6ead8d5",
+"513167f413612f06",
+"8f6b83478adcfda4",
 "b8a44b9fe76d0291",
 "b8a44b9fe76d0291",
 "213c7ea00304667c",
+"cd4543e931568658",
+"f10057712affef3d",
+"c559914c1aaa18df",
+"616431d08ceec824",
+"691073e78ef30fb1",
+"a4a9da33e2c99a31",
+"749ef8cc5c95baa7",
+"119be4b2af29eaa8",
+"8793271712afea10",
+"19b00a85af3f3af3",
+"3d699d7e2290abfc",
+"4dd84f9d26100df0",
+"adf6f718998d5f20",
+"adf6f718998d5f20",
+"03dbd90f69952458",
+"90c17085388d2b94",
+"90c17085388d2b94",
+"e17def2737018737",
+"6cd4dbfb91865e06",
+"2a04c183c4bab7ba",
+"0a38bdaa452f4580",
+"108dd5c83ace8296",
+"b78e68dfe1f56ec7",
+"e91b522e8d95b182",
+"80abf3973ed0bd5a",
+"80abf3973ed0bd5a",
+"b67b05188ca0c18c",
 "096a51927a208637",
 "4c464cef5071ddf4",
 "b4254eaa7ad307e6",
+"6766fc053b6222f7",
+"579f707d18504a35",
+"96ce5d6475fb6137",
 "5582017129ca9dbd",
 "5eae09a3e5b2ebc4",
 "b8f2d61c043128a9",
@@ -10822,42 +10858,17 @@
 "d77701f15be641ab",
 "11d30fef53882846",
 "4889d36a265e58b1",
-"7492cd6dbf9dbf0c"
+"7492cd6dbf9dbf0c",
+"c722985bd7410f55",
+"4f933fe078721fd6",
+"b3c94f4abed59bbc"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328899,
+"tg_offset": 706328910,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795035080.699349,
-"title": "GTA 6 запускает живой блог: новости, анонсы, Twitch Drops, советы и каждое обновление, которое выйдет завтра",
-"url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeEVobHFTTUFVcFhOQWRyOGRiYmFwZ3pvT3JMZjgwdmZJS2hPU1JvR2Q4cFlNNnF1ekdCelVoNjNrSnZpbTZuZ3gyQm9OVnIxRW55YWF1aEotLTQ2SUVEMDRSNGRBbTVFOUJ1T0hVZlNiN1NTNWFEY0JuaFo3dWNhLWVlQWp0UHFjbDZOcVp4NWFvaGxOc2oxaDZfa2p1dmRMandHU3VLc2dTOEtWNXprUUxKVHR1bDhvRnBIWHAyZWotTFUxN21Z?oc=5",
-"tags": [
-"обновление",
-"гайд"
-],
-"img": null,
-"source": "PCMag UK",
-"score": 5,
-"kind": "news",
-"words": [
-"совет",
-"новос",
-"анонс",
-"завтр",
-"блог",
-"каждо",
-"twitc",
-"котор",
-"обнов",
-"выйде",
-"запус",
-"drops",
-"живой"
-]
-},
 {
 "ts": 1795036292.2172604,
 "title": "GTA VI не получит апдейт с поддержкой 40/60 fps, заявила Rockstar",
@@ -20014,7 +20025,106 @@
 ]
 },
 {
-"ts": 1795207809.356226,
+"ts": 1795207915.6219342,
+"title": "В GTA 6 нашли шляпу Артура Моргана из Red Dead Redemption 2 – вот где её достать",
+"url": "https://shazoo.ru/2026/11/20/194387/v-gta-6-nasli-sliapu-artura-morgana-iz-red-dead-redemption-2-vot-gde-ee-dostat",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892338_7LFU7Ma_gta-6.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"dead",
+"нашли",
+"redem",
+"вот",
+"артур",
+"шляпу",
+"доста",
+"где",
+"морга",
+"red"
+]
+},
+{
+"ts": 1795207919.195688,
+"title": "Особенность: GTA 6 заставила меня захотеть быть хорошим парнем (или девушкой)",
+"url": "https://www.pushsquare.com/features/gta-6-made-me-want-to-be-a-good-guy-or-girl",
+"tags": [
+"новости"
+],
+"img": "https://images.pushsquare.com/3a3af65e117ed/large.jpg",
+"source": "Push Square",
+"score": 1,
+"kind": "news",
+"words": [
+"захот",
+"хорош",
+"меня",
+"парне",
+"девуш",
+"заста",
+"особе",
+"быть"
+]
+},
+{
+"ts": 1795207923.5342531,
+"title": "Тема для разговора: как часто вы готовы играть в игры со скоростью 30 кадров в секунду?",
+"url": "https://www.purexbox.com/features/talking-point-how-often-are-you-willing-to-play-games-at-30fps",
+"tags": [
+"новости"
+],
+"img": "https://images.purexbox.com/2394aff7420af/large.jpg",
+"source": "Pure Xbox",
+"score": 1,
+"kind": "news",
+"words": [
+"играт",
+"кадро",
+"тема",
+"игры",
+"скоро",
+"секун",
+"часто",
+"разго",
+"готов"
+]
+},
+{
+"ts": 1795207927.994084,
+"title": "Кредиты GTA 6 на самом деле включают «Флоридского Джокера», вирусную интернет-личность, которая однажды потребовала 10 миллионов долларов от Rockstar Games.",
+"url": "https://www.eurogamer.net/gta-6-credits-florida-joker-rockstar",
+"tags": [
+"новости"
+],
+"img": "https://assetsio.gnwcdn.com/gta-6-trailer-florida-joker.png?width=690&quality=85&format=jpg&auto=webp",
+"source": "Eurogamer",
+"score": 1,
+"kind": "news",
+"words": [
+"однаж",
+"лично",
+"деле",
+"самом",
+"котор",
+"джоке",
+"включ",
+"rocks",
+"games",
+"милли",
+"вирус",
+"флори",
+"интер",
+"креди",
+"долла",
+"потре"
+]
+},
+{
+"ts": 1795207931.127386,
 "title": "GTA 6: BuckMe объяснил, как положить наличные и использовать сберегательный счет",
 "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUZYekM5OVdQa1dGS2JfVmhWMHlpZm5vd0JkTXQ4Rks1bXdoSG5haHdrUG5TWTRRMEZNR1RYaThaVnN3dkRZRXoyMVBOZzkzNERUekx0aHBBWkdfbER5cHQ2cXFCbUI2ajVrSGFLVk1hTEptbzIxSG95NXJMem5telZxYVhBYzg?oc=5",
 "tags": [
@@ -20025,17 +20135,40 @@
 "score": 2,
 "kind": "news",
 "words": [
+"buckm",
 "полож",
+"сбере",
 "налич",
 "испол",
-"buckm",
-"сбере",
 "счет",
 "объяс"
 ]
 },
 {
-"ts": 1795207813.7210011,
+"ts": 1795207936.301225,
+"title": "Игроки GTA 6 недовольны системой хранения денег Джейсона и просят Rockstar её переработать",
+"url": "https://www.playground.ru/gta_6/news/igroki_gta_6_nedovolny_sistemoj_hraneniya_deneg_dzhejsona_i_prosyat_rockstar_eyo_pererabotat-1892515#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/CHXLOB2Gim6KlfAD50vUTA.webp",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"денег",
+"систе",
+"rocks",
+"хране",
+"игрок",
+"прося",
+"перер",
+"джейс",
+"недов"
+]
+},
+{
+"ts": 1795207939.4841847,
 "title": "GTA 6 устанавливает еще больше рекордов",
 "url": "https://www.gamespot.com/articles/gta-6-sets-even-more-records/",
 "tags": [
@@ -20047,13 +20180,13 @@
 "kind": "news",
 "words": [
 "больш",
-"рекор",
 "еще",
+"рекор",
 "устан"
 ]
 },
 {
-"ts": 1795207816.9014556,
+"ts": 1795207942.6371734,
 "title": "В GTA 6 нашли книгу о стрелке из Red Dead Redemption 2, и она связывает обе серии в одну вселенную",
 "url": "https://shazoo.ru/2026/11/20/194424/v-gta-6-nasli-knigu-o-strelke-iz-red-dead-redemption-2-i-ona-sviazyvaet-obe-serii-v-odnu-vselennuiu",
 "tags": [
@@ -20064,21 +20197,21 @@
 "score": 1,
 "kind": "news",
 "words": [
-"стрел",
-"серии",
-"red",
-"книгу",
-"нашли",
-"dead",
 "вселе",
-"redem",
-"связы",
+"dead",
+"нашли",
 "обе",
-"одну"
+"redem",
+"стрел",
+"одну",
+"книгу",
+"связы",
+"red",
+"серии"
 ]
 },
 {
-"ts": 1795207820.0563607,
+"ts": 1795207945.782051,
 "title": "Измените эти настройки, если хотите, чтобы GTA 6 выглядела как старая GTA",
 "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWC1hOEZZQ1VYNWdUQjB5am82QUg4eHVyNWNxWWo2cTRPcmszTmhIaFRxV3ppWjVOTkZOU2tWeVh0cnNCcEtKeXVSdkprZlludHlyQkgzRHRkRk1zY1R3M0lGbE0xMXppYnNsc0ZLZDU2VUdENl94dUhxb1RQN2Zkd01wYWFlMTZqU1FvaTVkdHp2S2JzbTUzUHVB?oc=5",
 "tags": [
@@ -20089,18 +20222,18 @@
 "score": 2,
 "kind": "news",
 "words": [
+"эти",
+"измен",
+"если",
+"хотит",
+"выгля",
 "стара",
 "настр",
-"измен",
-"чтобы",
-"хотит",
-"если",
-"выгля",
-"эти"
+"чтобы"
 ]
 },
 {
-"ts": 1795207823.5137708,
+"ts": 1795207948.9650962,
 "title": "Игроки GTA 6 столкнулись с загадочным сбоем игры",
 "url": "https://www.polygon.com/gta-6-crash-ps5-error-code-ce-108255-1/",
 "tags": [
@@ -20112,14 +20245,14 @@
 "kind": "news",
 "words": [
 "столк",
-"загад",
-"сбоем",
 "игры",
-"игрок"
+"игрок",
+"сбоем",
+"загад"
 ]
 },
 {
-"ts": 1795207827.0438116,
+"ts": 1795207952.2055135,
 "title": "Grand Theft Auto 6 побила рекорды продаж за один день",
 "url": "https://insider-gaming.com/grand-theft-auto-6-breaks-sales-records-in-one-day/",
 "tags": [
@@ -20130,15 +20263,15 @@
 "score": 1,
 "kind": "news",
 "words": [
-"день",
-"прода",
+"рекор",
 "побил",
+"прода",
 "один",
-"рекор"
+"день"
 ]
 },
 {
-"ts": 1795207830.2169092,
+"ts": 1795207955.4456708,
 "title": "Руководство по гонкам дронов в GTA 6: все 42 трассы Top Fun, номинальное время и четыре игровые видеоигры",
 "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZF80X3hTNDAxMk9JdlVuTTRyUmhhaE9wdm5fRldlWXJXLVlEejBsRVRZREpHYTJyMWVzdVptbFBPaUZGRC1XS2ZfSUJ3NFJjQnU5QjJLNnV5Z1F1cmJSNklWSUZMLWlaU2szWTlLYXl0T2VjMFVyT0VUQjJkZldKTkdDTXR2Sm5ZWGZmeVhtT19VendXbzhta3lna0Y0VENwSm1nT3pyUEdKU2RqdnRZ?oc=5",
 "tags": [
@@ -20150,20 +20283,20 @@
 "kind": "news",
 "words": [
 "время",
-"четыр",
-"гонка",
-"руков",
-"top",
 "fun",
-"видео",
 "номин",
-"трасс",
+"гонка",
+"четыр",
+"дроно",
 "игров",
-"дроно"
+"трасс",
+"top",
+"руков",
+"видео"
 ]
 },
 {
-"ts": 1795207834.4780955,
+"ts": 1795207958.770956,
 "title": "Подкаст: Глубокое погружение в GTA 6 с Джеффом Герстманном",
 "url": "https://www.videogameschronicle.com/blog/podcast/podcast-gta-6-deep-ish-dive-with-jeff-gerstmann/",
 "tags": [
@@ -20174,15 +20307,15 @@
 "score": 1,
 "kind": "news",
 "words": [
+"герст",
 "подка",
 "погру",
-"джефф",
-"герст",
-"глубо"
+"глубо",
+"джефф"
 ]
 },
 {
-"ts": 1795207838.93683,
+"ts": 1795207961.957815,
 "title": "Еще 35 000 учеников пропустили школу в Англии в день выхода GTA VI",
 "url": "https://rockstarintel.com/35000-more-students-missed-school-in-england-on-gta-vi-release-day/",
 "tags": [
@@ -20193,18 +20326,18 @@
 "score": 1,
 "kind": "news",
 "words": [
-"учени",
 "пропу",
-"день",
-"000",
 "школу",
-"англи",
+"выход",
+"000",
 "еще",
-"выход"
+"учени",
+"англи",
+"день"
 ]
 },
 {
-"ts": 1795207842.6851506,
+"ts": 1795207965.1911864,
 "title": "Когда увеличатся лимиты BuckMe в GTA 6? Банковское приложение, объяснение",
 "url": "https://insider-gaming.com/gta-6-buckme-limits-when-increase/",
 "tags": [
@@ -20215,17 +20348,17 @@
 "score": 1,
 "kind": "news",
 "words": [
+"buckm",
 "лимит",
+"увели",
+"когда",
 "банко",
 "прило",
-"buckm",
-"когда",
-"объяс",
-"увели"
+"объяс"
 ]
 },
 {
-"ts": 1795207846.512706,
+"ts": 1795207968.466904,
 "title": "21% сотрудников Rockstar работают в компании более 10 лет, что многое объясняет в рекордном запуске GTA 6.",
 "url": "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/",
 "tags": [
@@ -20236,16 +20369,38 @@
 "score": 1,
 "kind": "news",
 "words": [
-"rocks",
 "рекор",
+"более",
+"rocks",
+"работ",
+"много",
 "запус",
 "компа",
-"работ",
 "лет",
-"объяс",
 "сотру",
-"много",
-"более"
+"объяс"
+]
+},
+{
+"ts": 1795207972.7309895,
+"title": "Игроки громят GTA 6 на Metacritic: первые оценки игры - всего 4.9 балла из 10",
+"url": "https://www.playground.ru/gta_6/news/igroki_gromyat_gta_6_na_metacritic_pervye_otsenki_igry_vsego_4_9_balla_iz_10-1892553#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/K63Qnf0a5699EOO8kdIjTw.jpeg",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"оценк",
+"metac",
+"всего",
+"игры",
+"игрок",
+"балла",
+"первы",
+"громя"
 ]
 }
 ],
