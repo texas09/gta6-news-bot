@@ -10381,7 +10381,25 @@
 "8d018304527a7159",
 "2f73182e2aa3ba1a",
 "0a014ef8fb549a9e",
-"c8337bcdc5ffdbfc"
+"c8337bcdc5ffdbfc",
+"29464fcfefa87d3b",
+"29464fcfefa87d3b",
+"ae218b75a34fc74b",
+"aeeb2ebad3fd8fef",
+"521e9a27ef37c302",
+"fadfe2c772ef5708",
+"2476aeb8f4541cd6",
+"c2437a902fbe3c5a",
+"be10a90b11172a3a",
+"4ef08479d508dc3d",
+"9685935f8daef5c2",
+"7c4518104d6ff5d3",
+"f905236f8355fcfc",
+"91c7b5d58e9f85eb",
+"d38d29f60791d826",
+"aa3834de224f8499",
+"1517b6ddc26dbd29",
+"67bc07d425c42a06"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -10389,79 +10407,6 @@
 "tg_offset": 706328867,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795022503.3150685,
-"title": "GTA 6: Как продавать продвинутые машины-трекеры",
-"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pTHN2WFk3TG1HMUtyMDV3WF9IMzlXM1M4cVpsNzdGRFFSbkNWeHZ6UGhsa21OX0FoZTJaajFMMFlkZF96WjRhbmhlQXBqR19uY1FLLW52NGlBQ1NOMEJybERVVmM4VW5iYnRJQ3JRYmxoWVFnZlFYNQ?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "Cultured Vultures",
-"score": 2,
-"kind": "news",
-"words": [
-"треке",
-"продв",
-"прода",
-"машин"
-]
-},
-{
-"ts": 1795022506.5189471,
-"title": "GTA 6: как быстро путешествовать",
-"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYSml5Skx1ZTZVN0laV1BlOHBTTnVPOFR6YUM5cDFrME9KTmhRZWlXbnpMWHFhMXRhb0o0MkVuaGoxMFNxdkduMnl3UXVPTldJV085OUkwaUZ0THBfZzBLR0VaTnRPZw?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "ScreenRant",
-"score": 2,
-"kind": "news",
-"words": [
-"быстр",
-"путеш"
-]
-},
-{
-"ts": 1795022509.7101889,
-"title": "GTA 6: Как открыть банковский счет",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Vdnd4bmtpYlVSMlFtOTdva29EVVA4OEpZQ1VmLXVVTlc0X0Z6QUk4c3l5ZU9HcGJiM0RIbDZuaHh0XzRQbHktSW5nMkJDQ21fTkN3b2Y2WDFseWdfTUdHbmlYaHBFV0ItVFd5bk9Sbw?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "Cultured Vultures",
-"score": 2,
-"kind": "news",
-"words": [
-"счет",
-"банко",
-"откры"
-]
-},
-{
-"ts": 1795022513.191169,
-"title": "Я играл первые 30 минут в GTA 6 на каждой консоли, вот как сравнивается производительность",
-"url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWUxzSGFScExITFE4bHMwbHJSc0FpTWJMWFBnV1JaaUdmMmRoZm1RaVlfQ3dBVldYVm5fQkVwMWljby1vUnFHbWhQbTFvWjBLUnR6N3V1UUFnWFRWdVQ2ZHhkME5fN21HLThXWkItcE9hZWxOd0xYejR5X0hRSjhlNGxTZnk4LTBQa0ZGR3pPbDZtVy0xZTJLd3Z3NkRWRG9wb3k0Q25kNG53YVRSUmNUWnJYV0l1SDNkN21TSGpfYmxUc0Y0Z2xJVzJqQThlVS1LRTF1Ug?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "IGN Nordic",
-"score": 2,
-"kind": "news",
-"words": [
-"сравн",
-"минут",
-"консо",
-"произ",
-"играл",
-"каждо",
-"первы",
-"вот"
-]
-},
 {
 "ts": 1795024286.1319687,
 "title": "Руководство по зарабатыванию денег в GTA 6 — самые быстрые способы заработать деньги в GTA 6",
