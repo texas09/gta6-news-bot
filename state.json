@@ -9610,7 +9610,31 @@
 "9100c95fe8395499",
 "924befe9b9086528",
 "e884940e3f224ea2",
-"3f5e4b13d73b309b"
+"3f5e4b13d73b309b",
+"ed641044dfe3a093",
+"a5a5267bca6f402e",
+"de5b54bd9a9be525",
+"be3360f8f7772736",
+"3511e76ecaadc540",
+"5d9bbda3ab79e6c3",
+"d935ee59b117be51",
+"c1caf1e5dc3fa93f",
+"902180b898404e1c",
+"23b0765b6da42c01",
+"60840ed08a9060e8",
+"8024d7e7efb95d16",
+"314de56cd184a03d",
+"c0cf4dec8c6ac0dd",
+"8ab9edf762686e43",
+"7949007d33ca0858",
+"3c4563c27c77fa29",
+"c7bdf9d7cef44228",
+"920eac0cc02697ad",
+"09b714f649f32985",
+"77d59d8170b42df5",
+"788ab5836e20a945",
+"c5485725f20d0021",
+"96a377769855800c"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -9618,92 +9642,6 @@
 "tg_offset": 706328815,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795001511.4672868,
-"title": "99 очков у вас под рукой: GTA VI стала самой рейтинговой игрой 2026 года",
-"url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnJRZnlhUG5ZZ29SbkxEVUZMcXBPYVJpeG9wRWVwblNvdHRiRDZvTEF3Vy1pYnVtdUQ1eE1CRUkybTl4Vml6bUQ2alh1T29EZVhzZG50SGFQVnNvSTN3b2pVRzZvZHpULXQxRExvRlltdVpPSk9rbnhjLXpOYThMbGhzTjgteklGMHpTdVdGSXgxREVrRlJNWTU4Y0VHTWVTZ2xyVGVwamlPMzFXRi0yN1NIVm5zSnRSSjJIaElpMNIBxAFBVV95cUxPZVMyOWtnQTV6ZlplRWZpTVFRZVdpNGJScG9qNE1BOEQ1cjlCOVpGM215bTU4MFZXbWxKdVJnS2FvSkxBZU05SkpNT1FuOUdXV19IaThmc1JpdlktVXlDWjg4QWpqY3M3Qk1sTHZKS1hqYUtXeXIzdzMxeHdmd3hUQ2ZtMW9rbXd1cFl3OTZxMDZRRXFKNnhKMFVoNkxqSWtGYmZrS2hIX18xblBJOGtIMElVN1pBblJNS1p6ejc0QnZhT1dp?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "iXBT.games",
-"score": 2,
-"kind": "news",
-"words": [
-"самой",
-"2026",
-"года",
-"стала",
-"рейти",
-"вас",
-"игрой",
-"очков",
-"рукой",
-"под"
-]
-},
-{
-"ts": 1795001517.4821467,
-"title": "Rockstar официально подтвердила: в GTA 6 не добавят режимы 60 или 40 FPS даже на PS5 Pro",
-"url": "https://www.playground.ru/gta_6/news/rockstar_ofitsialno_podtverdila_v_gta_6_ne_dobavyat_rezhimy_60_ili_40_fps_dazhe_na_ps5_pro-1891755#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"настройки"
-],
-"img": "https://i.playground.ru/e/I2aufFQFVlkdJ2oHO6YFqA.jpeg",
-"source": "PlayGround.ru",
-"score": 3,
-"kind": "news",
-"words": [
-"fps",
-"режим",
-"офици",
-"подтв",
-"rocks",
-"добав",
-"даже",
-"ps5",
-"pro"
-]
-},
-{
-"ts": 1795001522.0145662,
-"title": "Есть ли в Grand Theft Auto 6 фоторежим? Как использовать Photo Studio, объяснение",
-"url": "https://insider-gaming.com/does-gta-6-have-photomode-photo-studio-how-to/",
-"tags": [
-"гайд"
-],
-"img": "https://insider-gaming.com/wp-content/uploads/2026/11/9d3bab81-f14a-47e5-934e-209973780dda-1024x576.png",
-"source": "Insider Gaming",
-"score": 3,
-"kind": "news",
-"words": [
-"studi",
-"испол",
-"фотор",
-"есть",
-"photo",
-"объяс"
-]
-},
-{
-"ts": 1795001526.0405147,
-"title": "Полный список трофеев GTA 6 — как получить все трофеи и достижения",
-"url": "https://insider-gaming.com/complete-gta-6-trophy-list-how-to-get-all-trophies-achievements/",
-"tags": [
-"гайд"
-],
-"img": "https://insider-gaming.com/wp-content/uploads/2026/11/Jason_and_Lucia_14-scaled.jpg",
-"source": "Insider Gaming",
-"score": 3,
-"kind": "news",
-"words": [
-"дости",
-"списо",
-"трофе",
-"получ",
-"полны"
-]
-},
 {
 "ts": 1795003331.4605362,
 "title": "Sony потребовала срочно обновить PS5 для запуска GTA 6 — прежняя прошивка уже не подходит",
@@ -18848,6 +18786,50 @@
 "течен",
 "можно",
 "модде"
+]
+},
+{
+"ts": 1795174892.0278761,
+"title": "Спустя почти три года игроки GTA VI раскрыли тайну девушки в бикини из первого трейлера: ею оказалась вовсе не Люсия",
+"url": "https://www.playground.ru/gta_6/news/spustya_pochti_tri_goda_igroki_gta_vi_raskryli_tajnu_devushki_v_bikini_iz_pervogo_trejlera_eyu_okazalas_vovse_ne_lyusiya-1892356#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"трейлер"
+],
+"img": "https://i.playground.ru/e/0JfziQm2q807hYkVvpTlkA.webp",
+"source": "PlayGround.ru",
+"score": 5,
+"kind": "news",
+"words": [
+"вовсе",
+"перво",
+"раскр",
+"бикин",
+"трейл",
+"почти",
+"девуш",
+"игрок",
+"тайну",
+"спуст",
+"люсия",
+"три",
+"оказа",
+"года"
+]
+},
+{
+"ts": 1795174895.7356021,
+"title": "Как починить перила в GTA 6",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fix-railing-house-repairs/",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/T7J9s4LozD53JGSuvxfSLX-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"почин",
+"перил"
 ]
 }
 ],
