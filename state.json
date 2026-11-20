@@ -10861,7 +10861,10 @@
 "7492cd6dbf9dbf0c",
 "c722985bd7410f55",
 "4f933fe078721fd6",
-"b3c94f4abed59bbc"
+"b3c94f4abed59bbc",
+"2a3d8aeb614b6bb7",
+"9ebf951624d46db1",
+"6d7effdd323e782e"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -10869,51 +10872,6 @@
 "tg_offset": 706328927,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795036292.2172604,
-"title": "GTA VI не получит апдейт с поддержкой 40/60 fps, заявила Rockstar",
-"url": "https://stopgame.ru/newsdata/73560/gta_vi_ne_poluchit_apdeyt_s_podderzhkoy_40_60_fps_zayavila_rockstar",
-"tags": [
-"настройки"
-],
-"img": "https://images.stopgame.ru/news/2026/11/18/0lQKT8F.jpg",
-"source": "StopGame",
-"score": 3,
-"kind": "news",
-"words": [
-"подде",
-"получ",
-"апдей",
-"rocks",
-"заяви",
-"fps"
-]
-},
-{
-"ts": 1795036295.3978643,
-"title": "За девять дней до запуска предварительные загрузки GTA VI установили ежедневный рекорд данных Virgin Media O2",
-"url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2N1UnQ4Y1NzU3NpeVQ1cnY4MmVuUERDeGg2LXJMWThIak00eFM5UzBfdkZiaXN2ci1EWWNSRWZvMzBaMkxGakhFb3hEZXJHOW9fNmFMbjNYOUtSYmhZMDNrQ004S3hJRUI2YnB1LVNLd0dpOExlVGxlSDJzZlEzSkE4TU95MGlCeGFwOHZaT3phTWI5LTJ2cW9odndyWW41YkI0bHlVN3puRFo2eV93OExmRXNsZXZKMlE?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "MarketScale",
-"score": 3,
-"kind": "news",
-"words": [
-"данны",
-"предв",
-"запус",
-"ежедн",
-"девят",
-"загру",
-"дней",
-"устан",
-"media",
-"рекор",
-"virgi"
-]
-},
 {
 "ts": 1795037522.5398257,
 "title": "Как найти квартиру Декстера Моргана в GTA 6",
