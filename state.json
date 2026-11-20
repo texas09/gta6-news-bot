@@ -8845,7 +8845,22 @@
 "de05bc0eb914ff7a",
 "59cc5d0b3d843385",
 "d2379fc828828113",
-"82d77387530d4b58"
+"82d77387530d4b58",
+"1904310879cdb612",
+"9f0a72ded3c75a55",
+"41aa3970795e9edf",
+"3501affbf7630398",
+"07a9873469ccb26d",
+"5b73d244b068a661",
+"4adbd58c0a3f1c35",
+"e5312c323749368d",
+"95041a500ae579e2",
+"25c7a48b42e38abf",
+"25c7a48b42e38abf",
+"38af85125de1a9e2",
+"7a6f712d91815c42",
+"52f16a0edbbe9566",
+"8f84304a32e72dc9"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -18053,6 +18068,109 @@
 "поско",
 "стала",
 "време"
+]
+},
+{
+"ts": 1795139665.1006074,
+"title": "В GTA 6 полицейские управления по всей Америке умоляют людей не совершать преступлений в реальной жизни",
+"url": "https://www.ign.com/articles/gta-6-has-police-departments-across-america-begging-people-not-to-commit-crimes-irl",
+"tags": [
+"новости"
+],
+"img": "https://assets-prd.ignimgs.com/2026/11/19/gta-6-jason-hoodie-1795130436791.jpg",
+"source": "IGN",
+"score": 1,
+"kind": "news",
+"words": [
+"совер",
+"умоля",
+"всей",
+"управ",
+"полиц",
+"реаль",
+"жизни",
+"амери",
+"прест",
+"людей"
+]
+},
+{
+"ts": 1795139669.5891755,
+"title": "Руководство: GTA 6: Radio Songs — вся музыка, радиостанции и исполнители",
+"url": "https://www.pushsquare.com/guides/gta-6-radio-songs-all-music-radio-stations-and-artists",
+"tags": [
+"гайд"
+],
+"img": "https://images.pushsquare.com/2c111d8dc20f7/large.jpg",
+"source": "Push Square",
+"score": 3,
+"kind": "news",
+"words": [
+"radio",
+"радио",
+"songs",
+"вся",
+"руков",
+"музык",
+"испол"
+]
+},
+{
+"ts": 1795139673.5284846,
+"title": "В GTA 6 можно играть от первого лица, вот как ее активировать",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/g8Enb9ZjZTV9xLHoMFH2RY-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"перво",
+"лица",
+"можно",
+"вот",
+"играт",
+"актив"
+]
+},
+{
+"ts": 1795139677.1217694,
+"title": "Спорная пасхалка GTA 6 рассердит миллионы геймеров",
+"url": "https://www.polygon.com/gta-6-physical-disc-spoof-game/",
+"tags": [
+"гайд"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-gt-6-cal-and-jaosn-playing-games-2.jpeg",
+"source": "Polygon",
+"score": 3,
+"kind": "news",
+"words": [
+"спорн",
+"пасха",
+"гейме",
+"рассе",
+"милли"
+]
+},
+{
+"ts": 1795139681.4319766,
+"title": "GTA+ для одиночной игры GTA 6 — это как конская броня по подписке",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/",
+"tags": [
+"новости"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/HKGxD9wNvKf9rW4v3SmVdT-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 1,
+"kind": "news",
+"words": [
+"броня",
+"одино",
+"конск",
+"подпи",
+"игры"
 ]
 }
 ],
