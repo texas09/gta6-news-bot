@@ -9352,12 +9352,63 @@
 "d502a476f8fa2935",
 "b41e2782d523a29d",
 "2c04827ded130a27",
-"3bc3cef3278a40e1"
+"3bc3cef3278a40e1",
+"771866759bb9645d",
+"c54f417a81d1c4ad",
+"280259f9410ac320",
+"23e269d51d941e1c",
+"6f1267b2c324aa59",
+"f9c983c3e317382d",
+"28ca8e341628df27",
+"68d11c8cfb286578",
+"355d81d351309b49",
+"7dfac1f43bddec9c",
+"7ed667105c92860e",
+"8ca87d875b951387",
+"6558d906b2e3a5f5",
+"2047a421e769e5eb",
+"6aa4394a7947c183",
+"b700400aff85650b",
+"8508f8ca50d44fec",
+"b6d6c1fa7d534e64",
+"681973fa5abeea1a",
+"681973fa5abeea1a",
+"36e0ccfc782117a0",
+"3f3c016dba8c5d33",
+"3f3c016dba8c5d33",
+"4bfc1f4325829185",
+"25e0290b9b0bd6f4",
+"a2f3a675fdc2a0d7",
+"7d9c7ecf1f2ba61c",
+"0c1d5e7bd9e2f65d",
+"0c1d5e7bd9e2f65d",
+"c211d0d08df88f41",
+"6354bcfe0ce6a1c4",
+"6354bcfe0ce6a1c4",
+"29207966e9bba46b",
+"22fd89310abed09c",
+"49292bdd62195168",
+"6da6ea4f5efd632d",
+"709735723fdbc8b6",
+"24a89af4c541ec89",
+"910a0592055a3d02",
+"b05b6606cc52b767",
+"b05b6606cc52b767",
+"87f757e560ad6064",
+"6d77bfded53ea033",
+"6d77bfded53ea033",
+"148eb70f4b0543e6",
+"116e8d1fda116d86",
+"55a7314764356e46",
+"f84b8dfbf8920165",
+"cbeefbf7823a5743",
+"fff55231a3c4ec20",
+"b4ff35a4e03e8492"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328785,
+"tg_offset": 706328787,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -18540,6 +18591,177 @@
 "разбл",
 "объяс",
 "гараж"
+]
+},
+{
+"ts": 1795164163.528525,
+"title": "Grand Theft Auto VI стала первой игрой в консольном тарифе VK Play",
+"url": "https://www.goha.ru/grand-theft-auto-vi-stala-pervoj-igroj-v-konsolnom-tarife-vk-play-dB0B8Z",
+"tags": [
+"новости"
+],
+"img": "https://images.goha.ru/E:Bt/Fx/fAPQPhKmqz.jpg",
+"source": "GoHa.Ru",
+"score": 1,
+"kind": "news",
+"words": [
+"консо",
+"перво",
+"игрой",
+"стала",
+"play",
+"тариф"
+]
+},
+{
+"ts": 1795164166.7508972,
+"title": "«Увидимся в Леониде»: актёры Джейсона и Лусии в GTA 6 — на первом совместном фото",
+"url": "https://www.championat.com/cybersport/news-6706642-uvidimsya-v-leonide-aktyory-dzhejsona-i-lusii-v-gta-6-na-pervom-sovmestnom-foto.html",
+"tags": [
+"новости"
+],
+"img": "https://img.championat.com/news/big/p/j/uvidimsya-v-leonide-aktyory-dzhejsona-i-lusii-v-gta-6-na-pervom-sovmestnom-foto_17951619601993346931.jpg",
+"source": "Чемпионат",
+"score": 1,
+"kind": "news",
+"words": [
+"лусии",
+"совме",
+"перво",
+"увиди",
+"леони",
+"фото",
+"актёр",
+"джейс"
+]
+},
+{
+"ts": 1795164169.9791546,
+"title": "Как включить вид от первого лица в GTA 6 на Xbox или Playstation",
+"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFJyMkdwY3VRMFY1SUxCYWV5Y3k4X0cxeU5jTS1SS1ExS2wyUlc1R3FCUDZVYVVtMFB0YXJRQTFleGg2ZjlvSzVJSVV5dXVJTkEteEhaTDl1RHBoZi1XZ2pwcnFEU3hsZzc0bjdQN19TWmRiN3JGWUNjZmZvSHdwZkZqd2k1em9yRUNqWmZ4NUljNkJHMl9qSzJaZ094bHVQRUN6ODBrU0MzOXRWbXhEeDAtR2I0dDRhSVB0Tw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Newxboxone",
+"score": 0,
+"kind": "news",
+"words": [
+"вид",
+"xbox",
+"перво",
+"включ",
+"лица",
+"plays"
+]
+},
+{
+"ts": 1795164173.194281,
+"title": "Процессор Nintendo Switch 2 не справится с симуляцией мира GTA VI",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUVp6Y0pfTlBxMm9acGxsR0FzZmtreUtiN25Hc2kwbGg1elV6TUd2d19yR1gtcXJtTENPdE5vWlAtYlg1M2plNDFwN2NlSWlkVzNhMUdlVkh6MUVWS19qejVYb3dGajdBWENDSUQ4SVVOZnViaGgzdHFpcVJJdUdVNk45WkM5OXpsSGY5UUw0RTBiT001WVRrUGhSaXhLZC1w?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "GameGPU",
+"score": 0,
+"kind": "news",
+"words": [
+"мира",
+"симул",
+"справ",
+"проце",
+"ninte",
+"switc"
+]
+},
+{
+"ts": 1795164176.4275272,
+"title": "Не ту девочку сделали главной героиней GTA 6: раскрыто имя актрисы, сыгравшей Мэнди, и она очень хороша!",
+"url": "https://www.goha.ru/ne-tu-devochku-sdelali-glavnoj-geroinej-gta-6-raskryto-imya-aktrisy-sygravshej-mendi-i-ona-ochen-horosha-lrV6gG",
+"tags": [
+"новости"
+],
+"img": "https://images.goha.ru/E:D2/u7/VRwbXsmEmw.jpg",
+"source": "GoHa.Ru",
+"score": 1,
+"kind": "news",
+"words": [
+"сдела",
+"хорош",
+"очень",
+"сыгра",
+"герои",
+"раскр",
+"актри",
+"главн",
+"имя",
+"мэнди",
+"девоч"
+]
+},
+{
+"ts": 1795164179.6500163,
+"title": "Игроки GTA 6 показали, как выглядят самые толстые Джейсон и Лусия",
+"url": "https://shazoo.ru/2026/11/20/194385/igroki-gta-6-pokazali-kak-vygliadiat-samye-tolstye-dzeison-i-lusiia",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892256_795bKpx_fat.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"игрок",
+"выгля",
+"самые",
+"толст",
+"показ",
+"лусия",
+"джейс"
+]
+},
+{
+"ts": 1795164183.4981456,
+"title": "Где найти место встречи с НЛО в GTA 6: объяснение случая похищения инопланетянами",
+"url": "https://insider-gaming.com/where-to-find-ufo-in-gta-6-explained/",
+"tags": [
+"новости"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/4906d452-6642-4e25-b4ff-ff2ccf6b1f1a-1024x576.png",
+"source": "Insider Gaming",
+"score": 1,
+"kind": "news",
+"words": [
+"инопл",
+"объяс",
+"случа",
+"похищ",
+"место",
+"где",
+"встре",
+"нло",
+"найти"
+]
+},
+{
+"ts": 1795164186.7220752,
+"title": "Релиз GTA VI: предварительные заказы на 1,5 миллиарда долларов, прогноз на 40 миллионов долларов",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDFTVW96WmNLR0RHLVRXbHIzT0JJcy1tZUF6LTZsc1V2T0RiUzlrSXZoanJ1T1F4MEtsWnBXZ1B1WWtuUU9MZlFOZUlQejNlNG9RQVdNcUtDanJaQ3h4NXhjbHV5S3hFZkFpNmpFNG9ENFBXaEZybkVGenFNNzJVZVR4SHQ4MmdZcS0tVklUNA?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "shattered.io",
+"score": 0,
+"kind": "news",
+"words": [
+"милли",
+"долла",
+"прогн",
+"предв",
+"заказ",
+"релиз"
 ]
 }
 ],
