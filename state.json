@@ -10183,7 +10183,28 @@
 "6c89ad37025219b7",
 "95d25687cc774f12",
 "3bab84f65ca70d88",
-"7aa27bf1b8839eda"
+"7aa27bf1b8839eda",
+"8f351f31ef2f5b0b",
+"8f351f31ef2f5b0b",
+"6d234d3ebb32b190",
+"b1f0432cb76e7084",
+"6d0d531f63ff9b1d",
+"7943cfb5bce41ddd",
+"7a57ee1484b214a8",
+"bc213eb01f51d2ed",
+"ae9239ccf6220007",
+"64f3aabff64df100",
+"e9f8d63b17bd2b61",
+"f85a75fdb643a9e4",
+"da9cfa7c756c5159",
+"685afcb7e9f427a2",
+"0912666fe281292a",
+"9d2b5c40659f1a6f",
+"08da71c0a73accf6",
+"9ee98495bbe5ff2e",
+"39c1a88983bda466",
+"39c1a88983bda466",
+"c3da725519f71d65"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -10191,127 +10212,6 @@
 "tg_offset": 706328855,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795017108.8158758,
-"title": "Digital Foundry разобрала GTA 6 – 1440p, 30 fps и, возможно, лучшая трассировка лучей в играх",
-"url": "https://shazoo.ru/2026/11/18/194300/digital-foundry-razobrala-gta-6-1440p-30-fps-i-vozmozno-lucsaia-trassirovka-lucei-v-igrax",
-"tags": [
-"настройки"
-],
-"img": "https://cdn.shazoo.ru/892055_8zK1m4z_gta-6.jpg",
-"source": "Shazoo",
-"score": 3,
-"kind": "news",
-"words": [
-"found",
-"лучей",
-"fps",
-"трасс",
-"играх",
-"1440p",
-"разоб",
-"возмо",
-"digit",
-"лучша"
-]
-},
-{
-"ts": 1795017112.8815992,
-"title": "GTA 6 выглядит великолепно, и видя, как она работает со стабильной частотой 30 кадров в секунду на старом оборудовании PS5 Pro, я надеюсь на производительность ПК.",
-"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-looks-gorgeous-and-seeing-it-run-at-a-stable-30-fps-on-ageing-ps5-pro-hardware-makes-me-hopeful-for-pc-performance/",
-"tags": [
-"настройки"
-],
-"img": "https://cdn.mos.cms.futurecdn.net/FosHyZT6p5CgdQx7uFpwYn-1920-80.jpg",
-"source": "cdn.mos.cms.futurecdn.net",
-"score": 3,
-"kind": "news",
-"words": [
-"кадро",
-"секун",
-"выгля",
-"работ",
-"старо",
-"произ",
-"часто",
-"обору",
-"велик",
-"pro",
-"ps5",
-"видя",
-"стаби",
-"надею"
-]
-},
-{
-"ts": 1795017117.2382138,
-"title": "Как пройти мини-игру-головоломку Tenebrae Lux в GTA 6",
-"url": "https://insider-gaming.com/tenebrae-lux-gta-6/",
-"tags": [
-"гайд"
-],
-"img": "https://insider-gaming.com/wp-content/uploads/2026/11/Sequence-01.00_00_00_17.Still001-scaled.png",
-"source": "Insider Gaming",
-"score": 3,
-"kind": "news",
-"words": [
-"lux",
-"голов",
-"мини",
-"пройт",
-"игру",
-"teneb"
-]
-},
-{
-"ts": 1795017120.9428618,
-"title": "Руководство: GTA 6: На ком основана настоящая актриса Люсия?",
-"url": "https://www.pushsquare.com/guides/gta-6-who-is-the-real-actress-lucia-is-based-on",
-"tags": [
-"гайд"
-],
-"img": "https://images.pushsquare.com/6e0bf7e9dd2b7/large.jpg",
-"source": "Push Square",
-"score": 3,
-"kind": "news",
-"words": [
-"основ",
-"ком",
-"насто",
-"люсия",
-"руков",
-"актри"
-]
-},
-{
-"ts": 1795017124.1508174,
-"title": "В Digital Foundry считают невозможным увеличить FPS консольных версий GTA 6 – это сломает игру или заставит студию вырезать кучу контента",
-"url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYkxNRG50WTdLcWpyeWFlT0hJQnhRdTdFWUwwVHdncEVPelc4NV81MXRxQndNeDk5S0VTeUI5aDlKZlA5Qlo2d1ZXNFdPUDVoN3E5VGJ2ZzBTdGxZYmRYck5xdC1tZFA1Njh6TlVxSXZ3SGVGZnhqQlVEcVpwREFrZ1RVUnNPSS05UTlEcFpjY0dVRzEtaUU1UEY3R3QxUWh2LXBOU2NkTExsRk9jNGFBdmllRVhEai1BaTQxU00xdkxLajkzbU9CZTk4YkM5TzQ3bF9OZ2JEUzc2ZXBIeUwtS1I0MzQ4RjFSMWZtWGQ3N050SHRaMkRaYnphTzluVEE?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "Shazoo",
-"score": 2,
-"kind": "news",
-"words": [
-"found",
-"консо",
-"fps",
-"увели",
-"кучу",
-"конте",
-"верси",
-"слома",
-"счита",
-"невоз",
-"студи",
-"игру",
-"вырез",
-"заста",
-"digit"
-]
-},
 {
 "ts": 1795018329.5067766,
 "title": "За что ругают GTA VI? Ограничение 30 fps, затянутый сюжет и социальная сатира",
@@ -19478,11 +19378,60 @@
 "незна",
 "невер"
 ]
+},
+{
+"ts": 1795190542.9869108,
+"title": "Вы можете найти «девушку в бикини» из трейлера GTA 6 в игре, с учетом всех фанатских теорий",
+"url": "https://www.ign.com/articles/gta-6-bikini-girl-trailer-easter-egg",
+"tags": [
+"трейлер"
+],
+"img": "https://assets-prd.ignimgs.com/2023/12/07/gta6-trailer-4k-00-00-38-29-still001-1701962524689.png",
+"source": "IGN",
+"score": 5,
+"kind": "news",
+"words": [
+"игре",
+"фанат",
+"девуш",
+"учето",
+"теори",
+"трейл",
+"бикин",
+"найти",
+"может",
+"всех"
+]
+},
+{
+"ts": 1795190546.29532,
+"title": "Игроки на ПК понимают, что когда GTA 6 выйдет на платформе, то им все равно нужно будет ждать патчей оптимизации",
+"url": "https://shazoo.ru/2026/11/20/194396/igroki-na-pk-ponimaiut-cto-kogda-gta-6-vyidet-na-platforme-to-im-vse-ravno-nuzno-budet-zdat-patcei-optimizacii",
+"tags": [
+"обновление",
+"настройки"
+],
+"img": "https://cdn.shazoo.ru/892277_rC16ozL_gta6pc.jpg",
+"source": "Shazoo",
+"score": 6,
+"kind": "news",
+"words": [
+"выйде",
+"ждать",
+"равно",
+"оптим",
+"нужно",
+"когда",
+"патче",
+"платф",
+"поним",
+"игрок"
+]
 }
 ],
 "digest_date": "2026-11-19",
 "pins_version": "e9e83d523b07",
-"short_date": "2026-11-19",
+"short_date": "2026-11-20",
 "viral_checked": 1795183891.0187047,
 "viral_ts": [
 1795123295.82305,
@@ -19491,5 +19440,5 @@
 1795131141.0244575
 ],
 "group_id": -1003664956927,
-"group_checked": 1795168240.5341332
+"group_checked": 1795190462.6172318
 }
