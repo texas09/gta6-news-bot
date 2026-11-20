@@ -9694,110 +9694,23 @@
 "98c1c0bf8365d4d5",
 "78728ff96bf5e4bb",
 "28bb4671ea6d0ea4",
-"52fbdbd088f9254e"
+"52fbdbd088f9254e",
+"76cc555d1171ce36",
+"c9049f824896593c",
+"0b60b07d805eab6e",
+"8c3b6e3b57bed514",
+"449194a6f07852a1",
+"da2badc85fb7fdde",
+"a361fe5986a82c90",
+"1b07fdb2dad6a4eb",
+"40b5218fae286d2d"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328817,
+"tg_offset": 706328825,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795003331.4605362,
-"title": "Sony потребовала срочно обновить PS5 для запуска GTA 6 — прежняя прошивка уже не подходит",
-"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXdpeDlhSG9HWktNa25yN0pNRnlGUndhZldtLUN5SEZWWnp3ZjhUYzJHanVQT0YxUXVuMFlsVUF4blFKbENuVng2TDI3T09jX1BrcVduaUJyRXhWNk9BRE9iVnBNMWpSOUxzZHhibURCT0NEUGdtM3NvTG9WWU1GWnh1TGQxbnQybWtYU3Zfd0p0VzMzSHpfNU9JN2ZCamRxbmpfa01oMTTSAa4BQVVfeXFMTUNQQ2ozSGU4ZWxyOUotak9ybUZkWWtWVE9lSzlvUGVoX21HSXJaWVNidFBMRFZaT2lCTDlBUjl3MkxCeVROa2t6cEFQaHJGcHl4ZVdlM1Utemt2X3ZiZU81SHlLZnlld3ZUbmM1dlN6YXE3SWhvOXpOOGRTaFpiTUU4TmF6QnJqTmhURThkNnloeTllQmdleEIyb2J2ck1NdWpja1RVcGNHVjdocTZ3?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "Клуб DNS",
-"score": 3,
-"kind": "news",
-"words": [
-"sony",
-"запус",
-"срочн",
-"прежн",
-"проши",
-"обнов",
-"подхо",
-"ps5",
-"потре"
-]
-},
-{
-"ts": 1795003343.3290327,
-"title": "GTA 6 на Xbox Series X не удерживает даже 30 FPS - один из обозревателей пожаловался на просадки производительности",
-"url": "https://www.playground.ru/gta_6/news/gta_6_na_xbox_series_x_ne_uderzhivaet_dazhe_30_fps_odin_iz_obozrevatelej_pozhalovalsya_na_prosadki_proizvoditelnosti-1891760#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"настройки"
-],
-"img": "https://i.playground.ru/e/RTs9PZFpSgzZ4fya8dOcyw.png",
-"source": "PlayGround.ru",
-"score": 3,
-"kind": "news",
-"words": [
-"обозр",
-"пожал",
-"удерж",
-"serie",
-"xbox",
-"произ",
-"проса",
-"даже",
-"fps",
-"один"
-]
-},
-{
-"ts": 1795003346.787636,
-"title": "После прохождения GTA 6 я могу подтвердить, что в трейлерах и тизерах представлены самые ранние моменты игры.",
-"url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemk2S1k5cUlkUzdKVkpRZEtkelVXaE9yS1E3dkdPVVlNSW5ZV1I1V1czUVI1UmxXUTMwU1h5RUhETkpfb2VRNzUzc0RPSTFfM25VeUpvSFRFSG1vdFI5MFIzRU1uRUVzZWZhWWdZMDdwdm4wOTZITk1XSkkxaGhkdXBGcVFhWm9VR2xrWTRUaV82OFRIR2tEOGFNaUJ1NkRGdGYxUzlMV2w0UHpiWF9MYm5WYng0RFozdk9mWE9MMHRZd002V3QtWXdvaWdmcC0zMVJ5TUZ3?oc=5",
-"tags": [
-"трейлер"
-],
-"img": null,
-"source": "Kotaku",
-"score": 4,
-"kind": "news",
-"words": [
-"игры",
-"могу",
-"подтв",
-"тизер",
-"после",
-"трейл",
-"момен",
-"предс",
-"самые",
-"прохо",
-"ранни"
-]
-},
-{
-"ts": 1795003354.243627,
-"title": "Первые тесты GTA VI показали просадки ниже 30 FPS на PlayStation 5 - версия для PlayStation 5 Pro стабильнее",
-"url": "https://www.playground.ru/gta_6/news/pervye_testy_gta_vi_pokazali_prosadki_nizhe_30_fps_na_playstation_5_versiya_dlya_playstation_5_pro_stabilnee-1891773#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"настройки"
-],
-"img": "https://i.playground.ru/e/qQEvHSVvXD8mOM2IOIPi3w.png",
-"source": "PlayGround.ru",
-"score": 3,
-"kind": "news",
-"words": [
-"plays",
-"верси",
-"ниже",
-"показ",
-"pro",
-"стаби",
-"тесты",
-"проса",
-"первы",
-"fps"
-]
-},
 {
 "ts": 1795003883.3780658,
 "title": "Как поменять персонажей в GTA 6",
