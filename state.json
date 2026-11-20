@@ -10609,7 +10609,22 @@
 "4565289d79ab90b4",
 "d241504a74c1b9c5",
 "6e8079763126d2be",
-"4eac81f272c2ec25"
+"4eac81f272c2ec25",
+"9c5aab07a2f62369",
+"5b6fae614278b8ea",
+"2ddca2ccfa688b40",
+"ca8a77743313aac4",
+"57b17dfd4b78d178",
+"ae7ac65309de6ba8",
+"dc396909d5dabaf0",
+"49f22d076636c033",
+"8fb4528c9d264534",
+"6868028639bb0d78",
+"40fe21ee8a3d1b8b",
+"bd6e4a7eab129250",
+"70e2a19ecf7767a2",
+"70e2a19ecf7767a2",
+"7cb2645efee66572"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -10617,98 +10632,6 @@
 "tg_offset": 706328886,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795029284.4161797,
-"title": "Прощай, Люсия: официальная новая одержимость фанатов GTA 6 — Мэнди",
-"url": "https://www.polygon.com/gta-6-mandy-who-is-pipework-mission-lucia-jason-chapter-reddit/",
-"tags": [
-"новости"
-],
-"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mandy1.JPG",
-"source": "Polygon",
-"score": 1,
-"kind": "news",
-"words": [
-"проща",
-"фанат",
-"одерж",
-"новая",
-"офици",
-"люсия",
-"мэнди"
-]
-},
-{
-"ts": 1795029288.3057506,
-"title": "GTA 6 не позволит вам использовать читы, пока вы не завершите основную историю, и блокирует прогресс, когда вы это сделаете.",
-"url": "https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story",
-"tags": [
-"новости"
-],
-"img": "https://assetsio.gnwcdn.com/GTA-6-review-2.jpg?width=690&quality=85&format=jpg&auto=webp",
-"source": "Eurogamer",
-"score": 1,
-"kind": "news",
-"words": [
-"испол",
-"вам",
-"блоки",
-"прогр",
-"читы",
-"сдела",
-"когда",
-"позво",
-"пока",
-"истор",
-"основ",
-"завер"
-]
-},
-{
-"ts": 1795029292.225884,
-"title": "GTA 6 удерживает ваши 100% статистику до конца — по уважительной причине",
-"url": "https://www.polygon.com/gta-6-completion-menu-ending/",
-"tags": [
-"новости"
-],
-"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-motorcycle.jpg",
-"source": "Polygon",
-"score": 1,
-"kind": "news",
-"words": [
-"удерж",
-"100",
-"ваши",
-"причи",
-"стати",
-"уважи",
-"конца"
-]
-},
-{
-"ts": 1795029297.767592,
-"title": "GTA 6 побила рекорд потокового вещания за все время еще до того, как была выпущена полностью",
-"url": "https://www.pushsquare.com/news/2026/11/gta-6-obliterates-all-time-streaming-record-before-its-even-fully-released",
-"tags": [
-"новости"
-],
-"img": "https://images.pushsquare.com/8b7789a44d27e/large.jpg",
-"source": "Push Square",
-"score": 1,
-"kind": "news",
-"words": [
-"вещан",
-"выпущ",
-"поток",
-"рекор",
-"была",
-"того",
-"еще",
-"побил",
-"полно",
-"время"
-]
-},
 {
 "ts": 1795030905.1668901,
 "title": "Объяснение чит-кодов GTA 6: как их разблокировать",
@@ -19888,6 +19811,40 @@
 "ламан",
 "путев",
 "дельф"
+]
+},
+{
+"ts": 1795202481.6773686,
+"title": "Прохождение миссии Slam Dunk в GTA 6",
+"url": "https://www.videogameschronicle.com/guide/gta-6-slam-dunk-mission-walkthrough/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Slam-Dunk-mission-walkthrough-4.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"slam",
+"мисси",
+"прохо",
+"dunk"
+]
+},
+{
+"ts": 1795202486.0793328,
+"title": "Как изменить время в GTA 6",
+"url": "https://www.polygon.com/gta-6-change-time-how-to-how-long-day/",
+"tags": [
+"гайд"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6_guide_time_lead.jpg",
+"source": "Polygon",
+"score": 3,
+"kind": "news",
+"words": [
+"время",
+"измен"
 ]
 }
 ],
