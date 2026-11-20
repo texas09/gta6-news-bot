@@ -9733,7 +9733,25 @@
 "cfd6075ab9898e22",
 "c84f5c9145cda6e2",
 "04a5e1dbf816652b",
-"1a05555e5ac405ea"
+"1a05555e5ac405ea",
+"ace44a608753154c",
+"2b8bea10d7d28bc9",
+"05ee63524377d46a",
+"3890b61bb5917d92",
+"7080e76eda8e8e13",
+"f7d56dfbdc68c3d9",
+"5aaaa68105374dfd",
+"4bd6146392d0aa57",
+"e343beaa1efc5ec7",
+"d79ecdc9f640f5ab",
+"913cb0643e271965",
+"c8dee801c7bf23f2",
+"17052d1f8104345d",
+"7f810f52201f606b",
+"15e4cf755ffe29e3",
+"5569981fc19a8b31",
+"5569981fc19a8b31",
+"87708ca40a82fb4c"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -18885,6 +18903,49 @@
 "blvd",
 "ventu",
 "разбл"
+]
+},
+{
+"ts": 1795179096.5438132,
+"title": "GTA 6 слишком мрачная? Вот как это исправить на PS5",
+"url": "https://www.pushsquare.com/news/2026/11/gta-6-too-dark-heres-how-to-fix-it-on-ps5",
+"tags": [
+"гайд"
+],
+"img": "https://images.pushsquare.com/db1a90a6ef698/large.jpg",
+"source": "Push Square",
+"score": 3,
+"kind": "news",
+"words": [
+"слишк",
+"испра",
+"вот",
+"мрачн",
+"ps5"
+]
+},
+{
+"ts": 1795179099.976339,
+"title": "Играете в GTA 6 на этих выходных? Вот 16 советов без спойлеров для вашего первого прохождения.",
+"url": "https://www.eurogamer.net/gta-6-spoiler-free-advice",
+"tags": [
+"гайд"
+],
+"img": "https://assetsio.gnwcdn.com/gta-6-tips-header.png?width=690&quality=85&format=jpg&auto=webp",
+"source": "Eurogamer",
+"score": 3,
+"kind": "news",
+"words": [
+"выход",
+"совет",
+"без",
+"перво",
+"играе",
+"спойл",
+"вот",
+"этих",
+"прохо",
+"вашег"
 ]
 }
 ],
