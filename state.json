@@ -11357,7 +11357,10 @@
 "b2a69540aab31a41",
 "eaf2594bbc7f43c0",
 "9205188ad1b80455",
-"eced1bad857c0385"
+"eced1bad857c0385",
+"4ddb1a282a1d715b",
+"70710c643e430321",
+"78a9b17ee223999c"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -22278,6 +22281,29 @@
 "выпус",
 "копий",
 "милли"
+]
+},
+{
+"ts": 1795238467.2077243,
+"title": "Waka Flocka Flame называет старых игроков GTA VI «жалкими»: «Не получают денег»",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0c5RWNpNUlxcndJR0NJd09HVXNyR2lUY3cwbFRpM3kwUUo0aEI2WjRWYVNFMmxPS1g4V1c3bW5Dd3BJdGp1c1lJMUVScldkUDhDVDhaVWhzeHZNWXRRU2IwVnNERE5FZkFIQThQdVFDZVlpLTM4V1NzYnlFNnJmM2NySldUQQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Complex",
+"score": 0,
+"kind": "news",
+"words": [
+"стары",
+"получ",
+"денег",
+"flame",
+"waka",
+"назыв",
+"игрок",
+"жалки",
+"flock"
 ]
 }
 ],
