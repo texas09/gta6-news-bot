@@ -11471,7 +11471,22 @@
 "9c5c44f35d0decfd",
 "4cd18f75954a33cf",
 "581c8da02cd0a803",
-"ce68fab6565780b5"
+"ce68fab6565780b5",
+"825d2be41485eae8",
+"8309eb32157c695d",
+"5b5cee38510b835e",
+"7fec9bd7ea726db1",
+"2d426f6f0a08d085",
+"dc0de62e07de5dc3",
+"18c94d4bd9386a8b",
+"7bbaa3faf5fe223b",
+"34d66c5f12884242",
+"4c6e2df0dadb8061",
+"0f655bb0d2ea4e8f",
+"189a57d3ae1e6e60",
+"77dddcc7cac964ec",
+"8ced6e159f2c32bd",
+"68075a4215a3d1bb"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -11479,80 +11494,6 @@
 "tg_offset": 706329101,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795069896.829616,
-"title": "Игроки GTA 6 нашли новую любимицу – Мэнди затмила Лусию уже через 20 минут игры",
-"url": "https://shazoo.ru/2026/11/19/194330/igroki-gta-6-nasli-novuiu-liubimicu-mendi-zatmila-lusiiu-uze-cerez-20-minut-igry",
-"tags": [
-"новости"
-],
-"img": "https://cdn.shazoo.ru/892116_gnJoiDA_mandy.jpg",
-"source": "Shazoo",
-"score": 1,
-"kind": "news",
-"words": [
-"через",
-"новую",
-"мэнди",
-"минут",
-"игры",
-"лусию",
-"игрок",
-"любим",
-"затми",
-"нашли"
-]
-},
-{
-"ts": 1795069901.8156278,
-"title": "В GTA 6 даже угон автомобиля может закончиться дракой с котом - Джейсону придётся отбиваться от пассажира",
-"url": "https://www.playground.ru/gta_6/news/v_gta_6_dazhe_ugon_avtomobilya_mozhet_zakonchitsya_drakoj_s_kotom_dzhejsonu_pridyotsya_otbivatsya_ot_passazhira-1892012#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"img": "https://i.playground.ru/e/SNCASIh-sUDxtdNw21L3yA.jpeg",
-"source": "PlayGround.ru",
-"score": 1,
-"kind": "news",
-"words": [
-"придё",
-"джейс",
-"автом",
-"котом",
-"отбив",
-"угон",
-"может",
-"драко",
-"закон",
-"даже",
-"пасса"
-]
-},
-{
-"ts": 1795069907.2187867,
-"title": "Датамайнер обнаружил эксклюзивные бонусы GTA+ в GTA 6 - даже владельцам Ultimate Edition доступен не весь контент",
-"url": "https://www.playground.ru/gta_6/news/datamajner_obnaruzhil_eksklyuzivnye_bonusy_gta_v_gta_6_dazhe_vladeltsam_ultimate_edition_dostupen_ne_ves_kontent-1892013#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"img": "https://i.playground.ru/e/a6N0p2pbbZHhRp58Ky0IbQ.jpeg",
-"source": "PlayGround.ru",
-"score": 1,
-"kind": "news",
-"words": [
-"экскл",
-"весь",
-"конте",
-"ultim",
-"бонус",
-"editi",
-"досту",
-"датам",
-"даже",
-"обнар",
-"владе"
-]
-},
 {
 "ts": 1795069912.7618897,
 "title": "Версия GTA 6 для PS5 получила тактильный контроль скорости при помощи геймпада DualSense",
@@ -22627,6 +22568,30 @@
 "всю",
 "прост",
 "превз"
+]
+},
+{
+"ts": 1795242711.101967,
+"title": "Руководство по ювелирным работам в GTA 6 Yasmani: все три безопасных кода и как получить Snap Gun",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObFBEeU11MThFYUlqaW84b1BQMjNVakRjY3BpMXdDd012ZHEwRjJfYXdaUzE4YmFFUnFRVzhHOFlBQzA4anA2N21BTkFfSVJmWHZFbVNTNnJBTElSN0wycF9SOVBrWFFhZWVLdGQwb1pGN3EzV0Z5VlRid2RESi1fY21ySURySEdMYnZvRXlXWGlQVWJzZWFEdDFERjZVeHFMLUU5aQ?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "eGamers.io",
+"score": 2,
+"kind": "news",
+"words": [
+"три",
+"получ",
+"gun",
+"руков",
+"работ",
+"ювели",
+"кода",
+"безоп",
+"snap",
+"yasma"
 ]
 }
 ],
