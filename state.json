@@ -11870,12 +11870,30 @@
 "c9aa4b0d83fa74ce",
 "ca4ca5ecedd06b2e",
 "75ee7bf8c9230517",
-"0a132c5464ac5882"
+"0a132c5464ac5882",
+"d0fee214cd70df45",
+"9b1b84e9794080cf",
+"d9dd0f3d430a84c7",
+"44e552107c8ec7c2",
+"482dd3d03b7491f7",
+"c21c380d99894900",
+"d47f3293a9eda123",
+"443f9db807619728",
+"98ce19bf37ce13e9",
+"c64e5de15f869bad",
+"6f7bc377643027da",
+"b1abac4401f7bda8",
+"a61642fdeb798869",
+"a61642fdeb798869",
+"ce16593da9b9bf2e",
+"909addd7dd31b9dd",
+"d7fbc28db09e3678",
+"bad33e9b00493f34"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329165,
+"tg_offset": 706329167,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -23626,6 +23644,75 @@
 "умолч",
 "солнц",
 "очки"
+]
+},
+{
+"ts": 1795257115.521375,
+"title": "Rockstar объяснила ограничение 30 FPS в GTA VI на консолях мощностью CPU",
+"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEhVYWtqcFJuQm1ILXlPcWl4aW8zSUFqNXdKWF84Z1pXLUtha1RIc016N3hvd1hTY0NkLTBZS21MSTQ3MTNSa2RteTdrbjlJWHJiNHFxQnRWeUduUkJHeG1RRGNHTjhVU0dnTllJSVJWRWNKME1jdE5pcGExYzlnbQ?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "Techora.ru",
+"score": 2,
+"kind": "news",
+"words": [
+"fps",
+"rocks",
+"cpu",
+"огран",
+"консо",
+"мощно",
+"объяс"
+]
+},
+{
+"ts": 1795257118.6768746,
+"title": "«Прогрессивный кусок мусора»: игроки занижают рейтинг GTA 6 на Metacritic",
+"url": "https://www.championat.com/cybersport/news-6708050-progressivnyj-kusok-musora-igroki-zanizhayut-rejting-gta-6-na-metacritic.html",
+"tags": [
+"новости"
+],
+"img": "https://img.championat.com/news/big/r/a/progressivnyj-kusok-musora-igroki-zanizhayut-rejting-gta-6-na-metacritic_17952567852134292365.jpg",
+"source": "Чемпионат",
+"score": 1,
+"kind": "news",
+"words": [
+"заниж",
+"игрок",
+"рейти",
+"metac",
+"мусор",
+"прогр",
+"кусок"
+]
+},
+{
+"ts": 1795257125.7647133,
+"title": "Neuralink показала, как пациент с мозговым имплантом играет в GTA VI силой мысли - без геймпада и сразу после релиза",
+"url": "https://www.playground.ru/misc/news/neuralink_pokazala_kak_patsient_s_mozgovym_implantom_igraet_v_gta_vi_siloj_mysli_bez_gejmpada_i_srazu_posle_reliza-1892690#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/Hks08eW2O_x5DAYPIactcQ.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"играе",
+"релиз",
+"без",
+"показ",
+"пацие",
+"силой",
+"мозго",
+"после",
+"мысли",
+"импла",
+"геймп",
+"neura",
+"сразу"
 ]
 }
 ],
