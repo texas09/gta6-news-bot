@@ -11939,12 +11939,27 @@
 "38786754c02052aa",
 "69901326de128c9f",
 "7d64e2e3e2de09c7",
-"85f22b2f732f8868"
+"85f22b2f732f8868",
+"96db4cb35a5579bc",
+"105c19a74034cdaa",
+"853834528946b93d",
+"76dba04b2318a6e7",
+"3041eb03bf8d09d2",
+"0c8ba4c27be33a0d",
+"8bc68868dacd8dde",
+"b50a3a9dbb3c88d8",
+"ef94d48c1ebd188e",
+"80b2920b21e88292",
+"dc85ebadfc186c22",
+"6bfb6d8bba62bd77",
+"6739834542a0a18c",
+"f24f42aeb999c2ec",
+"85b0ce95ab34e2d4"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329170,
+"tg_offset": 706329181,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -24007,6 +24022,28 @@
 "вспле",
 "майам",
 "повод"
+]
+},
+{
+"ts": 1795258299.9837325,
+"title": "Grand Theft Auto 6 привлекла более 50% активных игроков PS5 и Xbox в США на запуске",
+"url": "https://www.playground.ru/gta_6/news/grand_theft_auto_6_privlekla_bolee_50_aktivnyh_igrokov_ps5_i_xbox_v_ssha_na_zapuske-1892693#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/lpq75nt-Msc5OYNueE0UUg.jpeg",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"сша",
+"более",
+"игрок",
+"запус",
+"xbox",
+"актив",
+"ps5",
+"привл"
 ]
 }
 ],
