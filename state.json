@@ -12134,7 +12134,28 @@
 "4fa5bb6a61888429",
 "da85330867912a5d",
 "3c9f424139f50a20",
-"79ecc42aae711b4f"
+"79ecc42aae711b4f",
+"0238e114548b15c6",
+"428a3846d2ecb924",
+"1132c223a9eaf8e2",
+"56fcfb5fff9a94ad",
+"5abc5630ed44ed67",
+"9ff6cca8c007f8fd",
+"4739ab7ce5698652",
+"4ed005044e31a9e1",
+"86396e2f8b812cf2",
+"4a69d2cc2843636c",
+"4a69d2cc2843636c",
+"42ea84ec31aa3ad0",
+"06070ee1320f2ff1",
+"06070ee1320f2ff1",
+"d0a7252de28bdd1f",
+"1684f7b207ed5e5b",
+"1684f7b207ed5e5b",
+"91469707a1bea1bd",
+"3b32569702dae5dc",
+"b57c05d686e4ca84",
+"4a558ff1f96e7355"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -12142,49 +12163,6 @@
 "tg_offset": 706329222,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795095668.2376177,
-"title": "В день предзагрузки GTA VI трафик ярославских геймеров вырос наполовину",
-"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRHlLMWxsUjRFdWxRRjVwWlE0aEpRODZHYnFjc2FfRXd4Z3JzN3BMUzZTZzVrbWZBOTZMN0lmT3FMOWd3SmttYkZzVWdSM0YyQWpVZ3hhYmprSmpZMFQ5WjkzMzl3WW01U0Qta0FZcWgwY2h4ZWtONEFueUtqRlZBQkh3dkpuOXc4Vk92N0duM0dTQTBHNDNXYnJSYW5kay1fX0Q3WElfWGtZTDFV?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "YarNews",
-"score": 3,
-"kind": "news",
-"words": [
-"день",
-"яросл",
-"вырос",
-"трафи",
-"гейме",
-"предз",
-"напол"
-]
-},
-{
-"ts": 1795095671.4750504,
-"title": "GTA 6 тормозит? Как повысить FPS и сделать игру плавнее на PS5 и Xbox",
-"url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2E0c1otOVlUM0Z4dUpDc2NoX1RDb3VURnhMTWVheTY0NGljdXdWY2FGU24tWnYzWFpXSkktb3ptMVlZUThxYnNFN2FubWJPc1dsd2lCTU8wWjJieFVMOEN3T2pjdVJja083N3NZdzB5QXBYckdCR0Y3V2NXSk5qUEZCWVBjWnRNUk14Q0MzcllxaGlRZmJ0ODZuN0JYUVlISVY0NXhaMFdVbTBhM2p4bWZXYjBaZk1PUjMyUTFEWkFsRVcybmVVakVR?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "sport-express.ru",
-"score": 2,
-"kind": "news",
-"words": [
-"повыс",
-"ps5",
-"игру",
-"xbox",
-"fps",
-"сдела",
-"плавн",
-"тормо"
-]
-},
 {
 "ts": 1795098368.2778795,
 "title": "Безопасные коды GTA 6: как объяснить все безопасные комбинации",
@@ -24539,6 +24517,116 @@
 "получ",
 "switc",
 "atmos"
+]
+},
+{
+"ts": 1795268480.3526893,
+"title": "Ошибка Quick Resume в GTA 6 на Xbox Series X дает 60 FPS, но ускоряет игру вдвое",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yVl9meDNYZUhESE9ieEZpbEt6eDBQb2JZU3ZCRFhLdUx6eGVBcExzR2xnakVUWldlX3BqVFcwU1pCN3dhc2oxWS1DdVB1Y1hZdmQ4ek5TNGRfaV9CaXlIZVBKMHBuTXlXS2FrLVlBUGw?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "Techora.ru",
+"score": 2,
+"kind": "news",
+"words": [
+"xbox",
+"игру",
+"ошибк",
+"quick",
+"serie",
+"ускор",
+"дает",
+"resum",
+"вдвое",
+"fps"
+]
+},
+{
+"ts": 1795268483.525339,
+"title": "GTA 6 vs RDR 2: на YouTube устроили лобовое сравнение двух игр RockStar",
+"url": "https://www.goha.ru/gta-6-vs-rdr-2-na-youtube-ustroili-lobovoe-sravnenie-dvuh-igr-rockstar-4Aw9BB",
+"tags": [
+"новости"
+],
+"img": "https://images.goha.ru/E:N2/AM/4QCCKihfQT.jpg",
+"source": "GoHa.Ru",
+"score": 1,
+"kind": "news",
+"words": [
+"youtu",
+"лобов",
+"сравн",
+"rdr",
+"двух",
+"игр",
+"rocks",
+"устро"
+]
+},
+{
+"ts": 1795268486.703371,
+"title": "Игроки GTA 6 показали Джейсона и Лусию с максимальным весом",
+"url": "https://www.championat.com/cybersport/news-6708264-igroki-gta-6-pokazali-dzhejsona-i-lusiyu-s-maksimalnym-vesom.html",
+"tags": [
+"новости"
+],
+"img": "https://img.championat.com/news/big/g/r/igroki-gta-6-pokazali-dzhejsona-i-lusiyu-s-maksimalnym-vesom_1795267612746598082.jpg",
+"source": "Чемпионат",
+"score": 1,
+"kind": "news",
+"words": [
+"весом",
+"лусию",
+"показ",
+"джейс",
+"макси",
+"игрок"
+]
+},
+{
+"ts": 1795268489.8822815,
+"title": "В титрах GTA 6 нашли упоминание \"Флоридского Джокера\", который грозился отсудить у Rockstar $10 миллионов",
+"url": "https://shazoo.ru/2026/11/21/194438/v-titrax-gta-6-nasli-upominanie-floridskogo-dzokera-kotoryi-grozilsia-otsudit-u-rockstar-10-millionov",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892403_peXP9sk_image.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"флори",
+"джоке",
+"грози",
+"упоми",
+"котор",
+"титра",
+"rocks",
+"милли",
+"отсуд",
+"нашли"
+]
+},
+{
+"ts": 1795268496.047381,
+"title": "Может ли крупная утечка GTA VI сделать игру доступной на ПК?",
+"url": "https://rockstarintel.com/could-this-major-gta-vi-leak-make-it-playable-on-pc/",
+"tags": [
+"слухи"
+],
+"img": "https://rockstarintel.com/wp-content/uploads/2026/11/image-9.png",
+"source": "Rockstar Intel",
+"score": 2,
+"kind": "news",
+"words": [
+"игру",
+"сдела",
+"досту",
+"может",
+"утечк",
+"крупн"
 ]
 }
 ],
