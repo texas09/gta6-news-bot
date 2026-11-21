@@ -11273,7 +11273,10 @@
 "c8432653c1091b50",
 "cbc144ddde69e968",
 "54706d1a2d838b11",
-"f54214c11b5d1f96"
+"f54214c11b5d1f96",
+"278d72586566cd70",
+"456f51c4498f30a4",
+"1638c82bf14a2ac1"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -11281,161 +11284,6 @@
 "tg_offset": 706329061,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795061472.8694527,
-"title": "В GTA 6 представлено невероятное количество уникальных NPC - 33 000 персонажей",
-"url": "https://www.playground.ru/gta_6/news/v_gta_6_predstavleno_neveroyatnoe_kolichestvo_unikalnyh_npc_33_000_personazhej-1891983#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"img": "https://i.playground.ru/e/3Pb4miLIWMRziuyPEOOm9g.png",
-"source": "PlayGround.ru",
-"score": 1,
-"kind": "news",
-"words": [
-"000",
-"невер",
-"колич",
-"предс",
-"персо",
-"npc",
-"уника"
-]
-},
-{
-"ts": 1795061478.3137653,
-"title": "Сообщается о сбоях в работе PSN: ажиотаж вокруг выхода GTA 6 достиг пика",
-"url": "https://www.playground.ru/gta_6/news/soobschaetsya_o_sboyah_v_rabote_psn_azhiotazh_vokrug_vyhoda_gta_6_dostig_pika-1891984#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"img": "https://i.playground.ru/e/id6It2cWiJUWnpm2hmjy-g.png",
-"source": "PlayGround.ru",
-"score": 1,
-"kind": "news",
-"words": [
-"ажиот",
-"вокру",
-"psn",
-"дости",
-"сообщ",
-"сбоях",
-"пика",
-"выход",
-"работ"
-]
-},
-{
-"ts": 1795061481.4620662,
-"title": "Стоит ли GTA VI того? Вот что говорят критики",
-"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMm5RcHA1ZkhnQm5oS0tIbW01VXBGU0Y2Uklwb19nX0lpYUhKQ3BRTENCTEJhOUdhaUVtV21HeldUaGpVbDNqaFJKY1VUbkI1SW55bWR4eVViTW1vWWxWdi1VVEltMW5Nd3ROUnNpXzFyQWphUXBDNGQtQUFTWVUyNkln?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "HackerNoon",
-"score": 0,
-"kind": "news",
-"words": [
-"того",
-"крити",
-"стоит",
-"говор",
-"вот"
-]
-},
-{
-"ts": 1795061484.6226778,
-"title": "GTA VI вышла: можно ли взять отгул ради игры и вправе ли работодатель отказать",
-"url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Kal9MSkc5TzRldF9mSDJiOThmVEhad3ctQkc0aHhUblFORUdxWVphaXlHQ2hfSFVfRktGQnA1a3pqUGZfTzZaalJ6TDAzRERwUWhiaThR?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "ФедералПресс",
-"score": 0,
-"kind": "news",
-"words": [
-"отгул",
-"ради",
-"вправ",
-"вышла",
-"можно",
-"игры",
-"отказ",
-"взять",
-"работ"
-]
-},
-{
-"ts": 1795061487.7866745,
-"title": "Я играю в GTA 6 уже несколько недель. Эти 12 советов помогут вам стать идеальным преступником",
-"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUFGLWNXV2x4ODRXQkVUT1Z1TW5PNDVyX0hvQ0UxUUhIYkhLeEp0SDVCdEh2RzlyX3U2U2NxZFFWN0R2Njhrd1d1eTFxdWxiZ0plbXJXOThjWVgyaGNBMS1WcXBDZ0IyenNPZlZPOEZldW1UeERnY3pEVHBnRHFHajEwOTZLOS1QWng1Y3JzVEw1bFpKR0ZLY0N3SlV3V1lwU2lwbXRaUQ?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "PCMag",
-"score": 2,
-"kind": "news",
-"words": [
-"эти",
-"совет",
-"помог",
-"стать",
-"идеал",
-"прест",
-"неско",
-"недел",
-"играю",
-"вам"
-]
-},
-{
-"ts": 1795061490.9385135,
-"title": "Сегодня день GTA 6! Итак… встречайте новый Lamborghini Temerario Spyder с двигателем V8",
-"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFVUY002RkltNlVfc3dZY1UxSzg1VXFISm9nN3h2Z0lDQWRfbDVMaGpqUllNX0NBb1dONUNsRVp2TnpfVkpuTzZTZGJMRjZuYm8yVkU4VXVnbl9xcFgyY0JWbW16WnFxS3VYR0NkQ05GZTg3a1kwSFZzX3dqbXh0YlpzM3BzU1lqYXBFNS16cTNzX1prRGhzQVhZeEJ4dU5KY20w?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Top Gear",
-"score": 0,
-"kind": "news",
-"words": [
-"новый",
-"сегод",
-"день",
-"lambo",
-"встре",
-"spyde",
-"двига",
-"итак",
-"temer"
-]
-},
-{
-"ts": 1795061494.0868583,
-"title": "В GTA VI нет привычного интернета. Rockstar объяснила отказ от особенности серии",
-"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbDBtcV9QbkFRdXFXa2c1NDZkUFd5bFFoVTU3WENBYmlwVktMRjk5SHRaWDMwa0FFUVZ6Zm5QaGlFVnBuQ0FKblB5SDh2NE1fTFNDZkNicVU4VVNFNkZxTnBTQ2t2dndZUEh2cmd5RzQ0bmdEZG0xSWZLQ1VIM2QtQXBJZktueXpRTlI1Z3JUSDFiZ2xIT1pzZmpxZ2piLVNDZGRSMW8zaHFpdTNOMWgyOXVuM1JUSU9fNTlIcllB0gHDAUFVX3lxTE15Ym9RQlBVWHowem5OUlI1N3QyOVZRTUV5TXJFNk81TzEwNEVxUkxmd0txSEllaHNGQzhlZ01kYTdaQms1NUtSemRkWHNOU3FKNUtkSUNQYTBWb3ppTk4yY1VKUmhPRmp5ckttMHpnZkl2aTNwVW9KbGtsOHE4bVFkd3BEMU1vM0NKNFRZUUFSMlA5RVRVSVBmSXozUktoc1R6Q3hEcmhYQ0FQcTJ3alg5NlVUTXJwM1dELXQ1ZWVwaVlLOA?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "iXBT.games",
-"score": 0,
-"kind": "news",
-"words": [
-"интер",
-"особе",
-"отказ",
-"нет",
-"серии",
-"rocks",
-"привы",
-"объяс"
-]
-},
 {
 "ts": 1795063866.4634087,
 "title": "«Пасхалки» в GTA 6 на сегодняшний день: находки фанатов в трейлерах и подтвержденные Rockstar факты",
@@ -21970,6 +21818,31 @@
 "машин",
 "слуша",
 "музык"
+]
+},
+{
+"ts": 1795234865.2287498,
+"title": "Анализ производительности GTA 6 выявил на 2270% больше просадок FPS на PS5 по сравнению с Xbox Series X",
+"url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGc2c3loU3VrNFlYR2JUZy15aC15SXdRUUVyV0liSnFoQzUzdndqc2hTd3B5NEw3RW9zUllZM2pISkxyRjkyWEFpT0RLQnd0TklGVGZ1ZE43eThaMzJjeWRuMnI3ZDM5czB3cndlMlhYd1habzZzbDJId1ZLMWE2UnFwSGNjTGhid0ptSUJNbzZiWGRNeUg4X0otN3pueThkYXNMajVIdnIzTU05V0syenFISVkwVGtnQXJxcDluLVpvSFNWRXBoUWprLVBKUQ?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "GameGPU",
+"score": 2,
+"kind": "news",
+"words": [
+"ps5",
+"больш",
+"анали",
+"xbox",
+"fps",
+"произ",
+"2270",
+"проса",
+"выяви",
+"serie",
+"сравн"
 ]
 }
 ],
