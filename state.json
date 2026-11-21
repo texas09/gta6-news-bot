@@ -12410,12 +12410,18 @@
 "078036290d9ed747",
 "98c22cad0d8599fc",
 "98c22cad0d8599fc",
-"cf720b7f348127e0"
+"cf720b7f348127e0",
+"63a8181ecd9c05a8",
+"1417fd893c71475b",
+"9e22c175877bb3da",
+"fe768abb03add033",
+"bb680c48b403ff74",
+"5b2f6e224fed0f5b"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329285,
+"tg_offset": 706329287,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -25534,6 +25540,46 @@
 "metac",
 "оценк",
 "упала"
+]
+},
+{
+"ts": 1795281680.631837,
+"title": "GTA 6: Возвращение домой: прохождение",
+"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBud3J5YlZjWDJWWUc3eEhpNkliMFVfRmxQT0MwUm1WMGEyTEJpRTk1eDdsZmxoRXJlMy0tNWNHMkRBOF9XT1JYRi00WFlSemRUaXlCcjh1V2hPbmVNOE5zOV9sZG05QQ?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Eurogamer.net",
+"score": 2,
+"kind": "news",
+"words": [
+"возвр",
+"домой",
+"прохо"
+]
+},
+{
+"ts": 1795281688.836431,
+"title": "Энтузиасты довели покрытие библиотек в эмуляторе Xbox Series X|S до 97% и разобрали шейдеры GTA 6",
+"url": "https://www.playground.ru/misc/news/entuziasty_doveli_pokrytie_bibliotek_v_emulyatore_xbox_series_x_s_do_97_i_razobrali_shejdery_gta_6-1892788#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/qq34pf4I6KtLkedKahgSOw.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"покры",
+"xbox",
+"довел",
+"библи",
+"serie",
+"разоб",
+"шейде",
+"эмуля",
+"энтуз"
 ]
 }
 ],
