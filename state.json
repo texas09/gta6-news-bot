@@ -12035,12 +12035,30 @@
 "a408a16fa232e099",
 "7b8169f35fe7dc97",
 "7b8169f35fe7dc97",
-"4b408625c7ac1615"
+"4b408625c7ac1615",
+"6f2e972953271246",
+"ce21a11019ff97b9",
+"26cede2828c03343",
+"5c1f2e27af54dbcc",
+"27261306c0ea7dc2",
+"b5ff3405d86906d8",
+"58e49b6c235b1644",
+"a3d517cc266668fa",
+"bc48ef00f2de8769",
+"90c15cee7430baf3",
+"c1e7a7ffc2d17886",
+"9c6ddbba51bf7adc",
+"70385d0ffe5d78a3",
+"c076364f1350f666",
+"c44fa70753e83375",
+"2b0749aa2dd4c4c7",
+"5b36f04ef9199033",
+"b75d18d45617ea59"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329191,
+"tg_offset": 706329201,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -24353,6 +24371,31 @@
 "клайд",
 "главн",
 "фильм"
+]
+},
+{
+"ts": 1795262514.8784158,
+"title": "Как выжить в Vice City: 14 советов по GTA 6, которые помогут вам построить свою криминальную империю",
+"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeFRfMDYtaER6cFVISHVTWlFnWjZrVHg0X3B6QkJTLVZkS0otdGdITTdOU0pOUEhqeUk3SVRkZE1FLUQyUDloeG5RR3ZtTVRfb3dEdUhoQ3VLOHFuazJMVUtZMFNyWWpvNTkzd1ZlSmN6UGd1ZWk0RXlVbWlmYnlUdGRIV1dVU3dBbXYzWkxITzg3dWtPR0FFWktJdW5rM3EwZjA4?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "PCMag",
+"score": 2,
+"kind": "news",
+"words": [
+"вам",
+"свою",
+"city",
+"выжит",
+"помог",
+"vice",
+"совет",
+"котор",
+"импер",
+"крими",
+"постр"
 ]
 }
 ],
