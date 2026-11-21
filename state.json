@@ -11138,7 +11138,25 @@
 "3b73a32984c41a44",
 "68568fa319868a72",
 "fbe0c9247e55d8ae",
-"3e2b769b216e4d82"
+"3e2b769b216e4d82",
+"33441f083aa60df8",
+"e1ba3a91112131eb",
+"a969482f2a46d645",
+"787ecc6956cc068f",
+"c8cf02db9caff94b",
+"d08a0555c9119b6f",
+"c9b22dd58c2d8842",
+"0d9bf2b9028de254",
+"2ee1b444f7bd6845",
+"d5d8ed3702f957fb",
+"dd7a41c628a1ee5f",
+"1eb5dadb539efb19",
+"14a8b32b9f92d3f1",
+"f3f24394e403763f",
+"92df09da6a684d22",
+"e7aac293a027027d",
+"b48530dbb6d35e73",
+"1474f2c4c3126278"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -21277,6 +21295,110 @@
 "ограб",
 "бей",
 "хвата"
+]
+},
+{
+"ts": 1795227673.0203705,
+"title": "GTA VI оказывается слишком требовательной для некоторых консолей PS5 даже при 30 кадрах в секунду",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3ppYXBrUmpwelhSX0lWX1E1RmgxRzFPcTdrdDMyNC1ZWU4xalNhYUZnbm5XRmhBd19qVzNnel92YXRHM0xhLW1KaVpSYkoweFNvTWhsbkNGZHBBT1Z3c2REdU9LM0Z1NFhQVjBoaFA2bW8tLWZva1VLbEpYZzVlU1BaZlgxczlRVWI4Nl91NWlJdkFEUWhsWnd5Z2lJV3FO0gGmAUFVX3lxTE02NS1TNUducE91RGpnN1ZzXzBtOFpLS0pyYzJuR2wtWUswbG9oLWxJdklYdWEzdW1YTFdXS0dlQzY5TnROZ1RGRWZTX25YZGptMGNpR2YtZ3VLSkMyS3lnaU02MExXRmJUNDVGZU85NUZ6RVRjQkM5V05oODBrRFc0RWUwdVM3UVg0a25Mcnk4NDJqVmRhSUpMUTZGcV9uNjlKUjJtNEE?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "TechPowerUp",
+"score": 2,
+"kind": "news",
+"words": [
+"консо",
+"некот",
+"оказы",
+"требо",
+"слишк",
+"кадра",
+"секун",
+"даже",
+"ps5"
+]
+},
+{
+"ts": 1795227676.205433,
+"title": "Все казино в GTA 6 и как играть в азартные игры",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV29sdEU1VThNdFBBTVF1ZS1xeUVJSmlYTEdMODBPeEhSVmZpQzN3dldhd29rLU0xQ3FtcFdhR1FfTXdhdnZHYVlQNnpVV0gtUlFONnVfYTNfOXVvOXVsTjF4d2RHZHdHWFotWHJqWmphTTlVUzFLVEZVUnJyYXRYbWw3R3FTT1NsUzhUMHVmbnlrek0?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Esports.gg",
+"score": 2,
+"kind": "news",
+"words": [
+"играт",
+"игры",
+"казин",
+"азарт"
+]
+},
+{
+"ts": 1795227679.3960278,
+"title": "Владельцы PlayStation 5 столкнулись с ошибкой CE 108255 1 в GTA VI после обновления прошивки",
+"url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRU9jeG45ZnZ6TFRnWm1lcE42X092SG1xZC1aNTJfXzRCWWZ2QTdmOFplaDBaMmJQSHJCVXRrNFJkV2ZsaUEzNVNDUXBVelZmZ240Q0tNaEQtNjJtUjAyVVdqTHNoX3dCcVM5LXBCU3lwVkxtZ05zRUVUVExfOEdpanV3NzRzQlpZbDJNcWJlRjN1ejRFalVfcnRCckttZWdhZ0xUT3dWVTJSVXJoamR0eU56dV9FNFJ6RVJoUUFRLW1Wdw?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "GameGPU",
+"score": 3,
+"kind": "news",
+"words": [
+"после",
+"plays",
+"владе",
+"столк",
+"ошибк",
+"проши",
+"обнов",
+"10825"
+]
+},
+{
+"ts": 1795227682.7829494,
+"title": "Прохождение GTA 6 «Проверка»: объяснение главы 2 «Точка невозврата»",
+"url": "https://www.videogameschronicle.com/guide/gta-6-checking-out-walkthrough/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Checking-Out-Walkthrough-5.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"невоз",
+"объяс",
+"точка",
+"прове",
+"прохо",
+"главы"
+]
+},
+{
+"ts": 1795227686.4277515,
+"title": "Прохождение GTA 6 Thrillbillies: как победить в гонке Билли на кроссовом мотоцикле",
+"url": "https://www.videogameschronicle.com/guide/gta-6-thrillbillies-walkthrough/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Thrillbillies-5.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"билли",
+"кросс",
+"thril",
+"гонке",
+"побед",
+"прохо",
+"мотоц"
 ]
 }
 ],
