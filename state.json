@@ -12476,12 +12476,21 @@
 "9c743880b360ea61",
 "a4ed677e0ddef602",
 "fb40c53a9e776d96",
-"38aa8ed2dbf01fb0"
+"38aa8ed2dbf01fb0",
+"df10736443fedb5d",
+"61e2be6374d22e9c",
+"ed3beaf55bdffc60",
+"f57c0c87ec53ccc8",
+"df564483fe8d877b",
+"92567c7305ab6430",
+"8b5c8586b7bf5880",
+"f872e99f7f72c299",
+"8533b4e3262ce224"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329303,
+"tg_offset": 706329306,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -25790,6 +25799,42 @@
 "режим",
 "получ",
 "fps"
+]
+},
+{
+"ts": 1795285280.5157669,
+"title": "Вот как украсть BF Bandito для Моисея в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jUUYwSzlLYzd4WnowSVZnSEd0cGdQNWFoX0M4ZVVXWHNjNWNtN2JPcnl3TVJJQnBaanV2aWVlREYxdmIwWU9rSUgzS1UtamJZLURxUklqWUVaQUtCT3Yybm5wa3Fvbl9KUXJreGFZS1pha3ZBdTJrLUtxNDFIZw?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "PC Gamer",
+"score": 2,
+"kind": "news",
+"words": [
+"вот",
+"украс",
+"bandi",
+"моисе"
+]
+},
+{
+"ts": 1795285283.7331748,
+"title": "Проблема с деньгами в GTA 6 – как получить неограниченные деньги",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5td0V5eEJmN2xQTUxMZ3huVlZ0U0FMNnFXSHJlUzJyNW5FbHJLbkt0dDRmV1AtaTd4UjVNX2xQRXRhM0Vzb3BkVE9vVzJqNTNCVVRzTWxWZjVyWDJORXpxeA?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "VICE",
+"score": 2,
+"kind": "news",
+"words": [
+"деньг",
+"получ",
+"неогр",
+"пробл"
 ]
 }
 ],
