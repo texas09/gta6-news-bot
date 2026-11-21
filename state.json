@@ -11843,7 +11843,25 @@
 "39e94f95e6949c49",
 "7192d160b16f3cb1",
 "c16c3295aad4d970",
-"0d2f29e2bda48c87"
+"0d2f29e2bda48c87",
+"afafce7f8afdc237",
+"7e889b1daa7bd9c2",
+"2fab666453f4d98c",
+"db805fbc15fc4752",
+"26eafd3a3c5d837b",
+"34922d9aa4d2ce82",
+"f7d8f57e29e19a33",
+"d453e4abc1bebe2b",
+"cdfb439e88e234bc",
+"2aaf55eebe09a010",
+"2aaf55eebe09a010",
+"8e0e71cd7ae44d2d",
+"d3b4f93cfc0cff12",
+"d3b4f93cfc0cff12",
+"dd0b62fca1983427",
+"721cd572f9b2b750",
+"721cd572f9b2b750",
+"98e2b4cf2368bec9"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -23531,6 +23549,77 @@
 "разбл",
 "serie",
 "quick"
+]
+},
+{
+"ts": 1795255880.4886816,
+"title": "После угроз иска на $10 млн «Флоридский Джокер» озвучил собственного двойника в Grand Theft Auto 6",
+"url": "https://www.goha.ru/posle-ugroz-iska-na-10-mln-floridskij-dzhoker-ozvuchil-sobstvennogo-dvojnika-v-grand-theft-auto-6-xqZj7w",
+"tags": [
+"новости"
+],
+"img": "https://images.goha.ru/E:D3/IU/BL6b2u3FVk.jpg",
+"source": "GoHa.Ru",
+"score": 1,
+"kind": "news",
+"words": [
+"млн",
+"угроз",
+"собст",
+"флори",
+"после",
+"двойн",
+"озвуч",
+"иска",
+"джоке"
+]
+},
+{
+"ts": 1795255883.6672227,
+"title": "Около 1 000 разработчиков GTA 6 работают в Rockstar не меньше десяти лет, хотя GTA 5 вышла 13 лет назад",
+"url": "https://www.goha.ru/okolo-1-000-razrabotchikov-gta-6-rabotayut-v-rockstar-ne-menshe-desyati-let-hotya-gta-5-vyshla-13-let-nazad-lKL31V",
+"tags": [
+"новости"
+],
+"img": "https://images.goha.ru/E:Mn/wJ/lYLJwn5XYY.jpg",
+"source": "GoHa.Ru",
+"score": 1,
+"kind": "news",
+"words": [
+"вышла",
+"назад",
+"000",
+"работ",
+"разра",
+"меньш",
+"rocks",
+"десят",
+"хотя",
+"около",
+"лет"
+]
+},
+{
+"ts": 1795255886.9451985,
+"title": "Босс CD Projekt RED назвал GTA 6 шедевром, а Warhorse попросила не связываться со Средневековьем",
+"url": "https://shazoo.ru/2026/11/21/194417/boss-cd-projekt-red-nazval-gta-6-sedevrom-i-snial-sliapu-pered-rockstar",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892423_xrKJv1x_123.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"попро",
+"связы",
+"red",
+"proje",
+"средн",
+"босс",
+"шедев",
+"warho",
+"назва"
 ]
 }
 ],
