@@ -12380,12 +12380,15 @@
 "3130be797d3d1c10",
 "5ee23199e5a6fb61",
 "3a84e4359f8416ec",
-"2c344e3f22bdb5cc"
+"2c344e3f22bdb5cc",
+"a53c5b93f6c78378",
+"420bde4c136d7a7b",
+"0747f3abfe235acc"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329267,
+"tg_offset": 706329281,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -25587,6 +25590,28 @@
 "непро",
 "самое"
 ]
+},
+{
+"ts": 1795278713.5951416,
+"title": "Как разблокировать глушитель красителей в GTA 6, чтобы наконец украсть помеченные купюры",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVJSMDVTdzcxU0Z4Q3VWbHNyWElqNFd5Z2VobHBiaEwzVkcwRjVSaUFFdWNQdnkydl9pM004QzJrODBMZm1WWHk3UFhNQm5fejNsaVRGVndvWkxOYzZCZFQyRlk3LUo2YVViUGdWSmJHclRtNm1jdTZPYUhselhaR2dVS1ZiZVdnX3hLLWxYNA?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "GamesRadar+",
+"score": 2,
+"kind": "news",
+"words": [
+"глуши",
+"помеч",
+"разбл",
+"купюр",
+"украс",
+"чтобы",
+"краси",
+"након"
+]
 }
 ],
 "digest_date": "2026-11-20",
@@ -25600,5 +25625,5 @@
 1795222910.1561525
 ],
 "group_id": -1003664956927,
-"group_checked": 1795256438.078787
+"group_checked": 1795278656.2320569
 }
