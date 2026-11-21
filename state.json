@@ -12704,7 +12704,13 @@
 "a625ec6cb0a328b7",
 "a5d42fccbe1fe736",
 "fa90127ba2c0950b",
-"33169aa11077b332"
+"33169aa11077b332",
+"e89cf292097c27d0",
+"8e56527dad60e839",
+"69a868660232ee30",
+"832dd84f560fe10a",
+"4b14a8193d3f4fd8",
+"40244f138c798494"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -12712,136 +12718,6 @@
 "tg_offset": 706329363,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795122682.609354,
-"title": "Печально известный лидер GTA 6 CyberLeek вернулся, и на этот раз группа утверждает, что слила полную версию игры для разработки.",
-"url": "https://www.eurogamer.net/cyberleek-gta-6-dev-build",
-"tags": [
-"слухи"
-],
-"img": "https://assetsio.gnwcdn.com/gta-6-jason-against-fence-with-cops.jpg?width=690&quality=85&format=jpg&auto=webp",
-"source": "Eurogamer",
-"score": 2,
-"kind": "news",
-"words": [
-"игры",
-"раз",
-"групп",
-"верси",
-"разра",
-"утвер",
-"верну",
-"лидер",
-"cyber",
-"этот",
-"извес",
-"слила",
-"печал",
-"полну"
-]
-},
-{
-"ts": 1795123273.6445618,
-"title": "Транспорт - GTA 6 Руководство",
-"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zU2FPX0xaNk9SMnZIcXhCM1U1RGlOX0FjZ0lIVlc4eFVpN21yTlVfWGVHVkw2cFNRVWlXU3kxSkJqSUVMMEh3Q20za1I3M2h0b1E?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "IGN",
-"score": 2,
-"kind": "news",
-"words": [
-"транс",
-"руков"
-]
-},
-{
-"ts": 1795123276.8812408,
-"title": "GTA 6 будет реже наказывать за нестандартный подход к заданиям",
-"url": "https://shazoo.ru/2026/11/19/194294/soxranit-missii-v-gta-6-maksimalno-otkrytymi-bylo-gorazdo-sloznee-no",
-"tags": [
-"новости"
-],
-"img": "https://cdn.shazoo.ru/892041_ZkgwQHO_hxz51btwmaexc6m.jpeg",
-"source": "Shazoo",
-"score": 1,
-"kind": "news",
-"words": [
-"реже",
-"неста",
-"подхо",
-"задан",
-"наказ"
-]
-},
-{
-"ts": 1795123281.2730386,
-"title": "GTA 6 Dog Who Saves You, похоже, основана на очень крутой собаке из реальной жизни",
-"url": "https://www.gamespot.com/articles/gta-6-dog-who-saves-you-is-seemingly-based-on-a-very-cool-real-life-dog/",
-"tags": [
-"новости"
-],
-"img": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA_862f42.png?w=300",
-"source": "GameSpot",
-"score": 1,
-"kind": "news",
-"words": [
-"you",
-"собак",
-"жизни",
-"круто",
-"реаль",
-"dog",
-"saves",
-"who",
-"похож",
-"основ",
-"очень"
-]
-},
-{
-"ts": 1795123284.4434237,
-"title": "Отчет: GTA 6 принесла почти 2 миллиарда долларов продаж ко дню запуска",
-"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb1R6VXFybDQyQVdHU3NwTHZ5YTBJQldvWU53YlY1a2R1WVZ4ZHBtazVrQlc4VWhfaXJMRmM1NUpHeWtmX2xHMVhielhmTnhBaE1GYlpfM1JlbEdoZEl6WENjZHZnbUtSVDFIOHc4LUJFNURJV3hyS0VZeE1iMHJoY1RuUTk0WXRr?oc=5",
-"tags": [
-"слухи"
-],
-"img": null,
-"source": "80 Level",
-"score": 1,
-"kind": "news",
-"words": [
-"долла",
-"прода",
-"дню",
-"отчет",
-"прине",
-"милли",
-"запус",
-"почти"
-]
-},
-{
-"ts": 1795123287.6068635,
-"title": "32 полезных совета для первых часов в GTA 6 без спойлеров",
-"url": "https://shazoo.ru/2026/11/20/194352/32-poleznyx-soveta-dlia-pervyx-casov-v-gta-6-bez-spoilerov",
-"tags": [
-"новости"
-],
-"img": "https://cdn.shazoo.ru/892200_jrdsXB3_gta-6.jpg",
-"source": "Shazoo",
-"score": 1,
-"kind": "news",
-"words": [
-"без",
-"полез",
-"спойл",
-"первы",
-"часов",
-"совет"
-]
-},
 {
 "ts": 1795123291.2414045,
 "title": "GTA 6 показывает, почему вам никогда, никогда, никогда не следует писать сообщения и водить машину (никогда)",
