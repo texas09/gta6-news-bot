@@ -11888,12 +11888,63 @@
 "ce16593da9b9bf2e",
 "909addd7dd31b9dd",
 "d7fbc28db09e3678",
-"bad33e9b00493f34"
+"bad33e9b00493f34",
+"75e3d1eb2eb907de",
+"26c03e4f44d9b19c",
+"e2ef8e43501a77fc",
+"74329660b11d72bb",
+"fd19b67ce57c49bb",
+"0a5a76984281a11a",
+"079a7d52c13368d8",
+"0693c93d02cfc369",
+"9d6bf7b5f87918bc",
+"2f00fcadf0eb1e5c",
+"7bbec1ee55ece4ef",
+"568ed98b387c241b",
+"ee6987831c39d52d",
+"43d27753f48b4b70",
+"4327de759e29b840",
+"6f4520ee8384759c",
+"e9247b761c58cdb0",
+"9fad106a632fa65c",
+"eb34ded6c0a03e89",
+"eb34ded6c0a03e89",
+"9682bedbfc9ad257",
+"8baf133ca9c5b157",
+"ce66f7d9d18fb55e",
+"8ca300cad6cd7455",
+"6c7ca0c4968d7a0a",
+"08a25743c1b04ae4",
+"3fcc0a9758ef4539",
+"cca90578d8157c9d",
+"42504c1d169f5b5b",
+"ac37d18948f3f134",
+"c1a1739037beed22",
+"aeae49cee9e4e2e3",
+"97f24a09281f9160",
+"c6132acc1bb8e7d7",
+"3ad46d61231ca4b8",
+"2ef4e4bdf3a176c2",
+"3c267715f022d8a8",
+"2110cf759c26b980",
+"f0dd6a809d250768",
+"d8a8255e396ec273",
+"da5ea5b609c5bab0",
+"b37900908605de58",
+"baa0257560a0e542",
+"8ceccaf0ba63257d",
+"2774cf171388aaad",
+"748fd191d55f253a",
+"6021dc41f60563d5",
+"38786754c02052aa",
+"69901326de128c9f",
+"7d64e2e3e2de09c7",
+"85f22b2f732f8868"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329167,
+"tg_offset": 706329170,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -23713,6 +23764,249 @@
 "геймп",
 "neura",
 "сразу"
+]
+},
+{
+"ts": 1795257683.4996784,
+"title": "Это не та GTA 6, которую вы ищете: страница игры появилась в Steam, но вам лучше держаться от нее подальше",
+"url": "https://www.goha.ru/eto-ne-ta-gta-6-kotoruyu-vy-ishhete-stranica-igry-poyavilas-v-steam-no-vam-luchshe-derzhatsya-ot-nee-podalshe-lOmP9p",
+"tags": [
+"новости"
+],
+"img": "https://images.goha.ru/E:N2/HN/4mpQ0jOY65.jpg",
+"source": "GoHa.Ru",
+"score": 1,
+"kind": "news",
+"words": [
+"появи",
+"стран",
+"подал",
+"вам",
+"нее",
+"лучше",
+"игры",
+"котор",
+"ищете",
+"steam",
+"держа"
+]
+},
+{
+"ts": 1795257689.7410119,
+"title": "CYBERLEEK снизил требование к капитализации криптовалюты до $6 миллионов для ранней публикации EXE-файла GTA 6",
+"url": "https://www.playground.ru/gta_6/news/cyberleek_snizil_trebovanie_k_kapitalizatsii_kriptovalyuty_do_6_millionov_dlya_rannej_publikatsii_exe_fajla_gta_6-1892677#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/5FAKqZRUl5SB0swzaTtolw.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"exe",
+"cyber",
+"требо",
+"снизи",
+"ранне",
+"публи",
+"файла",
+"милли",
+"крипт",
+"капит"
+]
+},
+{
+"ts": 1795257692.9362187,
+"title": "Самое интересное за неделю: GTA 6 наконец-то вышла, в Россию привезли линейку Xiaomi 18 Pro",
+"url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLWFJUGZmMXVoWnZmM0JTaEExZGdzbGNmaTQ3Qy1nMDdNanVDeWlOWW56WnBDQ05JRWdrQTY1eV9QakVrUHJkOXVWQ3NLcGpFRUpHcDNfMVBodjVDa0xpNmlScV9NMHc0S2JnY0swbDRhaUdwVGZzcHNVVzZ6UW5hY0RxcDZiNjNzcDVZZHRVSktTNTdVVGRFUnNEVFh5WmVvZWVXSmVpRzhCNnpZWndJZHVqMDdIVkNXOGtSM2o0T3Q2Zw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Журнал CHIP",
+"score": 0,
+"kind": "news",
+"words": [
+"pro",
+"након",
+"самое",
+"интер",
+"приве",
+"недел",
+"вышла",
+"линей",
+"xiaom",
+"росси"
+]
+},
+{
+"ts": 1795257696.1205769,
+"title": "GTA 6: Рекордные $3,79 млрд за сутки. Как новая игра Rockstar Games превзошла «Мстители: Финал",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOE0zYkxoSk4xNkc3aW85Wm01SVJIVWtEZWVFY1VUb2U2TDRkM01BUEV4SjRJV2ZoX1IyZm41cU9wMzY0bUxHbEJTWVIyV3hRQ3FvNDhFazVaZzNUUHYwOHp1bGdHQmZuREFYNlg5TFVqWTM3eEZGaHNvV2tPVGhXdUI4MHhFVUdlaFNGZnQydXFiQ0xpM2xDcks3cENaYTZ4c3ZoX1EyVQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Carexpo.ru_ все авто на одном сайте",
+"score": 0,
+"kind": "news",
+"words": [
+"млрд",
+"превз",
+"сутки",
+"rocks",
+"рекор",
+"новая",
+"игра",
+"games",
+"мстит",
+"финал"
+]
+},
+{
+"ts": 1795257699.3320005,
+"title": "9 лучших вещей, которые стоит сделать за первые 10 часов игры в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGxZcnZ3VThlOGN4ZU1kUWUwTkl2cm9zYTFaaUJNXzItNHRwQ250OTluM3ZiTVFPclFiOVRxSzhvaUI4T1pGX29tSEczSW5aYm5TcXdUOE8tZzN0Vms5VGdKT1BPaVRSNi1NSGhZOUpnZWlvS2VGdGZwQUN6SzNrV29BemNKbXhaUk1DRA?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "GAMINGbible",
+"score": 0,
+"kind": "news",
+"words": [
+"первы",
+"сдела",
+"часов",
+"стоит",
+"игры",
+"котор",
+"вещей",
+"лучши"
+]
+},
+{
+"ts": 1795257702.5080156,
+"title": "«Маленький Сэм» из GTA 6 очень похож на Сэма Хаузера, и Rockstar наслаждается этой загадкой",
+"url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUTYyZkMxaHN3VjN1dWRsb0dmYWZYRHBTSGJ4MUxOc1FGT3otN1Q5bjItS0pvZ19EczQ5VG8yYTYwcXNxWG1QSlZUcWc3ME5LRkUyUVJFWHpPYWVnOTNjcDBESmpnaExmdXVJSHV1YzFuZWRGcktDNlBRbmRBZjdYU0FMX29EQzhYTVk5VF90b0xpcnRyOXhaMTFObVRHMEFRN1NfbkNNb3dXOW9JVW1LNmFSSGQ2eXUwUFpSMFJhR3AtMDRBSUVB?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Notebookcheck",
+"score": 0,
+"kind": "news",
+"words": [
+"хаузе",
+"очень",
+"загад",
+"мален",
+"похож",
+"rocks",
+"насла",
+"этой",
+"сэм",
+"сэма"
+]
+},
+{
+"ts": 1795257705.6727808,
+"title": "GTA 6: стоит ли Scooter Bros Premium своих денег?",
+"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX0lMdDhYSXpib1pOUWVoT0U1OEFsYzBQRjNHNDBVYkRmbk5lRTNuVlhPU2Zwa1FZTVZnQnF1NG5GQWwzckEyUjdxOGZjbXBNcnNjOWVhLUFiS3JweVJ3ZC0zT0xVR1dwcXJDSFFOZVVra016TlVGbVNRYU9RUkdvTA?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Cultured Vultures",
+"score": 0,
+"kind": "news",
+"words": [
+"scoot",
+"денег",
+"стоит",
+"bros",
+"своих",
+"premi"
+]
+},
+{
+"ts": 1795257708.8434255,
+"title": "Глава МВД Германии поблагодарил GTA VI за спад интереса к протестам",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDdHSWhhX2owc1BPN2R4U0tyUG1IazY4TVJZZzlpN2U2VWFNbFdiQktISTl4bVlaYk9tTUw3aVJSWTQ1UF90LTRZbVlidW85STJMRmFHZXFNR3JteGpSUzFwYkpnUFgyQlRiU3Eydjd5d2JxTGI2aGdQdFoxUHBuQk9tOW8wR1BpRlZzdHBLNGUtVENsNjZpNHpn?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "RTVI",
+"score": 0,
+"kind": "news",
+"words": [
+"глава",
+"интер",
+"мвд",
+"герма",
+"спад",
+"побла",
+"проте"
+]
+},
+{
+"ts": 1795257712.012395,
+"title": "GTA VI вызвала настоящий бум в Индии",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2RFdGFEZXl1WVNmSmk1Nm83dmVyejU3X0VGZHdfM3d6MFVSRmx2T054WmdSSGMzTW9YaHJnMERKYmFrd09RVW9BQVZ0SmtXazY2dGdUVWc3RGhGNVk1STREUFpSSVNDRmFUZkE0am1PU2JaNzhIS2RJNklmS19VbWdBdlFCXzk1WUE?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Большая Азия",
+"score": 0,
+"kind": "news",
+"words": [
+"насто",
+"вызва",
+"бум",
+"индии"
+]
+},
+{
+"ts": 1795257715.2028334,
+"title": "Veyra 2.2.0 расширила возможности запуска GTA 6 на ПК через PlayStation 5",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTQxaHYxcGlNTXA2SGZOUV9iWEpaaXQxcDM3ZjVoWjNnS2MyZldvejJua2NsdHlDcmVyaGFEclhhcUZlMzlNajZScDJEQVZlYjYtUzhpRGc5TFVEYURxQ0xBVkdFTzgwS082VDJZQWFBdWJ2YWFkMm9TR2gzUndvUXAtUFFnR0RpQmtWZHgyMTdTNlNKdEdwTzloSmwzZnprbFREMWJkNjd6Zw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "GameGPU",
+"score": 0,
+"kind": "news",
+"words": [
+"запус",
+"расши",
+"veyra",
+"plays",
+"возмо",
+"через"
+]
+},
+{
+"ts": 1795257718.3729997,
+"title": "Жар по поводу GTA 6 вызвал всплеск поисков рейсов в Майами",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUUUwemNxLWVOZE5LQ3lGbEtxZUljdVg0UmxYWDlXNGZ4Q3cyd3pNczNxSkxrZU1oa0tVN0VZNy1CMzZlX0F0U282ekZxbjJfdjFxaDN2ZElPQm9lVkVINjh3Xy1YOXFtb3NZSC14eTdEWFJrWmxvMWQ4WmJOdmFjMThISkNONlk4UmhzU1BtVlFzS1B0UE9XRXFn?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Business Insider",
+"score": 0,
+"kind": "news",
+"words": [
+"поиск",
+"рейсо",
+"жар",
+"вызва",
+"вспле",
+"майам",
+"повод"
 ]
 }
 ],
