@@ -12071,56 +12071,17 @@
 "0a23d3f52f0fff98",
 "bb9c70c2a42aa5aa",
 "bb9c70c2a42aa5aa",
-"79e249db3ad2bdf7"
+"79e249db3ad2bdf7",
+"42f031a2f4c3d031",
+"37ced16070906ddf",
+"d6c8e536ac2a5d18"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329202,
+"tg_offset": 706329206,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795091506.0687222,
-"title": "Обновления запуска GTA 6: размеры патчей, версии и даты выпуска",
-"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOQjQ3SXpQNUdMQXFOemRjSkFfc2huSGE5dDdKdUJRQW9seUJ3Nm12SktXQ2dNNUJVb2VvaTdLem0tek81WHdPVG5hR01WWms3djBZVk5MS1QxVnVYRlNjX1U5dThUQQ?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "Red Bull",
-"score": 3,
-"kind": "news",
-"words": [
-"даты",
-"выпус",
-"патче",
-"запус",
-"верси",
-"обнов",
-"разме"
-]
-},
-{
-"ts": 1795091509.7681847,
-"title": "Как найти Lucky Dog в GTA 6 — секретное местонахождение собаки на гидроцикле",
-"url": "https://insider-gaming.com/how-to-find-lucky-dog-in-gta-6-secret-jet-ski-dog-location/",
-"tags": [
-"гайд"
-],
-"img": "https://insider-gaming.com/wp-content/uploads/2026/11/gta-6-lucky-dog-location-1024x576.png",
-"source": "Insider Gaming",
-"score": 3,
-"kind": "news",
-"words": [
-"место",
-"dog",
-"секре",
-"гидро",
-"собак",
-"найти",
-"lucky"
-]
-},
 {
 "ts": 1795094499.4900463,
 "title": "«GTA 6»: Как использовать говорящего попугая, чтобы найти тайник с деньгами",
@@ -24330,6 +24291,23 @@
 "сына",
 "нашли",
 "майкл"
+]
+},
+{
+"ts": 1795264869.5726817,
+"title": "Как правильно выбрать консоль для GTA 6",
+"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWZ5ZUpZanZ4V21ETEFleXBkVmNhSXJiQ3dIeWNiZVVZQlhRN1I1LTg3TjBEMEo3WDgxM2c0SHljVjROa3R2Ym9QWUllTmdJRXV4NXNUZEZPN0hVM1JhRE9iQlQ1NDFGSmxjRTVseHRvRFY1MWM3YWloS3lwSjZGbdIBgAFBVV95cUxNc1B1WHBGN01TUnoyc2pEV0VEcnJNdmhwYS1NMmIyQWxvWEhSYTFycy0zVGd2UWNrZk9sTV9CTUhEdmQ5ck5yZXNuM2tUeUJWMklLX05RVzNtMTBGY2hKcXN0STFGd08yaXJPNDFWWklPdHBzUTRMSXNPb2NRMXExeA?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Qazinform",
+"score": 2,
+"kind": "news",
+"words": [
+"выбра",
+"консо",
+"прави"
 ]
 }
 ],
