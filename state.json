@@ -11213,7 +11213,25 @@
 "38daeb30a77902a1",
 "c5629e3436fa90ae",
 "8d4fe2021303bb93",
-"740e46be04ba0a05"
+"740e46be04ba0a05",
+"78e108e5427f92ed",
+"5f4dcd10dc163625",
+"05d67335ede61ae6",
+"fa19f61ecf653ce2",
+"4bb4f759c71061d4",
+"caee5282bc427f76",
+"da34062d43093e46",
+"156c4240e7dfbda1",
+"d29cee7d5927cf3d",
+"0514e26408ed408b",
+"c4f53b4d9fb88027",
+"3e247cab6575f329",
+"863542ed3028da81",
+"863542ed3028da81",
+"e93dd89c3153d2d1",
+"17a4ef87c77712f1",
+"5dc536bf63f568b6",
+"3f004d606b194a18"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -21566,6 +21584,115 @@
 "секре",
 "радио",
 "посте"
+]
+},
+{
+"ts": 1795231930.6851234,
+"title": "GTA 6 — Как найти пасхальное яйцо Декстера (квартира, лодка и комната убийств)",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1JIaHBFM0FPdDJnamhIN09zVGpoNXFUVEVwMmRnUXZsU1g5YkU3SVl5dHdTZ0NrM2Fxd1dNR2g1QjdYa3FhWUh0UmpIQmFNZE8zS3piSGVFNjJwNUc3RmNuSmRDZFJjU2k1WGtlUW1pYV9WVkUyWE9YU19Ic3FHVFFFM1BPNDc1elZoODZPSG00SVN5c09RbEpHTQ?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "IGN",
+"score": 2,
+"kind": "news",
+"words": [
+"яйцо",
+"пасха",
+"найти",
+"кварт",
+"убийс",
+"комна",
+"лодка",
+"декст"
+]
+},
+{
+"ts": 1795231933.8807242,
+"title": "GTA 6 встретила игроков сбоем PSN: даже покупка не спасла",
+"url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hb3Y5S1JOWWd2OThJUTl6ZEdnb2t4Ym1TbEVBdDk2NU5wc1ZmVmNHQUtJTG1OeWhkZnNzSGg2ekY3RG04T184bnE1XzVHWjctWjZR?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Neva.Today",
+"score": 0,
+"kind": "news",
+"words": [
+"сбоем",
+"даже",
+"спасл",
+"покуп",
+"игрок",
+"psn",
+"встре"
+]
+},
+{
+"ts": 1795231940.4682782,
+"title": "Марк Цукерберг откровенно смеётся над GTA 6",
+"url": "https://www.playground.ru/gta_6/news/mark_tsukerberg_otkrovenno_smeyotsya_nad_gta_6-1892612#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/z2KSXDS5bKdJ_M396Fsjeg.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"цукер",
+"смеёт",
+"марк",
+"откро",
+"над"
+]
+},
+{
+"ts": 1795231943.729166,
+"title": "Видео: маскот «Чикаго» играл в GTA 6 во время представления соперников перед матчем НБА",
+"url": "https://www.championat.com/basketball/news-6707694-video-maskot-chikago-igral-v-gta-6-vo-vremya-predstavleniya-sopernikov-pered-matchem-nba.html",
+"tags": [
+"новости"
+],
+"img": "https://img.championat.com/news/big/o/n/video-maskot-chikago-igral-v-gta-6-vo-vremya-predstavleniya-sopernikov-pered-matchem-nba_1795229601187630995.jpg",
+"source": "Чемпионат",
+"score": 1,
+"kind": "news",
+"words": [
+"матче",
+"предс",
+"время",
+"играл",
+"перед",
+"сопер",
+"чикаг",
+"маско",
+"нба",
+"видео"
+]
+},
+{
+"ts": 1795231948.255971,
+"title": "«Переоцененная игра»: бомбёжка обзора GTA 6 для PS5 началась после рекордного релиза",
+"url": "https://www.pushsquare.com/news/2026/11/overrated-game-gta-6-ps5-review-bombing-has-started-after-record-breaking-release",
+"tags": [
+"новости"
+],
+"img": "https://images.pushsquare.com/7ab01a4131b43/large.jpg",
+"source": "Push Square",
+"score": 1,
+"kind": "news",
+"words": [
+"рекор",
+"начал",
+"релиз",
+"бомбё",
+"перео",
+"обзор",
+"после",
+"ps5",
+"игра"
 ]
 }
 ],
