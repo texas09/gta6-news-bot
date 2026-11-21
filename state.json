@@ -11207,7 +11207,10 @@
 "4be1417babb35372",
 "eca88e7e14b9aa3e",
 "5376db16f7b42ce8",
-"104d7fc245801602"
+"104d7fc245801602",
+"bdb7ed7987348966",
+"89011245eed7905f",
+"38daeb30a77902a1"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -11215,185 +11218,6 @@
 "tg_offset": 706329041,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795057314.0214632,
-"title": "Из GTA 6 официально убрали спорную функцию франшизы, существовавшую 25 лет",
-"url": "https://www.polygon.com/gta-6-prostitutes-hookers-strippers-where-are-npcs-rockstar/",
-"tags": [
-"новости"
-],
-"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_06.jpg",
-"source": "Polygon",
-"score": 1,
-"kind": "news",
-"words": [
-"убрал",
-"сущес",
-"франш",
-"функц",
-"спорн",
-"лет",
-"офици"
-]
-},
-{
-"ts": 1795057317.191534,
-"title": "Новые игроки GTA 6, будьте осторожны при получении бонуса за предзаказ GTA+",
-"url": "https://www.pushsquare.com/news/2026/11/new-gta-6-players-be-careful-when-claiming-your-gtaplus-pre-order-bonus",
-"tags": [
-"новости"
-],
-"img": "https://images.pushsquare.com/aa41bf83ff550/large.jpg",
-"source": "Push Square",
-"score": 1,
-"kind": "news",
-"words": [
-"новые",
-"игрок",
-"предз",
-"бонус",
-"получ",
-"остор",
-"будьт"
-]
-},
-{
-"ts": 1795057320.4204247,
-"title": "Форму НБА в стиле GTA 6 начали перепродавать за $ 2000 при цене в магазине $ 120",
-"url": "https://www.championat.com/basketball/news-6705146-formu-nba-v-stile-gta-6-nachali-pereprodavat-za-2000-pri-cene-v-magazine-120.html",
-"tags": [
-"новости"
-],
-"img": "https://img.championat.com/news/big/q/g/formu-nba-v-stile-gta-6-nachali-pereprodavat-za-2000-pri-cene-v-magazine-120_17950502472117068144.jpg",
-"source": "Чемпионат",
-"score": 1,
-"kind": "news",
-"words": [
-"2000",
-"нба",
-"переп",
-"начал",
-"форму",
-"120",
-"цене",
-"стиле",
-"магаз"
-]
-},
-{
-"ts": 1795057326.5072536,
-"title": "Маловероятно, что GTA 6 будет работать при 60 FPS на большинстве ПК, считает инсайдер Kepler",
-"url": "https://www.playground.ru/gta_6/news/maloveroyatno_chto_gta_6_budet_rabotat_pri_60_fps_na_bolshinstve_pk_schitaet_insajder_kepler-1891979#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"настройки",
-"слухи"
-],
-"img": "https://i.playground.ru/e/uEgRbfSlo02KU4ylY4sY4g.png",
-"source": "PlayGround.ru",
-"score": 4,
-"kind": "news",
-"words": [
-"fps",
-"keple",
-"малов",
-"работ",
-"счита",
-"больш",
-"инсай"
-]
-},
-{
-"ts": 1795057329.6624737,
-"title": "[Видео] Первые оценки GTA VI — Корея в шоке от *** / RE Requiem игра года / Конец PIONER / Обвал Microsoft",
-"url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPajJtTXpRMkFyZnBUQ1VSYTZkX2JCOWQ3eTZnbVFFc3VSNEp5ZDFOWE9jZ2pOYmZyb3pJTnBqbUtXSGJ5ckplZ24wQmxGMlNoanYxNFlYQUcwZzRaM0V0RWlxaEtLSlp0WTRYajhJTXJvblBrMTh3QXRTaldSSTBlb2hKTUgwcGp0cDlTQ2g3THUwRmNsZTU5N051bUdDVzdRN19xMjh6bklicTIwMUlHejliamYteDR2cXZmTlBZbFFleUxSUDFQMGJjM1NDQdIB0wFBVV95cUxNRVlfNUc4ZURHYUFHSDhIMFhLNmVOaktEblRRalBhOGx5dkxJajNyYXpwdlMzd3Q0LXh5aDAtQ3pnX0NGS01aOXhBVHp2Ym9rY1RaNVJNZldZRWVTUWxaOFRXaWFmODFyQkd1ay14RkJDaE50blJKcFBURlRycGJYemNVYldrSHBXbHRwN3VoeXBSNUhJT3hUSElPSWtDZ3Y5dmc2Z1pfY1k0aGV2SzA0MDdMZUdfaU5jR0F6MmY4MW1ocnJpSW9uNEVIYTc5NTBQM2Vn?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "iXBT.games",
-"score": 0,
-"kind": "news",
-"words": [
-"года",
-"requi",
-"шоке",
-"оценк",
-"корея",
-"игра",
-"pione",
-"micro",
-"первы",
-"обвал",
-"конец",
-"видео"
-]
-},
-{
-"ts": 1795057332.8066633,
-"title": "Розыгрыш Wolf Pack GTA 6",
-"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZFhxLTRhaUV4YWZaWVFsTHFnZmJYUERuUkY3SGNndVl4dzVndmJscm5SUVpqZlNzUEdEUjBHWVRrT0lncVhSLWxudkE1ZWpqUmE0TTNvM2ZraHhjdXhlTC1ZMEotbmNjMkVYSS1kMmdGbXVNRkVfVlRzTXJFay15b1ZOX0ZaUVh5WEt1dXBhUHUtb1BYQWF6RnhwaWVVakRxc0RSR1M3cjc?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "KTVN",
-"score": 0,
-"kind": "news",
-"words": [
-"розыг",
-"pack",
-"wolf"
-]
-},
-{
-"ts": 1795057343.5522099,
-"title": "В японской версии GTA 6 мужскую наготу частично прикрыли чёрными стрингами - вероятно, из-за региональной цензуры",
-"url": "https://www.playground.ru/gta_6/news/v_yaponskoj_versii_gta_6_muzhskuyu_nagotu_chastichno_prikryli_chyornymi_stringami_veroyatno_iz_za_regionalnoj_tsenzury-1891982#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"img": "https://i.playground.ru/e/yhKvz7UG_IYYOLirlfxltA.png",
-"source": "PlayGround.ru",
-"score": 1,
-"kind": "news",
-"words": [
-"цензу",
-"чёрны",
-"верси",
-"части",
-"прикр",
-"вероя",
-"стрин",
-"нагот",
-"регио",
-"японс",
-"мужск"
-]
-},
-{
-"ts": 1795057346.691932,
-"title": "Эксперт из Орегонского университета предупреждает, что выход GTA VI может снизить производительность труда в США",
-"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGthdU5oMUpGRkY4ZjdYUnhKWmhCeVQwLWZya2dWU2xlaXVnYUJFQzl4MHBSLVVSSC1tTFl3RzFISG9mVXhNTy1pbVhneU02UjF2ODZjYUQ2dnM5NGdTOEpUU0xGZnNqcFhOUWduSXBmWXVWVzlkblJGenhpOUJ4QXFpSFpvU3gtRHhIREZvNmhKOExnUXdvYTlrbDFrMkFPT2xSdzFIbDk3dTVQenA4Nm9Yaw?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "KMTR",
-"score": 0,
-"kind": "news",
-"words": [
-"сша",
-"труда",
-"произ",
-"может",
-"преду",
-"униве",
-"выход",
-"экспе",
-"снизи",
-"орего"
-]
-},
 {
 "ts": 1795059760.0668275,
 "title": "Можете ли вы с другом играть в GTA 6 одновременно, используя одну копию игры? Согласно игровым гайдам, да, но с ограничениями.",
@@ -21718,12 +21542,34 @@
 "верси",
 "мод"
 ]
+},
+{
+"ts": 1795230674.7341316,
+"title": "В GTA 6 обнаружили две секретные радиостанции - их можно разблокировать, отсканировав постеры",
+"url": "https://www.playground.ru/gta_6/news/v_gta_6_obnaruzhili_dve_sekretnye_radiostantsii_ih_mozhno_razblokirovat_otskanirovav_postery-1892611#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"гайд"
+],
+"img": "https://i.playground.ru/e/PSD9hpXbbIV0m5CbkYP74w.png",
+"source": "PlayGround.ru",
+"score": 3,
+"kind": "news",
+"words": [
+"две",
+"можно",
+"разбл",
+"отска",
+"обнар",
+"секре",
+"радио",
+"посте"
+]
 }
 ],
 "digest_date": "2026-11-20",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-20",
-"viral_checked": 1795222908.6499813,
+"viral_checked": 1795230677.734394,
 "viral_ts": [
 1795215079.8993616,
 1795215083.7170541,
