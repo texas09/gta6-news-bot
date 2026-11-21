@@ -12725,12 +12725,15 @@
 "770f001aa742ed48",
 "a413e81173d3a827",
 "f7d9cf3c53dceef2",
-"ac64c2b00b6a3154"
+"ac64c2b00b6a3154",
+"45ae2b6554a56eeb",
+"cb630830e1d23540",
+"e3ce8389b1b6e1d3"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329363,
+"tg_offset": 706329366,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -26665,6 +26668,27 @@
 "игрок",
 "поезд",
 "након"
+]
+},
+{
+"ts": 1795297866.2205875,
+"title": "5 настроек PS5, которые должен сделать каждый игрок GTA 6",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT20zd2c3dmg3blFRM0t2SjczMzBQR1I1WWppcEpkWTBhU1h2YnBUQkxfYkJBREp3NzlRYjFMbUNYbjB0LWZmQk9aSTloZkV4NjBiWGVSVDViN2ZnS2o0X0NsZHRpMU5DN2Z6X0MxRlRWZ25na283b3ZXazFuQVI5Ri1YQ2ZGUQ?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "MakeUseOf",
+"score": 2,
+"kind": "news",
+"words": [
+"сдела",
+"котор",
+"ps5",
+"кажды",
+"настр",
+"долже",
+"игрок"
 ]
 }
 ],
