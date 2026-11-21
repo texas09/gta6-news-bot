@@ -11510,7 +11510,64 @@
 "6e0cc723295d2a0e",
 "fd65ee897f2ad276",
 "bc1f13f8bad84cf1",
-"5d76794df0fd8927"
+"5d76794df0fd8927",
+"12a245f6b0296b84",
+"534575d8ee2c8d4f",
+"f79e9de6ea165525",
+"897daa0d2a9af47c",
+"6119fda94c8a69b3",
+"0fb2804c17507095",
+"0f9ab54daba57027",
+"48dadc2ba11f6cd9",
+"29d679144f4c23d0",
+"eb9f7085a5c38584",
+"3947fec3a92483eb",
+"f8f3a9ad8698a878",
+"03a4ff9de9ed39e2",
+"16fe1ed183172a19",
+"4e237acabca9300f",
+"ca3eaa75d6053ee3",
+"c1734ad26a3136ea",
+"8739536518f261dd",
+"208c54d0b139f669",
+"f77de8b5029996bf",
+"1061fa0c78e28153",
+"46bd2de63db9f944",
+"8197ccc91363ca08",
+"39f67aecd1f2fa4c",
+"eb99a96ed87325bd",
+"6aedf4cba3dcf201",
+"533d68375bc55568",
+"b07118caba354cac",
+"3e7de088e11f4287",
+"051685ca7c161b66",
+"b718d4311addc081",
+"32914f0f945e8a9b",
+"3253195fd16d08eb",
+"f75863d5f616a5dd",
+"7c8c640f3d0f28d7",
+"fa357c747d1d3a79",
+"4fcee64cd46ad8b2",
+"c485d1f499b28ef7",
+"770084453c48da0f",
+"58f55df211941eca",
+"01b2eaadb53d91b9",
+"44cc7364df6ac1f4",
+"679475d9eaf1bed0",
+"2df243b55fb72b67",
+"ad0ef90805dc1290",
+"6631a959f5dae9a4",
+"6631a959f5dae9a4",
+"110ac012353b946f",
+"a8f5eac704a69645",
+"a8f5eac704a69645",
+"c65cce886480254f",
+"71638707c587efbd",
+"6957c32f7a1e0e8d",
+"09c003d7ce6ce2ff",
+"5ddcc1f26f845382",
+"26f931208babd2f3",
+"d37e67fc04ca1575"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -11518,43 +11575,6 @@
 "tg_offset": 706329107,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795071726.215535,
-"title": "GTA 6: Как попасть в банковские хранилища",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZZVV6eXo2WUZKVGcxbUN4VHZhTmRsWHRwVEVBNkZaRmpndF9hQkludWpYZ0NPbnlwY1h5dXhhMnJNVXFPVmtyMGxvTHZiUXRkY2l4UWg1ZEVlckZNM2U4MWppRlZRQTF6RVpqTXRzNDI?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "DualShockers",
-"score": 2,
-"kind": "news",
-"words": [
-"банко",
-"попас",
-"храни"
-]
-},
-{
-"ts": 1795071729.5081427,
-"title": "GTA VI на базовой PS5: графика, 30 FPS и первые впечатления",
-"url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyT2hLS2QwWkJ3SkZ6WExXU1NUbmQ3SW8xcElDSnJkTDROc3dBVkRmdjZEMUotLWh4YkxXQzhOZkdndHEyVnpiTm4xd0NqQU9I?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "Код.ру",
-"score": 2,
-"kind": "news",
-"words": [
-"первы",
-"базов",
-"fps",
-"впеча",
-"графи",
-"ps5"
-]
-},
 {
 "ts": 1795073497.8942192,
 "title": "Энтузиасты повысили фреймрейт GTA VI до 280 fps, подключив PS5 Pro к ПК через карту захвата — IT Home",
@@ -22614,12 +22634,339 @@
 "вылет",
 "пробл"
 ]
+},
+{
+"ts": 1795245086.9374435,
+"title": "GTA VI вдохновлена ​​культовыми криминальными фильмами. Rockstar раскрыла список фильмов",
+"url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNTZ3Vk5IWjJEcTdLbDVvcS1LT0tBTS1yMFdEc0hCOFZDVnJzNzNOVnctN1NtOVJaRzRPZ2U2bTdqTnEtZ2pJVjZ3ZEVrN2UtTG45UUR6Vl9sUW90Mk5SNlFxczdHaDJZdHotWnBNUXJBeF9STzRKTjVmMDVHVVh0a25jTF8xdDRsTnpjVXpuX0lMMmtMQjNObzZ3SEJfQmI5Z1hsa2czcXhiYTZlc3FDTUEzc2R3OVRwSU5KcldpSDdkUdIBxwFBVV95cUxQZVBIdDlIQ0Q4d1dqT0JrQnVZTDItOHBwU0FMVHBRMFh2dTB5RlBtcXYxb1hrR2dNRXdiNzZEWWIycU5QVzdaX2N1RHN6SDVwaHRickhqLXpEc3NvdHhLTFlFQ0ZkYzlrem8wcmhrMmMzS20yNmwxcG0tVnZSMjRGblpoQkpqTnlfQXBrZTdFQ01sblBHNFJZWEZFWU4tdHNETjU3Z3I3c3p4RU1aVGxuVzFQN2VPQ3JIdkxUVThKaHdFMHAzSUNV?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "iXBT.games",
+"score": 0,
+"kind": "news",
+"words": [
+"крими",
+"фильм",
+"списо",
+"rocks",
+"вдохн",
+"раскр",
+"культ"
+]
+},
+{
+"ts": 1795245090.209812,
+"title": "В Сургуте утром Грибоедовская развязка опустела: пользователи связали с GTA VI",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYTRxWjUycmUyVkZHcXlNRl9MWDl5alRGbHE1MVBlbGJaVVpvcThLU2hyYXdiZVAtc3JfUWZjZjdEQUJhSlQ4M3JpVWxzdjdUemtFNU9yMndkeWJuZjJNaE02Vm9Vc2ZLT2JkQzNsb3l0Sm9OX0dDQlR4Znl1SFRwamV3WHl2YlZTWHJySA?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Techora.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"развя",
+"сургу",
+"польз",
+"связа",
+"грибо",
+"опуст",
+"утром"
+]
+},
+{
+"ts": 1795245093.427028,
+"title": "Лана Дель Рей Sports Custom Vice City Birkin запустит GTA 6 вместе со своим мужем Джереми Дюфреном",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1R4ajk2a2Vab21yRWd3LWFCbUEtamJJb0RobUl6UnBSdVVBbFdvWldBNFRmZVRTeEp4cjJsV0dnRUFxa0xDMXVjSl93eGFDc0tWZ1pRUy1mSWQ2eVlQNzctdnB4VjkxSnEyS29CNjI1bDlUeW1yejRnM1Y2R0praHFkdlN5amtid3ZONQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Complex",
+"score": 0,
+"kind": "news",
+"words": [
+"custo",
+"sport",
+"лана",
+"запус",
+"вмест",
+"дель",
+"рей",
+"vice",
+"мужем",
+"джере",
+"своим",
+"дюфре",
+"city",
+"birki"
+]
+},
+{
+"ts": 1795245096.6501005,
+"title": "Я играю в GTA 6 как законопослушный гражданин — и получаю больше удовольствия, чем когда-либо, создавая криминальный хаос",
+"url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTDRyYUNsZFEybTVndzBySW13N0ZPSV9wdjhydk43TE1hU216OTF4UTU0Rml0Ulhkejh5TmtNWnpJMWR6WXRscUVOU2tSV0Q3UW85QnAyMGp4ZTI2MURQM1lKQTRRWGlUaVZvMzA3UnFndTFGbkpOMjRpMm5uUjdPTHVESTRwdXdJNnBxRnNmNXI5ZTY3Y2VDTHVYbnMyYWF5bGRmdGJGN2FDempvRUg2MGRfYzduZGVKaEJNdGJySHRUTS1OdTFraVhKcTA4Y0V0?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Tom's Guide",
+"score": 0,
+"kind": "news",
+"words": [
+"крими",
+"играю",
+"чем",
+"созда",
+"либо",
+"закон",
+"хаос",
+"удово",
+"гражд",
+"получ",
+"когда",
+"больш"
+]
+},
+{
+"ts": 1795245099.8604915,
+"title": "99 баллов от критиков и 5,5 от игроков. GTA VI подверглась массовому ревью-бомбингу",
+"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1FMdVBST0JFLTdZbEgzbVJPNUpEMVFIc2VQMEQ5V3QzZDJMWE1DVVNHMkZkMndtNWllZENuU2QtdVNEcDV4WjJYRUI5My04SHFmRGxlZmFmbTk5UFZLSFkyWjgwX3lHNDFKeHFFTnpja3JvZlBPNlU5ZjV6UnM5Z3RkUHpIVFRZTW5kYW91N1JqODEwbDhCSU84YTVMZy1NMXdHcFpLSXpaeUczZXNMNkpwN2RHZTJiNFZ1M9IBwgFBVV95cUxNMGk4R1d6U25LbDVkT0ZjSlNwUXlEZ2V1UG9mRl8zdlRqSTcyR0x0X2l0QmNpRmpCeC1rcUhCenFSdC1DemkzVVpBUnZHTVhCS0tyanhLN2NKUi1NQ2lnR0lyN3NtbFpXRS1icnpqNkQxMHc0Tkp1R3RiWFQyX3BsT3FaMGVfb2U5U3NWR18wNDZjM3NBc2R3VkpVaXlxS0FvajI1dEt6d0hhUUJMOGF0WXZTVnlQb2xNSzRKZ2R3Q21wQQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "iXBT.games",
+"score": 0,
+"kind": "news",
+"words": [
+"игрок",
+"ревью",
+"бомби",
+"балло",
+"подве",
+"крити",
+"массо"
+]
+},
+{
+"ts": 1795245103.0677786,
+"title": "Саундтрек к GTA VI писала легендарная группа Justice. А на радио в машине теперь можно выбрать из 22 самых разных станций — все не переслушать!",
+"url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdXV3TWlha2JKeFN2LTlyQjlaVmJxODg3dWU1ZWtLRzdZSlR5dlVveVBjU1NBN1NDN1phdk9SanloVVhnSkEtQkJxNC1Hbm5FSUdibjBCNTRPWmRubWNKa0VaN09yOGZxWTZuN2VuMjV6a0tQR1dWajJFRDZmSFp4QWxVbzZjdDBITWFvRkdVQm94SklnMVVGdjBJRmxUQ0VmYzVwbEc4VU5iaEV2bXlBYWRHaWNqMF9OSXV2ck5aeC1PLVFIbnZVeFZrbVJadDdEZmRxczRELUR6X1cxWDh4RWhwNEZpSTRPb0lqM2ZKcjRpSlJOcG41MElkbi1qWVZCVG41VVZXeFZmZ9IBjwJBVV95cUxNUGVGWG1MRG42alZBazFPSzNRTWNoTlhxT0hZMGJXbnV3OV80dEFxc2ZSZGtiNWtaNVZBTGp4WDMwSmM1Q085VUVNWkNDaFpoeGtGamV5X2N1VV9Fc2JQb2VabXpjRTcxdV9HSm1UUlo0RVlZQ1FZTmRMemhQS3Vjd2k4Zy10ZEVDNElyS2VKTjd2akVrUGhXUjJWdnFjT1gzZHZuV3dISFhOV2VoQkx3b2JMMFY4Vk1HVmFxcUxHRTJyTG1BWU83elhrenM4cS00OHU4RjVURnVEV282aXJuNnd4YjhNSnUyTE4wRUhiVTltTnVvSFBoSUNIeTRsTDkyM0g2TW9zcjZXZVdacUlB?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Meduza",
+"score": 0,
+"kind": "news",
+"words": [
+"машин",
+"выбра",
+"станц",
+"леген",
+"justi",
+"писал",
+"групп",
+"самых",
+"разны",
+"тепер",
+"перес",
+"можно",
+"саунд",
+"радио"
+]
+},
+{
+"ts": 1795245108.4196146,
+"title": "Выход GTA связали с мировыми финансовыми кризисами",
+"url": "https://www.playground.ru/gta_6/news/vyhod_gta_svyazali_s_mirovymi_finansovymi_krizisami-1892627#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/5Fy-tRsPAWcQ3dCII8aNMQ.jpeg",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"финан",
+"кризи",
+"связа",
+"миров",
+"выход"
+]
+},
+{
+"ts": 1795245111.6258667,
+"title": "Эпидемия отгулов, контракты с семьей и атаки хакеров: к чему привел релиз GTA VI",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xNExkVUM3enBqb3dyUWxJanUxTVAzZVlGYkQ2c1daV3oyaGpuM1l6ODJpZDAtRVpXQnBtTmpBSUJUY0o2cjE1RGxYMElGekNKTk9CWWRCci1NY0RaeWczd1NDckFpYURHbGFsZjdHeFVuakJUalRnQWxQLXFoQQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Ведомости",
+"score": 0,
+"kind": "news",
+"words": [
+"отгул",
+"релиз",
+"эпиде",
+"чему",
+"хакер",
+"контр",
+"приве",
+"атаки",
+"семье"
+]
+},
+{
+"ts": 1795245118.6575725,
+"title": "\"Купил жене цветы после GTA VI\": игроки считают, что новая игра Rockstar учит мужчин лучше заботиться о женщинах",
+"url": "https://www.playground.ru/gta_6/news/kupil_zhene_tsvety_posle_gta_vi_igroki_schitayut_chto_novaya_igra_rockstar_uchit_muzhchin_luchshe_zabotitsya_o_zhenschinah-1892629#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/0VwctcjwiRkG1kRW7c1UUA.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"игрок",
+"счита",
+"жене",
+"rocks",
+"лучше",
+"учит",
+"цветы",
+"игра",
+"после",
+"купил",
+"забот",
+"женщи",
+"мужчи",
+"новая"
+]
+},
+{
+"ts": 1795245121.9017382,
+"title": "Выпуск GTA 6 вызвал волнение у Брэдли и привлек внимание к растущему миру киберспорта",
+"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOENOejljeWtWamtyWVZGNXRMWTBtMGM3V3hVODNyRzhBM2RXLVMtYmRocFp0dGxuWUdmdFdjbTROcXdmdEtPbldZYmltTXl6bkN6aE9LSzF2LU12YjFRNDAxRHh2SS1ESlFJbVNfc2prM3VGclJsdzh2eGpfWk5XUWIxU190U2g1Q0hDc0VaeGRpNmdtTHJNWEZvelhVWk9vUkRwTnozNmE3SHNqNVAzQ29LS1Iybm8?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "WEEK | 25 News Now",
+"score": 0,
+"kind": "news",
+"words": [
+"выпус",
+"миру",
+"кибер",
+"брэдл",
+"вызва",
+"внима",
+"привл",
+"волне",
+"расту"
+]
+},
+{
+"ts": 1795245125.1212869,
+"title": "Первый в мире спидран GTA 6 занял 40 часов – стример не спал больше двух суток",
+"url": "https://shazoo.ru/2026/11/21/194434/pervyi-v-mire-spidran-gta-6-zanial-40-casov-strimer-ne-spal-bolse-dvux-sutok",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892401_Hpm0EXt_hxf2k0owmaav6wq.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"спидр",
+"часов",
+"мире",
+"спал",
+"стрим",
+"двух",
+"первы",
+"суток",
+"занял",
+"больш"
+]
+},
+{
+"ts": 1795245128.3555388,
+"title": "Героиня Atelier Karia «уделала» Джейсона и Люсию из GTA 6 по части набора веса",
+"url": "https://www.goha.ru/geroinya-atelier-karia-udelala-dzhejsona-i-lyusiyu-iz-gta-6-po-chasti-nabora-vesa-430WkW",
+"tags": [
+"новости"
+],
+"img": "https://images.goha.ru/E:Nj/0v/4d3nJquCNI.jpg",
+"source": "GoHa.Ru",
+"score": 1,
+"kind": "news",
+"words": [
+"удела",
+"люсию",
+"части",
+"веса",
+"джейс",
+"набор",
+"герои",
+"karia",
+"ateli"
+]
+},
+{
+"ts": 1795245131.5980678,
+"title": "Токен по мотивам GTA 6 взлетел в день запуска — кто стоял за покупками",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2SHBGcm1Ta2JRdE1RNmhpa204OXI1bWRLSjdfSlJoWVhIYnhtdGRaWXpOUGxPZ3pCVUtnV0NtT19lMW5hWVVYVFJwVmloME4xUnl5c1lTdW9ROUpUUlpkUmF3Vk9rUXhXWUVkSA?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "BeInCrypto",
+"score": 0,
+"kind": "news",
+"words": [
+"стоял",
+"день",
+"покуп",
+"запус",
+"мотив",
+"взлет",
+"кто",
+"токен"
+]
+},
+{
+"ts": 1795245134.8016047,
+"title": "«30 кадров в секунду — это нормально?» Отвечаем на вопросы читателей о GTA 6",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd3hpakZjSEdHM1dWVHhZbHlFcnZhYUhNeUJGU0NHVVpPanpZQ1ZJXzFlcTA1VHFHN044U0hWUHJtUmxidi1paXZjdnNOUy02TTVMYXRyYmFKSEtrUDRLNHRQQ1cwM0tvaDVzcThyTGhMdVpHRXN5cmFBMGZYVXgybkFvU3hYYjRlN0NwSG1UMVpsMThOVnRvOTV0a0M4UQ?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "Inven Global",
+"score": 2,
+"kind": "news",
+"words": [
+"секун",
+"читат",
+"кадро",
+"отвеч",
+"норма",
+"вопро"
+]
 }
 ],
 "digest_date": "2026-11-20",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-20",
-"viral_checked": 1795237889.0213907,
+"viral_checked": 1795245137.801851,
 "viral_ts": [
 1795215079.8993616,
 1795215083.7170541,
