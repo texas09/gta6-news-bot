@@ -12383,7 +12383,16 @@
 "2c344e3f22bdb5cc",
 "a53c5b93f6c78378",
 "420bde4c136d7a7b",
-"0747f3abfe235acc"
+"0747f3abfe235acc",
+"b0e388c3c2b79fd2",
+"e38f37f93d7c5b6b",
+"e66dc1a432143e35",
+"20cf4a823e2e1cc1",
+"15a8e87c7aae3f84",
+"33b47adfbe435939",
+"2c563a9e54b04bd3",
+"53263f6bd409d82d",
+"86d8825f4929f9f9"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -12391,162 +12400,6 @@
 "tg_offset": 706329282,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795106493.1996562,
-"title": "Автомобили GTA 6: полное руководство по каждой машине в Grand Theft Auto VI",
-"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzg4dEJndUdCSS1zM2R2OEU2NDFPc3dpZTZNUjViSFk0SlU3eWF0T29WaHUwN2RXQkFsaFBSU2RVZUthYl82X2M4YXp5amllbUJldmNGTmJId196MEFKMHJBVm5ETWlRcjBmY2dCcUZWRk1Jc2R5U01LODFpbEhqV1R4T2RaM2pWQlI0OXFIRW4xaHZSQUhJdDk0N1BjUQ?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "Regit",
-"score": 2,
-"kind": "news",
-"words": [
-"автом",
-"руков",
-"каждо",
-"машин",
-"полно"
-]
-},
-{
-"ts": 1795106496.432208,
-"title": "Трейлер к выходу Volvy's Adventure: Reslimed — главного хита дня (в Steam)",
-"url": "https://stopgame.ru/newsdata/73567/trailer_k_vyhodu_volvys_adventure_reslimed_glavnogo_hita_dnya_v_steam",
-"tags": [
-"трейлер"
-],
-"img": "https://images.stopgame.ru/news/2026/11/19/iOeRIbXw.jpg",
-"source": "StopGame",
-"score": 5,
-"kind": "news",
-"words": [
-"adven",
-"главн",
-"выход",
-"трейл",
-"steam",
-"resli",
-"дня",
-"volvy",
-"хита"
-]
-},
-{
-"ts": 1795106502.6050508,
-"title": "В GTA 6 нашли НЛО из сериала «Секретные материалы»",
-"url": "https://www.championat.com/cybersport/news-6705914-v-gta-6-nashli-nlo-iz-seriala-sekretnye-materialy.html",
-"tags": [
-"гайд"
-],
-"img": "https://img.championat.com/news/big/v/j/v-gta-6-nashli-nlo-iz-seriala-sekretnye-materialy_17951036601958126476.jpg",
-"source": "Чемпионат",
-"score": 3,
-"kind": "news",
-"words": [
-"матер",
-"нашли",
-"нло",
-"секре",
-"сериа"
-]
-},
-{
-"ts": 1795106507.1411135,
-"title": "GTA 6 только что переехала в миссию: прохождение",
-"url": "https://www.videogameschronicle.com/guide/gta-6-just-moved-in-mission-walkthrough/",
-"tags": [
-"гайд"
-],
-"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Just-Moved-In-Mission-Walkthrough-1.jpg",
-"source": "VGC",
-"score": 3,
-"kind": "news",
-"words": [
-"тольк",
-"перее",
-"прохо",
-"мисси"
-]
-},
-{
-"ts": 1795106510.3734329,
-"title": "Полное прохождение GTA 6: главы, сюжетные миссии и советы",
-"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRnM2RzcwaWpmcFBvR0FibG1wTXczME44bzJIQmhCaUFubWJlRUpTMDFDMDBLZ204VDRLU1FJQTVuR2dxV0RidldtM2RGUzFJTFNJWXhaWDk2ZE5hZVVEQi1uWlF6ZHFPZDl4YXNkWWpwZXlIeEUxQnlMOW1KWWZLc2FoYkt5bk9ZeHZEa1dDX2VhQkJXMnFEZjZEc2ppYy0takJWYkRuWTJZcFZYbFJsLXVnNjRvUUx3QTd5Vg?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "sport-express.ru",
-"score": 2,
-"kind": "news",
-"words": [
-"сюжет",
-"прохо",
-"главы",
-"мисси",
-"совет",
-"полно"
-]
-},
-{
-"ts": 1795106515.137481,
-"title": "Как получить лучшее оружие в начале GTA 6 — гайд",
-"url": "https://www.championat.com/cybersport/news-6705956-kak-poluchit-luchshee-oruzhie-v-nachale-gta-6-gajd.html",
-"tags": [
-"гайд"
-],
-"img": "https://img.championat.com/news/big/m/u/kak-poluchit-luchshee-oruzhie-v-nachale-gta-6-gajd_1795104798723536341.jpg",
-"source": "Чемпионат",
-"score": 3,
-"kind": "news",
-"words": [
-"получ",
-"оружи",
-"начал",
-"лучше",
-"гайд"
-]
-},
-{
-"ts": 1795106519.1223516,
-"title": "Прохождение миссии Girl’s Trip в GTA 6",
-"url": "https://www.videogameschronicle.com/guide/gta-6-girls-trip-mission-walkthrough/",
-"tags": [
-"гайд"
-],
-"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Vicki-.jpg",
-"source": "VGC",
-"score": 3,
-"kind": "news",
-"words": [
-"прохо",
-"girl",
-"trip",
-"мисси"
-]
-},
-{
-"ts": 1795106522.3648973,
-"title": "Пасхалки для поклонников GTA VI появились в «Алисе AI» и «Яндекс Станции»",
-"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0xGV2lMc0tsNXhFOTlTekVFZmFpVm42Y3ZldkVVNzYyYWJpd0ZTMWt4bHQ2MUFTRjlNM29wTUNsUE45cDFZc1phOC1xVDJSMTNjYnQ2NC03ekctdUxjaWJpbEpfLTN6bUxBbktoMHl3VDdaZTdKX0ZuRWl6NmI0VHJwcDVIRGlOWjZrSFR2eWhTNE9OOVZSWFZ5dlZHYm9LWC1DbzVWWHJvUQ?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "Компьютерра",
-"score": 2,
-"kind": "news",
-"words": [
-"яндек",
-"появи",
-"алисе",
-"покло",
-"пасха",
-"станц"
-]
-},
 {
 "ts": 1795107716.5510898,
 "title": "Не видите логотип Rockstar? Вот как исправить настройки яркости GTA 6",
