@@ -12392,7 +12392,19 @@
 "33b47adfbe435939",
 "2c563a9e54b04bd3",
 "53263f6bd409d82d",
-"86d8825f4929f9f9"
+"86d8825f4929f9f9",
+"33fbff79f18d684b",
+"02acd0022a239519",
+"e9599eb397715bc6",
+"c9ebcc04ebf45fff",
+"e761fb190c15d436",
+"098990184e70a3b1",
+"8259a40d83b8f10a",
+"948ff15039d9627e",
+"a83d0703fc2ef9a2",
+"f567879d7fecd0c4",
+"f567879d7fecd0c4",
+"623b83a057431a97"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -12400,49 +12412,6 @@
 "tg_offset": 706329282,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795107716.5510898,
-"title": "Не видите логотип Rockstar? Вот как исправить настройки яркости GTA 6",
-"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRHBFdTlRWWNLZmgySEhNdGUteS13OHg5NmFiZHdfSUVQelRDeDNic3ZBcEtmQmlxbTAxWkxJcWlRWHBFUm00elRYZkh6MjZweF9wdnppQUdoRncybXlUZzlEYUhRYmgyT1BKT0hkNDZ3RzlfUTZWQUhqUUlCdnMtYllVRktPZmQweFEwTWpR?oc=5",
-"tags": [
-"гайд",
-"настройки"
-],
-"img": null,
-"source": "Radio Times",
-"score": 4,
-"kind": "news",
-"words": [
-"логот",
-"яркос",
-"вот",
-"видит",
-"настр",
-"испра",
-"rocks"
-]
-},
-{
-"ts": 1795107719.783367,
-"title": "Измените эти настройки Xbox Series X/S перед игрой в GTA 6.",
-"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmhqZ3Q0Rk5YM2JQZmpORVpiV2MwQ0xhMHB2bUFYTUJvMkVjRGtxaHVPdGJjMXVNbTBDZEFsamhSR1NNaWpkVTVlRTd1YUtGa0JoUVVXR2d2Ymd4WlhheGdLQ3JMT0lxNFhETVNHQzB4SlB2bDZkalFZeTJYcWNoY3M3cFNCQWM0dEJZODlsQQ?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "Engadget",
-"score": 2,
-"kind": "news",
-"words": [
-"перед",
-"измен",
-"игрой",
-"serie",
-"xbox",
-"настр",
-"эти"
-]
-},
 {
 "ts": 1795110102.9252458,
 "title": "Руководство по GTA 6 — Как разблокировать все эксклюзивные предметы и награды из DLC Ultimate Edition",
@@ -25464,6 +25433,61 @@
 "чтобы",
 "краси",
 "након"
+]
+},
+{
+"ts": 1795280524.6993098,
+"title": "GTA 6: Как легко заработать 25 000 долларов в четвертом акте",
+"url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zSmVWUWlFMjAyM2F6dTNUUnJJMng2T1M0V3NhN1ktdzdvclFvT21aY3M2THlNenJPa2x3QVZrQXNBaUEyNHRlVnRURDBxTmpMdHd5UDhWNWhRWGxhdVIzcU1xTVA?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "ScreenRant",
+"score": 2,
+"kind": "news",
+"words": [
+"четве",
+"акте",
+"000",
+"легко",
+"зараб",
+"долла"
+]
+},
+{
+"ts": 1795280528.7013755,
+"title": "Как найти безопасный код ломбарда Эйвери в GTA 6",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pawn-shop-safe-code/",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"найти",
+"эйвер",
+"безоп",
+"ломба",
+"код"
+]
+},
+{
+"ts": 1795280532.272774,
+"title": "Как использовать автопривод в GTA 6",
+"url": "https://www.polygon.com/gta-6-auto-drive-how-to/",
+"tags": [
+"гайд"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-autodrive.jpg",
+"source": "Polygon",
+"score": 3,
+"kind": "news",
+"words": [
+"автоп",
+"испол"
 ]
 }
 ],
