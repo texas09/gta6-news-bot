@@ -12464,48 +12464,26 @@
 "de89a1b8c683a6d1",
 "1d08d4d8d445012c",
 "c9f86d0c707a1093",
-"7fc3f1d119e3ee61"
+"7fc3f1d119e3ee61",
+"ee52746d251383ac",
+"4719098afa480457",
+"0e259fed3ed9bbd2",
+"fab3232779f9b940",
+"096bba57bc646c70",
+"1b570c151938f59e",
+"dc362d4860b5113d",
+"896f428831a7b3f8",
+"9c743880b360ea61",
+"a4ed677e0ddef602",
+"fb40c53a9e776d96",
+"38aa8ed2dbf01fb0"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329302,
+"tg_offset": 706329303,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795111401.184491,
-"title": "Как использовать фоторежим в GTA 6",
-"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QbUlrQmhLMGFReGEtakR2ejFJMDRjOTZSalhoZVZRUGdNdm9uMmtObzdlcDh4Yjhld1UyS3JQMXNxR2Jha0NJMVJTekxhb0VCalFreEJ3QmJDR21aX1hGTmRvQjk4OXNoT2tPclJrSTlLUQ?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "GameSpot",
-"score": 2,
-"kind": "news",
-"words": [
-"испол",
-"фотор"
-]
-},
-{
-"ts": 1795111404.3492937,
-"title": "Как украсть истребитель и боевой танк в GTA 6",
-"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQzBwNXBuN1dlcHRBVldpdzRCSTZKdW1BWk1HOVlTNThVNmtrRGM1QlA2MktucktOU0J1SlRzYTk1a21IbHpMV2Q0Mmp3TXBmdEtKNHRaR0YwM3ZnZzhlU2cxdXg1MUVsdlhKMGY1OUx1em5Hby1IN01aMURISVhsX05hYzNQSGduaXdvbjhuWGZmQ0Y0R2FGRXNhUzVVS1E?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "Military Times",
-"score": 2,
-"kind": "news",
-"words": [
-"танк",
-"боево",
-"украс",
-"истре"
-]
-},
 {
 "ts": 1795113756.2666914,
 "title": "Хотел рассмотреть чайку, а скинул женщину с пирса – игроки жалуются на управление в GTA 6 в стиле RDR 2",
@@ -25750,6 +25728,68 @@
 "vice",
 "мисси",
 "добро"
+]
+},
+{
+"ts": 1795284670.3779707,
+"title": "Как украсть BF Bandito в GTA 6",
+"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/",
+"tags": [
+"гайд"
+],
+"img": "https://cdn.mos.cms.futurecdn.net/j3r6wPqXaPSUDLSeUfq6w9-1920-80.jpg",
+"source": "cdn.mos.cms.futurecdn.net",
+"score": 3,
+"kind": "news",
+"words": [
+"украс",
+"bandi"
+]
+},
+{
+"ts": 1795284674.5132554,
+"title": "Пароль от ноутбука GTA 6 Глава 3: Как разблокировать ноутбук в квартире Буби",
+"url": "https://www.videogameschronicle.com/guide/gta-6-chapter-3-laptop-password-how-to-unlock-the-laptop-in-boobies-apartment/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Chapter-3-Laptop-Password-2.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"разбл",
+"ноутб",
+"парол",
+"кварт",
+"глава",
+"буби"
+]
+},
+{
+"ts": 1795284677.6943107,
+"title": "В GTA VI разблокировали частоту кадров и получили более 60 FPS — игроки раскритиковали Rockstar за отсутствие официального режима",
+"url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaGhpRmFvNlNrdHdLUW55ME1NNDNHY3kxSjVnaHZxSW43b2dYZ3B1MTg3QUc5Y1RKV1J1Zk1uLXpBWFJnbzY2UnFBZVZTVjFOQ25iRnBHYVNsaFhtdHppMmJSRElzMlQ3cXl1SlA2VVdxNW1PeG5Rc1VZbVpQSDJRM1lZU1VVbmVnQ2l1ZGh4d1FQZTdETUtLMElfSWFMMjMybjBoS0dzdldIbF92SDRXNjAwVjJ2RTNVMHdsel9OUk5jdElWbTBXYjd3WEY1Q1NZMnhwdWNDeEJENFVSblBqNXotaldxMXpJMmVvQnJBTERwN2dIVDc5NkhB0gH_AUFVX3lxTE1LOU1LekdmUmp6Rmd2am43VGN1d2tDeFhJMjlGSnZWOXRkOUxGOWcyM0taRVc2LVRlSVJXMVJrdHhXZU9rbmN1Q2owSjY5bVgxa0NOTUJmMEx6bEpHaG43U2RSNEM0MnVqTWVtSkNRN1B0RFVzb0FBVmZoZTJFNUlmOXhwOVZOX2t6b2ctaUNaWDlXSk1JX0htbllQSTUxTnEya2lpazBaNnhZQ3dxaEc1cFZEa1BQNmJ2b1VXclVVaXRHd001QzFvNWwtT204Vjd5SFVpV25BMDZPeUh3V1h3TllLS3hsamI2ekZ1MXNOVGpSczZ2Z2Y5OWhCbDdWOA?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "iXBT.games",
+"score": 2,
+"kind": "news",
+"words": [
+"раскр",
+"разбл",
+"кадро",
+"отсут",
+"часто",
+"офици",
+"rocks",
+"более",
+"игрок",
+"режим",
+"получ",
+"fps"
 ]
 }
 ],
