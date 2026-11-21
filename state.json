@@ -12656,51 +12656,62 @@
 "4f3f59ace3774de7",
 "1bb9b5d37877958f",
 "0fd41825a7e86ebb",
-"7111e3811852201b"
+"7111e3811852201b",
+"9a2cd8fe7aa89e3b",
+"412e17ff380403c9",
+"58945227dc0da139",
+"341118e24dff4269",
+"a31a8703a271a962",
+"cd3b9ff930b410e8",
+"83420151581b4da7",
+"5800a8a6086597de",
+"5d2f94401c8d4616",
+"7df6c9c4ee8ba515",
+"6cae03e337d854fb",
+"85d361b02c9c229b",
+"a5e9fb20ac5948a5",
+"37f8bcb2e84672fa",
+"f0f265c3798a5393",
+"4f9c72acda42687d",
+"9f63d51d34846c8f",
+"f2829f61cd235926",
+"fd23b20060b7e63a",
+"6e38975b4581727e",
+"05efff75679fa10d",
+"3f47573e2ee6c745",
+"799835aa154d7808",
+"4fb6250a87eaf3c9",
+"fba503eea1931926",
+"cc3b921f9adb75c8",
+"e0cc6ff287bcafcf",
+"647f8a6c57cb7aba",
+"b1c070e7e325a8e6",
+"d9f406b533774edc",
+"51cce8e97bdef9f7",
+"a276e0f5ab5ba555",
+"e2fd71388f4bd4cb",
+"e43967ea0ecfe831",
+"e58764ef88c19e21",
+"6173222c7a31d10a",
+"c588f64f0a965a88",
+"1a8f9804453c1685",
+"516194026df6fdc1",
+"98173f2561c04221",
+"98173f2561c04221",
+"904171c75df4f05f",
+"193adb54b5196495",
+"b793ef0fb17173ed",
+"a625ec6cb0a328b7",
+"a5d42fccbe1fe736",
+"fa90127ba2c0950b",
+"33169aa11077b332"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329347,
+"tg_offset": 706329350,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795121557.2916756,
-"title": "GTA 6 гайды и прохождения",
-"url": "https://www.polygon.com/gta-6-guides-walkthroughs-tips/",
-"tags": [
-"гайд"
-],
-"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-vi_20261119163142.jpg",
-"source": "Polygon",
-"score": 3,
-"kind": "news",
-"words": [
-"гайды",
-"прохо"
-]
-},
-{
-"ts": 1795121560.478043,
-"title": "Руководство по персонажам GTA 6: познакомьтесь с Джейсоном, Люсией, Мэнди и другими",
-"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SR2Z0YkdMSmRLY2RfZlQtd3ZaTG1MQnJhUC1mVWpTUnUyZDRPdmRKYTRtUEthSXdWU0pfcmR5SGpudGNKSld2N01OelBWSlRlM2FjcndZdDJPY3g0OUs4Yk5XWlRkY3lINkJzNlpXWFM2UQ?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "Mashable",
-"score": 2,
-"kind": "news",
-"words": [
-"джейс",
-"мэнди",
-"люсие",
-"руков",
-"позна",
-"персо",
-"други"
-]
-},
 {
 "ts": 1795122122.3960598,
 "title": "В GTA 6 есть несколько дерзких пасхальных яиц с Декстером",
@@ -26522,6 +26533,278 @@
 "хедер",
 "стиве",
 "озвуч"
+]
+},
+{
+"ts": 1795294912.8333433,
+"title": "Neuralink показала игру пользователя с инвалидностью в GTA VI силой мысли",
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWNGX2trTlYzQWRvV182RUw5aGZhdTVPSjUxRVdFZWJsNGJ0dEFhQ3NJYlprX1RQemZpN25lV0tQNlJfVmQ2aURzSWtDNW5FYVpENlA1X2Nac1RLZXVuT19URnVhR1RRRVNUX3ZSZDNwREVRbGNoNUFNNENYNnktbGtyWmhQSWpQTTFCWFZWNktLWnVnVG9YYWtDTFJqWjZxYmN0bXBIYmVqZ0dzOE5kQ2Z3?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "ГИПОРТ",
+"score": 0,
+"kind": "news",
+"words": [
+"neura",
+"силой",
+"польз",
+"показ",
+"игру",
+"мысли",
+"инвал"
+]
+},
+{
+"ts": 1795294916.0419166,
+"title": "Школа предлагает учащимся вознаграждение в размере 92 долларов, чтобы они не пропускали GTA 6",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamE2YXBrUG56N2pBT3hQcEd1VG9MbVhpdkZnb3pXblp1ZkZmby0ydnBrUU83SEQ4SFNDcDgtbUZVVGQ4SXQtTGJ6X2g2M3QxV3hiOERYckNnUjlpZXhBYWNJdVN3RUtlRm1QeTktdHhfVDdYM2VjVHlldWdZZVQzc2VCSXZvcXRCQmM4enlVbmQtamJzMTNiTmloZ1VMQm96Z3B2cg?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Parade Magazine",
+"score": 0,
+"kind": "news",
+"words": [
+"учащи",
+"разме",
+"школа",
+"долла",
+"возна",
+"чтобы",
+"пропу",
+"предл"
+]
+},
+{
+"ts": 1795294919.2400773,
+"title": "«Сделайте перерыв от GTA VI»: игроков призвали вернуться в Overwatch, чтобы получить бесплатные лутбоксы",
+"url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWUxGRWpEbHV2LXE3RUNMMUpwOFl3YWt2RzRGWjVOMnN2YTdpSXB6Zm1zVW1ZcFNScWcxUmg1dHI3ZmRiYUlvRllxWFFyNTgwZ1FOMG5nMXRvR1FpRlQyckMwQi1GOW9xdDNpQ3NGY2UtUjZpd0pXUjBTNWpxdEpRdjU0UDQ1d2l1elBGdnBRN3NiejAzRi1DWVp3SkRQMTlOZHZxMEhWUzRhR2ZtTXM2dS1kMTloNGpxVDhfOHpuVnpZRHA5QTYwQ3BiWTlRelVOb3puOF9n0gHbAUFVX3lxTE5rai1QYmVmUGlRbFYwVU05SkRBUDZwQktvSS01Z3N1aWt6bXZObEdHTUZQZnNpNExzUi1nUFBXYlZfWXBFV1pRV0pGaFd0amV1cFpkbGJlMDU5SUZ5Y2RTMW1QWkxJc1lya1FqdjJ2QW8tQmZTNTE2VmVyTWJaWnRkXzV3TW40SUNyVG5MQWpsdVVmYjhGM1lvaHVQQ1lWRGFwdFhCSHNicVJIckRIcWViVDdkc05qQWZEaENnOGM0RlBudUZuZGQyMUtCRElzTGpsMTUtY09lakgxSQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "iXBT.games",
+"score": 0,
+"kind": "news",
+"words": [
+"лутбо",
+"сдела",
+"overw",
+"беспл",
+"верну",
+"чтобы",
+"призв",
+"перер",
+"игрок",
+"получ"
+]
+},
+{
+"ts": 1795294922.4651604,
+"title": "Как Джанель Джеймс завела собственное радиошоу в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDSlNiSTBqUEVFUGFXWVRtYXNFWnZYeXB3VTFmOWhqaWh1bzhZU3VXTEZOR2ZQSzloa2oweUE2bHNFdjd2eG9SNnE5a1lLQnZjdnBabzEwZ2gwbTBwUE1Ob0ZRcm41ZGs?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Mashable",
+"score": 0,
+"kind": "news",
+"words": [
+"радио",
+"собст",
+"завел",
+"джейм",
+"джане"
+]
+},
+{
+"ts": 1795294925.6422334,
+"title": "Продажи GTA 6 в первый день составили 3,8 миллиарда долларов — это крупнейший развлекательный запуск за всю историю",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0Y4MHlLTUhVOWhhanlna2d6cGFJaTY3YlVmQ0FRSWVTTVE0UXNNdXN6R2gybWJIVk5nQ3VGOXB5UkQxUzhXQjZraDk3SHJkWktBNzNFOFo4WmpOaG1PQnpRS1M0c1E5NjRDYmNrdFNLSW5qWlNfRnFPV1FqdlVZcTV3b0NPRDFIWWFjUUgtX1ZxTU5kUXdzSkU5bw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "USA Today",
+"score": 0,
+"kind": "news",
+"words": [
+"соста",
+"развл",
+"прода",
+"всю",
+"долла",
+"истор",
+"день",
+"крупн",
+"первы",
+"милли",
+"запус"
+]
+},
+{
+"ts": 1795294928.810946,
+"title": "В GTA 6 есть скрытый склад, набитый добычей стоимостью 14 000 долларов.",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVdPSE16ekZJSmE0RGhDU2VINVc3eXZtWElaOXpJNTVsMW4yMkRnR1ZJN0RKU29XbGJ4RkdySmszWmM4WllBOTh6MjM2OWxRcUJ6Si00aEpkanZLSEZ5UDktYmZYLTJkZGVqd1hNanBrcXRMYTRHdHp4QmpZNXZ6SmdpTFpMMnFPMXBYUkV5R0RPYkxMQ3JxaGZxOFFKZw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "GAMINGbible",
+"score": 0,
+"kind": "news",
+"words": [
+"добыч",
+"склад",
+"долла",
+"набит",
+"скрыт",
+"стоим",
+"000",
+"есть"
+]
+},
+{
+"ts": 1795294931.9926453,
+"title": "Клэй Томпсон удивительно играет в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQklJWGphaUx0MkM5enptVzZYUWVsci0tUzhYX2otZ1ozc0FDVjZ2dXlNVlRITW5oMUFxUmxpZ0Rsd0QxZzJ0RkhGaXVTZWh4LXhrY251dUdRUEE2bnIwOHRURnVwWTkyLXpMODZWRkRzMlNUX3puRGIxbWhSMjFrZnBwQ01RYUE0bHE2ZjRyUXpFUQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Lyndy's Sports Annuals",
+"score": 0,
+"kind": "news",
+"words": [
+"клэй",
+"томпс",
+"удиви",
+"играе"
+]
+},
+{
+"ts": 1795294935.1719565,
+"title": "Пользователи далеко не в восторге от GTA VI — на Metacritic они оценили игру в 5,6 балла из 10",
+"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZXMyLWpOeVdPRGhkV3pCenNlTUZCckFBSTBmWXVpbDIxZ2ZvT1dpeDFjYUF3YnNrSU9obkJ6U2g2LW5qVF9GUjB1aWlMSVdrNFJTS1ptZlFvck5TQWxvSXpRVnhnTVdyRTQ1RXFOT1ZWNlB4M1JVLURray1JYXBiOXJHd24yYmpVUWU3TmtOQnd6dnBuTVJnRW1FcS1iYU9EU1RvVURoTEFMem1OdnNuTlBGWHPSAboBQVVfeXFMUFNTWmN4MFJEU1YxVWZHQ3I3eWRVa3N6SC1lbGNDSmQyakFrWkFTbFB5M2YxVG5ETk41cjIteVBVWjA3NEpCVmVTV0RaSllVS0dtSmlIamFjX1pLbUJiak5RTjZycFM3RUJxdktwYklqZzJMcHBwN1ZYWi1pV1AyaGZMbFgxWGhGR2R2SlpqdmtJZ3d0bkQ5Q01WX1NCM1RTTC11aGZ2WkpaLU05dWM2ejMwcW1YOG9ZTDFB?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "iXBT.com",
+"score": 0,
+"kind": "news",
+"words": [
+"metac",
+"польз",
+"оцени",
+"балла",
+"игру",
+"далек",
+"восто"
+]
+},
+{
+"ts": 1795294938.3415267,
+"title": "«GTA 6»: откуда вы знаете Брайана Хедера, актера Стивена Рута",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQm43UzYxYURubVd0MXVBOUMxb0ZSVDh4aE9jcVl5TDNZMUhid3FYS2tqenVPX2dWa3ZZRFhTV3VxZl9OemhCZlVyR2pXa2lmc1ZnTXJqcmlQdVJiREZVNXhqR1h1bTliRzE1ZTNkRC0xWUh1SlNaa0UyRUF6UG92RDJjUmp0em5hNVJtdzg4VkZ0VVE?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Men's Journal",
+"score": 0,
+"kind": "news",
+"words": [
+"актер",
+"стиве",
+"хедер",
+"рута",
+"откуд",
+"знает",
+"брайа"
+]
+},
+{
+"ts": 1795294941.516802,
+"title": "Поклонникам GTA 6 нравятся новые бесплатные игры Rockstar",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JSmhRWXppTnd1TS15TFZYUUVOd1MwWTRmWVJ6ZzVUM1liNEROa0gwRms5eE9WdTFzdG1YdVBfMGs4RmRyWmtkcF9SMWUwZ2hBVjAyRE5JZkFSbFdVbVJPbmxzNzhrcWVXX1hIMXh3?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "ScreenRant",
+"score": 0,
+"kind": "news",
+"words": [
+"игры",
+"новые",
+"нравя",
+"rocks",
+"беспл",
+"покло"
+]
+},
+{
+"ts": 1795294945.5784469,
+"title": "Расположение кода Declasse Vamos в GTA 6",
+"url": "https://www.polygon.com/gta-6-declasse-vamos-code-car-location/",
+"tags": [
+"новости"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/declasse-vamos_gta6.jpg",
+"source": "Polygon",
+"score": 1,
+"kind": "news",
+"words": [
+"кода",
+"распо",
+"vamos",
+"decla"
+]
+},
+{
+"ts": 1795294948.7586358,
+"title": "Департамент образования Трампа упомянул GTA 6 в дебатах о трансгендерном спорте",
+"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUElsLUk3VE9BZ3FSQzIwenlrYmp2eFZ5ZkNQa0pPWVk1ZHJfRzc1R19Ob0hDcVp2bS00Sjl0MzREdkdVODYwS21mTHhySXBMWTY4d1lNUXhWVi10QWdhS0Izc3J2b19tSDhwbWlrT0ttNzFUZTJEeUdBZlp2bE9Ta1JHVXpVcTIwczYtZmQzeERuR1RfYkJldkduVWhPT2xqa2Z5bjB4U2o?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Newsweek",
+"score": 0,
+"kind": "news",
+"words": [
+"упомя",
+"спорт",
+"депар",
+"транс",
+"образ",
+"дебат",
+"трамп"
+]
+},
+{
+"ts": 1795294951.9381387,
+"title": "Как переключать персонажей в GTA 6 – когда открывается переключение Джейсона и Люсии",
+"url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLbFFTQ3M0Z0FUQTI5RjBlSTdMQ1hfRWFaenBaTFpGX2JETE5LLWZQY0t2UEFmZlRmY1F1dlJsX2xjY3Qwejhuc2FjOUo3Nl9aUlRpUUFsZHJ4dkEydTk1amRSZUJWZ1RPak9TeXpGTm43dEpQ?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "VICE",
+"score": 2,
+"kind": "news",
+"words": [
+"когда",
+"люсии",
+"перек",
+"персо",
+"откры",
+"джейс"
 ]
 }
 ],
