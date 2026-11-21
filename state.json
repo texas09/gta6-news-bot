@@ -12626,7 +12626,22 @@
 "5a8ba92ac2ba087f",
 "0daa442d9ac2ddd6",
 "bbd1acec3be41a95",
-"76d8eeb8585535b6"
+"76d8eeb8585535b6",
+"dd5dd7fc1ee9895c",
+"cde9574a47b89c1d",
+"3d0816c69f407473",
+"32ebfef0d1a33848",
+"e4afa936a081b68d",
+"1c0ac7545cb29880",
+"d71b17171efb9f72",
+"cb470406c1a82534",
+"63ca8afabe73819d",
+"487a183778be1bcc",
+"31557cedbb3f5e05",
+"8dc8abe438aff469",
+"a5da9f97d65375b5",
+"a3761ed515c6fe9f",
+"87c872a5c0fd86c2"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -26328,6 +26343,72 @@
 "сын",
 "проло",
 "мисси"
+]
+},
+{
+"ts": 1795293096.356291,
+"title": "GTA 6: объяснение быстрого путешествия – как пользоваться Paradise Taxi, RydeMe, автобусами и поездами",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XWkV3YktZOG1CZ2JEeUFSbUp4eUFlRUwyM3plOGtEcHd2bDBWS21DZDZ0VEQtVFExU0xDa3B5RlhZX09XdUFmdlJIdGh6Q1dSdGdlV3o0MGszdWo5TXd1U01PaDVicFhyWmNjWA?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "space4games",
+"score": 2,
+"kind": "news",
+"words": [
+"объяс",
+"польз",
+"поезд",
+"parad",
+"автоб",
+"быстр",
+"taxi",
+"путеш",
+"rydem"
+]
+},
+{
+"ts": 1795293099.5239675,
+"title": "Интерактивная карта GTA 6: как найти абсолютно все в Вайс-Сити и штате Леонида",
+"url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTUNDRF9HTTM5VktIYUQyTlF5VWJBakpHR0FkWl9vRlNtbFUtci16SjR4R3hRbnpFQWhoS2tRSzZYdUFpREt3UzhZY1FsVlF5UEdPUDZtY3Y0eVNjLTJOZFJnQ2JlYkZlaUVrenJpTV9qeTBSMUhZZXV6RDBnd3dsSGVtdnpaRWFLU2JFNkowazFBMTZiRnpxRmlIbzZBNE01ai1STjdoZjBvRkZWX05GVlpsNjhVUHdpTmVLa2NuTDNLYjRNNlZFQkVNN1h0SFRIZVZPb2FKVTVfRUJveFhBallJcU3SAeoBQVVfeXFMTjdLZ1UwYVkyRUk1NzdMZm40QzFSX0hxN2NxNFRKUDhZdTN0cjNDcUlpei1DY21kYkF4TU5fNmZFZmg1ZlYzWGh1SEhwLXVXWXNMS21BVHdXRkdLanBIWThuTlp2d3BxUTV5REZzZ3NtZEwxbGxBS08xMmFvNUtxVkhqVE55MG51bUZXdmxwbjV0ankxQWxBdUwwV1RULTc1UjFmVW1mbXE3c2NBcEcyMkxqNGIxYzE3anpzeGFVdzVwUkZpNkNJbHlRMzdBX3p5cFg1TlhucXM0NTRaWEUtWFZqODJOa2w4YkNR?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Sport24.ru",
+"score": 2,
+"kind": "news",
+"words": [
+"абсол",
+"сити",
+"штате",
+"карта",
+"найти",
+"вайс",
+"интер",
+"леони"
+]
+},
+{
+"ts": 1795293104.2025774,
+"title": "Прохождение GTA 6 «Выбор дилера»: стоит ли выбирать Cut или Pure?",
+"url": "https://www.videogameschronicle.com/guide/gta-6-dealers-choice-walkthrough-should-you-choose-cut-or-pure/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Dealers-Choice-walkthrough-pure-or-cut-4.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"выбор",
+"cut",
+"выбир",
+"стоит",
+"pure",
+"прохо",
+"дилер"
 ]
 }
 ],
