@@ -11837,7 +11837,13 @@
 "0bc4204834e48e0b",
 "273d748b09b99ee7",
 "f07c63cc37b934d3",
-"0bda5851706b3b1d"
+"0bda5851706b3b1d",
+"eca047f51e7a00d0",
+"a9a23c7955d4b214",
+"39e94f95e6949c49",
+"7192d160b16f3cb1",
+"c16c3295aad4d970",
+"0d2f29e2bda48c87"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -23658,6 +23664,30 @@
 "зараб",
 "млрд",
 "сутки"
+]
+},
+{
+"ts": 1795254665.7297819,
+"title": "В GTA VI обнаружили способ разблокировать 60 FPS и выше на Xbox Series X через Quick Resume",
+"url": "https://www.playground.ru/gta_6/news/v_gta_vi_obnaruzhili_sposob_razblokirovat_60_fps_i_vyshe_na_xbox_series_x_cherez_quick_resume-1892678#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"настройки"
+],
+"img": "https://i.playground.ru/e/oQvGmA_jfbn5F42tt7jYsg.jpeg",
+"source": "PlayGround.ru",
+"score": 3,
+"kind": "news",
+"words": [
+"спосо",
+"через",
+"выше",
+"fps",
+"xbox",
+"обнар",
+"resum",
+"разбл",
+"serie",
+"quick"
 ]
 }
 ],
