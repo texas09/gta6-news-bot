@@ -11975,55 +11975,23 @@
 "015516cfededaef0",
 "7ee396d2f7a5a707",
 "a100bfe4c51cacfe",
-"61021783e5cd2df4"
+"61021783e5cd2df4",
+"10a7a70121a2a829",
+"10a7a70121a2a829",
+"ee20b3eb2bdc99a8",
+"647f479be4389b0e",
+"12de18fbe814a148",
+"86ef495337853bf0",
+"a1b795dec8d2a11b",
+"963714e310698ed0",
+"17e5cc300816335b"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329182,
+"tg_offset": 706329185,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795087305.2517035,
-"title": "GTA 6 выходит после 13-летнего ожидания: постоянные обновления, пока геймеры исследуют Вайс-Сити",
-"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdlM5UExrWHBpSWhHS0JLMW8wb2dOM2Z5X3pBbmpaX0ZWZkhmaHZBbElrNjF6UGNiRmVLZldFaUlVal9uNG9ESnJ4NkZFQWM5SGJkTTNReFlvVmVsWGNXR3h4SHhzNHF0ZkotUTN6dkhvM0RrVEJTZVFGOGI0SXMxRS1ZdEdZV2tSUFcta1FEX0RJb0JpN3c?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "USA Today",
-"score": 3,
-"kind": "news",
-"words": [
-"обнов",
-"вайс",
-"выход",
-"сити",
-"после",
-"летне",
-"иссле",
-"пока",
-"гейме",
-"ожида",
-"посто"
-]
-},
-{
-"ts": 1795087309.7275445,
-"title": "GTA 6 Что в сумке? Прохождение",
-"url": "https://www.videogameschronicle.com/guide/gta-6-whats-in-the-bag-walkthrough/",
-"tags": [
-"гайд"
-],
-"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Chapter-2.jpg",
-"source": "VGC",
-"score": 3,
-"kind": "news",
-"words": [
-"сумке",
-"прохо"
-]
-},
 {
 "ts": 1795090376.575116,
 "title": "Стоит ли убить или пощадить Арнольда в GTA 6? «Эй, Арнольд!» Руководство по миссии и объяснение последствий",
@@ -23975,6 +23943,52 @@
 "стоит",
 "диска",
 "ultim"
+]
+},
+{
+"ts": 1795260699.767419,
+"title": "Что такое Вайс Сити? Почему «Grand Theft Auto 6» включил в себя «College GameDay»",
+"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTlNsdjRma0JIc2dnUzhDVGVIYzAxdDB2MjNOaHBPcFBENXBMZDhNQ0FOU2JHVGVDX1p5SjdEOGEtMUZfLUUxSTQxaUx1NjJ0enRwZFlmbHd1c0xZZEtkem1vc1BTblVBbm9DOUxONVNWVk1XRXRGZlNiNWduYV9yTGFiNmR6UUxGOEFkaWpLZUJzYlh4ejY0NFh1eGZ4dzNJQUVEaHpLbkFfSE5NUGc4dkN0UDIyS0hacEZPOUVGS20?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "USA Today",
+"score": 0,
+"kind": "news",
+"words": [
+"такое",
+"почем",
+"себя",
+"вайс",
+"colle",
+"сити",
+"включ",
+"gamed"
+]
+},
+{
+"ts": 1795260709.725499,
+"title": "Игроки обвинили западную прессу в двойных стандартах из-за реакции на сексуализацию в Stellar Blade и GTA 6",
+"url": "https://www.playground.ru/gta_6/news/igroki_obvinili_zapadnuyu_pressu_v_dvojnyh_standartah_iz_za_reaktsii_na_seksualizatsiyu_v_stellar_blade_i_gta_6-1892704#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/JfksOTBbSOF2Ij5Zf5Eq4g.jpeg",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"пресс",
+"обвин",
+"запад",
+"stell",
+"станд",
+"реакц",
+"blade",
+"двойн",
+"сексу",
+"игрок"
 ]
 }
 ],
