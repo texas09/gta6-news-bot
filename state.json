@@ -11750,7 +11750,28 @@
 "2874397a27a1ca36",
 "17a8ed89c1c630f3",
 "f3c3eb5fad8b3dc2",
-"4538e892b5b75acb"
+"4538e892b5b75acb",
+"8f6ab7d6f4dbcd00",
+"fc1cdc15686e8b97",
+"ad8efc077adabe71",
+"d14057e35816a1e2",
+"9ad5deed5d514762",
+"e9f82dd958456e63",
+"532d6470dc405788",
+"671c877a0cec3260",
+"c3135ae9dba9c62e",
+"589a9944b00f3f50",
+"f1465fb67cfb0793",
+"9f375c65dcdb4f08",
+"8d0d8c82acb3b553",
+"dca192e084cf58d5",
+"d6bff20128c6a2d3",
+"53012e7cd2cc9916",
+"c404129f8fd2b3b4",
+"35578783187edfaa",
+"e276e9da6ae8debe",
+"e276e9da6ae8debe",
+"c91fcc6d65dca46c"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -23183,6 +23204,128 @@
 "ps5",
 "ночь",
 "играя"
+]
+},
+{
+"ts": 1795252268.666721,
+"title": "Запреты на автоматическую загрузку GTA 6 — могут ли секс и нагота привести к запрету на XBOX?",
+"url": "https://insider-gaming.com/gta-6-xbox-auto-upload-ban-explained/",
+"tags": [
+"новости"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/5fbbc6e9-9cc5-4916-a556-09a66777da83-1-1024x576.png",
+"source": "Insider Gaming",
+"score": 1,
+"kind": "news",
+"words": [
+"запре",
+"нагот",
+"могут",
+"xbox",
+"загру",
+"приве",
+"секс",
+"автом"
+]
+},
+{
+"ts": 1795252271.8130534,
+"title": "GameDev Reports Premium (16.11.26 - 20.11.26) — GTA VI — самый крупный развлекательный запуск за всю историю!",
+"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX0syRjBXNHpmTHd1dW5aTk42MDgwdkhSN3JnaUVpZEVuSWZGY2JjZnFrMWdEZm9DTnBlVDlER3ZncHNoUVVOVFJBLXdKMWVoX2ZrcHdDbS1SVmZXN2ZOWXBCQVNUYUU5bThmWkZfQkxSaXZ1M2NPX3JBMmFDcG8zSw?oc=5",
+"tags": [
+"слухи"
+],
+"img": null,
+"source": "Substack",
+"score": 1,
+"kind": "news",
+"words": [
+"premi",
+"всю",
+"истор",
+"gamed",
+"развл",
+"repor",
+"запус",
+"крупн",
+"самый"
+]
+},
+{
+"ts": 1795252276.789309,
+"title": "\"Флоридский Джокер\" требовал от Rockstar $10 млн за GTA VI, а теперь неожиданно появился в официальных титрах игры",
+"url": "https://www.playground.ru/gta_6/news/floridskij_dzhoker_treboval_ot_rockstar_10_mln_za_gta_vi_a_teper_neozhidanno_poyavilsya_v_ofitsialnyh_titrah_igry-1892657#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/cxVXepFjmij95aCC6GrHnQ.jpeg",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"флори",
+"rocks",
+"млн",
+"игры",
+"титра",
+"офици",
+"неожи",
+"появи",
+"тепер",
+"требо",
+"джоке"
+]
+},
+{
+"ts": 1795252282.2261643,
+"title": "Глава Take-Two Interactive нацелился перевести все франшизы компании на модель сервисных игр с постоянными тратами",
+"url": "https://www.playground.ru/misc/news/glava_take_two_interactive_natselilsya_perevesti_vse_franshizy_kompanii_na_model_servisnyh_igr_s_postoyannymi_tratami-1892663#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/giBGk1VYCCz_M791ngHKyA.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"перев",
+"компа",
+"посто",
+"take",
+"модел",
+"нацел",
+"inter",
+"франш",
+"игр",
+"трата",
+"серви",
+"глава",
+"two"
+]
+},
+{
+"ts": 1795252285.3779106,
+"title": "В GTA 6 нельзя угнать машину соседа Джейсона, и игроки говорят, что это противоречит всей концепции серии",
+"url": "https://shazoo.ru/2026/11/21/194402/v-gta-6-nelzia-ugnat-masinu-soseda-dzeisona-i-igroki-govoriat-cto-eto-protivorecit-vsei-koncepcii-serii",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892285_jclylmN_auto.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"конце",
+"игрок",
+"нельз",
+"угнат",
+"машин",
+"проти",
+"всей",
+"серии",
+"говор",
+"сосед",
+"джейс"
 ]
 }
 ],
