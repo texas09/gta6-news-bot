@@ -11957,7 +11957,25 @@
 "85b0ce95ab34e2d4",
 "baa97b3a611abd18",
 "57ce36f5ea71efdb",
-"2177b07b8fee5469"
+"2177b07b8fee5469",
+"3eac03b995a7994f",
+"0bd6034ec63d9770",
+"dabdb29c2034c1a3",
+"3914bae5cf37f4da",
+"ecb60bce399f172f",
+"dd0cbbea743d668d",
+"1a89672b6b3696d4",
+"b598cfcf72607a26",
+"48d3dd2889dde8cb",
+"1890d7e61cbf6230",
+"ce3cc14999259aac",
+"740ec0a01e646097",
+"577a56a81396e3d5",
+"adcb18aeff98ae26",
+"015516cfededaef0",
+"7ee396d2f7a5a707",
+"a100bfe4c51cacfe",
+"61021783e5cd2df4"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -23892,12 +23910,78 @@
 "ps5",
 "привл"
 ]
+},
+{
+"ts": 1795260081.646181,
+"title": "Grand Theft Auto 6: прохождение Breakfast Run и ограбления",
+"url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOWGJmcWRHOHF3U0xGVlRIYmZuMldVLWFlYTE1aHJweS1wdkJJUllpV1R5eUxRa3MwNHg5Y1E3MndJcDlvd2VLVUs3ZzhWTGtoYWJQc2R5dGFVWGFZSmNTLXRHaDZURWNiWGFIdUxDX0dJdE92bS1qTkVtOHlCM0l3Q0VyY3pZQmhqZlVETTFxM0g0dHh5ZnlIa0trMjVBUllhazRQWUZFcUVpNkdnRTFrbDhEZEp4VkFGTFBLZFVjRDhwZlV1UWJsS2F5VUNMY2hQMTBYaFNhME1MNGhWRzRreDI2TThLVU1nMTFkbWV3QmI2MTF5QmY5OHFBRzMwZ0hCckpMNDdKT0hJNTY4b2c?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "games.gg",
+"score": 2,
+"kind": "news",
+"words": [
+"прохо",
+"ограб",
+"break",
+"run"
+]
+},
+{
+"ts": 1795260088.5308306,
+"title": "Из-за войны с фанатами GTA 6, ремейк Ocarina of Time лишился статуса самой высокооцененной игры на Metacritic",
+"url": "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/iz_za_vojny_s_fanatami_gta_6_remejk_ocarina_of_time_lishilsya_statusa_samoj_vysokootsenennoj_igry_na_metacritic-1892695#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/_f5yWiI0GdaJOzfQ7owrwA.jpeg",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"лишил",
+"time",
+"ремей",
+"стату",
+"высок",
+"игры",
+"ocari",
+"самой",
+"metac",
+"фанат",
+"войны"
+]
+},
+{
+"ts": 1795260091.750626,
+"title": "GTA 6 Standard или Ultimate Edition: что входит, стоит ли доплачивать $20 и почему нет диска",
+"url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5aF84NEZmT3k1ZDFGa0ZaZ1pORXZQWkFXQ2g0OGw3ZWRfdklWa21aaWUtekUtM29vQlNNX1phT20wYnFoaGRnQ1V3elBfd3A0b0NSaHJEOWplekRjSU9MUUdzU3RzTmwtdUZiNUVNa2w4Zw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "SecurityLab.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"editi",
+"нет",
+"входи",
+"допла",
+"stand",
+"почем",
+"стоит",
+"диска",
+"ultim"
+]
 }
 ],
 "digest_date": "2026-11-20",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-20",
-"viral_checked": 1795252891.0813925,
+"viral_checked": 1795260094.750884,
 "viral_ts": [
 1795215079.8993616,
 1795215083.7170541,
