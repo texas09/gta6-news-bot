@@ -12491,12 +12491,54 @@
 "41ae3a850d5cc829",
 "58243978888a8326",
 "feab519f456d1ac8",
-"2919c8c2c2ef9716"
+"2919c8c2c2ef9716",
+"5f70b30c2402b1fe",
+"5f70b30c2402b1fe",
+"b3c05735cbcedb02",
+"43d77799e3b9d25e",
+"8b4184031c417334",
+"185d34951aff33c5",
+"b601149aa26f35c6",
+"3beca9e0db4cd80a",
+"77d28b48f2ecdebc",
+"0046d07c8d8a42ed",
+"ad7c431345d6c1c3",
+"6ca88bfece78e44c",
+"0efdd31689d7278c",
+"96dcc8ed3abd9fe2",
+"c311075227b3c952",
+"a9f7502d3f4844c2",
+"f83aa67c4754c4fc",
+"0d896e4fc59dfafe",
+"bbef9acea7f58931",
+"13c9ecd9b846bc7d",
+"63fd02b3e6ec9f27",
+"78b7be3023208776",
+"98f08a37fd5aed65",
+"4eea607ffb85b4a3",
+"f92c0ff988038dcb",
+"fa4584181fdb818b",
+"3b0b165e9a19677f",
+"c1733d28cb9d97e8",
+"c28b888f1af93287",
+"acb73a1566d752f2",
+"759855633c9afefe",
+"759855633c9afefe",
+"393ea25dacacc233",
+"68b221d71d48d8a3",
+"f5bfe08abb2658f1",
+"3c6f31a2bd2e77dc",
+"c55c554e7af5543d",
+"fb7666693f9a1f4f",
+"11e2686e36002ab4",
+"cb2b10d6a18b5199",
+"c413243b3df2a25d",
+"85190d1e7971097d"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329308,
+"tg_offset": 706329310,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -25882,6 +25924,262 @@
 "получ",
 "танк",
 "rhino"
+]
+},
+{
+"ts": 1795286471.0949535,
+"title": "Найден способ запуска GTA 6 на Xbox Series X с частотой выше 60 fps — но ускоряется и сама игра",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkcwYmx1MVYwQjJueWNxWEpSTXhhdGhFbldTSDhSakpHYU5PakoyUnd0LVBiLXBoeHMwUlNjUTFLZmJROGhNQVNOaFFPel9feU1xWGVPVDdTSTFtdFZxYXZHQzJjUkhMSGV4Z2VhRS16azBBU3BhV0g3M0NlbE9taG5XYmJUTWd6ZTd3cXEyS25NcDlyUnNfbzBnaGpxMXVaMXZJb2FQZ0hGQdIBrwFBVV95cUxQdFpxY29pTkd4Tm9vUFJocHc3SXM1c3dBVmxoZnUtN1pSLWswTHRSMWprNW13WGlGUTM1ekxyX0Nva1gweUpFTHpaWThNbmNRTzIxdFZWdDc3T3M1M0xnR0RxNmV0VTJBbkhnMjFFQS1TMWZvaVVYSlFscFg1SllrT3VNRmc2ZThsVWJiM0VEem1WR3ZSS0ozYjg5ci1lSnVBUUk1bkcyMmZreFJpVURN?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "Клуб DNS",
+"score": 2,
+"kind": "news",
+"words": [
+"сама",
+"найде",
+"часто",
+"игра",
+"xbox",
+"fps",
+"выше",
+"спосо",
+"запус",
+"ускор",
+"serie"
+]
+},
+{
+"ts": 1795286476.2013466,
+"title": "Grand Theft Auto VI: Коллекционная коробка. Что внутри?",
+"url": "https://rockstarintel.com/grand-theft-auto-vi-collectors-box-whats-inside/",
+"tags": [
+"новости"
+],
+"img": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png",
+"source": "Rockstar Intel",
+"score": 1,
+"kind": "news",
+"words": [
+"колле",
+"внутр",
+"короб"
+]
+},
+{
+"ts": 1795286479.4133654,
+"title": "Питер Мур: GTA VI как подспорье для 6 групп",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxoXzJNVDc4dC05QTZMUDVLbTExVWN1Mi0xM2lvamZyZWhRanJ1VTIxOGZEYjU5djBXSG1NektzY3hwQ21abjRSY3BYTkR0czg3YmFjd0QzaGljb2g4OHF0R29neXJaTUZlUHYwazFiTEtnVjNVWmRPNzJmOUNqSWhR?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "shattered.io",
+"score": 0,
+"kind": "news",
+"words": [
+"подсп",
+"питер",
+"мур",
+"групп"
+]
+},
+{
+"ts": 1795286482.5872898,
+"title": "По данным Rockstar Games, GTA VI побила рекорды кассовых сборов в индустрии развлечений",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONmhHRDI3N3ZoZndFelE0RXZnTzRMN25kVnNhS19MZ1lLX1Rzc1B1TEk0RGlDSkJjV2Q0TVBXeFAwN0RaOE9yODcxYWxMWVF3bDdLaG9XQnFxMFpuT0Fma0Fnd1diUVhfR3dIMjBNYVZEaDRFRC1wdUpwTDRQNnd0bVVhX0oyZ2U1WGstODFxRWFjZw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Mashable",
+"score": 0,
+"kind": "news",
+"words": [
+"кассо",
+"данны",
+"games",
+"развл",
+"побил",
+"рекор",
+"rocks",
+"сборо",
+"индус"
+]
+},
+{
+"ts": 1795286485.7331717,
+"title": "Утечка из GTA 6 скрывает порт ПК за криптонасосом стоимостью 15 миллионов долларов",
+"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVnhMTFprS3k2LUFucUNDbkJDTkFURVJmdWZiWHoyUXdMYjBIT09QYXVPb1JfN1lNWFJJWEZ4ck9EVU1sVTBYOW0ybFBoYzU4b2I4SGRIempSeGFIYzBnM25LaTh1bzVaekhGNUNGOW1YMVdhNGEtRHo0dHE4YU0xRUpHZw?oc=5",
+"tags": [
+"слухи"
+],
+"img": null,
+"source": "Decrypt",
+"score": 1,
+"kind": "news",
+"words": [
+"крипт",
+"долла",
+"порт",
+"утечк",
+"милли",
+"стоим",
+"скрыв"
+]
+},
+{
+"ts": 1795286488.889282,
+"title": "GTA VI без единого движения пальцев. Пациент Neuralink покоряет виртуальный мир силой мысли",
+"url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XWmVuaWJDRDZxNmQ5UzFPU19CdElWMGxncE9NMWUtdUxEU09CWmpEeGcxZ09yY091Q3pwSVI2YUpQNUJKNFJwOHV6Nm80cTUzamZrXw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "SecurityLab.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"едино",
+"neura",
+"силой",
+"движе",
+"вирту",
+"без",
+"мысли",
+"пацие",
+"мир",
+"пальц",
+"покор"
+]
+},
+{
+"ts": 1795286492.0401933,
+"title": "GTA VI заподозрили в порче телевизоров: вместо картинки — один звук",
+"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOXh6RlNITlNDcmlrcDFFd3lqdll4UXZDbEZDeU5aS20tLVFuOHdaOFpTSjdncWJ2Y1pKWGZZY21VTkJfZlVYMEd4MUV3QUk1RjBMOEdDY1VvSi00a19uQkZkQjFFYTNEeDFHSk9mb2s4T0dDVHpxSzRZNTZ0YU5CQ1NXdUw3emJiUUt1NDFLdW02aVVtTGU1cjVhWU1kYlhiOXNqSndR?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "iGuides.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"телев",
+"звук",
+"один",
+"запод",
+"порче",
+"карти",
+"вмест"
+]
+},
+{
+"ts": 1795286495.1844928,
+"title": "Анализ рынка шансов и прогнозов GTA VI на Metacritic Score",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fWXM0SzM5V0s5VFNyLVRsc01ZdC1TNF8tLTBfcVdnUXJoRkhySkRDSzNUSFd3emFDeVFMUlljYWlJeWc1RFVjUE9mVXpyUllSbWJsclNSNldVNjVoZ19aYVNDSWdPUGlFS01ORmV3ZDdCYkJDNWc?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "CryptoSlate",
+"score": 0,
+"kind": "news",
+"words": [
+"анали",
+"score",
+"metac",
+"прогн",
+"рынка",
+"шансо"
+]
+},
+{
+"ts": 1795286498.3381226,
+"title": "«Действительно переживаю». Тренер по баскетболу — о своих игроках из-за выхода GTA 6",
+"url": "https://www.championat.com/basketball/news-6706880-dejstvitelno-perezhivayu-trener-po-basketbolu-o-svoih-igrokah-iz-za-vyhoda-gta-6.html",
+"tags": [
+"новости"
+],
+"img": "https://img.championat.com/news/big/z/y/dejstvitelno-perezhivayu-trener-po-basketbolu-o-svoih-igrokah-iz-za-vyhoda-gta-6_17952406191370086841.jpg",
+"source": "Чемпионат",
+"score": 1,
+"kind": "news",
+"words": [
+"трене",
+"игрок",
+"дейст",
+"своих",
+"выход",
+"баске",
+"переж"
+]
+},
+{
+"ts": 1795286501.4970746,
+"title": "Участник испытаний Neuralink сыграл в GTA VI без геймпада: видео",
+"url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUm9MZkthcTNGTmdyOVBhWFJIaUttUFBGdlFUQllOdmV4TXFpWXE5cnVKTXBrV21GUER3dkdudEFIUGwtRTlydmdfUnVlczZxY0ZCTFFXbThQY1psUThRd2ptVzVkMEs4ODZYT2ZJS2hHaHFuRmV1RzdndHZnVV84YzRnbmxqRnVIbDFOZ1VHdHBLdmFQQmx0eA?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Наука Mail",
+"score": 0,
+"kind": "news",
+"words": [
+"neura",
+"видео",
+"испыт",
+"геймп",
+"участ",
+"без",
+"сыгра"
+]
+},
+{
+"ts": 1795286504.6595063,
+"title": "Утечка GTA 6 связана с целью криптовалюты в 15 миллионов долларов из-за распространения пиратской сборки",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPVnVYYVYwY1RNMkVBVlowZDJ0anQ0elU0ODJpZ3N3R19ucG5oeTdTQzRHY3p3SktmZGUteGVVSjlRekRsR1BEN3U3d2h0V013QUVNSnJsaXVTY1lrZUtLOFVQWkFfX3c1YzBpZ0xwNjF5WHJrX1E?oc=5",
+"tags": [
+"слухи"
+],
+"img": null,
+"source": "BigGo Finance",
+"score": 1,
+"kind": "news",
+"words": [
+"крипт",
+"связа",
+"долла",
+"утечк",
+"пират",
+"сборк",
+"целью",
+"милли",
+"распр"
+]
+},
+{
+"ts": 1795286508.7567053,
+"title": "Сможете ли вы повторить ограбления в GTA 6? Зарабатывайте больше денег, быстро",
+"url": "https://insider-gaming.com/can-you-repeat-robberies-in-gta-6-make-more-money-fast/",
+"tags": [
+"новости"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/106fbf06-9e9f-46d5-a218-d424eb4d7263-1024x576.png",
+"source": "Insider Gaming",
+"score": 1,
+"kind": "news",
+"words": [
+"повто",
+"зараб",
+"быстр",
+"денег",
+"сможе",
+"ограб",
+"больш"
 ]
 }
 ],
