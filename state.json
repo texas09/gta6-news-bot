@@ -11576,7 +11576,22 @@
 "977f45c4e2cb17a7",
 "7c9cf997348c4579",
 "3749291fa8263930",
-"552b3d1e16f32de5"
+"552b3d1e16f32de5",
+"945c0d01edbf3aa9",
+"678958850ec3ffb0",
+"b82f7386c86c8119",
+"379957d8879a171a",
+"f12bb9913fef07bd",
+"12d365a4b6bf621b",
+"fec51efae37fb12e",
+"cb7ffcef53763241",
+"e3ee5344dbedc85c",
+"aeda653f72b8b9f9",
+"c60f3718374f2d7d",
+"a35a4ece6d293488",
+"943d901734c55574",
+"943d901734c55574",
+"05f719a7c1d8eef9"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -11584,32 +11599,6 @@
 "tg_offset": 706329121,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795073497.8942192,
-"title": "Энтузиасты повысили фреймрейт GTA VI до 280 fps, подключив PS5 Pro к ПК через карту захвата — IT Home",
-"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnowSEVialVLZkU2SVNUbWU3RjRDem1oRFEtX0cwZ3NNQzhXME5wRUFzcG5lcU0tWFBIWXU2XzhzRDJFSFBBZFB0d29Ob0ozNXN6TFVIcG1QcWV5TTFsNVhPUHJxVHZlc1dkZkM3UzhtanVQRzlXc3N0UGlfTEhPS2NrSjRZSGg3eG5QUjNKOE43ajh1cHctMHRQcUZhLUhtX05BOUp0ak1Vd9IBrwFBVV95cUxOVmhWSDd0dTZGSW1hM3pnS1k5ZjJ3Nkpudkt1Q2dJUWZuWjB3clROcF9jeG10cjNlUlNncTBncllmNG10OEJzYmtTT0lOVTZablRRczNOQU03QVJwZnhfZTVaQXllVjRyUEY2RTQ4bGxVNEVTRHpjaHcxSHpxSDdDVmRhdXpUNTZ3Tm96WkhxZWpQRGxwWWRZdHVXSVJRc21NVWNSRHNENEkzLXg5Wms4?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "Клуб DNS",
-"score": 2,
-"kind": "news",
-"words": [
-"энтуз",
-"фрейм",
-"ps5",
-"280",
-"fps",
-"повыс",
-"карту",
-"через",
-"подкл",
-"pro",
-"home",
-"захва"
-]
-},
 {
 "ts": 1795074157.8774247,
 "title": "GTA 6 - How to Become a Backyard Wrestler",
@@ -22969,6 +22958,29 @@
 "отвеч",
 "норма",
 "вопро"
+]
+},
+{
+"ts": 1795246863.1253595,
+"title": "Геймеры нашли способ включить режим от первого лица в GTA 6 – вот как это сделать",
+"url": "https://shazoo.ru/2026/11/21/194416/geimery-nasli-sposob-vkliucit-rezim-ot-pervogo-lica-v-gta-6-vot-kak-eto-sdelat",
+"tags": [
+"новости"
+],
+"img": "https://cdn.shazoo.ru/892326_htXuJdR_i.jpg",
+"source": "Shazoo",
+"score": 1,
+"kind": "news",
+"words": [
+"спосо",
+"лица",
+"перво",
+"включ",
+"сдела",
+"нашли",
+"режим",
+"гейме",
+"вот"
 ]
 }
 ],
