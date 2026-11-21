@@ -11861,63 +11861,23 @@
 "dd0b62fca1983427",
 "721cd572f9b2b750",
 "721cd572f9b2b750",
-"98e2b4cf2368bec9"
+"98e2b4cf2368bec9",
+"58bf9f20d0682f66",
+"4a500bf3573bc8f5",
+"b746fd8ba337db2c",
+"e5fbf958e967e079",
+"1897c15084061909",
+"c9aa4b0d83fa74ce",
+"ca4ca5ecedd06b2e",
+"75ee7bf8c9230517",
+"0a132c5464ac5882"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329162,
+"tg_offset": 706329165,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795083667.149238,
-"title": "«Мы получим GTA 6 до возвращения Янника Синнера» – фанаты теряют надежду, когда появляются сообщения о последнем обновлении итальянца о травме колена",
-"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeXM0a25fMXEtLU1nZkpnZU0zVUlsNXphZ292VzNhRWFUNDdpQmZ3S0JLSmFVX1ZkVlgtYk1iaE5Za2UxdG9wbktHT1JLS2RTQV9MNWZkZHBsOXhfUHNrMC12VGFWTHQ2NkNxdy16Z3lkTk9hdlIxV1BfTnRzVE1ENUgzNA?oc=5",
-"tags": [
-"обновление",
-"слухи"
-],
-"img": null,
-"source": "Yahoo Sports",
-"score": 4,
-"kind": "news",
-"words": [
-"обнов",
-"когда",
-"синне",
-"фанат",
-"сообщ",
-"возвр",
-"янник",
-"надеж",
-"колен",
-"теряю",
-"получ",
-"после",
-"появл",
-"травм",
-"италь"
-]
-},
-{
-"ts": 1795083675.7727704,
-"title": "Трейлеры не обманули — пляжи в GTA 6 переполнены людьми",
-"url": "https://www.championat.com/cybersport/news-6705542-trejlery-ne-obmanuli-plyazhi-v-gta-6-perepolneny-lyudmi.html",
-"tags": [
-"трейлер"
-],
-"img": "https://img.championat.com/news/big/v/v/trejlery-ne-obmanuli-plyazhi-v-gta-6-perepolneny-lyudmi_1795083626836126043.jpg",
-"source": "Чемпионат",
-"score": 5,
-"kind": "news",
-"words": [
-"пляжи",
-"трейл",
-"людьм",
-"обман",
-"переп"
-]
-},
 {
 "ts": 1795086378.9115522,
 "title": "Объяснение уровней отношений Джейсона и Люсии в GTA 6: как улучшить отношения Джейсона и Люсии",
@@ -23621,6 +23581,52 @@
 "warho",
 "назва"
 ]
+},
+{
+"ts": 1795256483.3771455,
+"title": "GTA VI работает со скоростью выше 60 кадров в секунду на Xbox Series X из-за ошибки быстрого возобновления, но игра идет с удвоенной скоростью",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2MU9fSW5scnRmZmdlTGpaeDVudWQzSUVtZ1d2THpYZm0xekF4OGVIN2xZS0laWVhBNTNkTG1UbzhzcmdyYUJEQWVqb1c0N2JPSjFNdk5jZWphWDliZk9jSGJReHBfOHRSWG1KbUtuQ1F1ZGZkdUE?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "BigGo Finance",
+"score": 2,
+"kind": "news",
+"words": [
+"ошибк",
+"скоро",
+"идет",
+"serie",
+"удвое",
+"возоб",
+"работ",
+"кадро",
+"xbox",
+"быстр",
+"игра",
+"выше",
+"секун"
+]
+},
+{
+"ts": 1795256486.5500448,
+"title": "GTA 6: Как изменить шляпы и солнцезащитные очки по умолчанию",
+"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wam9wRjI2MlFBcDhfS1ZHMmJySWh5dV81NWVocUYtYnBURnF0Q0xJLU1BdTV3Yy1OdXJOa09lb0NYSGFHbFc3QTlmdUNfcVBHSnlrSmxpeWlXVlZ1RUhDb3RfaEtHUVJMa0w0UU5sT01yU2M?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Cultured Vultures",
+"score": 2,
+"kind": "news",
+"words": [
+"шляпы",
+"измен",
+"умолч",
+"солнц",
+"очки"
+]
 }
 ],
 "digest_date": "2026-11-20",
@@ -23634,5 +23640,5 @@
 1795222910.1561525
 ],
 "group_id": -1003664956927,
-"group_checked": 1795234239.0824375
+"group_checked": 1795256438.078787
 }
