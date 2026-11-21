@@ -12800,12 +12800,33 @@
 "8d0712c46f37410c",
 "19f4b061f49cac32",
 "02af179c37bf3686",
-"ef65dc01720846ba"
+"ef65dc01720846ba",
+"e0865776461c0899",
+"6d474674b98d5d34",
+"fb27f4060540bbf2",
+"c043099f6834182b",
+"7ac2e2535d6a5f02",
+"1b5ad91bffeb40aa",
+"abf36035a4ec8611",
+"d24580eefaac9d45",
+"49914b80f5c8a588",
+"7ba0c24cbcbdd68c",
+"f5c221dc031956db",
+"7ad0a546cd84cb74",
+"3c6d8a23568e1f90",
+"0519dcb7595e0ee9",
+"4e62396d1eee7997",
+"06ab79560085083c",
+"842a290dec6d5931",
+"655bc498eadc1357",
+"318eaeeb7f70c30e",
+"633111901b34bfc6",
+"0bfaf5349fed3c52"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329383,
+"tg_offset": 706329385,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -26973,6 +26994,49 @@
 "нее",
 "играе",
 "графи"
+]
+},
+{
+"ts": 1795301495.3276742,
+"title": "Головоломка с паролем для ноутбука GTA 6: объяснение решения кексов и гаражного кода La Perle",
+"url": "https://insider-gaming.com/gta-6-laptop-password-puzzle-muffins-la-perle-garage/",
+"tags": [
+"новости"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2026/11/e822c46f-f4e7-40a9-8c67-50959c46b0a1-1024x576.png",
+"source": "Insider Gaming",
+"score": 1,
+"kind": "news",
+"words": [
+"голов",
+"гараж",
+"кексо",
+"объяс",
+"perle",
+"ноутб",
+"кода",
+"парол",
+"решен"
+]
+},
+{
+"ts": 1795301499.35929,
+"title": "Радио-диджеи и ведущие подкастов GTA 6: все известные голоса на радио GTA 6",
+"url": "https://www.videogameschronicle.com/guide/gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta-6s-radio/",
+"tags": [
+"новости"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-All-Radio-DJs-and-podcast-hosts.jpg",
+"source": "VGC",
+"score": 1,
+"kind": "news",
+"words": [
+"радио",
+"ведущ",
+"дидже",
+"подка",
+"голос",
+"извес"
 ]
 }
 ],
