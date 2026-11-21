@@ -11012,18 +11012,33 @@
 "e6aebb8ddb885c41",
 "660af8b9acc109b6",
 "f262e7d06b93b4a6",
+"24a69c3a4cdf1477",
+"576cd5b1c6e11dc0",
+"987cc9cc0bd18330",
+"17a55573f885e487",
+"c1a1275ab9ccddcb",
+"e9dd2fdb8a0b721e",
+"b453b84b2736d362",
+"70bd814f83b8f3f5",
+"7e7751e058116b9c",
 "6c6e79910ac6fe72",
 "19f5241a3ed63e27",
 "2955a06036fdab1d",
+"9afd6438c5880c61",
+"beb794038b2572fa",
+"565bf1cd91808c93",
 "431fd5f46e590ef9",
 "4e715a7a9c540c38",
 "d0d8f18f55f2d40e",
-"2f0d4b92a4311777",
-"cfec307dc9a1c3b3",
-"565bf1cd91808c93",
+"0ff67406ea670257",
+"1fa91e577edeb5e5",
+"81fefa90d7e2531a",
 "f51009d77b0545c9",
 "f468d13421c8ab2f",
 "d96641ddf17fe091",
+"7d9cde3e6def651a",
+"041d8bea6beeb42a",
+"508629e04b239574",
 "f83f3c14fc2ee030",
 "9fde34101b5128df",
 "b163ef616c7fed2c",
@@ -11036,9 +11051,6 @@
 "0723d7af921aa253",
 "3568352f505cd8fd",
 "4ae98ca63ea4748c",
-"c7971a89b27b264f",
-"b3c875a50ee165ab",
-"aff279f7d907bc3d",
 "9927f89f2c8535c3",
 "40165c5c11765915",
 "6ed13d66281ac0b6",
@@ -11051,9 +11063,6 @@
 "41b279858ae58597",
 "ea5001a0e4e3c52d",
 "643ac54d92cec316",
-"0eca65431f8efbbd",
-"03bef25fd2eb627f",
-"07a86034d8cefc57",
 "d484bc4cfa7b1042",
 "d484bc4cfa7b1042",
 "cd22c48c8cef9682"
@@ -11061,7 +11070,7 @@
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706328973,
+"tg_offset": 706328987,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -20875,7 +20884,30 @@
 ]
 },
 {
-"ts": 1795220469.612294,
+"ts": 1795220580.8329058,
+"title": "«Рубин» снял ролик к матчу с «Зенитом» в стиле GTA 6 с отключенными пенальти в настройках",
+"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcndyQXpkdUtyRHB3Nm4zSGZBdElWUXpWeGJaRkV3LTlFUVYyajNWQlgxVmpfbFFwM1NyTmNXVm1GeU1LR1Nvc04wY3ItbzJLczlNUnU3SGRtTzA3amsxZjFfeVQzNHJtUlNldWs5bUp6YklMVlppVGNJb0VwRUpHeURSVWVibGhJZURRR202WGhHREdfUktyTzlSWGpHQ25ldzJxeXJ3?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "Чемпионат",
+"score": 2,
+"kind": "news",
+"words": [
+"зенит",
+"рубин",
+"стиле",
+"ролик",
+"настр",
+"снял",
+"матчу",
+"отклю",
+"пенал"
+]
+},
+{
+"ts": 1795220583.9936147,
 "title": "Руководство по недвижимости в GTA 6: что можно и что нельзя купить в Леониде на момент релиза",
 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlFRNXhBMHNGbjZGX2pYSWFjQWVIdUhNSndkVTBVVWxUWXBNNl9jcVBMVi1pbk1PSU96VWRuN05VOHk3ZmpheWFWSk9DaTVZUnYxaDlCYkFvZEZrVnZqcDZIOXpRR2U1aThpaU84YlZHM3hwMFFCUFJESGtLN1NpLUZ1bGl1YmlEWG93RHkyQXY?oc=5",
 "tags": [
@@ -20887,40 +20919,35 @@
 "kind": "news",
 "words": [
 "можно",
-"руков",
-"купит",
-"недви",
-"момен",
 "релиз",
+"купит",
+"руков",
+"нельз",
 "леони",
-"нельз"
+"недви",
+"момен"
 ]
 },
 {
-"ts": 1795220472.7866383,
-"title": "«Рубин» снял ролик к матчу с «Зенитом» в стиле GTA 6 с отключенными пенальти в настройках",
-"url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFJkRUp2TUZKWDRSVXl5MVk4THVxRjU3bHdTR196VGR0MDd1c3U1aGJqTWNtSWlrNVJfdFhfN1VkbWlCV2dnWnc0cWk5NGRRaXByQk0tVEdvMmFNaWQxUGoyQVhoc29WRGtMcmZGNkc1dEdlSTRpQmxUSjU3RjJNRW9ySlNlUzZUWEg2cGJwRUs1OFhNT0hDSHB6YU1pcTB5bG5kTjdXS19RZkpjTlpmeXZrLUVaTGdYQnBqTGhYQzJJclQxOEE?oc=5",
+"ts": 1795220587.1580338,
+"title": "GTA 6: гайд по колесу оружия и инвентарю",
+"url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZVhiVXNTRFd6dEU1M2JYaThRdmdFb0w2RkxJbENCVGxIcmxvRUxsd1NYSVVKd2VCMDBwWU8wUXZBNEdmd01Rdy1zeGJnb1BKWDFLYW53M3FMLUpselk2TGdxb1JGVXpudTNPNHVuWGNqWGdDeGdlZFVYTDBrNTMzbXFmLWJ0NFFZbDM3NTZzN3ItS21LRWhUdE55d1BPR2ZodWI5V0huNUxXWXQ0TDRRV05OR1JOUmNJQm9XWlRFUlV0WVZJNWNpbmtGXzJha2Ntdkd3eERQUl96aEdKakVqRkRnNVI3VE5xQ0FscEF6dzdRLV9FaDVCVVJCdGFFN05IeUtwSDRTcklsai0zTGROanQzRW9HdmNxZ0FGZ09MWFM5UE5qMGJnZ09WdlZoN2F0U25JMHpkVVB6S2pPZ2RkcDhTcXJQbnVJdVc4?oc=5",
 "tags": [
-"настройки"
+"гайд"
 ],
 "img": null,
-"source": "irbis.spb.ru",
+"source": "games.gg",
 "score": 2,
 "kind": "news",
 "words": [
-"матчу",
-"ролик",
-"снял",
-"настр",
-"рубин",
-"отклю",
-"зенит",
-"пенал",
-"стиле"
+"гайд",
+"инвен",
+"колес",
+"оружи"
 ]
 },
 {
-"ts": 1795220475.924035,
+"ts": 1795220590.3145604,
 "title": "GTA 6: как сохранить угнанные автомобили",
 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kNUJyRXF1bGdBZmw5bFdmMHlLUTBFR09LZURXSEpnVGQyUFYyZVRvOUIyYzIzMDNlMjdrZ0pTOXY4UENGWVJlOUxYVHlOS0JLU3RnQ254a19HVmJTdlVCV0F2b2xuYktCNUY4?oc=5",
 "tags": [
@@ -20931,14 +20958,34 @@
 "score": 2,
 "kind": "news",
 "words": [
-"автом",
 "угнан",
+"автом",
 "сохра"
 ]
 },
 {
-"ts": 1795220479.0690148,
-"title": "Геймеры из Техаса предпочитают инди-игры новому релизу GTA 6",
+"ts": 1795220593.4762201,
+"title": "По словам моддеров, в GTA 6 можно будет сыграть на ПК уже на следующей неделе",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYTBPX2VxbmxMbDUxYUdqOWhwa2RLRzRIUlA0dzIxTjVva2ZnNDZuS2dFSWUyWVZQZGdST3dJb1hDOHRkd3F4UzFYQkRVem1wVTJvVHQtcWh4b1kwV0tXM2FDajBNSlA2N2dQekRwN1VFQ3NVNWtfX0NqcjFjcUh5cDZ3T0xqd0NfX0NSYw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "PC Guide",
+"score": 0,
+"kind": "news",
+"words": [
+"можно",
+"модде",
+"следу",
+"слова",
+"недел",
+"сыгра"
+]
+},
+{
+"ts": 1795220596.6598217,
+"title": "Геймеры из Техаса предпочитают инди-игры новой части GTA 6",
 "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONDBWRE56ZmVfRWlqOWJnbDFPekEySVNPb3VhallUSmFuc1l1QnFuVnpNNGlqX1JkakFRcV9GeXo0NDJ3QjdTXzA0OTNkQUVEUnMxV3JSb3F0MWRDUUE3R01Udml3QkR6OTZ6RnJCa1VmTWt1bVhXLUd1dEZQMFhKaDh2cTJFc3B0RDVr?oc=5",
 "tags": [
 "новости"
@@ -20948,17 +20995,17 @@
 "score": 0,
 "kind": "news",
 "words": [
-"инди",
-"предп",
-"новом",
 "техас",
+"предп",
+"гейме",
+"новой",
+"части",
 "игры",
-"релиз",
-"гейме"
+"инди"
 ]
 },
 {
-"ts": 1795220482.2600255,
+"ts": 1795220599.818257,
 "title": "Город в GTA VI, похожий на Неаполь? Сенатор Муди говорит, что в Леониде можно избежать наказания за преступления, «но не во Флориде»",
 "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU2F4SXFqRGxTZWVTTUVUamlTMzFrUlltREI2NzBtM0JMQ29aLW4wRlpPN2NqYjgyVXhLb1F5SkdiMmVYSzllb1BkaGNKcC1Qd1NzbnVxNzFuMXdPbjRkUjVtRkpGWURNY0FtYTFvZGFGWGtCaS15MWo4azQwaDV0RUNnT2U5X0szRmFNMWRGYUVNems4eWgzbldyZUlJMTBG?oc=5",
 "tags": [
@@ -20969,22 +21016,22 @@
 "score": 0,
 "kind": "news",
 "words": [
-"говор",
-"можно",
-"избеж",
-"прест",
-"город",
-"похож",
 "наказ",
-"леони",
-"флори",
-"муди",
 "сенат",
-"неапо"
+"прест",
+"можно",
+"муди",
+"говор",
+"леони",
+"город",
+"неапо",
+"похож",
+"флори",
+"избеж"
 ]
 },
 {
-"ts": 1795220485.4062216,
+"ts": 1795220603.0213366,
 "title": "Среди игроков GTA 6, очарованных Мэнди, по-видимому, есть бывший президент Nintendo",
 "url": "https://www.gamespot.com/articles/gta-6-players-captivated-by-mandy-apparently-include-a-former-nintendo-president/",
 "tags": [
@@ -20995,19 +21042,19 @@
 "score": 1,
 "kind": "news",
 "words": [
-"ninte",
-"мэнди",
-"видим",
-"бывши",
-"прези",
-"среди",
 "очаро",
+"бывши",
+"есть",
 "игрок",
-"есть"
+"прези",
+"ninte",
+"видим",
+"мэнди",
+"среди"
 ]
 },
 {
-"ts": 1795220488.543779,
+"ts": 1795220606.1823914,
 "title": "Актер, участвовавший в захвате движений для GTA VI, рассуждает об успехе игры",
 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fX2xaak9MRy14cC0tTGNPX2UwUENvTFdXOGVrX3lGTG9FOWtSWUYxVGZGT2NvMHpnbi1NT2NwclZCM2lFTmRsRkxqdFRYMUhnT0VWV0hyV0x2eExUc0Y1N9IBZkFVX3lxTE1kbGxNMS1kdVU4YTd3b3h4M2FiTVVKMUMwVkVVeld2ZDFnUi1idGpPMy1nVWlzRGRvbGhGYXBFWW5ZQlZFOGhEanJmV0Z0cEhWYTFuTFFsSkdZdmFuVVVxQmlFODgtUQ?oc=5",
 "tags": [
@@ -21018,50 +21065,17 @@
 "score": 0,
 "kind": "news",
 "words": [
+"актер",
+"захва",
+"участ",
 "рассу",
 "успех",
-"актер",
 "движе",
-"участ",
-"захва",
 "игры"
 ]
 },
 {
-"ts": 1795220491.6892781,
-"title": "«Рубин» выпустил видео про GTA 6 перед матчем с «Зенитом». В ролике Сальседо отключает пенальти и вызов в сборную, а затем выбирает миссию «Вмешаться в чемпионскую гонку»",
-"url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX2tGUENiRzlZYzllb0lKNFRKYlQyQlhoZ29HS0NablcyX3kwOHR6R1BfU3d3MlV5ZWRnUnhuVmw3RjVtbUdaZGNSM0FSWUhfR1FQYUpBUGFKYXEydmkwbzl6cDFDV2VlRjFvaHlXZ3o1WW84TzdjZFBDTVlmQXBidzlmOUpJZUN1b280aEhLX2VQWC1WZDNDMVdjdkJ2OTJTM0hHRG43OUU0RUNqRFRRa0Z3WHE1cm1TWExxT2pNWHN3bXhVRlNpZWhtNk9pbklKS1NNN0hR?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "irbis.spb.ru",
-"score": 0,
-"kind": "news",
-"words": [
-"перед",
-"зенит",
-"сальс",
-"видео",
-"про",
-"ролик",
-"сборн",
-"мисси",
-"матче",
-"вмеша",
-"чемпи",
-"рубин",
-"отклю",
-"выпус",
-"вызов",
-"пенал",
-"затем",
-"выбир",
-"гонку"
-]
-},
-{
-"ts": 1795220494.890252,
+"ts": 1795220609.578176,
 "title": "Можно ли быстро перемещаться в GTA 6?",
 "url": "https://insider-gaming.com/gta-6-fast-travel/",
 "tags": [
@@ -21072,13 +21086,13 @@
 "score": 1,
 "kind": "news",
 "words": [
+"быстр",
 "можно",
-"перем",
-"быстр"
+"перем"
 ]
 },
 {
-"ts": 1795220498.023017,
+"ts": 1795220612.7697477,
 "title": "Почему не стоит полагаться на автосохранение в GTA 6",
 "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kV2tjRktERi1VaUNldkFjNXBPeGJQUDRUOVY3SVZlVWFIdy16cHczbU1hYzVOVi13NjlzaGdwZVpZU1FvejhscXY3STJpVVFRUmlwU2dVSkIzLTZDbHEzZjd6MHBjMWF3cFBLUkhJbUl2ZWxQckU2U29NU0lOVDA?oc=5",
 "tags": [
@@ -21089,14 +21103,14 @@
 "score": 0,
 "kind": "news",
 "words": [
-"почем",
-"автос",
 "полаг",
+"автос",
+"почем",
 "стоит"
 ]
 },
 {
-"ts": 1795220501.1621046,
+"ts": 1795220615.966584,
 "title": "Является ли GTA VI искусством, которого заслуживает Майами?",
 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14UFJ3WnFOdzVsbHp3ZUxEa2szWjgteWYwWEltWUJ1cWZ4WU55RVRUbllSdnFkZVAxOFAzNnd5a3puZnc4eVNQZHNrMDNGekFrVFFJa0lrZ3FXazQtVlNta0dKMmpGNmVYTVdv?oc=5",
 "tags": [
@@ -21107,15 +21121,15 @@
 "score": 0,
 "kind": "news",
 "words": [
-"искус",
 "майам",
+"искус",
 "заслу",
 "являе",
 "котор"
 ]
 },
 {
-"ts": 1795220504.2906816,
+"ts": 1795220619.128307,
 "title": "Актер, участвовавший в захвате движений для GTA VI, говорит, что держал свою роль в секрете 4 года",
 "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX19kOFc1MFp3dHZEODZjNnF4X0JhU0YzcGQ3MFRFOWp0c2ZCdnI0T09EY2VCVTJyMWdobTRqMy1PN2VnVmR2a3NKUExXWjd1NENreGhGY214dkw4Nl9kbmpHWWlwY3VFajM2QlU2cklEbzFUTGtTb25uR3dhV2YzREpacDZHUHpOcXRsYVVNM0lobGI4?oc=5",
 "tags": [
@@ -21126,41 +21140,20 @@
 "score": 0,
 "kind": "news",
 "words": [
-"говор",
 "секре",
 "актер",
-"движе",
+"года",
+"захва",
+"участ",
+"говор",
 "держа",
 "свою",
-"участ",
-"захва",
-"года",
+"движе",
 "роль"
 ]
 },
 {
-"ts": 1795220507.4332707,
-"title": "GTA 6 стала причиной самого загруженного дня в истории Comcast",
-"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkxQcXBESzAxZXJxenBMOXp6UmQzRzhxVm1Ya1EyM0hEMlYwWVdfbnZtaG9LUnBzc0FKdkJxaEVKMnhqZks0ZUtEWkFmODJwazJYSG14UlRxamlhY01JVXhLNXhpVW53ajRQTjZQYnFtUzdqSWVpbWZ6dS1QeG1JNFFlRzhRTnp5ajBRSWp4N2RvMVU4aU9OVUlBTWloeV9FNVVNWDRlMjlZNDJ2UlNJLXpJeEM?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "IGN Southeast Asia",
-"score": 0,
-"kind": "news",
-"words": [
-"истор",
-"причи",
-"самог",
-"дня",
-"стала",
-"comca",
-"загру"
-]
-},
-{
-"ts": 1795220510.5722926,
+"ts": 1795220622.2865186,
 "title": "Все, что мы знаем о GTA 7",
 "url": "https://www.polygon.com/gta-7-release-setting/",
 "tags": [
