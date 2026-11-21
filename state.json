@@ -12821,12 +12821,24 @@
 "655bc498eadc1357",
 "318eaeeb7f70c30e",
 "633111901b34bfc6",
-"0bfaf5349fed3c52"
+"0bfaf5349fed3c52",
+"f28a04c9eaa4cc28",
+"854442654dc041d9",
+"274d3339b9137fb3",
+"1c19c2b4a708bf6a",
+"2e882f892e7da4f1",
+"d8bef9d65787897c",
+"32c24cdf47748747",
+"2126accada7c8197",
+"ddf7bfb339091422",
+"c0ce5fce1bfcc479",
+"cc30696599ca8646",
+"a530c6001cde3440"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329385,
+"tg_offset": 706329387,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -27037,6 +27049,47 @@
 "подка",
 "голос",
 "извес"
+]
+},
+{
+"ts": 1795302117.1389606,
+"title": "Обзор GTA VI – действительно ли это величайшая игра всех времен?",
+"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nUDdkdlFjbGg2d29hTlJYTy1ZZ193eGhEWmpPQnNEb193eW45Z1pRLXJzemJJcUxnZy0wdkNkQ200aUZpUVM3ekRmRGdfSjFXYmhOWm9CM0N4by1Z?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Only Comic Universe",
+"score": 0,
+"kind": "news",
+"words": [
+"обзор",
+"игра",
+"всех",
+"време",
+"велич",
+"дейст"
+]
+},
+{
+"ts": 1795302121.0195515,
+"title": "Прохождение GTA 6 Meet the Heders: найдите и откройте контейнер SCOOP",
+"url": "https://www.videogameschronicle.com/guide/gta-6-meet-the-heders-walkthrough-find-and-open-the-scoop-container/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Meet-The-Heders-1-1.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"найди",
+"meet",
+"откро",
+"scoop",
+"прохо",
+"конте",
+"heder"
 ]
 }
 ],
