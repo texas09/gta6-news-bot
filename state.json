@@ -11384,7 +11384,67 @@
 "0188f7fb340e2d2d",
 "9bdda6a438be902d",
 "a4869442bb5868f6",
-"8714538879f5722b"
+"8714538879f5722b",
+"95569f728c1f9624",
+"0b5a968fdd45f9f5",
+"de15b142933b37db",
+"caa088e909a814ac",
+"635c69996a4e4fdc",
+"c7b26b9ee91980f8",
+"e4304d1535fc9cf9",
+"61df1019a23d0056",
+"2652077d56c1b04c",
+"e760ea501763f3d2",
+"1796b95ae324e414",
+"eb19c359a3d0f51f",
+"41223101a2f0f4f3",
+"eabf5a6604b3c603",
+"8b5d01b5ed6dd26b",
+"c1fd7a87bad7218c",
+"f2ae71d36b594cbc",
+"7c59ff8096b8db05",
+"2c7052b537b9bef3",
+"52bfd3fdb524d47f",
+"2a3762da3ca27001",
+"ed5f839d55c72dbf",
+"0c531c93b6dbcfdf",
+"04cc0ff878acdbec",
+"c7971a89b27b264f",
+"b3c875a50ee165ab",
+"aff279f7d907bc3d",
+"45e83cbd1bfb408a",
+"4487bb1813eec393",
+"203cf416ac9fa905",
+"91192e1d242eef33",
+"9ad2056c22c7b2d1",
+"81c8e8249a576d1c",
+"e9ed1896ad3b8257",
+"1ffd1abc994971cf",
+"96e158df3fc3afdf",
+"4b4de8288c9fe9bb",
+"edbe69c6bc055812",
+"d8f81724572e9ede",
+"14622eab8499dd74",
+"764f5529cbb2b863",
+"aca4e245cbe15f18",
+"c4ffac337c4853b6",
+"c2eddb26c31ee195",
+"1e4b210ac5cd7cfd",
+"892bfd4be60651f1",
+"a7655504dd9a3c6d",
+"7a464c78801c2ec1",
+"84d77f0ac8218fa6",
+"e560b2a5ebf82d9b",
+"926d4a807726961a",
+"52f9f215f94d84dc",
+"ccbc6600450e4ec5",
+"d11ff856ef2f07de",
+"5b802355aefddcea",
+"18174b407dd01e2e",
+"936f772416d565b4",
+"d29f5af0c5f053fb",
+"a4cf253a1afe10d8",
+"74b3aaf35127a7c9"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -11392,45 +11452,6 @@
 "tg_offset": 706329087,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795067493.0353782,
-"title": "GTA 6: Как сохранить игру",
-"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85QmNyY0g2WWhqUFhFMXRLbWhsY1VFbkRjTm1hRV9PLXNlYkJPdFpPalFwMlpiZWNIdzRaVWV4dVpEbG5lR3dDVXc3OEkxUXhQWUFiSktuWlE0SHdsbjNrLVhiRWpTQ0RfTW1OWHpBTWh5dU9OUjRj?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "Mobalytics",
-"score": 2,
-"kind": "news",
-"words": [
-"сохра",
-"игру"
-]
-},
-{
-"ts": 1795067496.247743,
-"title": "PlayStation не работает? Некоторые геймеры сообщают о проблемах с серверами PlayStation во время запуска GTA 6.",
-"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbnJUY2JpTkJOVXZFV1VRLXlldkNjZjU2SGROSmoxeGkzZlpSel9BbTEzbi1kRk5QM3I5Skx5SGdxclpZNTczSzUyYi1IXzFzY2lMRmpFaWp5eFdjMzdmT1Z4TFE2VUZoNWpidkx0UGhIcDJfZjZPM1hGUndhajhOblFMc2FOX0NwSml1enJXOVlTdl9jbEJB?oc=5",
-"tags": [
-"слухи"
-],
-"img": null,
-"source": "Mashable",
-"score": 1,
-"kind": "news",
-"words": [
-"plays",
-"работ",
-"серве",
-"пробл",
-"время",
-"запус",
-"некот",
-"гейме",
-"сообщ"
-]
-},
 {
 "ts": 1795069896.829616,
 "title": "Игроки GTA 6 нашли новую любимицу – Мэнди затмила Лусию уже через 20 минут игры",
@@ -22273,6 +22294,312 @@
 "разра",
 "мертв",
 "доход"
+]
+},
+{
+"ts": 1795240918.0228088,
+"title": "Обзор GTA 6 разбомбили на Metacritic из-за истории «Woke»",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2JIZk1LbWFXbzdGeE0zUUVTX2RXTi1lN0pvQ3FDd3Blck52LU5mYXkzdmgzUEZiSHJkTG5mTzlLczIxWDlZRF82ZklsSWF2MFpObnpqOEdUbnRpTmQ2dVhSZWVpLUNpTzZrMlpJcm9wTThTTmc2THNGUlpwOERGLTl3N182ZkxmWldEUmxMV19Yenp6MDBrbjZ3?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Kotaku",
+"score": 0,
+"kind": "news",
+"words": [
+"истор",
+"metac",
+"обзор",
+"woke",
+"разбо"
+]
+},
+{
+"ts": 1795240921.1672,
+"title": "GTA 6 заработала рекордные $3,79 миллиарда за сутки",
+"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4bENUa1Riby1PWWV6d1VuQVRpU2xWZFp3TV9lVEFDOHVCWC1HN1dHVUxkNlFwbjc2em1SdmJCM25sbmhfUGgzRl9BbU9LdzN2TTdJcl8xTjA?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "MobiDevices",
+"score": 0,
+"kind": "news",
+"words": [
+"зараб",
+"рекор",
+"сутки",
+"милли"
+]
+},
+{
+"ts": 1795240924.3215964,
+"title": "«Рубин» выпустил видео про GTA 6 перед матчем с «Зенитом». В ролике Сальседо отключает пенальти и вызов в сборную, а затем выбирает миссию «Вмешаться в чемпионскую гонку»",
+"url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX2tGUENiRzlZYzllb0lKNFRKYlQyQlhoZ29HS0NablcyX3kwOHR6R1BfU3d3MlV5ZWRnUnhuVmw3RjVtbUdaZGNSM0FSWUhfR1FQYUpBUGFKYXEydmkwbzl6cDFDV2VlRjFvaHlXZ3o1WW84TzdjZFBDTVlmQXBidzlmOUpJZUN1b280aEhLX2VQWC1WZDNDMVdjdkJ2OTJTM0hHRG43OUU0RUNqRFRRa0Z3WHE1cm1TWExxT2pNWHN3bXhVRlNpZWhtNk9pbklKS1NNN0hR?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "irbis.spb.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"выпус",
+"перед",
+"затем",
+"гонку",
+"отклю",
+"мисси",
+"зенит",
+"про",
+"сборн",
+"пенал",
+"ролик",
+"рубин",
+"выбир",
+"вызов",
+"видео",
+"матче",
+"вмеша",
+"сальс",
+"чемпи"
+]
+},
+{
+"ts": 1795240927.4633715,
+"title": "Гутфельд: Насколько GTA 6 хуже реальной жизни?",
+"url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHpPZDlRWVBFQ3QyaFVBeFFtQ3pEd05IRjB2Z08xWEx1OGxBRUhTTkJrNHBEcGZpVEdiM1dObVJ5NWcwUHN5WG5LZ2ZhUFNWRHVURkJB?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Fox News",
+"score": 0,
+"kind": "news",
+"words": [
+"хуже",
+"наско",
+"реаль",
+"гутфе",
+"жизни"
+]
+},
+{
+"ts": 1795240930.6183984,
+"title": "GTA VI бьет рекорды, создатель Claude провел крупнейшее IPO в истории, Казань закупила роботов-дворников",
+"url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LOEJhMlJ1Ti1kanItOXltZF8yLXNvOHREUThFTW03UGY5YlJ2cVdRV1UzSnNKR1BSck1ZQ3RscnpBbF96c3NBQTZRcjZpWGdkcWoxS0tQNWNKZ9IBU0FVX3lxTE9hM080bzd3S3dPUW9TTjE2QW84aUxNV2JEa3B3b0hNZnVhOFZ5Y1BPQkZZX0ZENzdXMFQ2ZDRkN3hWUmwtYmFOdXRDVjNsYjhBWXow?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "БИЗНЕС Online — Новости Казани",
+"score": 0,
+"kind": "news",
+"words": [
+"робот",
+"истор",
+"рекор",
+"claud",
+"бьет",
+"созда",
+"крупн",
+"закуп",
+"ipo",
+"казан",
+"прове",
+"дворн"
+]
+},
+{
+"ts": 1795240933.7627637,
+"title": "GTA 6 получила от игроков 5,4 балла на Metacritic — «ревью-бомбинг» или честные геймеры?",
+"url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkhhaHI4MFY5VFBkSUNxcTJOOEs3WkR3WUt3YndCMHJ4Vm9GOEtaZGVSQjV2bDlYenZqTnBxcjBFY0N2RnFyQUNuM3lXc0t3am5YcnNPZGhGd1M5d3NJbVo1UXJYZ2gyOHRVZkVJYjRIRnN2ZG00c2k5Y0hGRVhFSXhmSXloYWlkVkNYTnplb1plR3ZFalV0SmxCNWtDWi01anJBa3E5TDljZEZVNjdFYVRfY01SR3dSYkNua0hKaW8xQQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Igromania.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"бомби",
+"честн",
+"получ",
+"metac",
+"игрок",
+"балла",
+"гейме",
+"ревью"
+]
+},
+{
+"ts": 1795240936.909429,
+"title": "Запуск GTA VI приближается к 4 миллиардам долларов, что повышает стоимость Take-Two",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS21VcjJRdUxSYkp5d0E0Mm5yM0trejd0a1czTXo0dkg4cjBid3ZDMTRaYVg1UDFoN0xUdThiYXNDbzNFZzVJVks5LU0zMWZ5bXQ4cWtxNEU5aWlxbTM5Vm1OLWVDYV9IOUo1Y2UzM0EyMW5JcG9sR1BIMHFaUVd3cjBSYW9neTJtUTdmeXF3?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Briefs Finance",
+"score": 0,
+"kind": "news",
+"words": [
+"take",
+"запус",
+"повыш",
+"долла",
+"милли",
+"прибл",
+"two",
+"стоим"
+]
+},
+{
+"ts": 1795240940.0612552,
+"title": "GTA VI, спорт в игре, в какие игры можно играть",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbWVycTg3VzZZNTN1Qkl6LVVVVXUyal9xNDBvTkZpTVlIOU5zVEluT1FIcVpYYVFuMDd2cFItR1hJMVV2ODRYQ0lIaThNMVY1RlNKUjlDUDV4c3ZGeHBMUVNYZkYxVmFwUnctQ09NQ1d3ME51YlQyc19FcWZzQ2hwQnljUVUxMFBiNlZfdnFuTUtfclZXeXZiZ05HaGFPQmx0Q3R0Z1pQNUw4TUhJWnpEWkJjT1dyZw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Советский спорт",
+"score": 0,
+"kind": "news",
+"words": [
+"играт",
+"игры",
+"можно",
+"игре",
+"спорт",
+"какие"
+]
+},
+{
+"ts": 1795240943.199856,
+"title": "Клубная трансляция Apple Music превращается в прямую трансляцию радио GTA VI",
+"url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQllBcUFYek1EOVpKVU40cUotdURWN0dhVlBoNnZqdkVRVVluTV92QmZsU2xnYVdPaU9kR3E0Sm5hT190NDFzQkZHUlhZLWVISzVkZVFIcnZVYjU2dHNiM3JjeE5ZbnNCM3ZzLUpkWnk1RGpnQU5VbHg3aFpsV0c1T1A1a0FudUppT1c0?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Digital Music News",
+"score": 0,
+"kind": "news",
+"words": [
+"радио",
+"превр",
+"пряму",
+"music",
+"клубн",
+"apple",
+"транс"
+]
+},
+{
+"ts": 1795240946.347136,
+"title": "6 пляжей GTA VI, которые можно посетить в реальной жизни",
+"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RSEdTOUw3enhibFpvejVWQmRsMGFHYTkyS0FIclgtNTd6cGpteFBVUU10YnUxVGRNN0VUaTZTUlk1VzFIaG1iWHN6alBDVmFqTy00U04xQjdFeldZUFFfS3h0TDB0YjlraGk4ZG14Ykoza3UwRlR3?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "TheTravel",
+"score": 0,
+"kind": "news",
+"words": [
+"посет",
+"котор",
+"пляже",
+"можно",
+"реаль",
+"жизни"
+]
+},
+{
+"ts": 1795240949.490176,
+"title": "Утечка порта GTA 6 на ПК: дамп Xbox на 209 ГБ, без эмулятора",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSlZBemIzRUpSVjJxSDVyZEJ6VkdLaEV5QnJaWnpBWlgzdXBjNklQX0xrRDZ0UEFCajV0bDhybDl3UEF2RlAxaHUyejhTV3JBWWloSldDVXhVMzVnWXpGb05WT2Rfalg1VmhPdVJHTUZoU2pTRjNCWXJaNzJiZlBSZlV5MS15R1Jz?oc=5",
+"tags": [
+"слухи"
+],
+"img": null,
+"source": "shattered.io",
+"score": 1,
+"kind": "news",
+"words": [
+"xbox",
+"эмуля",
+"порта",
+"утечк",
+"без",
+"209",
+"дамп"
+]
+},
+{
+"ts": 1795240952.6360106,
+"title": "Почти $4 млрд за сутки: GTA VI побила все рекорды индустрии развлечений",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnBpYXV2YWVOWE9NajJ2VHdhNnd0Q1lxV1VqRS03SzA4Tmh6MktoRlZvMFY0clRNaVNwemRFNWc5LW9sT3A4dVRBNDFiSU5GbE1qanZuY1JScXRZdGxwUmNpRS1hUVBpY24xdUkydm9NTHVnOXdWVHVWaDgzY2Y2aV9jVGl0eEl1UXFNakcwSUN5OWNReVQwZkxZUFY2Um0yRHAyS9IBqgFBVV95cUxQNURZQ1JvWk5RZDNTU2NicWtqVU9TSEVRcjExOHVjaVZwUDlqM2ZrRlp2S1VCMUpBaFFhQ3hJS2Z2M3RvcERsQlNtMXRhYWlJRnlWZ0tNcnRaT0NBNWtUcWhxdGNiUHRobHZoemVNYkZjNU43MXhXNTRPZWpobGp2ajB2dVYwbXI3c1F3Q28wWERNeUs3b1NtM1hsSTNKM3FJU0xtaDkwb0xDZw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Arbat media",
+"score": 0,
+"kind": "news",
+"words": [
+"сутки",
+"почти",
+"рекор",
+"индус",
+"развл",
+"побил",
+"млрд"
+]
+},
+{
+"ts": 1795240955.7870755,
+"title": "Осторожнее с записями GTA VI. Microsoft начала блокировать аккаунты игроков",
+"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQl9MclNhRnhDUEVzSTFxZFdZNE1PR0hhTTZ2cTgtUGptSzJjSlpBalpLNWxBdFZBcXpRdGpVYWJ4c1F4ekpCc19UdllqU1hnV3ZkWkNHdlZaNnRtRWRYYy1xUWo2MWxEUVZndU5VeTdFZnJNNVB4QVJvcHVYTFQzcUVWSWVnZFN5dE5IQXhuREI1WS1XSkRyb3dLa1RuMHliUHZEYk4wQzFfWUlVWmpTaWxXWGXSAboBQVVfeXFMUE9iZ1ZKOVp2TWwyVlVUNFE1ZlBzTmYyMDdxSWhkbERMaEp4OTE0NDY2Wk5NbV9yZlpmTlh0R0M5ZjdtMUFQeWpOQ0NFekh3TnpsLXBTamtqRllDaVVyRGxndmRBRnFLamZOS24zVDZVNnY3X0VaLUZRWGdtc2kzODZ3X3I4MVhYSHFfOFdjQ1RBc3cyV2FqSWZJZTNHbUlvUmlBY3NUSzRHX203Yk9uYzhteGFWRWZBQWN3?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "iXBT.games",
+"score": 0,
+"kind": "news",
+"words": [
+"запис",
+"блоки",
+"начал",
+"micro",
+"аккау",
+"игрок",
+"остор"
+]
+},
+{
+"ts": 1795240958.9267104,
+"title": "GTA VI просто превзошла по продажам все фильмы, альбомы и игры, выпущенные за всю историю",
+"url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGlZVmVoMXN6N3NDWUZWRjQtREQ5aTJ5RjBsSmlaemx6MERNemo2OGRGbkpiRGNmUU5ZdExOWlZPVmlWRmJjSlYwdWZ5bzVQd2tJS24yd3UwcmhQd2U1QnlhUnJWTEJUbWpndWxnTHhSVTlxQkhvRDNiUExfQ21LM3BVQlVQeEg5bHoteXAyUUlEWFQwenFXQ2tmeGY?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Digital Trends",
+"score": 0,
+"kind": "news",
+"words": [
+"истор",
+"игры",
+"выпущ",
+"альбо",
+"прода",
+"фильм",
+"всю",
+"прост",
+"превз"
 ]
 }
 ],
