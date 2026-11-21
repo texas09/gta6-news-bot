@@ -11603,7 +11603,46 @@
 "c8bddf877cd759c4",
 "5535775462f5e1a6",
 "da2a12c49f4e6e5a",
-"eeeeb256f19c2a44"
+"eeeeb256f19c2a44",
+"ce3c19325be9e381",
+"8ed07f8076a5469a",
+"87f378d5cdbb1d90",
+"c7c75937e6f44ecf",
+"2e7bc9ad82a3ccfa",
+"312886cbbbcf6a8c",
+"9eee735184b25cc0",
+"6c9f87d4c1aa06e0",
+"cea2fd200d43daec",
+"b64e69eb0c7ef875",
+"d9ad4d9474e1267a",
+"6a1cf53860d2f19b",
+"7d01be4f16e9524d",
+"03431783d2ab23ef",
+"aeb066222e2ef995",
+"c929eb71e667364b",
+"6beb8f92eeb12764",
+"843f3aa79c87287c",
+"9dd40b63ee858127",
+"90d71278aee5a9fd",
+"687c583d91dd0d28",
+"27eeba2dc0c1693f",
+"b57b94f1ee0d752b",
+"01bc3fe945de0cc9",
+"3574daa729027381",
+"f505c80fc4d6f1e9",
+"cac970ca90fd5bc1",
+"6b13b5939d2fdca9",
+"1bff4aa17a9259fd",
+"b702198de15a0d51",
+"ad0d24b3d88fe0b7",
+"8eb0f9702446aa14",
+"50698a5e4e2310e9",
+"08c11f3647495188",
+"f3d21d129b25eb04",
+"3ac43bb58387184a",
+"4ab791bba401c79a",
+"4ab791bba401c79a",
+"91376817ad3e13d5"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -22845,6 +22884,108 @@
 "режим",
 "гейме",
 "вот"
+]
+},
+{
+"ts": 1795248108.438328,
+"title": "Гайд по GTA 6: как быстро сбросить звезды розыска",
+"url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOM0pkaG45bWFzY1Vwd0lJeW51eVpuUmRwUlV4YmZiWXBfcGpMVjhrbl9CV3o4dWFBMDNwWXZCSURjd252M1hKV1BsNnV5aHZtM05nX3h6eUQ4V1Y2YUsybnNPcHB3RE42Z2FXblhCaHg1R2hUZDR0OHFqdGZ5TWhONzlwd0xNN1JRcnk0TVRqM1RmY1d6Uk5qc05tYTlnRTBIVloyQ0N0NklVemo4M2FiNG9TbVB0dDBxTjJQYkMtU2czRWY0Q1JCWFZZbVZyNnUzNk9ycnJFRlpGcGlyeHNFWHA2bGgxal9NT01fbURSTzc3QUd3ZHo5NXlVR0psYVE3OUVyWi1EaDN3RGxUR19STWprcEJwZ055X0NiZlplWUM3ZkZzM0lEZVEybFNmN2hDODJ4cG9nTHlER285YVd5djYxcWk2cXBVRWpZMGptejlrNG1JX0Q2N1VTRmhTeXBiRmpldi1EZ1hMZDBHUUlNUHU1QmZSQ2M2Q2liV0JqeVc5NUFwbm4yeFNmLWM?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "games.gg",
+"score": 2,
+"kind": "news",
+"words": [
+"звезд",
+"сброс",
+"быстр",
+"гайд",
+"розыс"
+]
+},
+{
+"ts": 1795248111.6803136,
+"title": "Как пиво за 6 долларов в GTA 6 отправило меня в спираль преступности и беспокойства",
+"url": "https://www.ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety",
+"tags": [
+"новости"
+],
+"img": "https://assets-prd.ignimgs.com/2026/11/20/1a1f9e1ef3b55-screenshoturl-1-1795194452766.jpg",
+"source": "IGN",
+"score": 1,
+"kind": "news",
+"words": [
+"пиво",
+"спира",
+"меня",
+"беспо",
+"отпра",
+"прест",
+"долла"
+]
+},
+{
+"ts": 1795248114.9546335,
+"title": "GTA VI собрала почти $4 млрд в день релиза. Это рекорд в игровой индустрии",
+"url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5ucDNCYXE0S3F2TjBWWXpBQlBZRnhkcUlQRjV4Vk9QVzN1VGlpYzQzLVpEYnlXTjhab3R4ZmNSRkc4RXc?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "The Insider",
+"score": 0,
+"kind": "news",
+"words": [
+"млрд",
+"индус",
+"рекор",
+"почти",
+"день",
+"игров",
+"релиз",
+"собра"
+]
+},
+{
+"ts": 1795248118.1913292,
+"title": "Участник испытаний Neuralink сыграл в GTA VI с помощью мозгового импланта",
+"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmprN2c4Z25mWWo5ZlF0YU1ESEQwVVJaUGdUbTBfdWVUME5tdUc0TDFaV1A1RnloMmdIWWUxTUdUbDZRUUhXTXNCMUFGQVgzVmZhaVRDcUc0TTF5dUZEZVlCWmNhMVVxNnY1NS1LR3ZqVmlPS0hwSm9Nd2Z0YWI0a2hTN1k1SFhlb0Nibl8tODBJN1diWTVOTmwxRU5CR2JwUGZ4eVBlLXdxVUlRdlZ3T3FvdS1LRDRXb1lKMXJWZHQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "rosbalt.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"испыт",
+"участ",
+"помощ",
+"мозго",
+"сыгра",
+"neura",
+"импла"
+]
+},
+{
+"ts": 1795248122.7174876,
+"title": "Во что мы играли: «Это медленно, это неловко, это странно и это тяжело»",
+"url": "https://www.eurogamer.net/what-weve-been-playing-its-slow-its-awkward-its-weird-and-its-hard",
+"tags": [
+"новости"
+],
+"img": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-4.jpg?width=690&quality=85&format=jpg&auto=webp",
+"source": "Eurogamer",
+"score": 1,
+"kind": "news",
+"words": [
+"медле",
+"тяжел",
+"играл",
+"нелов",
+"стран"
 ]
 }
 ],
