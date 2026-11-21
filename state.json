@@ -11135,7 +11135,10 @@
 "bb2b416a64430bf1",
 "382412fd20654bfb",
 "84689aa31e0eb089",
-"3b73a32984c41a44"
+"3b73a32984c41a44",
+"68568fa319868a72",
+"fbe0c9247e55d8ae",
+"3e2b769b216e4d82"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -11143,51 +11146,6 @@
 "tg_offset": 706329021,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795053093.0624607,
-"title": "‍(LIVE^NOW) ‍‍‍GTA 6 БЕСПЛАТНО СКАЧАТЬ для ПК (2026 г.) Пошаговое руководство! Прямой эфир бесплатно на телеканале",
-"url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNRWwtWWRkZ19KVTNEV05YcGNjRlVnRTUxQ0M1eHN3MTNheVJacmk4MmQzMlB2dmVtOGJWaFlxVFoyclRwb2tqVGYxN2Z4NC1xNDVRQ3ROaXdmaS1KN3ZUdW45YVctSF9uZ2lySUdrVWl3MGdYS1ZlZmVwaVo3NkhGUFdKSS03c2ExazlTTHBPX1Z5ZnZlOERWM3N0WjRWVmlOQjI0b2RHU2xMT3NiYU1GTjRhbzdIQzl3X0NnTHJseEN2NnU5Wkw2ejk3cEVueHJvdmpqYnlqQmMyZjlCZU0xcXhpbjNOUUgxT1ZYWkdkU2ROTVR6VEZ2OTVvcW43YkVON19uMVVRQ0RPODdGcHUzeC1qcURmTlBTaEdHSUpjMA?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "Comité Asesor de Vacunas de la AEP",
-"score": 2,
-"kind": "news",
-"words": [
-"now",
-"телек",
-"беспл",
-"руков",
-"скача",
-"live",
-"2026",
-"пошаг",
-"прямо",
-"эфир"
-]
-},
-{
-"ts": 1795053102.3695245,
-"title": "«Майами» распродал товары в стиле GTA 6 менее чем за 90 минут",
-"url": "https://www.championat.com/basketball/news-6705168-majami-rasprodal-tovary-v-stile-gta-6-menee-chem-za-90-minut.html",
-"tags": [
-"новости"
-],
-"img": "https://img.championat.com/news/big/j/o/majami-rasprodal-tovary-v-stile-gta-6-menee-chem-za-90-minut_17950528801184934886.jpg",
-"source": "Чемпионат",
-"score": 1,
-"kind": "news",
-"words": [
-"распр",
-"майам",
-"минут",
-"чем",
-"стиле",
-"товар",
-"менее"
-]
-},
 {
 "ts": 1795056151.1249557,
 "title": "Разъяснение о том, как быстро перемещаться в GTA 6",
@@ -21297,6 +21255,28 @@
 "облак",
 "прямо",
 "смысл"
+]
+},
+{
+"ts": 1795226516.7212064,
+"title": "Прохождение миссии «Крути, бей, хватай» в GTA 6: как ограбить бронированный фургон",
+"url": "https://www.videogameschronicle.com/guide/gta-6-twist-wrist-smash-grab-walkthrough/",
+"tags": [
+"гайд"
+],
+"img": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Twist-Wrist-Smash-Grab-Walkthrough-.jpg",
+"source": "VGC",
+"score": 3,
+"kind": "news",
+"words": [
+"брони",
+"крути",
+"фурго",
+"мисси",
+"прохо",
+"ограб",
+"бей",
+"хвата"
 ]
 }
 ],
