@@ -12545,7 +12545,28 @@
 "3c49efe656739141",
 "d848bdd2b8a1ca72",
 "eb1e57d60bc38f57",
-"6646e89048df3ea3"
+"6646e89048df3ea3",
+"e139a7d39cf43e63",
+"f48724cdcf30cabc",
+"4949dd0319aa4654",
+"115899ec14ae9b5a",
+"77dd7819a39e6fee",
+"f5d515af3f842511",
+"6def0797dac194b1",
+"dcb9f12c98cbcdad",
+"60416e14e73361b8",
+"f8b39d3a8b3c0d3d",
+"173b779f61fac496",
+"4996a43013875586",
+"8e37d59748cb68e9",
+"8e37d59748cb68e9",
+"9d5b43d12e4ee2f2",
+"e008d4ffa88cbf1b",
+"ec0d68d66ba73eae",
+"72189cd24954e1e6",
+"8a6681ef5cfc807f",
+"7d7bda3838f64ed0",
+"df3fb63824c711a7"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -12553,55 +12574,6 @@
 "tg_offset": 706329323,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795115482.3007686,
-"title": "Вот как разблокировать всю карту GTA 6 как можно раньше",
-"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY0Mzd0padjRZOFVDdFBEaXA4bmZJelN6Wjg1RzR4S1lWa1pncldiY1pLYVM1dnQ4X09FcWFDblEyeDAwcHpqQWYwU0lRY3VTUWZFVlZMeVdJTXhHVDZ3TVpJd3JUVGFXTWJldjhaSWdaVjE3QlBhR2JiTXY3TUhBcg?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "SlashGear",
-"score": 2,
-"kind": "news",
-"words": [
-"всю",
-"разбл",
-"можно",
-"раньш",
-"вот",
-"карту"
-]
-},
-{
-"ts": 1795115485.8166037,
-"title": "Питер Мур, который, как известно, анонсировал GTA 4 с татуировкой, публикует фальшивую фотографию татуировки GTA 6 и говорит, что надеется, что это даст индустрии «удар в руку»",
-"url": "https://www.pcgamer.com/games/grand-theft-auto/peter-moore-who-famously-announced-gta-4-with-a-tattoo-posts-fake-gta-6-tattoo-pic-and-says-he-hopes-it-will-give-the-industry-a-shot-in-the-arm/",
-"tags": [
-"новости"
-],
-"img": "https://cdn.mos.cms.futurecdn.net/fDQU79pYJGrE5QpBRoPJvM-1920-80.jpg",
-"source": "cdn.mos.cms.futurecdn.net",
-"score": 1,
-"kind": "news",
-"words": [
-"удар",
-"фальш",
-"фотог",
-"публи",
-"индус",
-"говор",
-"котор",
-"даст",
-"руку",
-"анонс",
-"питер",
-"извес",
-"мур",
-"надее",
-"татуи"
-]
-},
 {
 "ts": 1795117865.7240632,
 "title": "Как играть в GTA 6 в военной зоне",
@@ -26051,6 +26023,66 @@
 "поинт",
 "ботта",
 "играт"
+]
+},
+{
+"ts": 1795288868.5234032,
+"title": "Это официально: графика GTA 6 сломала мне мозг",
+"url": "https://www.polygon.com/gta-6-graphics-realism/",
+"tags": [
+"настройки"
+],
+"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-gun.jpg",
+"source": "Polygon",
+"score": 3,
+"kind": "news",
+"words": [
+"офици",
+"мозг",
+"графи",
+"слома",
+"мне"
+]
+},
+{
+"ts": 1795288873.1103537,
+"title": "Когда вы покидаете мотель в GTA 6? Глава третья. Квартира, объяснение",
+"url": "https://insider-gaming.com/when-can-you-leave-motel-gta-6/",
+"tags": [
+"новости"
+],
+"img": "https://insider-gaming.com/wp-content/uploads/2022/09/Aq77xj2A.png",
+"source": "Insider Gaming",
+"score": 1,
+"kind": "news",
+"words": [
+"мотел",
+"треть",
+"объяс",
+"когда",
+"покид",
+"глава",
+"кварт"
+]
+},
+{
+"ts": 1795288876.2698593,
+"title": "Руководство по лучшему способу игры в GTA 6 по версии Rockstar",
+"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlZzb3VwX0pvQjdDci1raXFGaURhUmlQaWJPZ0FEb1FOTDF4YzBaeFZPTk5LUGhJbTFVVTZCNFVKaDVmSDBSQld5b2ZDdkM0WVJSbXlKaEhpTGM3WWxjQklwbWdSOUZHWGtfSTUwaFpVOXNwNmZucVo0VXpsYnRzTWZhZ0xqcEdJUGJOVnVBVm5BUTJrZUctbzZpTlZOc1MzY25Jc0pwZVh0MzdNUDN0dG90WjJKSWFvTzdMQV9TQWdhRTA?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Kotaku",
+"score": 2,
+"kind": "news",
+"words": [
+"спосо",
+"верси",
+"игры",
+"лучше",
+"rocks",
+"руков"
 ]
 }
 ],
