@@ -12791,7 +12791,16 @@
 "6f264219cbfb5582",
 "a0da9ca2e8eebc3c",
 "289830ca90bcf467",
-"dc1bfb8636067e6d"
+"dc1bfb8636067e6d",
+"91ba2dbeeb6f4207",
+"d4cf23bc459cde3c",
+"a9e568db4525c13c",
+"a863002eae2c901b",
+"2053b55269c50c6d",
+"8d0712c46f37410c",
+"19f4b061f49cac32",
+"02af179c37bf3686",
+"ef65dc01720846ba"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -26903,6 +26912,68 @@
 "боже",
 "башни"
 ]
+},
+{
+"ts": 1795300881.542006,
+"title": "Даже PS5 Pro не может поднять GTA 6 до 60 кадров в секунду, но действительно ли это проблема?",
+"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQejJlVzlveGg2U0pLUkVVV3RNYS1VaElmV1I2dmJQTng4Xy0yZ3F1QlRBelEzbjhNNDNScmRtajE5UDdOY3pvd3pEbnVhTmpNdjB0Q2ZkelVMR0k3d2pBV2I3MmpKUndtQzlrdUdIcmUwSFh3OUNpZDN3V2ZSS20zcDNpQXRjM0FyTVlKZ2FaRDk2N0R0VDhrQjJ4cmd4ZEFRdjlwTkVSX0d6U3dxOVNB?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "MMORPG.com",
+"score": 2,
+"kind": "news",
+"words": [
+"подня",
+"даже",
+"может",
+"секун",
+"pro",
+"дейст",
+"кадро",
+"пробл",
+"ps5"
+]
+},
+{
+"ts": 1795300884.743561,
+"title": "🇺🇸 GTA 6 наконец-то вышла, и этот парень играет в нее под тостом. Rockstar создала самую разрекламированную игру за всю историю, и он предпочел кусок хлеба телевизору. Графика четкая во многих отношен",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zTGtHN0xSSDM5Z3A0UTJrdW9lcFhGYjdmWkNoUzBMdTJ6Ni0wOTh5NlA0SFM1eTRjUk5nZ2R2aDVHUzFTOF9xZFhiV1dyNDRXS2NmRFN5WjA0TC1EeUdOc0ZvVkpINnpUYVZvWA?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "X",
+"score": 2,
+"kind": "news",
+"words": [
+"rocks",
+"многи",
+"тосто",
+"хлеба",
+"након",
+"предп",
+"телев",
+"сцена",
+"отнош",
+"игру",
+"всю",
+"самую",
+"четка",
+"разре",
+"этот",
+"дания",
+"вышла",
+"кусок",
+"под",
+"созда",
+"истор",
+"парен",
+"нее",
+"играе",
+"графи"
+]
 }
 ],
 "digest_date": "2026-11-21",
@@ -26916,5 +26987,5 @@
 1795222910.1561525
 ],
 "group_id": -1003664956927,
-"group_checked": 1795278656.2320569
+"group_checked": 1795300840.1134028
 }
