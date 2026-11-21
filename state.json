@@ -12533,59 +12533,23 @@
 "11e2686e36002ab4",
 "cb2b10d6a18b5199",
 "c413243b3df2a25d",
-"85190d1e7971097d"
+"85190d1e7971097d",
+"5a8b25caaf13b4cf",
+"9ce4154ad959703c",
+"a27b36ca8fb860f4",
+"1ac4dd12b39a077e",
+"28e20c110fedbc53",
+"48c4138d6ee6ea9d",
+"82437ae8ea3645a0",
+"82437ae8ea3645a0",
+"3c49efe656739141"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329310,
+"tg_offset": 706329322,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795113756.2666914,
-"title": "Хотел рассмотреть чайку, а скинул женщину с пирса – игроки жалуются на управление в GTA 6 в стиле RDR 2",
-"url": "https://shazoo.ru/2026/11/19/194340/xotel-rassmotret-caiku-a-skinul-zenshhinu-s-pirsa-igroki-zaluiutsia-na-upravlenie-v-gta-6-v-stile-rdr-2",
-"tags": [
-"настройки"
-],
-"img": "https://cdn.shazoo.ru/892124_jA9tNRm_gta67.jpg",
-"source": "Shazoo",
-"score": 3,
-"kind": "news",
-"words": [
-"rdr",
-"управ",
-"женщи",
-"стиле",
-"скину",
-"игрок",
-"пирса",
-"жалую",
-"рассм",
-"чайку",
-"хотел"
-]
-},
-{
-"ts": 1795113759.4707615,
-"title": "Как играть в GTA VI на своем ПК сегодня – с помощью бесплатного приложения",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54WWNacnYxbTZEV2xMMTlFd1dVX2V3cGhOSGQ2MU9OS1drbFc4Q2h0REJ1eUsyV0t0b0t4Z0xoNjJvTHl0VWpMVktiYngwZ1ZIOHlRZ3NqUlNmbHlld1Nhczh2bUt5Um1PQ3pvVFRqOWE?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "ZDNET",
-"score": 2,
-"kind": "news",
-"words": [
-"прило",
-"помощ",
-"беспл",
-"своем",
-"играт",
-"сегод"
-]
-},
 {
 "ts": 1795114912.964142,
 "title": "Как настроить помощь при прицеливании в GTA 6 (и почему это следует сделать)",
@@ -26180,6 +26144,29 @@
 "сможе",
 "ограб",
 "больш"
+]
+},
+{
+"ts": 1795287062.9052577,
+"title": "«В мире есть вещи поинтереснее». Боттас объяснил, почему не собирается играть в GTA 6",
+"url": "https://www.championat.com/auto/news-6708720-v-mire-est-zanyatiya-pointeresnee-bottas-obyasnil-pochemu-ne-sobiraetsya-igrat-v-gta-6.html",
+"tags": [
+"новости"
+],
+"img": "https://img.championat.com/news/big/a/w/v-mire-est-veschi-pointeresnee-bottas-obyasnil-pochemu-ne-sobiraetsya-igrat-v-gta-6_17952868552042025125.jpg",
+"source": "Чемпионат",
+"score": 1,
+"kind": "news",
+"words": [
+"есть",
+"вещи",
+"собир",
+"мире",
+"почем",
+"объяс",
+"поинт",
+"ботта",
+"играт"
 ]
 }
 ],
