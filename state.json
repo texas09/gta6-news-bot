@@ -12647,12 +12647,21 @@
 "5e63dbb08d8534e4",
 "eac01e57f20af7a8",
 "daae47248ad25682",
-"a5d013d49afc9f66"
+"a5d013d49afc9f66",
+"b3e7fcdd1e68ad30",
+"a42eff1948ceb1a3",
+"27d9953321b80baf",
+"3c5d7f02bc180b57",
+"dd144e1dfd6ef768",
+"4f3f59ace3774de7",
+"1bb9b5d37877958f",
+"0fd41825a7e86ebb",
+"7111e3811852201b"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329346,
+"tg_offset": 706329347,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -26437,6 +26446,82 @@
 "эйбом",
 "мисси",
 "защит"
+]
+},
+{
+"ts": 1795294273.104535,
+"title": "В GTA 6 сыграли более половины активных пользователей консолей - в среднем по 8 часов за день",
+"url": "https://www.playground.ru/gta_6/news/v_gta_6_sygrali_bolee_poloviny_aktivnyh_polzovatelej_konsolej_v_srednem_po_8_chasov_za_den-1892823#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/wMYEKjL5M-AEo3AoW97qNw.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"полов",
+"средн",
+"сыгра",
+"более",
+"день",
+"актив",
+"консо",
+"часов",
+"польз"
+]
+},
+{
+"ts": 1795294276.289403,
+"title": "Ротен о GTA VI: «Опасность есть: ты думаешь, что поиграешь часок, а в итоге играешь три часа, устаешь. Но это еще не значит, что на следующий день ты не сможешь отлично сыграть. Это чушь»",
+"url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxNGJtam0xTmZBZXpuMDhGYU9pTGQ2eUlhX1BCZUtDaDBybmxmY1E3VzVwRkptZ01QZ2V1U2x4V19veHNqVlc5VVNfcldiX21BS3djTQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Спорт Mail",
+"score": 0,
+"kind": "news",
+"words": [
+"часок",
+"сыгра",
+"есть",
+"еще",
+"день",
+"три",
+"чушь",
+"думае",
+"играе",
+"отлич",
+"итоге",
+"поигр",
+"следу",
+"сможе",
+"ротен",
+"часа",
+"опасн",
+"значи",
+"устае"
+]
+},
+{
+"ts": 1795294279.456556,
+"title": "Вышла GTA 6: Стивен Рут озвучил Брайана Хедера",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aU3ZiYXhsbkdTQlNGMlg1aUplempRQ1FnWEN4blMydk9SMW5SSEszY0pUelo2eG5OdERDVkJaalY2Y1BiVTV1ZHlqZUFLdHZpd3hGbkpRNzhwdHNLMXlVSFVuNzAtdFlENjVBN21SeGpDNk1IMUE?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Techora.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"вышла",
+"брайа",
+"рут",
+"хедер",
+"стиве",
+"озвуч"
 ]
 }
 ],
