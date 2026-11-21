@@ -12542,133 +12542,17 @@
 "48c4138d6ee6ea9d",
 "82437ae8ea3645a0",
 "82437ae8ea3645a0",
-"3c49efe656739141"
+"3c49efe656739141",
+"d848bdd2b8a1ca72",
+"eb1e57d60bc38f57",
+"6646e89048df3ea3"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329322,
+"tg_offset": 706329323,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795114912.964142,
-"title": "Как настроить помощь при прицеливании в GTA 6 (и почему это следует сделать)",
-"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QTUo4R0ZqTUtRdmRTT2M1ZHBVMG9ZQklUUGZsc0JwckNfSjBFekNib2FKRUVkd2JBUUd6SVhnUFNHSXN5bGk0MTVSM1VkSnRsTU5OeHg1c0NHcEdSRFYwWWxzdHRKbHNiVVBta0txb2FFRjA?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "BGR",
-"score": 2,
-"kind": "news",
-"words": [
-"помощ",
-"прице",
-"почем",
-"следу",
-"сдела",
-"настр"
-]
-},
-{
-"ts": 1795114916.1671586,
-"title": "Как переключать вид камеры в GTA 6",
-"url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKSVNGWFpvTVhZbElQdDJlWHY3QXBZeGhoYm1kc0RvWmtlV3Bfd3hYakhqcUxleDhxZmJDdnB0X0ZmNFNBQzlYN2lYLUFkd1NQZUNacXlCanRRODRqMmFRemNPZVVkdHZvc1N2emRfWndiWWhk?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "Engadget",
-"score": 2,
-"kind": "news",
-"words": [
-"камер",
-"перек",
-"вид"
-]
-},
-{
-"ts": 1795114919.3598757,
-"title": "Как поделиться игрой GTA 6 и разделить стоимость с другом",
-"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHYUR1c1luYjJKSnI1UjFBZ0lPQTVhQlZkckdBc2R1M2wzYktpVnBtNXVDbnJsU0U1MXUxcGJMamNFdU9mRXl3YllkSjNUd0Z3TUExUko3ekhYZVJwNmRtQUpxdzl6QTNSdXNHbG1NOU1TVnpteWhn?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "Engadget",
-"score": 2,
-"kind": "news",
-"words": [
-"стоим",
-"разде",
-"игрой",
-"подел",
-"друго"
-]
-},
-{
-"ts": 1795114922.580994,
-"title": "Как быстро путешествовать в GTA 6",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CMVNwb2syS3pFdjF4eHBUYUxzQzJXaHdIOXF0T3BjOWVVR1d0WWUxTHVpcFdFeWdxVnFwYUQyZTdkV0xqNnhGZTM1RGJGTkRHZHVPazkwbkYyNVRvVldROTJiRkFiWElSdjR4cw?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "GameSpot",
-"score": 2,
-"kind": "news",
-"words": [
-"быстр",
-"путеш"
-]
-},
-{
-"ts": 1795114925.8095696,
-"title": "«GTA 6» выпускает постоянные обновления: обзоры, мемы и многое другое, пока геймеры исследуют Vice City и реагируют на него спустя 13 долгих лет",
-"url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOazlDeVphV2d1RG02N1gyZmZ2UVJuYkVaamhBYUJrWlFlYmhZdmxmUmxxWTd2UkJSVWJpREJ6VnhySWdnLVp3cEtzcFo1a3hseDgtRVYzUGxKWDBIemszeWlNTHZ0SXY1VkNLbkxOOTdiYlA5UExWR3pCbFg5X1dCWWJ3NUlkUXpONm42Sk5vSEJMNXkteEFNZW9iNzIwd2lfVEpPZkFXYmx6bWpGVmhveEIzeTEtLXdCOC1vX1drS082YU9WaTl5bXVBaXNUendIY3BYcDU0SFlNNFhHeXFFNFdyNVVSYVdsT1Bjbi1jQnhJUkJtb1JWengweEdFanFmVy0wOQ?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "Yahoo Tech",
-"score": 3,
-"kind": "news",
-"words": [
-"мемы",
-"спуст",
-"посто",
-"долги",
-"выпус",
-"много",
-"обзор",
-"city",
-"реаги",
-"лет",
-"пока",
-"vice",
-"него",
-"друго",
-"обнов",
-"иссле",
-"гейме"
-]
-},
-{
-"ts": 1795114930.04764,
-"title": "Как играть в бильярд в ГТА 6",
-"url": "https://www.polygon.com/gta-6-pool-table-locations-how-to-play/",
-"tags": [
-"гайд"
-],
-"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6-pool-guide-1.jpg",
-"source": "Polygon",
-"score": 3,
-"kind": "news",
-"words": [
-"играт",
-"билья"
-]
-},
 {
 "ts": 1795115482.3007686,
 "title": "Вот как разблокировать всю карту GTA 6 как можно раньше",
