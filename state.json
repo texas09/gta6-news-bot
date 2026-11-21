@@ -11720,7 +11720,13 @@
 "8b41459e449b112d",
 "f033c53ee5492c20",
 "c3effccb7036706e",
-"e320b2b31b54b5d4"
+"e320b2b31b54b5d4",
+"c4ac6debe4753ec4",
+"bdd7d1fd37559a80",
+"c878955fac5db68a",
+"bb024a51d62ae3fb",
+"5f6a17d9caa70e5f",
+"bc636205e30e2a50"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -23317,6 +23323,29 @@
 "запус",
 "день",
 "выруч"
+]
+},
+{
+"ts": 1795250557.8754206,
+"title": "Я провел всю ночь, играя в GTA 6 — и эти 3 настройки PS5 сделали ее потрясающей.",
+"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT3pLNTZKX0FIX0pOOVFWYmhKNVVSN1duNmh6M1RDdFA3WENVRnc2YUo3YVlJZDZLdVBNRjR5bUJPZ1pIeFZMNlZSZTNyY3VjanA2el9maE9RV0x3Wk51X256TGxGU3c2U2ViWDZrdmxQRFozMVR2Z1dxcUpVTEZfVE1uTVh4akxBZk9RQy1mS1JFN3ljeHFURF92aEZsZTA4UGdKUmRiTWdseEZ0V25yUm1WUy1CT0F0Zm0tR3JIVnY?oc=5",
+"tags": [
+"настройки"
+],
+"img": null,
+"source": "Tom's Guide",
+"score": 2,
+"kind": "news",
+"words": [
+"всю",
+"прове",
+"эти",
+"настр",
+"сдела",
+"потря",
+"ps5",
+"ночь",
+"играя"
 ]
 }
 ],
