@@ -12059,7 +12059,19 @@
 "362b4a86bf41c0c6",
 "c2f22cda1d07d00e",
 "ed515ed2274d9e48",
-"f314b7bd26292f21"
+"f314b7bd26292f21",
+"f8b182a196c59bc5",
+"333be9261fe57fa5",
+"45ebc9d63a001a2c",
+"b00681d61e1b5db7",
+"6ec32fbde4aea021",
+"4ba4bb243a12067c",
+"f67b62f14650295a",
+"f67b62f14650295a",
+"0a23d3f52f0fff98",
+"bb9c70c2a42aa5aa",
+"bb9c70c2a42aa5aa",
+"79e249db3ad2bdf7"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -24237,6 +24249,87 @@
 "импер",
 "крими",
 "постр"
+]
+},
+{
+"ts": 1795264304.0707133,
+"title": "Как получить самолет в GTA 6",
+"url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uSjE5X2VTdjZ0bmNLMHBIcFpLcGlRVG1qWTFYUXlqbWtVY1lBcjFoMmk1TE81ME92M2tBVGVFWG1TNlIxeDFFZ1IzUkVPblZaVGYwYUM5R3VyeTY1NG9oTlBGcng?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "Yahoo Tech",
+"score": 2,
+"kind": "news",
+"words": [
+"самол",
+"получ"
+]
+},
+{
+"ts": 1795264308.0185516,
+"title": "Руководство: эти 11+ игр для PS5 и PS Plus выйдут на следующей неделе (23–29 ноября)",
+"url": "https://www.pushsquare.com/guides/these-11plus-ps5-and-ps-plus-games-are-coming-out-next-week-23rd-29th-november",
+"tags": [
+"гайд"
+],
+"img": "https://images.pushsquare.com/3318633776b75/large.jpg",
+"source": "Push Square",
+"score": 3,
+"kind": "news",
+"words": [
+"следу",
+"ноябр",
+"ps5",
+"выйду",
+"игр",
+"эти",
+"недел",
+"руков",
+"plus"
+]
+},
+{
+"ts": 1795264311.1897914,
+"title": "Стример года iShowSpeed прошел сюжет Grand Theft Auto 6 за 52,5 часа эфира без сна и расплакался в финале",
+"url": "https://www.goha.ru/strimer-goda-ishowspeed-proshel-syuzhet-grand-theft-auto-6-za-525-chasa-efira-bez-sna-i-rasplakalsya-v-finale-480DZN",
+"tags": [
+"новости"
+],
+"img": "https://images.goha.ru/E:Co/tJ/t4MYxezmLw.jpg",
+"source": "GoHa.Ru",
+"score": 1,
+"kind": "news",
+"words": [
+"года",
+"финал",
+"ishow",
+"сна",
+"распл",
+"без",
+"проше",
+"эфира",
+"часа",
+"стрим",
+"сюжет"
+]
+},
+{
+"ts": 1795264314.3690128,
+"title": "В GTA 6 нашли сына Майкла из GTA 5",
+"url": "https://www.championat.com/cybersport/news-6708152-v-gta-6-nashli-syna-majkla-iz-gta-5.html",
+"tags": [
+"новости"
+],
+"img": "https://img.championat.com/news/big/z/l/v-gta-6-nashli-syna-majkla-iz-gta-5_17952641241411161396.jpg",
+"source": "Чемпионат",
+"score": 1,
+"kind": "news",
+"words": [
+"сына",
+"нашли",
+"майкл"
 ]
 }
 ],
