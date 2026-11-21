@@ -12461,7 +12461,10 @@
 "7cf041c23d9c7b19",
 "f582bc2d8e107807",
 "10f28c7d7501fbfb",
-"de89a1b8c683a6d1"
+"de89a1b8c683a6d1",
+"1d08d4d8d445012c",
+"c9f86d0c707a1093",
+"7fc3f1d119e3ee61"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -12469,70 +12472,6 @@
 "tg_offset": 706329302,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795110692.8742054,
-"title": "Как настроить и отключить размытие в движении в GTA 6, если вас тошнит",
-"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMDdpdVNOdkdaTzVKQ01BcV9zbTM5cTE2ZlladkJRbGNzRUdRRGw0LWg2elAyRzBXYTQtekpURWpMR0FJNGZ3RVA3S3RlWTVhZW9DQ3IwT2dKM2lKazBIRDdXazExWTJqMWFkVG1BUjl3YVZnUUkzODcwYTltMFE?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "Engadget",
-"score": 2,
-"kind": "news",
-"words": [
-"движе",
-"отклю",
-"вас",
-"тошни",
-"настр",
-"размы",
-"если"
-]
-},
-{
-"ts": 1795110696.5000796,
-"title": "Даже нашу группу заядлых компьютерных геймеров не так уж беспокоят 30 кадров в секунду в GTA 6.",
-"url": "https://www.pcgamer.com/games/grand-theft-auto/even-our-bunch-of-diehard-pc-gamers-arent-that-bothered-by-30-fps-in-gta-6/",
-"tags": [
-"настройки"
-],
-"img": "https://cdn.mos.cms.futurecdn.net/TfNpPnryW9WRa9aLJbxRiE-1920-80.jpg",
-"source": "cdn.mos.cms.futurecdn.net",
-"score": 3,
-"kind": "news",
-"words": [
-"гейме",
-"нашу",
-"кадро",
-"беспо",
-"групп",
-"заядл",
-"даже",
-"секун",
-"компь"
-]
-},
-{
-"ts": 1795110700.0102491,
-"title": "Игроков GTA 6 похищают инопланетяне и нокаутирует снежный человек",
-"url": "https://www.eurogamer.net/gta-6-ufo-bigfoot-easter-eggs",
-"tags": [
-"новости"
-],
-"img": "https://assetsio.gnwcdn.com/Screenshot-2026-11-19-at-17.37.59.png?width=690&quality=85&format=jpg&auto=webp",
-"source": "Eurogamer",
-"score": 1,
-"kind": "news",
-"words": [
-"челов",
-"нокау",
-"снежн",
-"игрок",
-"инопл",
-"похищ"
-]
-},
 {
 "ts": 1795111401.184491,
 "title": "Как использовать фоторежим в GTA 6",
@@ -25814,7 +25753,7 @@
 ]
 }
 ],
-"digest_date": "2026-11-20",
+"digest_date": "2026-11-21",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-21",
 "viral_checked": 1795282874.9959762,
