@@ -12890,7 +12890,22 @@
 "b844b405afafe654",
 "7a90ad4498c90ee8",
 "a661b10791667604",
-"0faba8d671b5c44b"
+"0faba8d671b5c44b",
+"516b55c85cc10963",
+"7afd9ee7988411af",
+"443ab108d59ae6ff",
+"4df87e0204ae81f5",
+"aa332cec7e75f561",
+"a5d20a6606fde730",
+"eea6acc7a110ad23",
+"a1203ecc26ce1f40",
+"fa61758e6f3f9434",
+"8459197ab679439f",
+"69c86fab0d0f2eeb",
+"9c0f3b48d3e213f6",
+"904505090bfc7f47",
+"3abc13716a49a45c",
+"5e7715fa9c5dd184"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -27223,6 +27238,47 @@
 "биллс",
 "afc",
 "баффа"
+]
+},
+{
+"ts": 1795305069.1853034,
+"title": "Инструмент Xbox2Win позволит запустить консольную версию GTA VI на ПК",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmtXeldKYzQxRTdhUVdtVjQ3MTNfdVR5UV9aVlZJOVU4bDZMODd0TURrazJjekZfcXpvMHRhUWVaQy15aTNJQUE4WGY1ZEljUVIwMzRDWDdvZ1I0SWYzRVoteDFVdS14Nld4M2YxUjZGOUlHRjhqX2p1eW1sakdLZG5hQ1JCcmRxN0U4X29WYTRBMFl0ek9uaHFUdmlfUnky?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "GameGPU",
+"score": 0,
+"kind": "news",
+"words": [
+"xbox2",
+"запус",
+"консо",
+"инстр",
+"позво",
+"верси"
+]
+},
+{
+"ts": 1795305072.4057257,
+"title": "Продажи консолей Xbox Series выросли на 42% перед выходом GTA VI",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXVJYUhmUjQwY3MzX2xtSklwQndBU29rRDE2QUlXY2pydk1Ia0dibDRnVUNXRmFBX1RvVnFtRjBKVGM0TnVrYnh5TTlYM1pnT05wOXFNem1JQktGTVFTMWdwU19pVGFIR055bDlTTEhiNklwR1pVR1FvZTA3TDYwTlJnTThJUWZ2akcyNk50RFBib0Z4RjhmUzR6UQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "GameGPU",
+"score": 0,
+"kind": "news",
+"words": [
+"serie",
+"перед",
+"прода",
+"xbox",
+"вырос",
+"консо",
+"выход"
 ]
 }
 ],
