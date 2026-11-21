@@ -12311,12 +12311,15 @@
 "fe8b9b8e18acb798",
 "f1933cc33df98207",
 "f1933cc33df98207",
-"25e7ebf771a49956"
+"25e7ebf771a49956",
+"2acba4713cf6bbef",
+"843ca233eadbae05",
+"377e6af0af4bb09d"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329247,
+"tg_offset": 706329261,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -25324,6 +25327,30 @@
 "вылет",
 "вот",
 "ps5"
+]
+},
+{
+"ts": 1795274563.8203917,
+"title": "Гайд по GTA 6 «Позаботьтесь о Джейсоне»: регистрация в мотеле, имя Play Nurse и можно ли его пропустить",
+"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONVBNY0ZsS01tdFVPbzZ4d1lKdUdWWHB5YVd2ZFNyVUp3Zmw5bWNGSWw5QUZHZWFfMlJkNW9mYktXZjdJRG15bkRTMnEzc2FXQ0lhQjlLR0pvcjVja2o5b1RMc0ZLV1VXNWhHTWU5VUoyLXA5M2pxYldibGVmZU9abHkySE1rM2FTV3V6M2tuNXFxWVB3VzBTVTZ2RGFzaENtWnhWbEk4cFp0UWxDUEVaSA?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "eGamers.io",
+"score": 2,
+"kind": "news",
+"words": [
+"гайд",
+"джейс",
+"play",
+"регис",
+"можно",
+"имя",
+"мотел",
+"nurse",
+"позаб",
+"пропу"
 ]
 }
 ],
