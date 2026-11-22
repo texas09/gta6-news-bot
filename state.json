@@ -13368,7 +13368,13 @@
 "683a7f43c5fcf5f9",
 "c2a1c84a8900ab1d",
 "aaf4fe0a7d14989c",
-"fed85787465e88f5"
+"fed85787465e88f5",
+"36bf98f27a1719dd",
+"0ce945f5ef046c47",
+"7f815dc8d55df33b",
+"03ba6d5f4b930173",
+"1c2840e47a387b96",
+"c8a9481473ea1ea5"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13376,49 +13382,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795206705.0309896,
-"title": "Лучшие пасхалки GTA 6, которые мы когда-либо видели",
-"url": "https://www.polygon.com/gta-6-easter-eggs/",
-"tags": [
-"гайд"
-],
-"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/gta6jason.JPG",
-"source": "Polygon",
-"score": 3,
-"kind": "news",
-"words": [
-"либо",
-"лучши",
-"котор",
-"пасха",
-"когда",
-"видел"
-]
-},
-{
-"ts": 1795206708.2461965,
-"title": "Вишенка на сливках: GTA 6 принесла Зельнику 3,79 миллиарда баксов за 32,5 млн проданных копий",
-"url": "https://www.goha.ru/vishenka-na-slivkah-gta-6-prinesla-zelniku-379-milliarda-baksov-za-325-mln-prodannyh-kopij-xkJ50B",
-"tags": [
-"слухи"
-],
-"img": "https://images.goha.ru/E:Co/Uu/pwLGersRoJ.jpg",
-"source": "GoHa.Ru",
-"score": 2,
-"kind": "news",
-"words": [
-"вишен",
-"зельн",
-"прода",
-"копий",
-"баксо",
-"млн",
-"прине",
-"милли",
-"сливк"
-]
-},
 {
 "ts": 1795207270.3965101,
 "title": "«GTA 6»: Как слушать радио вне автомобиля",
@@ -25206,7 +25169,7 @@
 "digest_date": "2026-11-21",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-21",
-"viral_checked": 1795372308.0442078,
+"viral_checked": 1795380069.8203459,
 "viral_ts": [
 1795305803.3536122,
 1795305806.9650474,
