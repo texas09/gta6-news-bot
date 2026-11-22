@@ -13073,7 +13073,16 @@
 "e0f1d80c0bd39723",
 "97bc11817fa98d26",
 "db6ecc3ecb50afb9",
-"eed1181ebb54e34d"
+"eed1181ebb54e34d",
+"fb2ffe144e782777",
+"f24ac6d10c2b359e",
+"849ca9f1a2cc4a0f",
+"b8943944638ebbca",
+"84f27383ece12c57",
+"17bd2156b56ee1ef",
+"90b6cd67278c8d43",
+"8ca9a6ffa7183c44",
+"be1dadf9ba8eacb2"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13081,167 +13090,6 @@
 "tg_offset": 706329443,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795139665.1006074,
-"title": "В GTA 6 полицейские управления по всей Америке умоляют людей не совершать преступлений в реальной жизни",
-"url": "https://www.ign.com/articles/gta-6-has-police-departments-across-america-begging-people-not-to-commit-crimes-irl",
-"tags": [
-"новости"
-],
-"img": "https://assets-prd.ignimgs.com/2026/11/19/gta-6-jason-hoodie-1795130436791.jpg",
-"source": "IGN",
-"score": 1,
-"kind": "news",
-"words": [
-"совер",
-"умоля",
-"всей",
-"управ",
-"полиц",
-"реаль",
-"жизни",
-"амери",
-"прест",
-"людей"
-]
-},
-{
-"ts": 1795139669.5891755,
-"title": "Руководство: GTA 6: Radio Songs — вся музыка, радиостанции и исполнители",
-"url": "https://www.pushsquare.com/guides/gta-6-radio-songs-all-music-radio-stations-and-artists",
-"tags": [
-"гайд"
-],
-"img": "https://images.pushsquare.com/2c111d8dc20f7/large.jpg",
-"source": "Push Square",
-"score": 3,
-"kind": "news",
-"words": [
-"radio",
-"радио",
-"songs",
-"вся",
-"руков",
-"музык",
-"испол"
-]
-},
-{
-"ts": 1795139673.5284846,
-"title": "В GTA 6 можно играть от первого лица, вот как ее активировать",
-"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
-"tags": [
-"гайд"
-],
-"img": "https://cdn.mos.cms.futurecdn.net/g8Enb9ZjZTV9xLHoMFH2RY-1920-80.jpg",
-"source": "cdn.mos.cms.futurecdn.net",
-"score": 3,
-"kind": "news",
-"words": [
-"перво",
-"лица",
-"можно",
-"вот",
-"играт",
-"актив"
-]
-},
-{
-"ts": 1795139677.1217694,
-"title": "Спорная пасхалка GTA 6 рассердит миллионы геймеров",
-"url": "https://www.polygon.com/gta-6-physical-disc-spoof-game/",
-"tags": [
-"гайд"
-],
-"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-gt-6-cal-and-jaosn-playing-games-2.jpeg",
-"source": "Polygon",
-"score": 3,
-"kind": "news",
-"words": [
-"спорн",
-"пасха",
-"гейме",
-"рассе",
-"милли"
-]
-},
-{
-"ts": 1795139681.4319766,
-"title": "GTA+ для одиночной игры GTA 6 — это как конская броня по подписке",
-"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/",
-"tags": [
-"новости"
-],
-"img": "https://cdn.mos.cms.futurecdn.net/HKGxD9wNvKf9rW4v3SmVdT-1920-80.jpg",
-"source": "cdn.mos.cms.futurecdn.net",
-"score": 1,
-"kind": "news",
-"words": [
-"броня",
-"одино",
-"конск",
-"подпи",
-"игры"
-]
-},
-{
-"ts": 1795140114.5867705,
-"title": "Как сохранить оружие, которое вы найдете в GTA 6",
-"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PQjdmZWFrM051OGQ0NFk2Z0lZaERuT29IaDN5SXFnN0NUcEc3NkgzNzBrZlVia3RKZ1ZJZ3Z1MldBc2NmQzluWEVRRWdRSG5QMy01WjZjaTd2LUFra2lrWFNJOVItenI3c0NuZklCWkhlZDZybkxJRFhKWFI?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "GameSpot",
-"score": 2,
-"kind": "news",
-"words": [
-"оружи",
-"сохра",
-"найде",
-"котор"
-]
-},
-{
-"ts": 1795140117.7920752,
-"title": "Феномен GTA VI объяснил психолог",
-"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSaWNGanVTRFB4ZmhRMWNqUHFiODZIaDNCX0N3MWxMQXZUVDlYQVlrd2JVa2FtaFo5VDVTc1hfMmR0V3JoYjFIbHlRVjFTZHIzcWZRVmJ2eXo3R2l1UUZ5cFZSUXN0UdIBa0FVX3lxTE9xTmNHYnhFbTFTTXgzSE40WmM4X0FFN1JHdlR1R0lyT0tfUW4wcWg5WjJDbEFCcUxxQm1RaTg1dFhGMDBtMG81cG9uUEc1UXd0MkJGeE9ieWhyTGMtVENzZlRveG5pN3YtTnNv?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "FOX 26 Houston",
-"score": 0,
-"kind": "news",
-"words": [
-"феном",
-"объяс",
-"психо"
-]
-},
-{
-"ts": 1795140120.9931114,
-"title": "GTA VI выходит за рамки преступности и хаоса: ключевые выводы первого дня игры",
-"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDhvazU2UmhiVUllYlNnZGdYanJiMDZwV1lqdnhHaTRsbG5lUTNFa291N25xb29INllPaWtDYUdtZWl5TW4ydDJpR3hiTDdmUlV2a0tPRmhyZ3BfZTFLeHRkR2ZvRHE2cFpRaGxfNjlLRHZ3VVhmeHB0MmYzME5KZjJVOVpNUmR4U0NtYXRYSFQweUIyYnIzZlI3VEFyWlg0Wk1waW1LOUNhWE5DWjBUSENlMUZkQW8?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "NBC News",
-"score": 0,
-"kind": "news",
-"words": [
-"дня",
-"игры",
-"хаоса",
-"вывод",
-"прест",
-"рамки",
-"выход",
-"перво",
-"ключе"
-]
-},
 {
 "ts": 1795140131.0091372,
 "title": "Полиция нескольких городов США призвала игроков GTA 6 не повторять преступления в реальной жизни",
@@ -28020,6 +27868,53 @@
 "взрыв",
 "урон",
 "сдела"
+]
+},
+{
+"ts": 1795312926.5217264,
+"title": "Путеводитель по трофеям GTA 6 Trust: завершите Breakfast Run, чтобы получить его, а также что будет дальше",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUFZlUHZDNlJnN1VOU0ZxU1pEdEVGRUVNNkFKYW50UUlDT0kxQmNzMmFzUmlfaENjcUF2dGczdWtLazJMdGRHd2dQRzlnMFc5Zk14TEp0YVpyRHBmTnJ4bk8tQU5rSGRxNThJdmZNYmh0VzhCSUFFMTJ4Q2M0a1pKajB5b0JXaEVmZG4ySi1UanVZSUpHTmRTWUdiQWlZUQ?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "eGamers.io",
+"score": 2,
+"kind": "news",
+"words": [
+"также",
+"трофе",
+"trust",
+"run",
+"получ",
+"дальш",
+"путев",
+"break",
+"чтобы",
+"завер"
+]
+},
+{
+"ts": 1795312930.8409283,
+"title": "Разработчик Naughty Dog говорит, что GTA 6 — это «Bugatti Veyron для нервного викторианского ребенка»",
+"url": "https://www.pushsquare.com/news/2026/11/naughty-dog-dev-says-gta-6-is-like-a-bugatti-veyron-to-a-nervous-victorian-child",
+"tags": [
+"новости"
+],
+"img": "https://images.pushsquare.com/0bae4da940d78/large.jpg",
+"source": "Push Square",
+"score": 1,
+"kind": "news",
+"words": [
+"говор",
+"dog",
+"naugh",
+"veyro",
+"викто",
+"bugat",
+"нервн",
+"разра",
+"ребен"
 ]
 }
 ],
