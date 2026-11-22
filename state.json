@@ -13082,60 +13082,24 @@
 "17bd2156b56ee1ef",
 "90b6cd67278c8d43",
 "8ca9a6ffa7183c44",
-"be1dadf9ba8eacb2"
+"be1dadf9ba8eacb2",
+"fbbb845b6c0a3c02",
+"679407060702ed80",
+"d67bb07369a56474",
+"71f5396da03d58f8",
+"d0b8c5016b187906",
+"75eb01469e8fc57c",
+"9f31456442f897c2",
+"88c716a4a4d589b0",
+"bdfe145595541ecb",
+"9686cbc817001bfc"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329443,
+"tg_offset": 706329445,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795140131.0091372,
-"title": "Полиция нескольких городов США призвала игроков GTA 6 не повторять преступления в реальной жизни",
-"url": "https://www.playground.ru/gta_6/news/politsiya_neskolkih_gorodov_ssha_prizvala_igrokov_gta_6_ne_povtoryat_prestupleniya_v_realnoj_zhizni-1892254#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"img": "https://i.playground.ru/e/MOccDreFEHb1xqlf8h4Cyw.png",
-"source": "PlayGround.ru",
-"score": 1,
-"kind": "news",
-"words": [
-"игрок",
-"жизни",
-"неско",
-"призв",
-"повто",
-"сша",
-"прест",
-"реаль",
-"полиц",
-"город"
-]
-},
-{
-"ts": 1795140139.3730733,
-"title": "В GTA 6 убрали возможность повторно проходить сюжетные миссии после их завершения",
-"url": "https://www.playground.ru/gta_6/news/v_gta_6_ubrali_vozmozhnost_povtorno_prohodit_syuzhetnye_missii_posle_ih_zaversheniya-1892255#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"img": "https://i.playground.ru/e/RxnTo1U0itid36LYTMloJg.png",
-"source": "PlayGround.ru",
-"score": 1,
-"kind": "news",
-"words": [
-"сюжет",
-"повто",
-"прохо",
-"убрал",
-"после",
-"завер",
-"мисси",
-"возмо"
-]
-},
 {
 "ts": 1795143720.969069,
 "title": "Как получить танк в GTA 6",
@@ -27916,17 +27880,83 @@
 "разра",
 "ребен"
 ]
+},
+{
+"ts": 1795313550.1062107,
+"title": "Grand Theft Auto 6: миссия Checking Out и финал главы 2",
+"url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOMUJsVzlieF9RaW9nUDhaUGZfUkNqWmRfSnB4QVR0RVlUUHFpQ253amp4TzlyOGttYTZ5RjNJYjhjbkh3dGF4OTRyeTZPVE1SdEticDBkYmVNWnZvTWNIblRTem9hbGp1cXJnYWxmaktMcm9tMGZqaUVHVTBZLTdQakFaUTkxZUUxNlZQYlRWMXo2YnpCa0dhcU96RWRIbnlJdW1ielhyVEppVllOYkNXclJVRXFWczFaem5fNXMwNkRjeXVVS0oyTkdHRnRqa1dBMzJNeTE2UFlMMGwwRFZsM2wxcF90WUw5SXQ4SnliLWduZDRwM0FxVDZvVjRxOVFXSzY5TkFwU0JMdjNBS3FpbV81S2hMeUxKanE0YVAxekpBQVN1cUgzSFdBaGZWZ0VPNFRsd2RNcUJJdjJwMnI3STdsazRFbk5waVlmcGNSSmFGTmFPb200ZWdSN3Rrb19JaTFQTGVRQkZ2dHFNcDVDT1pMNG1iZVU?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "games.gg",
+"score": 0,
+"kind": "news",
+"words": [
+"out",
+"check",
+"главы",
+"мисси",
+"финал"
+]
+},
+{
+"ts": 1795313553.238101,
+"title": "GTA 6 может появиться на ПК раньше, чем ожидалось, благодаря разработчику неофициального порта ремейка Zelda: Ocarina of Time для Switch 2.",
+"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM1Y3MGhDclJHMU5aQ01LbW9jTTlfWDAwLVlrQ0o5d1BNZUEtV1o2czlOazdqUTlsdGdxSFpDc1N4UzVpYkZBWlhDaU9HMFZyX3c0ekRJUkNxWU1qTjFnaFlYaVRUOTdEZU45RnU4cmJHejJkZmlYLV9vNmh2aDBVck41SHctMTVxS2Nqc3VxelVfMHBCWW14c3VKWW5RLU5FVnRpSGotOWVJWXF6bGpKb0tldGdNUGs?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "XDA",
+"score": 0,
+"kind": "news",
+"words": [
+"чем",
+"порта",
+"благо",
+"ocari",
+"появи",
+"switc",
+"ремей",
+"неофи",
+"ожида",
+"разра",
+"time",
+"zelda",
+"может",
+"раньш"
+]
+},
+{
+"ts": 1795313558.4090774,
+"title": "Я УКРАЛ СВОЙ ПЕРВЫЙ СУПЕРКАР | ГТА 6 ГЕЙМПЛЕЙ #2",
+"url": "https://youtu.be/6y23cQpanKA",
+"tags": [
+"видео"
+],
+"score": 2,
+"kind": "viral",
+"img": null,
+"source": "Techno Gamerz",
+"words": [
+"свой",
+"геймп",
+"первы",
+"украл",
+"супер"
+]
 }
 ],
 "digest_date": "2026-11-21",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-21",
-"viral_checked": 1795305801.0435078,
+"viral_checked": 1795313556.2383616,
 "viral_ts": [
-1795222910.1561525,
 1795305803.3536122,
 1795305806.9650474,
-1795305810.1702874
+1795305810.1702874,
+1795313558.4090765
 ],
 "group_id": -1003664956927,
 "group_checked": 1795300840.1134028
