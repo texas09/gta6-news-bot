@@ -13119,12 +13119,24 @@
 "b6caa9d3291da319",
 "9e27c94f28b87cc3",
 "4608121cd0a81951",
-"86ac10a8b47f65cf"
+"86ac10a8b47f65cf",
+"f9fc8379ec65c97d",
+"28d0b66104a511bf",
+"870fda8a069282c9",
+"f6e6606c560080ff",
+"2028910c28c90036",
+"b2cb76c9fc4cc319",
+"61520c9fec2867b2",
+"7bbe306eead96622",
+"80f1632b730c7075",
+"d6d9c34d2e2b39f9",
+"681c661631573d34",
+"dc80fb45d6106b6e"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329452,
+"tg_offset": 706329454,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -28106,6 +28118,28 @@
 "еще",
 "играе",
 "планш"
+]
+},
+{
+"ts": 1795315263.607946,
+"title": "Российская бодибилдерша стала прототипом персонажа GTA VI и записала русскую озвучку",
+"url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZlNSeUFvTHk5TU5Pbi03N3FUaEg4bXNRemdTRGZ1ZmVodF9qOTFvdjQtUkNfWE5scHRjUjdBZUhpdV9nZEdSQ1BIU1FwQlRWZFZ0VWM4RDZBNWt2bzM3bDQyV3FoRl9WdVlTOUI2V2s5YmVTVXoycDNrYWxoNHl3NDdiWVV6VUhrMDNQS3I4TS1idUY0U3lGX0l3YkljS2NIMVJoakhocnNCNVRQaTVWa1VGc2huenNRYTFOck91Y2xEUi1M0gHKAUFVX3lxTFBuaGN0MFJQMHdpN2V2eWt0c0FjZkhoc2JydjN3akxfRjZlXzg0bnZ5dzdQdmpyeU56UWRnREgtdS1Sa3oxSFh4cXg3Y3dyNFJaZkZuTmtaODFMWElDaEM4VEZvRHNZeG50Umw2WDJkUEtza0F4XzlZb045OWtHWDltdk5IdkdmUVJOX0ltbk5hdGJMTVMxOGoxYnE2X2lpVkUxaXBCcm1JdVg5QThybFhGWk0wamtBNlJFMFhpeXNjeFgwYjI5eVZ6Y2c?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "iXBT.games",
+"score": 0,
+"kind": "news",
+"words": [
+"росси",
+"русск",
+"персо",
+"прото",
+"бодиб",
+"озвуч",
+"стала",
+"запис"
 ]
 }
 ],
