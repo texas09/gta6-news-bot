@@ -13236,7 +13236,13 @@
 "5c74fa7be9e3fcd2",
 "47e50fbc24a2543d",
 "4ec0dc361cec33f3",
-"bcf9ba09d7f380c0"
+"bcf9ba09d7f380c0",
+"0fb1619a26f9f8d5",
+"4b7f1118491d0eb2",
+"383387ac921a0785",
+"073e6f570ac4f160",
+"073e6f570ac4f160",
+"a4b46edb84a32a11"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13244,47 +13250,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795167179.438003,
-"title": "GTA VI на ПК: Почему 60 FPS может стать недостижимой мечтой – технический анализ",
-"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVndrSUxQYjBXTno2YTlYZERpem5acEoyNkpXVDhmWFp1Mmd4NXlQNWVqdmxDRkk3c19VU1dfRGNIcDdrQTAyamFHZW9rd1lJQjItMlFHQkZHZHpKUUZSWlNGa2JMMTRhc1NyNDYyWndqS1NjeGdPd3VCT0wzZWFlVGY0aS1oenZPZVd2amI4ZTRIVEo3cm9MNjlQME42S1lZeEFMQjV2ZHZBeWpDWDZHeTEyZmc?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "carexpo.ru",
-"score": 2,
-"kind": "news",
-"words": [
-"fps",
-"анали",
-"недос",
-"мечто",
-"может",
-"техни",
-"стать",
-"почем"
-]
-},
-{
-"ts": 1795167182.722461,
-"title": "GTA 6 сравнили с GTA 5 в деталях — графика, физика, автомобили",
-"url": "https://www.championat.com/cybersport/news-6706728-gta-6-sravnili-s-gta-5-v-detalyah-grafika-fizika-avtomobili.html",
-"tags": [
-"настройки"
-],
-"img": "https://img.championat.com/news/big/j/y/gta-6-sravnili-s-gta-5-v-detalyah-grafika-fizika-avtomobili_17951669431945901157.jpg",
-"source": "Чемпионат",
-"score": 3,
-"kind": "news",
-"words": [
-"сравн",
-"автом",
-"детал",
-"графи",
-"физик"
-]
-},
 {
 "ts": 1795168280.3704116,
 "title": "Rockstar в комментарии для игрового издания Kotaku: «GTA 6 не получит 60 FPS на PS5 Pro в будущем»",
