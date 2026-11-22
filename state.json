@@ -13140,30 +13140,20 @@
 "0e04856d80fc2255",
 "6ebaf4da92866ce4",
 "ceba9eac72520be9",
-"43a407f54298e1a7"
+"43a407f54298e1a7",
+"d376d720d83a611d",
+"700b0ed1b4fcdd6c",
+"7696bffe0ea2a14b",
+"1af73bf9f4aef38f",
+"fff519d400ee928f",
+"74fb2346c079b251"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329455,
+"tg_offset": 706329458,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795143720.969069,
-"title": "Как получить танк в GTA 6",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aTlpPb1dXUDFlYXkwczFmN1VsZWFZcUI5VlB1eTVaQ2dOY3g4RUkyYWxfRFBVM0R6am14QnkyZVc1LVoxYVU2ZDB3QlRGRTgxaDltbno0ZHE3clJpUG5Yakl4VGJndzRXUlNhNVJn?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "GameSpot",
-"score": 2,
-"kind": "news",
-"words": [
-"получ",
-"танк"
-]
-},
 {
 "ts": 1795143724.246581,
 "title": "Хакеры GTA 6 вернулись",
@@ -28212,6 +28202,53 @@
 "польз",
 "проце",
 "проте"
+]
+},
+{
+"ts": 1795316527.0898962,
+"title": "Rockstar хочет, чтобы в GTA 6 вы почувствовали близость к Джейсону и Люсии - они не так уж сильно от нас отличаются",
+"url": "https://www.playground.ru/gta_6/news/rockstar_hochet_chtoby_v_gta_6_vy_pochuvstvovali_blizost_k_dzhejsonu_i_lyusii_oni_ne_tak_uzh_silno_ot_nas_otlichayutsya-1892855#utm_source=rss&utm_medium=referral&utm_campaign=news",
+"tags": [
+"новости"
+],
+"img": "https://i.playground.ru/e/US3TQzg3jUyQNl7Ot9tjdg.png",
+"source": "PlayGround.ru",
+"score": 1,
+"kind": "news",
+"words": [
+"чтобы",
+"нас",
+"rocks",
+"хочет",
+"сильн",
+"отлич",
+"люсии",
+"джейс",
+"близо",
+"почув"
+]
+},
+{
+"ts": 1795316530.2367141,
+"title": "По данным компании, на пике популярности GTA 6 приходилось почти четверть трафика Comcast",
+"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGaXZ3UGlxcFFGS19OS3VtSWk3V0VFeDNvNXpmay1FQk5aYzRGSk1qd0NpelA4ZkU2Y0x4SEdaS2pRV1N4b0RKU0tyMkxjUHRGVGVaSlQ0U09qdU1VbXpTZk9nMjNtd1hTMGF5MDl4QS1Ga1gyekdkWlBWOEpHUTA?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "MIXED News",
+"score": 0,
+"kind": "news",
+"words": [
+"компа",
+"почти",
+"прихо",
+"пике",
+"трафи",
+"comca",
+"данны",
+"четве",
+"попул"
 ]
 }
 ],
