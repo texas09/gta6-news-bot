@@ -13131,12 +13131,21 @@
 "80f1632b730c7075",
 "d6d9c34d2e2b39f9",
 "681c661631573d34",
-"dc80fb45d6106b6e"
+"dc80fb45d6106b6e",
+"875d624836386922",
+"5a5ef82abeadafdc",
+"ebe3025aebb7065a",
+"d41a19e2f47b735a",
+"baebf279804ee88e",
+"0e04856d80fc2255",
+"6ebaf4da92866ce4",
+"ceba9eac72520be9",
+"43a407f54298e1a7"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329454,
+"tg_offset": 706329455,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -28140,6 +28149,69 @@
 "озвуч",
 "стала",
 "запис"
+]
+},
+{
+"ts": 1795315872.3676538,
+"title": "Стоит ли позволять подростку играть в GTA 6? Руководство для родителей",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBldXhHdGhORVlJMnlfSWg4YTBjUDBBc05PazVUMnZQc3VzbVAtaDdGelBmYnF6X2tGTldEZmk2dzExajJKT3ZZY2RGNHlPUzZyRGNHY0pLdG1xOUR2cURXQ1pkbHN5ZWxtQVl2Q0NxUm53MFp1b1E?oc=5",
+"tags": [
+"гайд"
+],
+"img": null,
+"source": "PlayDayOne",
+"score": 2,
+"kind": "news",
+"words": [
+"стоит",
+"подро",
+"руков",
+"родит",
+"позво",
+"играт"
+]
+},
+{
+"ts": 1795315875.5667226,
+"title": "Разработчик объявил о неофициальном порте GTA 6 на ПК",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0hTT01Wa2tiVUszNmdlZWwxc3RkdzBOTXpNZW1ZN1lBamNyekpETjBvQWN5bkgzQWVFNWNyUWRQMThNMnp4TDRTazlYSkdWYy1yV3lyOFlGeHlySjhRbmlsdjlyZEZ5X09BUURxNk1LUDdQVkNyd0tQcEF1WnhPUXp6UWVIOEx2?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Techora.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"порте",
+"разра",
+"объяв",
+"неофи"
+]
+},
+{
+"ts": 1795315878.762433,
+"title": "Пользователи GTA 6, PS5 и Xbox протестуют против запретов за публикацию игрового процесса с обнаженной натурой",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUdVNk1TdGtaYW5vc3Vaam9LcmJfV1I3bkpsVlV3c2FqWWNkNDN4aE1HcDMyMC16T2Zlc0RNZFd4bFNBN2hoYndyaGpQR0k5UXdaMDlZYVFldGs2alNtUTR6Y0xOcmhsVDgyczY4V1NwZnFCMi1PNkttMWFMc0psNV9mVzA5MGo0dFBEWFpRaDZqS09QVVFSa1ZxcUdFOE1iV2k1TlY2TVA5VG9tOV8teWJfUTlib2U4ZkRHYlF3?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Notebookcheck",
+"score": 0,
+"kind": "news",
+"words": [
+"натур",
+"обнаж",
+"xbox",
+"публи",
+"запре",
+"проти",
+"игров",
+"ps5",
+"польз",
+"проце",
+"проте"
 ]
 }
 ],
