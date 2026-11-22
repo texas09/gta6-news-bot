@@ -13272,7 +13272,13 @@
 "e97f8ec639c4b98b",
 "8dea90055a7ab594",
 "2c4b193771cee941",
-"31338f3b19cf3bcb"
+"31338f3b19cf3bcb",
+"2f655dda8a3c655e",
+"bfb7abb5717e1238",
+"2ad295c056bc8d63",
+"655208f48238e724",
+"6665c7b1cd7d0a97",
+"3d143ff5ed74a253"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13280,132 +13286,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795184576.4252746,
-"title": "Руководство по топливу в GTA 6: как работают заправка, АЗС и датчики уровня топлива",
-"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNkY3Wk5NWlhWWjNtUzBBMU9XRlUyM1M3YXdaMnl0R0hLa3NOeHRtWHVMTWpCYTMySlRCSEtIbkxGTkdWdGpYMGdGc2pUTXdyN0x1SU1hQ2VrWFZxaVVvOGo3VGJwRkd2YU5NZFMwZ1VybkVEdUQ4MjRJQUFpbC1WNGRVTFV1bDNVQ3R1dGZn?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "eGamers.io",
-"score": 2,
-"kind": "news",
-"words": [
-"запра",
-"работ",
-"уровн",
-"датчи",
-"азс",
-"топли",
-"руков"
-]
-},
-{
-"ts": 1795184579.6525283,
-"title": "Пароль от ноутбука в GTA 6: как разблокировать ноутбук в квартире Буби",
-"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKYnMxRVZMbGlma3FZNmItb216NWhlcmQ2YXYwRVcwOXZ2MlVmN1JqUEdyZ2M1WklWNzRNaVdvdi1XUDhyQm1ZS3FvUG5lZ3l3RkR4TWtCejRld0R0NE0tazM4emtpbWJub0taeUJKdFZUQVNRR2c?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "Radio Times",
-"score": 2,
-"kind": "news",
-"words": [
-"парол",
-"разбл",
-"ноутб",
-"буби",
-"кварт"
-]
-},
-{
-"ts": 1795184582.9658048,
-"title": "Как быстро оторваться от полиции в GTA 6",
-"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1b196SmJCT1M0ZmZBVWhsVEJPUmNZeVpQLVNNWDRYYjc0czJMQ2REQnRIZFpiUy1ZZERtTXRnMkpBbFRnMmxxclB0Q1FaSGFlT0J1bFQxYUJvcjVXTWNmaWw1anAtTHFaQkd1SEc5MGN1UWo3V1E?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "VICE",
-"score": 2,
-"kind": "news",
-"words": [
-"быстр",
-"полиц",
-"оторв"
-]
-},
-{
-"ts": 1795184586.2140908,
-"title": "Запуск GTA VI в цифрах и графиках: беспрецедентное влияние на экономику и исторические рекорды франшизы",
-"url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTWRyaEQ2RHFIODBMZHE2aXhzMXhQMGFkWVpRdTJwY2xIcDhwSDQ1eHdzYkVhTWJzcksxT0hLZlhMeFVrTW1FTDZuZlRLQTNLQWxwX1MzQnVMWURlMGpkcVJuTlJKalNQRlI5ZnFxN1l5d2I5UjBsUkNKN1YwX3laSjJiWjFET1hPT1hTWmdxcjJWVjF5bjl0WkduU2thV0RLX1Itc3c1OFhMMFdYQ1FaaEFnWGJYc05sT3hlbUJYZVFCLWMxX3QtWDdLWjJEVTNjNThTbUxGZDVlZ0YwWVVjQXFn?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "App2Top.ru",
-"score": 2,
-"kind": "news",
-"words": [
-"франш",
-"истор",
-"беспр",
-"эконо",
-"графи",
-"запус",
-"рекор",
-"цифра",
-"влиян"
-]
-},
-{
-"ts": 1795184589.4624145,
-"title": "Может произойти утечка играбельной сборки GTA 6, но есть одна загвоздка на 15 миллионов долларов",
-"url": "https://www.gamespot.com/articles/a-playable-gta-6-build-could-leak-but-theres-a-15-million-catch/",
-"tags": [
-"слухи"
-],
-"img": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-16.jpg?w=300",
-"source": "GameSpot",
-"score": 2,
-"kind": "news",
-"words": [
-"может",
-"долла",
-"загво",
-"одна",
-"сборк",
-"утечк",
-"играб",
-"милли",
-"произ",
-"есть"
-]
-},
-{
-"ts": 1795184592.684116,
-"title": "HDR-калибровка GTA 6 работает некорректно, специалист посоветовал оптимальные настройки",
-"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0gzSnBkdE0yZEJJNmVNS3lzMkVkUVdvdUlIVElaVmxBb0VTcmVOS3dVQ3hhQThNRGFCVjdLbjFwcG5TdzNfWFBBQk44NzkyQ1pDUFVpUkFwUlJpdzFZSmQ2MzZSMTZoZTMwWldTUmdfYmpES0RPUnBhNThPQk1LVjhNQTdWUkJ1SmlZcmRHZ1lFXzE4WENPSEg3TXFOUmp6R01CY1BDazlWOHZUVlkxRVVqdTIyLUVzd0U1VEtB?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "Newxboxone",
-"score": 2,
-"kind": "news",
-"words": [
-"калиб",
-"работ",
-"некор",
-"hdr",
-"посов",
-"настр",
-"оптим",
-"специ"
-]
-},
 {
 "ts": 1795186915.2046921,
 "title": "Как зарегистрировать угнанные машины в GTA 6",
