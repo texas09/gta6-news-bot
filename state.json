@@ -13146,123 +13146,23 @@
 "7696bffe0ea2a14b",
 "1af73bf9f4aef38f",
 "fff519d400ee928f",
-"74fb2346c079b251"
+"74fb2346c079b251",
+"6158f68d788bb0cf",
+"cf4d2cbde46cbb25",
+"2f48c5981019b022",
+"695aca2348ab3453",
+"feff2d1fcd4e3340",
+"0b21324316baaf35",
+"ddedc84c967f7a76",
+"35e6767a9b252468",
+"8c9fca9ab773f5ce"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329458,
+"tg_offset": 706329460,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795143724.246581,
-"title": "Хакеры GTA 6 вернулись",
-"url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSTRsVUhvczFkX081bE9RM0hOQTdhVXNpSHQ1RnB2anhIaXNudVRvYTl4cjl6a0tpZDczQWY3YXRjRHdwMEhPWlF3YTkxNE80RUk4N3VGcHRQMDBwOWdfODZVYmw1V0dRblRwWFNPZ0hHbnRzajFHZE9vMmpxTlJ3WlVOQ1pjQjRJT0o4NWczdFlNYmh5SnNHNGRIS2QtYmtuUFlGSU1YZ2ZBU19FUG40RFljR1J2VHhYaHBlTEdHNXlmU21NUFd0NVdkdUQ?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Igromania.ru",
-"score": 0,
-"kind": "news",
-"words": [
-"верну",
-"хакер"
-]
-},
-{
-"ts": 1795143727.4527006,
-"title": "Релиз GTA 6, штрафы за парковку Midtown CVS и правила чаевых",
-"url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vX1pzZEdHaTV3VXcyNVcxWDdaMmJyU3ZvZTlERmFRanRtVUNtd3RnVTRvY3BNMW4wRFBmelIwSXZkX0FVdE43VVBRNzlHRW9IVzBWUGZQT3BZOFdXUkFlNFI3UmzSAWpBVV95cUxOYU5zSU11OEIzTGZ3dG4tbFhacjZWOTBlRnlvWHlhR01JbW5tSnU3aTd1aEs2SEpZNVRjUHlpckRvM1dMT0FXSjFUTEtNRngtOWNLMmtoMy1qcFEtWnMzMjVkdXJsVlNGb0xB?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "FOX 5 Atlanta",
-"score": 0,
-"kind": "news",
-"words": [
-"релиз",
-"cvs",
-"чаевы",
-"midto",
-"штраф",
-"прави",
-"парко"
-]
-},
-{
-"ts": 1795143730.6492558,
-"title": "GTA VI выходит на побережье Мексиканского залива: от Неаполя до Пунта-Горды — популярная новая игра, демонстрирующая этот регион",
-"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3pzZjBjV1Vwc0R1cXdNa3BDV3M3R2JuaGVhVTc3cnlwTVZKYk9MMkU2Z3RKbk40YUhnSnZIU1RyMmc3LU1LXzh2cl9mSTVqTWI4X1I5anA2YU9STWtUUmQzYXVnenFzcnZ4LXR2UEp4MzgwUy1HRGQ4RS1fdDhjRDJVcmNzWGJDX2ZjMVAxTWhQYVpVRmtCMXBmMUx2d3g4MFdTSDNR?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Gulf Coast News and Weather",
-"score": 0,
-"kind": "news",
-"words": [
-"выход",
-"неапо",
-"горды",
-"регио",
-"новая",
-"мекси",
-"попул",
-"побер",
-"игра",
-"пунта",
-"этот",
-"залив",
-"демон"
-]
-},
-{
-"ts": 1795143733.837544,
-"title": "GTA 6 бьет рекорды: продажи превысили 2 миллиарда долларов – оценка отрасли",
-"url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNm95ZEIzSWJPaVhFUkE1dVRVTDJoTFUxOGV2WUUzRjRYRkktMFoyU0N1Sk4tcnpoOHVvMEV0X2FRckVKV0pZdFd5SW42QWs2M0RlbV81am8yNW8?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "BBC",
-"score": 0,
-"kind": "news",
-"words": [
-"прода",
-"долла",
-"рекор",
-"оценк",
-"превы",
-"бьет",
-"отрас",
-"милли"
-]
-},
-{
-"ts": 1795143737.0327435,
-"title": "Гайд по уровню GTA 6: шесть звезд, значки красной жары и как раскачать полицию",
-"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2UyUGlIcURPTkx6QnVCVnQzd2ZsUDJlWE5CX2JkY28ydnpvRDVSaDFqRzhuVGNKUnpCOGJqM1g5U3dnbzRIeUttS1UxSmhtbGtyaXVKMk9KT0F2LVFBM01PLXJWTEpscWh5bjhPamlzTm5YN2xSQ09jX0xQVUhPc1lJT1owVlBoRzA2aGw1NFgyVjAtMjdheUlnRm5aZw?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "eGamers.io",
-"score": 2,
-"kind": "news",
-"words": [
-"гайд",
-"уровн",
-"раска",
-"жары",
-"значк",
-"полиц",
-"шесть",
-"звезд",
-"красн"
-]
-},
 {
 "ts": 1795144267.5018048,
 "title": "ОБЗОР: GTA VI привносит совершенно новый стиль в ту же классическую серию",
@@ -28249,6 +28149,31 @@
 "данны",
 "четве",
 "попул"
+]
+},
+{
+"ts": 1795317065.203641,
+"title": "Мошенничество вокруг GTA VI для ПК поставили на поток — начали продавать готовый набор инструментов для обмана игроков",
+"url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbm1UUklfVjJRWEpZNFVEeWVEdHBEck9MSFZla01ZMnhCUERZVkZCZG1UVm91bFlJR1JjRHYwYlExaVA5dVRRaDlrc2JOQllNdW1sU1JvSlFJbTUxZThsZnQwbHQwMWlJVWJaS1F0dmhrNEZSV3ZSaUJtM2ExOXlrNTBNS3FJSWJkdmRDQTV2SUc0a2tRYW85Mnd1WUtPeG5fenczVkpCcnVrd2lrR1NORmFqeF9vRG9hdEF2RW5uSnpuLUtvWk5mOUNQbkJJbHQtVlc5MWdsRGRNbXFmcDJGTE5BUjgzV0U1blpPb0l30gHzAUFVX3lxTFBoNXNTZDI1UGFxa2xUZ0lubG8xZDBNNUZwTDBscmMzRUxsWGtlVFBZQ2d4Y1NSUlRQbzdSQS1HTDUycVI2cXMxcEZVejFob3VOajBKbzNybkZ3SThoZkUyZ1JJVWJSNl9ibmp4NjhtLXZIYW94OGFwWkhsa2t5UFpfQTgyaTFNRUluZ0E1TE9PYnI4bTdfZTl0WHZZSVZXejZKWWhVMVF5NzAtT2xvXzNUUFFfd0Ftd2oyRjhLSWhfY0xiTkJhRGZpSkRYVTJtd0o2S2lIaGc5bFJoeWtTaW1xRmRmUTNpWWdpaVVUTnZENzZqUQ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "iXBT.games",
+"score": 0,
+"kind": "news",
+"words": [
+"готов",
+"мошен",
+"прода",
+"вокру",
+"поток",
+"инстр",
+"начал",
+"набор",
+"обман",
+"игрок",
+"поста"
 ]
 }
 ],
