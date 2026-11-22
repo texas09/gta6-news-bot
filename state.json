@@ -13155,100 +13155,38 @@
 "0b21324316baaf35",
 "ddedc84c967f7a76",
 "35e6767a9b252468",
-"8c9fca9ab773f5ce"
+"8c9fca9ab773f5ce",
+"fb25ee11a51ac1d7",
+"70eec6cd57a23d72",
+"05d5296da1ce7169",
+"0f6a4fc388d5e6a0",
+"b75b200777ec47f6",
+"327741eb1b47a802",
+"e00109502168d180",
+"18400760acc04a96",
+"16b7961eda05d03c",
+"57656d7d8d64c2d5",
+"bf86354d43a99771",
+"e9a922b1a984967e",
+"3f673ef605915ea9",
+"fb3db2416ad02cc6",
+"abf8446482ce5e36",
+"615bdd5e03c05ff0",
+"e237eeef9cc3b6b8",
+"7cf7d261929d7a62",
+"d4b346c2b0fc4f15",
+"4732988fa0cfb172",
+"290f136657814f00",
+"13e91fa6d1d1a0ed",
+"42bb9f1b0d74c4cb",
+"3d0374ccdb924de5"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329460,
+"tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795144267.5018048,
-"title": "ОБЗОР: GTA VI привносит совершенно новый стиль в ту же классическую серию",
-"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWwzNV9vb3B5Vk5xaWVKWWVUNG1jZk10QkVocVNnYk0yOEFleERrQXIxQ0I4LTNaZUJ5Q3VEbWNoczVPSWhwckt1SUpkYVFvLURDTGdhazlUNUFWMUh6dlVpdnZfTmVXQlJrcXgzQzU3N291ZDVRdlF4d2ZLdUdDZzZva1JwNC1HMThCc2NCZFNqYkx3cWZMY1Jic1huelhFSGdjcEF0R3MxeENoY2h6Sl9KdXNtZw?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "thesunflower.com",
-"score": 0,
-"kind": "news",
-"words": [
-"обзор",
-"новый",
-"серию",
-"привн",
-"совер",
-"стиль",
-"класс"
-]
-},
-{
-"ts": 1795144270.6382127,
-"title": "Как выход GTA 6 повлияет на экономику Северо-Западного Арканзаса",
-"url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ2RzU094MUhVakxiWlZLQ18xME5UNVU4dUJ3bldTVkJ0TTJIel9zTkhjTG1DZkNtZm1XbmRsUmZDUndRcDRzNVlnS2VPdjVYZ1FDVnU2WHJ0TXF5ZDlfcEN2b0VyUWI1Ym9zZm5wa21TMnlSczh1TTFLMi1sck9HLUttelVKelFzVFlPZ0p2QmlpdGZXbHhMOVhKWGhkWk1ITUdxaG9MbDA1dmxvOEYybDlhLWpJRzg2NGF2alFVV1FQT0xQXzRLTUFyM19BNWs1NjRVMlF6alhhT0Y0V0E?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "5newsonline.com",
-"score": 0,
-"kind": "news",
-"words": [
-"аркан",
-"эконо",
-"повли",
-"север",
-"выход",
-"запад"
-]
-},
-{
-"ts": 1795144273.8073835,
-"title": "Почему стоит поиграть в GTA: Vice City даже после GTA 6",
-"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ3N1aURVSjg2WE1VTGQ2bHNFeUdYYlVUbVc1c1hCRVp0Z1ZDMmJkSXpFSC1Xdk1aWGpoVlVOUXlSMHk4MnJCcmthbmFFUlhPMFg5ancwaHF3bUlRd3RXWW93OUdST3ZBUWR4Mm14MDJLQ0dzT0V4TlhDSWpZRGM0bFVQN3MzaWtCaE1NVkh5T0tLVnJ6cmNleHJKekhmQ202NV8yN1lGb1pTLThWUDJBeWtjNENjRVFWUkFrSA?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Igromania.ru",
-"score": 0,
-"kind": "news",
-"words": [
-"vice",
-"даже",
-"после",
-"стоит",
-"поигр",
-"почем",
-"city"
-]
-},
-{
-"ts": 1795144280.2135007,
-"title": "По данным аналитиков, продажи GTA 6 составили 25 млн копий, что принесло более 2 млрд долларов",
-"url": "https://www.playground.ru/gta_6/news/po_dannym_analitikov_prodazhi_gta_6_sostavili_25_mln_kopij_chto_prineslo_bolee_2_mlrd_dollarov-1892259#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"img": "https://i.playground.ru/e/mq5j-YxXzTp1yHxhnq5R0g.png",
-"source": "PlayGround.ru",
-"score": 1,
-"kind": "news",
-"words": [
-"долла",
-"более",
-"прине",
-"прода",
-"млрд",
-"данны",
-"копий",
-"анали",
-"млн",
-"соста"
-]
-},
 {
 "ts": 1795147884.88425,
 "title": "В GTA 6 появилось неожиданное камео в поздней игре, которое сбило меня с толку",
@@ -28174,6 +28112,165 @@
 "обман",
 "игрок",
 "поста"
+]
+},
+{
+"ts": 1795317670.5899997,
+"title": "«Опасность есть». Ротен высказался о влиянии GTA VI на игроков",
+"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUHpYZ1ZuSzVJMFg1Z19neXNWVi1naXlWTmJHS2FoOFUzT21aQWVHMEt6VnU1NElnVmhxaTNJbmI3c2s4TW5NaHVaMFBZeGZIQUdNUFY2bVhjNEpFeEtBZjFxbFQ3QXFSUTFnWFJtdklUeFFFNkl0NkJqbHh4WjZueXhoZjJRMmhpRlIzTi1VbnJPaTBqb3NV?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "legalbet.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"выска",
+"есть",
+"влиян",
+"опасн",
+"игрок",
+"ротен"
+]
+},
+{
+"ts": 1795317673.80519,
+"title": "Владельцы Xbox Series X и PS5 жалуются на вылеты и сбои GTA VI",
+"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fQWVRb1BMUU9JV2JoSzFwVVgyQzB2NElsUU1Sb0Q0amtGTDZKLU1vLVpVTGFvZjMxOHpmWFlmZUxhVFdRQ3VjMVVSRVBUa1RsSWhZaHhBYkNfb2pwUVNXb1ZJSGFtTFBJZXRoajlJUDFDdw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Techora.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"xbox",
+"ps5",
+"жалую",
+"вылет",
+"сбои",
+"serie",
+"владе"
+]
+},
+{
+"ts": 1795317677.0141184,
+"title": "Найдена настоящая девушка с обложки GTA VI — модель подтвердила участие в проекте",
+"url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTjVvWVRfTWVxYW1hTE51Q2RzbUFwLUR3RTRDcHpGVEVPWFozUXFoaks5Ny1JV091cGhBUkNvYzZ5eXA5ZlZscTk4UVdjd3JXYW1RRG5wamMzckxkVEtEOTRXZnJTemo3dmwzTFZ4am4zZm1IV21tVFpsemJtTmIyQnUxMkg4NWNhVjE0SzI4QmRMd0h5Ri1oNEFodnZXRWZsWG9QRnNDN0RRbnBVdmN2dzZpdnp4UHMyUEdEWFU1b9IBxAFBVV95cUxONVlHUWV3bWJ3S1hoT1NWWnJlaFpYdEVFb0p2WkJkNUUtSHV0ZTZGRnlzRlRXT1NtWTRWR0ZNWDFBZmJ0NzJqV1RZVHN5Mnd6ekNnQkNyZU5hRmJOam50bGQ4TUk4cGhmemZfRlBaQ0QyVUl4bk5ZTHczSDE0SDBDeWRHVmVoMlBHSll4OHVCVE5mZ3kzNnZ0VG5kcVhIQnNBUGtINDFqdDNYS014ejJrcEsxd19aZGR0dlVfb1ktR18zYzdN?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "iXBT.games",
+"score": 0,
+"kind": "news",
+"words": [
+"подтв",
+"проек",
+"облож",
+"участ",
+"насто",
+"модел",
+"девуш",
+"найде"
+]
+},
+{
+"ts": 1795317680.3295672,
+"title": "Rockstar стремится вызвать симпатию к героям GTA 6 их сходством с обычными людьми",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUEJoc3YtTFhlVW56NWlSNXFHNlhVTUtSNzRNMnlIcWI3dkVOREV5S01LckdNLUVoWWF3VVhqY2NUcllKZHJOZW55MkVVSkdOYmxZZWd0aWJMVVdiWmpzeTlsSEVCc2NXQlJ2a1BmRUhfc1NJQjVDWUthOUZpemt3Rmtn?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Techora.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"rocks",
+"вызва",
+"героя",
+"сходс",
+"симпа",
+"обычн",
+"стрем",
+"людьм"
+]
+},
+{
+"ts": 1795317683.5507424,
+"title": "GTA 6: стоит ли помогать Марио и Фрэнки в «Послеполуденном наслаждении»",
+"url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsQnFmRTNOUXZScEpTT2VBSlBVOXJwdDM1VWxPNGRPMWdzcUpMd3UyX09wbFhkTkdjRXRKd2pNZTl5dkZQbDJfeHJTQ1RqTUs0YjBFLUVEdzNhaGhGUVpkRXg2MTZmRkdLb2VGVVpacFpzMXlE?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "ScreenRant",
+"score": 0,
+"kind": "news",
+"words": [
+"помог",
+"стоит",
+"фрэнк",
+"марио",
+"после",
+"насла"
+]
+},
+{
+"ts": 1795317686.768425,
+"title": "Екатеринбуржец работает над GTA 6 в Rockstar Games с 2022 года",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83YzlKU2tjYUdKai1XUXV2LUJKZFJMcTlMTnJWaWhibE54YkFRcHVMVjV1LTVMb3BxSE83ZTZLdVk0Vmh0Q0llTHBINkUzVG1xRFRaM282Z05pbmg4ZEEya1hMcXhyY2tiWnRORm50enFJLWZuY0d1VXZxbXo?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Techora.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"rocks",
+"2022",
+"games",
+"над",
+"года",
+"екате",
+"работ"
+]
+},
+{
+"ts": 1795317689.975956,
+"title": "💥Проход в охрану аэропорта GTA 6 с вооружением и спровоцировать полноценную перестрелку в терминале всегда заканчивался этим красным экраном. Она зашла дальше, чем я думал… 💀 Сценарист: Бри",
+"url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wZmMwcy1Tem1tMFQ1bjhnOFY5MVpWdG5CRlVaYmVxZHk1VDgxNGRpRmFXZWxCV3JhOS1NOWlPcXhqbmhYc25KNTU0R1Z1NXN4RE81RGI4amdETDE3dEI0eVlR?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "X",
+"score": 0,
+"kind": "news",
+"words": [
+"дальш",
+"красн",
+"спров",
+"перес",
+"полно",
+"терми",
+"воору",
+"этим",
+"чем",
+"прохо",
+"думал",
+"закан",
+"зашла",
+"аэроп",
+"экран",
+"бри",
+"сцена",
+"всегд",
+"охран"
 ]
 }
 ],
