@@ -12905,12 +12905,36 @@
 "9c0f3b48d3e213f6",
 "904505090bfc7f47",
 "3abc13716a49a45c",
-"5e7715fa9c5dd184"
+"5e7715fa9c5dd184",
+"b646f49313e57b82",
+"01bf095dae47f51d",
+"2e9ad6ff112396e3",
+"8f9476af03ec3d94",
+"b3fab24678aeae6c",
+"b57e2234de3887d0",
+"2df0e02304507222",
+"6126992b822abcfb",
+"3133eaf3b4f9f083",
+"3528af31605a1710",
+"dae7e6d399b5e5b6",
+"3a45968efcb7428e",
+"2492dd32d361158b",
+"55d7bbbe6f3828b4",
+"db2de6bc89f99aac",
+"33ace5b0bb665871",
+"89455f1962e8ae5e",
+"9f165ee41ef858ed",
+"8d9a01fa50d874bb",
+"7b6d11405938f3b8",
+"6363dc8f4892fc10",
+"e1771556e678854e",
+"8892f84604006ae4",
+"0341220a3d4794c2"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
 },
-"tg_offset": 706329403,
+"tg_offset": 706329405,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
 {
@@ -27280,17 +27304,151 @@
 "консо",
 "выход"
 ]
+},
+{
+"ts": 1795305788.438856,
+"title": "Rockstar объяснила молчаливость Джейсона в GTA 6 из-за фильмов о грабежах",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHFxR25KVXBqQXRieFBoa1BmTlVsdkI1eFhJcGhhRzBBSnhsRGdrbzFsdmVVQ3ZOa3o2NE9wSFVxTEZESWtFb2dRZTBOeExDMk5MNzI2ajZuVnYwSFRlMFlsRjhUMnJjZDJLTTZjUjlxbi04R3pXcjVSOUVUeFJvb01hVlhTSERZeGc?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Techora.ru",
+"score": 0,
+"kind": "news",
+"words": [
+"молча",
+"фильм",
+"объяс",
+"rocks",
+"джейс",
+"грабе"
+]
+},
+{
+"ts": 1795305791.6418264,
+"title": "Несоответствие оценок в обзорах GTA 6 заставляет фанатов обсуждать ее на Metacritic",
+"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSDkwbGFjME9JMnRsalctNTRLQVhFRTRmR195ZEhvZldDRnZXUjdwdExkOGVhY2MtSmJrSFBHYnVJUVp4Z2xqZTFzeWhPUm5wS0Y4QTdqd040ZXNfdktZekxvamgtVjE4OXhra1JUTUx6VUhtUWdNSERscXN5MEl4RA?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "ScreenRant",
+"score": 0,
+"kind": "news",
+"words": [
+"metac",
+"несоо",
+"оцено",
+"фанат",
+"обзор",
+"заста",
+"обсуж"
+]
+},
+{
+"ts": 1795305794.8401542,
+"title": "GTA 6: расположение рекламных щитов Peewees и решение головоломки с главным призом",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMUw0bUt3aU9vTm1RNmFHZ3NvQi1tR3dYUUM4cG5WdGVxbWw1WXptRlZzLUJnVXQwODhRM1dCbkotZGFSQTFEYUhSTVA2dC1vRW85ZUt5UE02WGFvMUZzQzN3RTVuUEdIWDU3LV9YNFl4U0s0QlR2RHdWc1BCYUlWVm5rcE1yQ2ZMeDRSZ3ZhQ1FKaWFzeVIwczExNkxGQ0FJ?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Push Square",
+"score": 0,
+"kind": "news",
+"words": [
+"peewe",
+"голов",
+"щитов",
+"решен",
+"главн",
+"рекла",
+"распо",
+"призо"
+]
+},
+{
+"ts": 1795305798.0431802,
+"title": "GTA 6 официально стала одной из игр года с самым низким рейтингом",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWnZtWjluT3Jpc1AtYUFWcG42RjFvVFpvZGlBU05MOEpGdmJPX09SNUk5OVp3dTVjRURGLWowSF9iVGpmSHd0T3FoSGp4Ym5mSnNEZlpyRm9jUEU1eUhuZnFydmFBR3NjRmR4ZUtEcFZCS1RhNmFqa3p2ZzBCcTlNT1VR?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "Comic Book Resources",
+"score": 0,
+"kind": "news",
+"words": [
+"года",
+"одной",
+"игр",
+"самым",
+"низки",
+"стала",
+"рейти",
+"офици"
+]
+},
+{
+"ts": 1795305803.353614,
+"title": "Все, что вы украли в GTA 6, вы сохраните!",
+"url": "https://youtu.be/QQV-0OUGxGs",
+"tags": [
+"видео"
+],
+"score": 2,
+"kind": "viral",
+"img": null,
+"source": "MrBeast Gaming",
+"words": [
+"украл",
+"сохра"
+]
+},
+{
+"ts": 1795305806.9650488,
+"title": "МОЯ ПОДРУГА ВЕРНУЛАСЬ | ГТА 6 ГЕЙМПЛЕЙ #3",
+"url": "https://youtu.be/1O_GCgCu-j4",
+"tags": [
+"видео"
+],
+"score": 2,
+"kind": "viral",
+"img": null,
+"source": "Techno Gamerz",
+"words": [
+"моя",
+"верну",
+"подру",
+"геймп"
+]
+},
+{
+"ts": 1795305810.1702886,
+"title": "Прошли ГТА 6",
+"url": "https://youtube.com/shorts/iaqBK2Hryko",
+"tags": [
+"видео"
+],
+"score": 2,
+"kind": "viral",
+"img": null,
+"source": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+"words": [
+"прошл"
+]
 }
 ],
 "digest_date": "2026-11-21",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-21",
-"viral_checked": 1795298518.0899403,
+"viral_checked": 1795305801.0435078,
 "viral_ts": [
-1795215079.8993616,
-1795215083.7170541,
-1795215086.8611474,
-1795222910.1561525
+1795222910.1561525,
+1795305803.3536122,
+1795305806.9650474,
+1795305810.1702874
 ],
 "group_id": -1003664956927,
 "group_checked": 1795300840.1134028
