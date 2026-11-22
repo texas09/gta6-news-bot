@@ -12977,7 +12977,22 @@
 "82b3949d8d7fd169",
 "d614bc31a830cf74",
 "9b9bbb66427fd725",
-"821038d351e80316"
+"821038d351e80316",
+"561283448be63cad",
+"7cd7648ad64d4da9",
+"3adbeba8e42e8460",
+"f9cde5514d4b0543",
+"607439619f2f9de8",
+"437df28fa788a348",
+"71fb513a1928ca9e",
+"2de4a7670ecd9e2d",
+"1272465094a5e934",
+"4215f1e1e378c55c",
+"18d029d8d66a7700",
+"0f23c0b0b218f12e",
+"f7868d080b751c14",
+"27ef7216a9a58f6d",
+"a7723af4e433ae44"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -27484,6 +27499,58 @@
 "котор",
 "подро",
 "новые"
+]
+},
+{
+"ts": 1795308941.1225688,
+"title": "Обзор обновления Binding Of Isaac — разбомблен из-за музыки, сгенерированной искусственным интеллектом в режиме GTA 6: «Проснулся от дерьмового шоу, очевидно, я понятия не имел»",
+"url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2d2N1d0empxa3AyelhKTjZ6SEo2bC1KWlRwMEtqXzJfa29xbG5mMzFfajl1Z0dZUFFMcXl2UURYdURsdVFjQ1RqSVBScXlYVFp1a0JQN0c3YVVOMXVqbFNCMTRrWVBVTDVEbFFRTGFzaTJBYnZKUmwwMkhPUTBjdFpBdjVUa0QtTFJoYmZyRElhekhXOTQ2Unc2MlhMU19hOFhGdEVxS1FydGFLbzdEeFhzbXNnSFVobmZhbF9HUzJoXzB3NDB0YlN1SVc0TDBOM2NubjVCalhHRTZMaHFWUVhtLW5uQQ?oc=5",
+"tags": [
+"обновление"
+],
+"img": null,
+"source": "Kotaku",
+"score": 3,
+"kind": "news",
+"words": [
+"дерьм",
+"сгене",
+"шоу",
+"разбо",
+"режим",
+"очеви",
+"имел",
+"музык",
+"обзор",
+"понят",
+"isaac",
+"bindi",
+"интел",
+"обнов",
+"просн",
+"искус"
+]
+},
+{
+"ts": 1795308944.336512,
+"title": "Увлечение GTA 6 может разрушить отношения из-за чрезмерных игр, говорит эксперт",
+"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM0JsV19zX1hJRFdmclNxUTZuMXBGTTBIdVVwelNnOHRrbFZDbzFwNHZzT2dMc0VVNFh2NjRmX01sdUVWdGduYks5aGo0VzJ1S1h1V0ZRSHJYZ2JObk9hbGtsMzZDWG9zVmVHWHBqM0hLX2JLbjBSMGUyMER6MFJ5dGVtZw?oc=5",
+"tags": [
+"новости"
+],
+"img": null,
+"source": "New York Post",
+"score": 0,
+"kind": "news",
+"words": [
+"игр",
+"экспе",
+"говор",
+"может",
+"увлеч",
+"разру",
+"отнош",
+"чрезм"
 ]
 }
 ],
