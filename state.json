@@ -14103,7 +14103,10 @@
 "37c1aceb35a650a4",
 "7b619a4baa045e25",
 "4e0a7419326eee40",
-"a21516cedc6da3b5"
+"a21516cedc6da3b5",
+"33d22ec9983be470",
+"a2d8235e0b23c741",
+"debd575d45073a35"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14111,116 +14114,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795268480.3526893,
-"title": "Ошибка Quick Resume в GTA 6 на Xbox Series X дает 60 FPS, но ускоряет игру вдвое",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yVl9meDNYZUhESE9ieEZpbEt6eDBQb2JZU3ZCRFhLdUx6eGVBcExzR2xnakVUWldlX3BqVFcwU1pCN3dhc2oxWS1DdVB1Y1hZdmQ4ek5TNGRfaV9CaXlIZVBKMHBuTXlXS2FrLVlBUGw?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "Techora.ru",
-"score": 2,
-"kind": "news",
-"words": [
-"xbox",
-"игру",
-"ошибк",
-"quick",
-"serie",
-"ускор",
-"дает",
-"resum",
-"вдвое",
-"fps"
-]
-},
-{
-"ts": 1795268483.525339,
-"title": "GTA 6 vs RDR 2: на YouTube устроили лобовое сравнение двух игр RockStar",
-"url": "https://www.goha.ru/gta-6-vs-rdr-2-na-youtube-ustroili-lobovoe-sravnenie-dvuh-igr-rockstar-4Aw9BB",
-"tags": [
-"новости"
-],
-"img": "https://images.goha.ru/E:N2/AM/4QCCKihfQT.jpg",
-"source": "GoHa.Ru",
-"score": 1,
-"kind": "news",
-"words": [
-"youtu",
-"лобов",
-"сравн",
-"rdr",
-"двух",
-"игр",
-"rocks",
-"устро"
-]
-},
-{
-"ts": 1795268486.703371,
-"title": "Игроки GTA 6 показали Джейсона и Лусию с максимальным весом",
-"url": "https://www.championat.com/cybersport/news-6708264-igroki-gta-6-pokazali-dzhejsona-i-lusiyu-s-maksimalnym-vesom.html",
-"tags": [
-"новости"
-],
-"img": "https://img.championat.com/news/big/g/r/igroki-gta-6-pokazali-dzhejsona-i-lusiyu-s-maksimalnym-vesom_1795267612746598082.jpg",
-"source": "Чемпионат",
-"score": 1,
-"kind": "news",
-"words": [
-"весом",
-"лусию",
-"показ",
-"джейс",
-"макси",
-"игрок"
-]
-},
-{
-"ts": 1795268489.8822815,
-"title": "В титрах GTA 6 нашли упоминание \"Флоридского Джокера\", который грозился отсудить у Rockstar $10 миллионов",
-"url": "https://shazoo.ru/2026/11/21/194438/v-titrax-gta-6-nasli-upominanie-floridskogo-dzokera-kotoryi-grozilsia-otsudit-u-rockstar-10-millionov",
-"tags": [
-"новости"
-],
-"img": "https://cdn.shazoo.ru/892403_peXP9sk_image.jpg",
-"source": "Shazoo",
-"score": 1,
-"kind": "news",
-"words": [
-"флори",
-"джоке",
-"грози",
-"упоми",
-"котор",
-"титра",
-"rocks",
-"милли",
-"отсуд",
-"нашли"
-]
-},
-{
-"ts": 1795268496.047381,
-"title": "Может ли крупная утечка GTA VI сделать игру доступной на ПК?",
-"url": "https://rockstarintel.com/could-this-major-gta-vi-leak-make-it-playable-on-pc/",
-"tags": [
-"слухи"
-],
-"img": "https://rockstarintel.com/wp-content/uploads/2026/11/image-9.png",
-"source": "Rockstar Intel",
-"score": 2,
-"kind": "news",
-"words": [
-"игру",
-"сдела",
-"досту",
-"может",
-"утечк",
-"крупн"
-]
-},
 {
 "ts": 1795269722.7790592,
 "title": "Долгая история Nintendo с GTA, похоже, подошла к концу",
