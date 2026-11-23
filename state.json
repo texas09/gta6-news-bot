@@ -13551,7 +13551,16 @@
 "58d4d083c4d6b465",
 "436dd323f758bc80",
 "1a7a7b6cf6f8557d",
-"ac1a4948cf0cde24"
+"ac1a4948cf0cde24",
+"90ebdca55f21f23b",
+"90ebdca55f21f23b",
+"50264c29aaee92f1",
+"67ac18ac9db5ef77",
+"61585c1e0d0ee85e",
+"c78af7182434b65f",
+"aa33586076e4cd8e",
+"b524f1b20aa7f462",
+"9aeabbff805198b2"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13559,105 +13568,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795219318.338474,
-"title": "Прохождение миссии «Перерыв на кофе» в GTA 6",
-"url": "https://www.videogameschronicle.com/guide/gta-6-coffee-break-walkthrough/",
-"tags": [
-"гайд"
-],
-"img": "https://www.videogameschronicle.com/files/2026/11/GTA-coffee-break-walkthrough-3.jpg",
-"source": "VGC",
-"score": 3,
-"kind": "news",
-"words": [
-"кофе",
-"мисси",
-"перер",
-"прохо"
-]
-},
-{
-"ts": 1795219321.4763937,
-"title": "GTA 6 на Xbox Series S падает ниже 20 FPS: что показали тесты",
-"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeTBkeExRRE56QUFMY1FvZldMRGx1dUJKYmhKc0phNjJXNVVSNWROX2swRVhiZjFQWWp0Vk9CcVd0NVU5dzFqdlpOMkcybTd0TnladlZjNnRKSDZhV0pLUGR0YmZNOFpWcDlIS2RpY2d6TG4tTlRBdjVlN3MzelMtRkZsajlfU0dQbHkxajFLOV9NZEoyMmlVcl9hTlczMjdfVTE1S0ZYNHhoa2VrNFkzWkEycHQ1MlhCUFp5WVRTdktrQTA?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "Neva.Today",
-"score": 2,
-"kind": "news",
-"words": [
-"падае",
-"тесты",
-"ниже",
-"xbox",
-"показ",
-"fps",
-"serie"
-]
-},
-{
-"ts": 1795219324.6112666,
-"title": "Как получить устройство для клонирования ключей в GTA 6",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01NDVuRndWRExYWFBLUFlLYi04NUw0VzE5TEpPZE40UHQ3VXM3aFVJMWk5N1pDOFRlVlU0TTJ2VFdwUVJ2b2FuZW1MRndGU0NIbjlMMEtsU3FmVGZuX1E?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "VICE",
-"score": 2,
-"kind": "news",
-"words": [
-"устро",
-"ключе",
-"получ",
-"клони"
-]
-},
-{
-"ts": 1795219327.7430704,
-"title": "Как решить все основные головоломки в Tenebrae Lux в GTA 6",
-"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmJNV1ppVElFWjJDVzk4NlpHc05KcnZVNzZzTjJ3Wmd6MDZRU3pzUFBuZWZSOWN3dGRVZkVBQlRBSVloZlowUWlZN0ZDZUI5akgxNXlHWl9mYzk0ZUdHbEZyRmxPcHkyZmpVU1dkMWxjdE1vcG5rd0RWa3JMNUhYOU5nQnQ5RFBkcFE?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "Kotaku",
-"score": 2,
-"kind": "news",
-"words": [
-"решит",
-"teneb",
-"lux",
-"основ",
-"голов"
-]
-},
-{
-"ts": 1795219330.8850796,
-"title": "Эксперты дают советы родителям, как разобраться в ажиотаже вокруг GTA VI и ее контента для взрослых",
-"url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0NsUERVT1YzUllpb3RkeV83eUVxNDJveTdlYWNMcUxQQ3FTME93T3VuSXFoOU5DcDFibVREVU5ueUZLWTBfRnRLVnJseDlsSzVYZVF5N2FmZkI2R3R6ZEZsNWZ2dmRFX0I5QXJ1TW9ucmpacFJVT05TZDhNOWhBZXJpM3A5eDJQZ0dORE04aE96VWJiQWFla19lb203NnZybTRVcWJlT3RQaGdZQmpORUMzNGpEdklFeldpaEZEMWpQNjhf?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "WBFF",
-"score": 2,
-"kind": "news",
-"words": [
-"разоб",
-"конте",
-"экспе",
-"дают",
-"совет",
-"ажиот",
-"взрос",
-"вокру",
-"родит"
-]
-},
 {
 "ts": 1795220580.8329058,
 "title": "«Рубин» снял ролик к матчу с «Зенитом» в стиле GTA 6 с отключенными пенальти в настройках",
