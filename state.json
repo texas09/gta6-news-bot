@@ -13917,7 +13917,16 @@
 "2faee7a1cb8e7afa",
 "b342e1b78b7fb4e1",
 "0473f202f5742810",
-"e6964cbd9b196b6f"
+"e6964cbd9b196b6f",
+"3b60d83aa5c78632",
+"71a5eb9eb620640c",
+"51b2b7f548d89138",
+"22cc9f6869c908ae",
+"83688c4b392316a7",
+"bfe8c8372cd0289d",
+"1eac2f9f67fb153d",
+"c3ea14ecbd829a09",
+"dce527866f52f8b7"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13925,89 +13934,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795248108.438328,
-"title": "Гайд по GTA 6: как быстро сбросить звезды розыска",
-"url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOM0pkaG45bWFzY1Vwd0lJeW51eVpuUmRwUlV4YmZiWXBfcGpMVjhrbl9CV3o4dWFBMDNwWXZCSURjd252M1hKV1BsNnV5aHZtM05nX3h6eUQ4V1Y2YUsybnNPcHB3RE42Z2FXblhCaHg1R2hUZDR0OHFqdGZ5TWhONzlwd0xNN1JRcnk0TVRqM1RmY1d6Uk5qc05tYTlnRTBIVloyQ0N0NklVemo4M2FiNG9TbVB0dDBxTjJQYkMtU2czRWY0Q1JCWFZZbVZyNnUzNk9ycnJFRlpGcGlyeHNFWHA2bGgxal9NT01fbURSTzc3QUd3ZHo5NXlVR0psYVE3OUVyWi1EaDN3RGxUR19STWprcEJwZ055X0NiZlplWUM3ZkZzM0lEZVEybFNmN2hDODJ4cG9nTHlER285YVd5djYxcWk2cXBVRWpZMGptejlrNG1JX0Q2N1VTRmhTeXBiRmpldi1EZ1hMZDBHUUlNUHU1QmZSQ2M2Q2liV0JqeVc5NUFwbm4yeFNmLWM?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "games.gg",
-"score": 2,
-"kind": "news",
-"words": [
-"звезд",
-"сброс",
-"быстр",
-"гайд",
-"розыс"
-]
-},
-{
-"ts": 1795248111.6803136,
-"title": "Как пиво за 6 долларов в GTA 6 отправило меня в спираль преступности и беспокойства",
-"url": "https://www.ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety",
-"tags": [
-"новости"
-],
-"img": "https://assets-prd.ignimgs.com/2026/11/20/1a1f9e1ef3b55-screenshoturl-1-1795194452766.jpg",
-"source": "IGN",
-"score": 1,
-"kind": "news",
-"words": [
-"пиво",
-"спира",
-"меня",
-"беспо",
-"отпра",
-"прест",
-"долла"
-]
-},
-{
-"ts": 1795248114.9546335,
-"title": "GTA VI собрала почти $4 млрд в день релиза. Это рекорд в игровой индустрии",
-"url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5ucDNCYXE0S3F2TjBWWXpBQlBZRnhkcUlQRjV4Vk9QVzN1VGlpYzQzLVpEYnlXTjhab3R4ZmNSRkc4RXc?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "The Insider",
-"score": 0,
-"kind": "news",
-"words": [
-"млрд",
-"индус",
-"рекор",
-"почти",
-"день",
-"игров",
-"релиз",
-"собра"
-]
-},
-{
-"ts": 1795248118.1913292,
-"title": "Участник испытаний Neuralink сыграл в GTA VI с помощью мозгового импланта",
-"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmprN2c4Z25mWWo5ZlF0YU1ESEQwVVJaUGdUbTBfdWVUME5tdUc0TDFaV1A1RnloMmdIWWUxTUdUbDZRUUhXTXNCMUFGQVgzVmZhaVRDcUc0TTF5dUZEZVlCWmNhMVVxNnY1NS1LR3ZqVmlPS0hwSm9Nd2Z0YWI0a2hTN1k1SFhlb0Nibl8tODBJN1diWTVOTmwxRU5CR2JwUGZ4eVBlLXdxVUlRdlZ3T3FvdS1LRDRXb1lKMXJWZHQ?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "rosbalt.ru",
-"score": 0,
-"kind": "news",
-"words": [
-"испыт",
-"участ",
-"помощ",
-"мозго",
-"сыгра",
-"neura",
-"импла"
-]
-},
 {
 "ts": 1795248122.7174876,
 "title": "Во что мы играли: «Это медленно, это неловко, это странно и это тяжело»",
