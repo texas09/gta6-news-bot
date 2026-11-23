@@ -13773,7 +13773,16 @@
 "26f6fe78753fe005",
 "110d06cd8f3cd688",
 "b325641dec588455",
-"9a5634487fc117f2"
+"9a5634487fc117f2",
+"f1802df8f8de1a9b",
+"0b3609ee82a61869",
+"3aab2282e8fe9ec7",
+"2dcfb15a193f789a",
+"aacaff1832e478f9",
+"94d69e7844bfae5b",
+"a344f04472bd4bf7",
+"b1d73dc973c7710c",
+"d8d2d7eb34ccd5c8"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13781,115 +13790,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795236074.6548648,
-"title": "Ритейлеры сообщают о мрачных продажах GTA 6 на физических носителях, а бездисковая коробка с кодом не пользуется популярностью",
-"url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZDM5cXZoNzBhcW95WkoxS2h5ejlobVcxejI0X1pjb2h5NVBRMlJIS1VTUC1Wc19Nd09WQ0RwOUk5WUNNMEZFZzc1WVNYVm5jc3FRWUlweDVMbjVWMW0xTWktbDZWUFRrUWhtZnluY0pwc3FMcnRqeTEtNEEyT3ZDN24wOW1La0dQcGswV2pTWFhOVmNEbjAxS2l3WWxzLUhrVE1sdTROLXVWakxrbS0yS2V4VXluWVRTNkNnTFFIMXo5OHNO?oc=5",
-"tags": [
-"слухи"
-],
-"img": null,
-"source": "Notebookcheck",
-"score": 1,
-"kind": "news",
-"words": [
-"сообщ",
-"попул",
-"польз",
-"короб",
-"прода",
-"ритей",
-"физич",
-"носит",
-"безди",
-"мрачн",
-"кодом"
-]
-},
-{
-"ts": 1795236077.8580537,
-"title": "«В реальном времени»: Билл Махер в «GTA VI», Роберт Паттинсон в роли Джеймса Бонда",
-"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXhxbjZHX1BBZzRNbXpJeDFzc0QwbVQxSHpyVWdCQzBLenhLTDBRUmdoUHVrN05zYmJmNVgyRk5KaS1OX19mLUlXdmJwTHNvOVNBSU1kVUZGdzRfRmF3Ri02Nk9rcWJlT0w0N18tOXBKXzBxamt4UnZKcFJpb1VaZkVjNnZJcHlETm1nNQ?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Deadline",
-"score": 0,
-"kind": "news",
-"words": [
-"джейм",
-"махер",
-"реаль",
-"билл",
-"роли",
-"бонда",
-"патти",
-"време",
-"робер"
-]
-},
-{
-"ts": 1795236081.0434022,
-"title": "Сообщается, что GTA 6 борется с эпидемией мужского одиночества — и что об этом говорят новые исследования",
-"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWi01QUdvZzR3X0hoX1lVVE12enYtVktqUTFoNW9MRFRMV2s4clJ4RFpreW5iSjFNZmJDcTBELTNPR2J2aTlLVnY0TDBLMk1kdXZDOGRWd3NZNTZWTHRrbUQ0NE8xcnFvZnc5enJ4U0VQWkVtdG93UE5TZzhxdkhfQU1PZEFVVmgy?oc=5",
-"tags": [
-"слухи"
-],
-"img": null,
-"source": "Latin Times",
-"score": 1,
-"kind": "news",
-"words": [
-"сообщ",
-"борет",
-"новые",
-"этом",
-"иссле",
-"эпиде",
-"одино",
-"мужск",
-"говор"
-]
-},
-{
-"ts": 1795236084.2661495,
-"title": "GTA VI: почему 30 FPS внезапно стали называть искусством",
-"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sOEdVVDZzQ2lZLWVRcTktZUxZbTgzaVRad0x6ekhmcm1YTHVVcVBoQ0FrelJENWZhZjNDdFYzV3k1YlVNdFJUcHJDZGxUb1AtcUYyemhOdERsUXVrN3ZJZ0hXM3BOdklGZUd6cXB3LWlfWWNiaUE?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "igor´sLAB",
-"score": 2,
-"kind": "news",
-"words": [
-"почем",
-"fps",
-"назыв",
-"внеза",
-"искус",
-"стали"
-]
-},
-{
-"ts": 1795236087.457627,
-"title": "GTA 6 может повлиять на экономику России",
-"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPclZFVGk3TVhrVzVXZDBmcW9ZUTh5ZnBFTmNFdG13eDdpdlg0ZG9xWFBnTFFEeDhvNkNkYU1TZWowV21fUmVfemFmeEVvRXJoX1JuanY5S1k5eUFUUGpfeDNKbEJEMWxOY1VPTTNMZHF0TVVSMk5qX2J6R2JBN2lIdDZiQzFJM2JJNUhyNFNXbGtEZ0FsRjBrcHcwR3FlQQ?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "телепорт.рф",
-"score": 0,
-"kind": "news",
-"words": [
-"может",
-"эконо",
-"повли",
-"росси"
-]
-},
 {
 "ts": 1795236678.7050765,
 "title": "Где находится дом Мэнди в GTA 6? Местоположение и что происходит после главы 1",
