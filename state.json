@@ -14394,7 +14394,16 @@
 "7b1842c6ec8189bb",
 "98e3928ded7e367d",
 "caaea66452bf14c5",
-"1d85809ae61e14d8"
+"1d85809ae61e14d8",
+"5d1b180b3ae25835",
+"c59c28828c1f3068",
+"b980a7fed65a0e74",
+"080b2a3f1017f80a",
+"1b83a209b8686e92",
+"015dd231031a0b46",
+"70e1761ce4c6d2ec",
+"2080a0b6ee04aef1",
+"86a87d0543ec0a42"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -15809,7 +15818,7 @@
 "digest_date": "2026-11-23",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-21",
-"viral_checked": 1795469510.4103093,
+"viral_checked": 1795477336.4127407,
 "viral_ts": [
 1795305803.3536122,
 1795305806.9650474,
@@ -15817,5 +15826,5 @@
 1795313558.4090765
 ],
 "group_id": null,
-"group_checked": 1795455053.9555638
+"group_checked": 1795477237.9523053
 }
