@@ -14118,7 +14118,13 @@
 "730c299ae8fe092b",
 "12066f7bb88f4ea3",
 "a05090a6594032f7",
-"b655adf59ce74e8f"
+"b655adf59ce74e8f",
+"7ba309e293e0dda9",
+"0202463818855216",
+"dd69383b3052185b",
+"2a591102716448ab",
+"9f4abdc4af68fff1",
+"c0edd5a4633e4eaa"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14126,191 +14132,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795273920.8255403,
-"title": "После выпуска GTA VI столкнулась с массовыми негативными отзывами.",
-"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd1V5OGt5Q2ZtZ0dXd0o0S2FFcTdGdmc0T01TR0VpeFpBUkpaeC0xQTBKVVVfSjVhZk5JeDZWbHlUaXBFb1M2QjUwZHJYOENlMDVHVzR6ZWNsTUN1R0dtRkFqQVhkREJOSWhVZnVsWmVVLTV2aW5yOWVwYks0Mzh1RTd3TWZfLW9xbGtRcjByejdlb2E1QkQxYkN4WWVXSTgya1ZN?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "GameGPU",
-"score": 0,
-"kind": "news",
-"words": [
-"выпус",
-"массо",
-"негат",
-"после",
-"отзыв",
-"столк"
-]
-},
-{
-"ts": 1795273924.0647821,
-"title": "Rockstar объяснила, зачем добавила в GTA 6 гигантского красного мутанта",
-"url": "https://shazoo.ru/2026/11/21/194390/rockstar-obieiasnila-zacem-dobavila-v-gta-6-gigantskogo-krasnogo-mutanta",
-"tags": [
-"новости"
-],
-"img": "https://cdn.shazoo.ru/892337_XHZocTy_gta-6.jpg",
-"source": "Shazoo",
-"score": 1,
-"kind": "news",
-"words": [
-"красн",
-"добав",
-"зачем",
-"rocks",
-"мутан",
-"гиган",
-"объяс"
-]
-},
-{
-"ts": 1795273928.522517,
-"title": "PS5 без проблем пережила непостижимо грандиозный запуск GTA 6",
-"url": "https://www.pushsquare.com/news/2026/11/ps5-survives-gta-6s-unfathomably-humongous-launch-without-a-hitch",
-"tags": [
-"новости"
-],
-"img": "https://images.pushsquare.com/99737794c846d/large.jpg",
-"source": "Push Square",
-"score": 1,
-"kind": "news",
-"words": [
-"переж",
-"гранд",
-"непос",
-"без",
-"пробл",
-"запус",
-"ps5"
-]
-},
-{
-"ts": 1795273931.7239819,
-"title": "Прототипом одной из героинь в GTA 6 стала бодибилдерша из Калининграда",
-"url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfMElDaGdnemNYMl9KRkxpc2p0a3dVR2NPSGt4c3BZOUt1ZDNyQUNSYXUxSzRBa2o4dGo1b2lJbjhGdjhjQWtn?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "URA.RU",
-"score": 0,
-"kind": "news",
-"words": [
-"герои",
-"калин",
-"стала",
-"бодиб",
-"одной",
-"прото"
-]
-},
-{
-"ts": 1795273934.9264917,
-"title": "Я боялся, что GTA 6 — это переработанная версия Rockstar, пока ее история любви не украла мое сердце",
-"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWFtUHZrOExxVk9HN0VEZGFUVWM2YVBmX01UQ056emUzOFkwSUdsaU9kcnFaUngxbEtVOVNfaldEX1VRUEs4NnA4VUdybVFWWDBCVGM0RUpaNExQVlRIaFdnTzdVemZZRWYzSTFrcTUyaHdGZ0dVNEkwUWNaTzZ1RFFCa3U0WkFPX0MxMzd4Z2s0cE1YNUZ4Yk5pY1hDNnlDbEJua1hhTlpVQkE?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "PCMag UK",
-"score": 0,
-"kind": "news",
-"words": [
-"украл",
-"мое",
-"перер",
-"сердц",
-"пока",
-"верси",
-"истор",
-"любви",
-"боялс",
-"rocks"
-]
-},
-{
-"ts": 1795273939.3303964,
-"title": "В GTA 6 забыли указать причину №1 поехать в настоящую Флориду",
-"url": "https://www.polygon.com/gta-6s-big-disney-omission/",
-"tags": [
-"новости"
-],
-"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_vice_city_style_04.jpg",
-"source": "Polygon",
-"score": 1,
-"kind": "news",
-"words": [
-"поеха",
-"флори",
-"причи",
-"указа",
-"забыл",
-"насто"
-]
-},
-{
-"ts": 1795273942.7434912,
-"title": "Релиз GTA 6: Цена, где купить Grand Theft Auto VI",
-"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDcxTGMtdTlxbkhoY0pSRlU5OThWT2p5RlVwbUZpWnZEM2xxY1VrRzBWM0t6d0RVWS1BeElnTUVyYkoyOUhYZlBwWGJuOVM1M3BIMjJ2T29QaVc4SGNnd2JjX05ha2FPeTJnNjJQdEtWdEFTYkdKME1OZ0M2Z1ozWVFES0ZQc041RGg0ZTNRMGJqdlVncmFGZnVuMUlkX050aFVqejdWbm5hMlg0a2c?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "The Journal News | lohud.com",
-"score": 0,
-"kind": "news",
-"words": [
-"купит",
-"где",
-"релиз",
-"цена"
-]
-},
-{
-"ts": 1795273945.9510753,
-"title": "Телевизоры стали ломаться после запуска GTA VI",
-"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdk9ueWpoaXlTOHQ2ZTUzWm5ad2sybkNCaDE1ZXJyZEFWeGVGQzdvOGM1eGpyMkRKUjlJR0pQeDc5dFp6d09SVWlHb1Frc21uQlg3VUlIbE5Ed0NjWnFobHl3RjA1WGlEV2RMNWVvMzQwTWlCMmFVYXBnODZhT09jdWdnQ1JzX2JJTlFYcHBIQQ?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "ВФокусе Mail",
-"score": 0,
-"kind": "news",
-"words": [
-"ломат",
-"после",
-"запус",
-"стали",
-"телев"
-]
-},
-{
-"ts": 1795273950.4412706,
-"title": "GTA 6 вылетает на некоторых PS5 с ошибкой CE-108255-1 — вот что вы можете попробовать",
-"url": "https://www.eurogamer.net/gta-6-ps5-crashing-ce-108255-1-error-fix",
-"tags": [
-"новости"
-],
-"img": "https://assetsio.gnwcdn.com/Screenshot-2026-11-21-at-14.55.00.png?width=690&quality=85&format=jpg&auto=webp",
-"source": "Eurogamer",
-"score": 1,
-"kind": "news",
-"words": [
-"некот",
-"10825",
-"ошибк",
-"попро",
-"может",
-"вылет",
-"вот",
-"ps5"
-]
-},
 {
 "ts": 1795274563.8203917,
 "title": "Гайд по GTA 6 «Позаботьтесь о Джейсоне»: регистрация в мотеле, имя Play Nurse и можно ли его пропустить",
