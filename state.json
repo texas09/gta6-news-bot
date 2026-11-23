@@ -14034,7 +14034,19 @@
 "8ede0180191f0a36",
 "d35e44ad077c965f",
 "5d7faa099dabc83e",
-"2eadbd05edaa76e3"
+"2eadbd05edaa76e3",
+"1ebcea0362747dc5",
+"92e0072320cb8c43",
+"423d1b42b15d5a05",
+"3399ddf7646f58b9",
+"469ac52a6db30664",
+"f2b6de686d174d2a",
+"be3bfe62432456e4",
+"f90437bb050637ac",
+"580315f1fcb69942",
+"689314e1a9c99f19",
+"01c4aafc6a54961e",
+"6611e8cc643a90be"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14042,97 +14054,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795261289.1921778,
-"title": "Игроки GTA VI назвали финал первого акта лучшей миссией в истории видеоигр",
-"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT0tzT0FZX0N0UVhCc1Q2dmxFNXI4RnlhNW1BU2FQd1dQMVEzMDd0eXE4S3pfNzlmSUJuZEgwZkdhVHNCTWhWUy0tQW1JT3h2NFpabTBVQU5RM21zbXQ2M0RtWWR0Q08zeGZhMFRxanhmV0tiaWVhNFJOV2hHeGpmamVaWW5WdGZFbEQtRXMxYVI2U0ZGNlRnTUkyaWlfN1VraGFn?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "The GEEK",
-"score": 0,
-"kind": "news",
-"words": [
-"истор",
-"видео",
-"назва",
-"перво",
-"мисси",
-"акта",
-"лучше",
-"финал",
-"игрок"
-]
-},
-{
-"ts": 1795261293.1653814,
-"title": "30+ скрытых элементов управления и секретных механик GTA 6, которые вы, вероятно, пропустили",
-"url": "https://rockstarintel.com/30-hidden-gta-6-controls-and-secret-mechanics-you-probably-missed/",
-"tags": [
-"настройки"
-],
-"img": "https://rockstarintel.com/wp-content/uploads/2026/10/hero-background-desktop.05jwq4z-sjai_-copy-1280-1024x576.webp",
-"source": "Rockstar Intel",
-"score": 3,
-"kind": "news",
-"words": [
-"котор",
-"управ",
-"элеме",
-"пропу",
-"механ",
-"вероя",
-"секре",
-"скрыт"
-]
-},
-{
-"ts": 1795261296.364131,
-"title": "GTA VI вылетает на PS5 уже через пять минут: почему игроки не могут избавиться от ошибки",
-"url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1NZcWRhSjVIWGJQYWhDX0hVb3hkQXlYdnc5NzBETTQwWm81bExtc0JOT1JWT0xyZVV4TnNGS0RHa01YWktZZnRHcEMyOWFwVTNBdGJRYnR1MUR6QXZjNTVMYklydFlRdWd0dDZPcmY2VE9HNEh6enNvekhUN0tXdkdONkdTa2lGcGVyektSMy03TDFvQ0Jybl9LQlExdko4S2c?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Южный автомобиль",
-"score": 0,
-"kind": "news",
-"words": [
-"ps5",
-"почем",
-"пять",
-"могут",
-"через",
-"вылет",
-"избав",
-"минут",
-"ошибк",
-"игрок"
-]
-},
-{
-"ts": 1795261299.6323931,
-"title": "В GTA 6 нет лёгкого режима, но две настройки заметно упрощают игру",
-"url": "https://shazoo.ru/2026/11/21/194371/v-gta-6-net-legkogo-rezima-no-dve-nastroiki-zametno-uproshhaiut-igru",
-"tags": [
-"настройки"
-],
-"img": "https://cdn.shazoo.ru/892368_Qf7RhLp_gta-6.jpg",
-"source": "Shazoo",
-"score": 3,
-"kind": "news",
-"words": [
-"две",
-"упрощ",
-"нет",
-"режим",
-"настр",
-"замет",
-"игру",
-"лёгко"
-]
-},
 {
 "ts": 1795261883.968764,
 "title": "Ученые: GTA VI улучшает реакцию, скорость мышления и принятия решений",
