@@ -13719,7 +13719,10 @@
 "ba4001948c0515dc",
 "de905629e16f51ae",
 "8f27cc9f02eb1b41",
-"71cc4e4df6e47e99"
+"71cc4e4df6e47e99",
+"d88b4e79978ae1d2",
+"6113354bc37af5ff",
+"92a7d0d280a52a78"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13727,28 +13730,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795230674.7341316,
-"title": "В GTA 6 обнаружили две секретные радиостанции - их можно разблокировать, отсканировав постеры",
-"url": "https://www.playground.ru/gta_6/news/v_gta_6_obnaruzhili_dve_sekretnye_radiostantsii_ih_mozhno_razblokirovat_otskanirovav_postery-1892611#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"гайд"
-],
-"img": "https://i.playground.ru/e/PSD9hpXbbIV0m5CbkYP74w.png",
-"source": "PlayGround.ru",
-"score": 3,
-"kind": "news",
-"words": [
-"две",
-"можно",
-"разбл",
-"отска",
-"обнар",
-"секре",
-"радио",
-"посте"
-]
-},
 {
 "ts": 1795231930.6851234,
 "title": "GTA 6 — Как найти пасхальное яйцо Декстера (квартира, лодка и комната убийств)",
