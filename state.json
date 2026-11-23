@@ -13818,7 +13818,10 @@
 "249c15b14ef79346",
 "06d1c226c8124ca5",
 "71036738f2a72a0b",
-"049b0f3bbc1e971c"
+"049b0f3bbc1e971c",
+"8892828f3e76d45c",
+"b35f859aaee31dbf",
+"b6c4cc23cb1b38a4"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13826,124 +13829,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795239759.5101068,
-"title": "GTA 6 на PS5, PS5 Pro и Xbox Series X/S. Где графика лучше и почему даже мощные консоли не обеспечивают 60 FPS",
-"url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKRnFJUENQcjJKUkNPcEp6dXl5ZHBHNGFBbHhabXZXOEp6OG9iLWp0SmwxbXhoaEhWaVNIMDk1QTd0SU9IWFdYc2pCRkJOTE0wZHlPY215MkM5N245R2Z0MTlnV1d6dEdmblZaRHlmbklmdw?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "SecurityLab.ru",
-"score": 2,
-"kind": "news",
-"words": [
-"графи",
-"консо",
-"fps",
-"ps5",
-"даже",
-"обесп",
-"лучше",
-"xbox",
-"serie",
-"pro",
-"мощны",
-"почем",
-"где"
-]
-},
-{
-"ts": 1795239762.7227726,
-"title": "GTA VI за сутки после релиза заработала почти 4 млрд долларов",
-"url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE81LU1DZnUzMlA4S0lOd21SWDg2UEpRX2xONmx0UzZ1Y2U2VEY5dHB5aUFMZ1F3dEI0MHBZRVNCUTlFM3ZpQWpj?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "URA.RU",
-"score": 0,
-"kind": "news",
-"words": [
-"после",
-"почти",
-"млрд",
-"долла",
-"сутки",
-"релиз",
-"зараб"
-]
-},
-{
-"ts": 1795239765.9401984,
-"title": "Глюк GTA 6 обеспечивает вид от первого лица, а приложение с открытым исходным кодом добавляет 120 кадров в секунду с DLSS 5",
-"url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemkyQ2dSWFM1S1RsY0JuMGNFMmhGYzlsOWxsLVM3YXlEQndwVDhGNUhzdmN1VE53cHo0ckhnZDNmSUY1eWpuTjBuMVY1anVWZEhyejlpNnFXZXNKeDV4Z1ZHQ1JjcEQxbGhuRm9tNFJYOU92aVhucG9nOHk3cGZ3ZExiYnJSS0FlWmRxNFotNXVKZUJxazJPaW9kbjFjUTFLdkVRa21feW5LaUM2ZFYtSlJVYzkzamRr0gG-AUFVX3lxTE1xcWREb2RueTBtOE9GTTlETFRaT3dEMXNXQl9TRWFwTHctUjlCRk1xNzRFMUQ0SkNLS1VTaVpWT3hhRlYyYS1XdjJybHF3VmFfN2I2NjEwZHBVTGNkODJTVE5hVGZPcDEwRUNyV3JFV2FDOGZra05oZHVWRnF3OFFRUWktWTEwckJrc0JHZzFsZm5sS2pUOXl6ejE4Wk9rWllURDBsbjdfcWZScnpVTEJQRkdvcER2ek9kMnh0WVE?oc=5",
-"tags": [
-"настройки"
-],
-"img": null,
-"source": "TechPowerUp",
-"score": 2,
-"kind": "news",
-"words": [
-"добав",
-"120",
-"dlss",
-"исход",
-"секун",
-"глюк",
-"вид",
-"обесп",
-"лица",
-"откры",
-"кодом",
-"перво",
-"кадро",
-"прило"
-]
-},
-{
-"ts": 1795239769.1619396,
-"title": "Доходы от GTA 6 уже покрыли расходы на разработку Red Dead Redemption 3",
-"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkpTYjlhajlyVVpkYXI3bWM3TW9UZkozUElXUEU3OHRjcGRrOTN1b3phdHJGUU5QQjA1OGJQZlozRTlRQld2eDRfMXpHMXJQWUl2V1E5Sm92b1Y1bFVYT216TnNpX0x3R08zaDFCdi05ZldnbGtTcldFNmhUa19HWklpeC1SQktpSVVhcnFPdldJX2oyMExJeHBkU0hJNFB5ZVpUWjZUY1ptaHM?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "GameGPU",
-"score": 0,
-"kind": "news",
-"words": [
-"покры",
-"расхо",
-"доход",
-"redem",
-"разра",
-"dead",
-"red"
-]
-},
-{
-"ts": 1795239772.3682222,
-"title": "Доходы от GTA 6 уже покрыли затраты на разработку. Ред Мертвое Искупление 3",
-"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2NMbTg0OGV6d3BpU19WM0ptbTR0UzlNNUVJTkhEUGlMZTJXZjdMYnhPSWVxUVpaRlNKNU9sbjBYUmhUbFlIWF9reGRrUEx1ZkFxbHlqckJjQllLeFZyNE43eUg3RFMyc3owdTBCTnlBSTROcU5uZnk4NEhnVEZOZlpnVjdQMkpiZzQ3WVZFdHhkR3BKTmptYVhlXzlhYjYzdjhmTlp0a21TSXpCLU1F?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "GameGPU",
-"score": 0,
-"kind": "news",
-"words": [
-"ред",
-"покры",
-"искуп",
-"затра",
-"разра",
-"мертв",
-"доход"
-]
-},
 {
 "ts": 1795240918.0228088,
 "title": "Обзор GTA 6 разбомбили на Metacritic из-за истории «Woke»",
