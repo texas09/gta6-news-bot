@@ -13995,7 +13995,16 @@
 "3726347e0da9ff3c",
 "874033a08c7794e0",
 "84c6f61783bcded9",
-"60e1b25aac44d9c2"
+"60e1b25aac44d9c2",
+"19a2315387eca5f1",
+"7f2ab5d98f4fced6",
+"4cd32cf849eb4d97",
+"5fdd8eb8b34f35bd",
+"733cedc964fc6e03",
+"4e422677304ee42f",
+"33fb89cc8dff4adc",
+"f040c17483970d7c",
+"c729af5879e1dd71"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14003,77 +14012,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795255880.4886816,
-"title": "После угроз иска на $10 млн «Флоридский Джокер» озвучил собственного двойника в Grand Theft Auto 6",
-"url": "https://www.goha.ru/posle-ugroz-iska-na-10-mln-floridskij-dzhoker-ozvuchil-sobstvennogo-dvojnika-v-grand-theft-auto-6-xqZj7w",
-"tags": [
-"новости"
-],
-"img": "https://images.goha.ru/E:D3/IU/BL6b2u3FVk.jpg",
-"source": "GoHa.Ru",
-"score": 1,
-"kind": "news",
-"words": [
-"млн",
-"угроз",
-"собст",
-"флори",
-"после",
-"двойн",
-"озвуч",
-"иска",
-"джоке"
-]
-},
-{
-"ts": 1795255883.6672227,
-"title": "Около 1 000 разработчиков GTA 6 работают в Rockstar не меньше десяти лет, хотя GTA 5 вышла 13 лет назад",
-"url": "https://www.goha.ru/okolo-1-000-razrabotchikov-gta-6-rabotayut-v-rockstar-ne-menshe-desyati-let-hotya-gta-5-vyshla-13-let-nazad-lKL31V",
-"tags": [
-"новости"
-],
-"img": "https://images.goha.ru/E:Mn/wJ/lYLJwn5XYY.jpg",
-"source": "GoHa.Ru",
-"score": 1,
-"kind": "news",
-"words": [
-"вышла",
-"назад",
-"000",
-"работ",
-"разра",
-"меньш",
-"rocks",
-"десят",
-"хотя",
-"около",
-"лет"
-]
-},
-{
-"ts": 1795255886.9451985,
-"title": "Босс CD Projekt RED назвал GTA 6 шедевром, а Warhorse попросила не связываться со Средневековьем",
-"url": "https://shazoo.ru/2026/11/21/194417/boss-cd-projekt-red-nazval-gta-6-sedevrom-i-snial-sliapu-pered-rockstar",
-"tags": [
-"новости"
-],
-"img": "https://cdn.shazoo.ru/892423_xrKJv1x_123.jpg",
-"source": "Shazoo",
-"score": 1,
-"kind": "news",
-"words": [
-"попро",
-"связы",
-"red",
-"proje",
-"средн",
-"босс",
-"шедев",
-"warho",
-"назва"
-]
-},
 {
 "ts": 1795256483.3771455,
 "title": "GTA VI работает со скоростью выше 60 кадров в секунду на Xbox Series X из-за ошибки быстрого возобновления, но игра идет с удвоенной скоростью",
