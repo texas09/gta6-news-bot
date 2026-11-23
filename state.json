@@ -13869,7 +13869,19 @@
 "2bfab453b6f886c7",
 "495504492ec8334e",
 "0a5ef0333e741fc1",
-"4e315d2f07d5b0e6"
+"4e315d2f07d5b0e6",
+"a7e26bee700fa040",
+"a631005ebb9d2fc1",
+"4cfadc988e5e6e1e",
+"a48198fb8bdb1a0c",
+"d64cf911ea9c4de1",
+"4df3e596e60a6053",
+"1121efa082ff69ee",
+"6b4b511bbb53fe52",
+"6178a899be33284c",
+"ad0c92b032c9fb95",
+"cb0d472209ae5e87",
+"7cbb22b3d0b7ae3e"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13877,116 +13889,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795243950.21447,
-"title": "43 солдата армии США продлили контракт ради оплачиваемых выходных для GTA 6",
-"url": "https://shazoo.ru/2026/11/21/194350/43-soldata-armii-ssa-prodlili-kontrakt-radi-oplacivaemyx-vyxodnyx-dlia-gta-6",
-"tags": [
-"новости"
-],
-"img": "https://cdn.shazoo.ru/892359_WDZDv7W_tank.jpg",
-"source": "Shazoo",
-"score": 1,
-"kind": "news",
-"words": [
-"солда",
-"выход",
-"контр",
-"ради",
-"сша",
-"продл",
-"оплач",
-"армии"
-]
-},
-{
-"ts": 1795243953.3614755,
-"title": "PlayStation 5 настолько слабы, что GTA 6 даже при всего 30 кадрах в секунду их перегревает",
-"url": "https://www.goha.ru/playstation-5-nastolko-slaby-chto-gta-6-dazhe-pri-vsego-30-kadrah-v-sekundu-ih-peregrevaet-dXRPXN",
-"tags": [
-"новости"
-],
-"img": "https://images.goha.ru/E:BB/qT/c8QwxdmvPN.jpg",
-"source": "GoHa.Ru",
-"score": 1,
-"kind": "news",
-"words": [
-"даже",
-"plays",
-"кадра",
-"слабы",
-"секун",
-"всего",
-"перег",
-"насто"
-]
-},
-{
-"ts": 1795243956.4938276,
-"title": "Полицейские управления США призывают игроков хранить преступления GTA 6 в видеоиграх",
-"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeVR0SWZadl80alg3cHViSjZ6c1V5Ung5QnBiN2NqM0dlSHhLRDJ4QnN3ZzhxT3pWZFU2dl9kb0t2Y3RTX1NPUjVkRUcyeUdWWjZjQUU5OGVBSjJNYXlOQ1ZMVkstSlIydjdzdkFJbHRZZVRNX0R6ZVozdk9CYm9GdWI3eERUV182VV9YLTVVMEUtd19TbFdDb0xGbGdDVDZ4MHdjZ2JuRXZUemx4?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Anadolu Ajansı",
-"score": 0,
-"kind": "news",
-"words": [
-"храни",
-"призы",
-"игрок",
-"видео",
-"прест",
-"сша",
-"управ",
-"полиц"
-]
-},
-{
-"ts": 1795243959.665394,
-"title": "Игра GTA VI оказалась круче любого кинофильма",
-"url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqN2ZBRWRHTEZPRUExMUtrVGdRY1daNEd5VkJBTHVZYmZDcy1wTkV6ZThoNjV6dm5LeVFZUlBKUGNzNVFEQmdTS01yNWwxQ2g5U0VDV09WcWgtaDdZS2RqOFRaS2Y?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Sutynews",
-"score": 0,
-"kind": "news",
-"words": [
-"игра",
-"оказа",
-"киноф",
-"круче",
-"любог"
-]
-},
-{
-"ts": 1795243962.8093977,
-"title": "GTA VI вскрыла проблему PS5. Игроки массово жалуются на вылеты, переустановка, очистка кэша не помогают",
-"url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdElqeElMVUpDYWxWZ1FjeDBoT1pzV1lDS3hNU09qSnFYVUtNOTVhTU9PMVdKSFN0ZVBqakZJZlV2NXc2U25WLTVOV3ZWRUYxUjdUX3VTNXVic0w0WksyZml3TThaQkNiRWJCQTFvQUZ3U2FqdDhyT2NWQVRLVnYzWTlFVmtoT2JLR0pDdWx2b28zZERjb01haThRaGNoQmpIYjZEa1Z4ektfRXFfY2VuSXlxLXBsTGp5eS1aNGZCSENQbzIzc29NUFNjdW1yZEFZSWhaUEt5amlrYngwaUHSAeMBQVVfeXFMT21fd1FtSWUyRzF3QjBYcE1wd3d1N21HMTRKeWFDb1MzcXY1bE9PTTlUNzYzLUE2MjBzdkUwLVlIeG0zMXk1V19RUFJERjVIbXV3QVhySHRrTHU2TmMyaWxoSzZrUUtyOU4wU2l4VDM5MXY1M1c0d1RYdjRhUlFETzE4SjFmN3lPem5lTU44X0pjX3UxUm5FWS0xQU5Yb3IzdTBVczN5bXVrZVMzYzZOakNPLUloU3EyQUFMbDNTMS1FU1hfSnJva3JfcWM0aVRveEtjSW1yd09tMjJ2bGhUbldLWkE?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "iXBT.com",
-"score": 0,
-"kind": "news",
-"words": [
-"ps5",
-"переу",
-"вскры",
-"игрок",
-"очист",
-"массо",
-"кэша",
-"жалую",
-"помог",
-"вылет",
-"пробл"
-]
-},
 {
 "ts": 1795245086.9374435,
 "title": "GTA VI вдохновлена ​​культовыми криминальными фильмами. Rockstar раскрыла список фильмов",
