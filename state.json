@@ -14145,7 +14145,10 @@
 "cb2328ea1bf9cf7a",
 "ccbd622ef9c9dc0c",
 "c99085c1dadf75f9",
-"24d6db49999d4516"
+"24d6db49999d4516",
+"7c57ffff9d606168",
+"0a1748ebd0166f33",
+"7fbb3530aa4cbe44"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14153,61 +14156,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795280524.6993098,
-"title": "GTA 6: Как легко заработать 25 000 долларов в четвертом акте",
-"url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zSmVWUWlFMjAyM2F6dTNUUnJJMng2T1M0V3NhN1ktdzdvclFvT21aY3M2THlNenJPa2x3QVZrQXNBaUEyNHRlVnRURDBxTmpMdHd5UDhWNWhRWGxhdVIzcU1xTVA?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "ScreenRant",
-"score": 2,
-"kind": "news",
-"words": [
-"четве",
-"акте",
-"000",
-"легко",
-"зараб",
-"долла"
-]
-},
-{
-"ts": 1795280528.7013755,
-"title": "Как найти безопасный код ломбарда Эйвери в GTA 6",
-"url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pawn-shop-safe-code/",
-"tags": [
-"гайд"
-],
-"img": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg",
-"source": "cdn.mos.cms.futurecdn.net",
-"score": 3,
-"kind": "news",
-"words": [
-"найти",
-"эйвер",
-"безоп",
-"ломба",
-"код"
-]
-},
-{
-"ts": 1795280532.272774,
-"title": "Как использовать автопривод в GTA 6",
-"url": "https://www.polygon.com/gta-6-auto-drive-how-to/",
-"tags": [
-"гайд"
-],
-"img": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-autodrive.jpg",
-"source": "Polygon",
-"score": 3,
-"kind": "news",
-"words": [
-"автоп",
-"испол"
-]
-},
 {
 "ts": 1795281080.244729,
 "title": "GTA 6 Код сейфа в мотеле La Cascara",
