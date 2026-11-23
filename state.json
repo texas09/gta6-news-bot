@@ -13806,7 +13806,19 @@
 "b4d994fafb5103d1",
 "a10b72345dbdcf1a",
 "0df9cad4659e1991",
-"bc3e9b95f46853bf"
+"bc3e9b95f46853bf",
+"4bc82ee1f750b2f5",
+"ae2491ef80df7a5d",
+"315a2dcabf8b3349",
+"3f9a48d51d415695",
+"0298a91449040a11",
+"f2d5f88bd9eb1969",
+"3d26116e74b19a5d",
+"bf2dc1d29912e77c",
+"249c15b14ef79346",
+"06d1c226c8124ca5",
+"71036738f2a72a0b",
+"049b0f3bbc1e971c"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -13814,29 +13826,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795238467.2077243,
-"title": "Waka Flocka Flame называет старых игроков GTA VI «жалкими»: «Не получают денег»",
-"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0c5RWNpNUlxcndJR0NJd09HVXNyR2lUY3cwbFRpM3kwUUo0aEI2WjRWYVNFMmxPS1g4V1c3bW5Dd3BJdGp1c1lJMUVScldkUDhDVDhaVWhzeHZNWXRRU2IwVnNERE5FZkFIQThQdVFDZVlpLTM4V1NzYnlFNnJmM2NySldUQQ?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Complex",
-"score": 0,
-"kind": "news",
-"words": [
-"стары",
-"получ",
-"денег",
-"flame",
-"waka",
-"назыв",
-"игрок",
-"жалки",
-"flock"
-]
-},
 {
 "ts": 1795239759.5101068,
 "title": "GTA 6 на PS5, PS5 Pro и Xbox Series X/S. Где графика лучше и почему даже мощные консоли не обеспечивают 60 FPS",
@@ -22275,5 +22264,5 @@
 1795313558.4090765
 ],
 "group_id": null,
-"group_checked": 1795389642.4810796
+"group_checked": 1795411851.7486546
 }
