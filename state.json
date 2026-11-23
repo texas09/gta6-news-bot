@@ -14259,7 +14259,10 @@
 "ce9268350112f619",
 "fc320dfd015ce1ee",
 "b21bc210f2bb6394",
-"98cda0c74a0523f6"
+"98cda0c74a0523f6",
+"1644bda6b3822b03",
+"7104a12c4e4e621a",
+"e30746f5c976fe5d"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14267,117 +14270,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795294912.8333433,
-"title": "Neuralink показала игру пользователя с инвалидностью в GTA VI силой мысли",
-"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWNGX2trTlYzQWRvV182RUw5aGZhdTVPSjUxRVdFZWJsNGJ0dEFhQ3NJYlprX1RQemZpN25lV0tQNlJfVmQ2aURzSWtDNW5FYVpENlA1X2Nac1RLZXVuT19URnVhR1RRRVNUX3ZSZDNwREVRbGNoNUFNNENYNnktbGtyWmhQSWpQTTFCWFZWNktLWnVnVG9YYWtDTFJqWjZxYmN0bXBIYmVqZ0dzOE5kQ2Z3?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "ГИПОРТ",
-"score": 0,
-"kind": "news",
-"words": [
-"neura",
-"силой",
-"польз",
-"показ",
-"игру",
-"мысли",
-"инвал"
-]
-},
-{
-"ts": 1795294916.0419166,
-"title": "Школа предлагает учащимся вознаграждение в размере 92 долларов, чтобы они не пропускали GTA 6",
-"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamE2YXBrUG56N2pBT3hQcEd1VG9MbVhpdkZnb3pXblp1ZkZmby0ydnBrUU83SEQ4SFNDcDgtbUZVVGQ4SXQtTGJ6X2g2M3QxV3hiOERYckNnUjlpZXhBYWNJdVN3RUtlRm1QeTktdHhfVDdYM2VjVHlldWdZZVQzc2VCSXZvcXRCQmM4enlVbmQtamJzMTNiTmloZ1VMQm96Z3B2cg?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Parade Magazine",
-"score": 0,
-"kind": "news",
-"words": [
-"учащи",
-"разме",
-"школа",
-"долла",
-"возна",
-"чтобы",
-"пропу",
-"предл"
-]
-},
-{
-"ts": 1795294919.2400773,
-"title": "«Сделайте перерыв от GTA VI»: игроков призвали вернуться в Overwatch, чтобы получить бесплатные лутбоксы",
-"url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWUxGRWpEbHV2LXE3RUNMMUpwOFl3YWt2RzRGWjVOMnN2YTdpSXB6Zm1zVW1ZcFNScWcxUmg1dHI3ZmRiYUlvRllxWFFyNTgwZ1FOMG5nMXRvR1FpRlQyckMwQi1GOW9xdDNpQ3NGY2UtUjZpd0pXUjBTNWpxdEpRdjU0UDQ1d2l1elBGdnBRN3NiejAzRi1DWVp3SkRQMTlOZHZxMEhWUzRhR2ZtTXM2dS1kMTloNGpxVDhfOHpuVnpZRHA5QTYwQ3BiWTlRelVOb3puOF9n0gHbAUFVX3lxTE5rai1QYmVmUGlRbFYwVU05SkRBUDZwQktvSS01Z3N1aWt6bXZObEdHTUZQZnNpNExzUi1nUFBXYlZfWXBFV1pRV0pGaFd0amV1cFpkbGJlMDU5SUZ5Y2RTMW1QWkxJc1lya1FqdjJ2QW8tQmZTNTE2VmVyTWJaWnRkXzV3TW40SUNyVG5MQWpsdVVmYjhGM1lvaHVQQ1lWRGFwdFhCSHNicVJIckRIcWViVDdkc05qQWZEaENnOGM0RlBudUZuZGQyMUtCRElzTGpsMTUtY09lakgxSQ?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "iXBT.games",
-"score": 0,
-"kind": "news",
-"words": [
-"лутбо",
-"сдела",
-"overw",
-"беспл",
-"верну",
-"чтобы",
-"призв",
-"перер",
-"игрок",
-"получ"
-]
-},
-{
-"ts": 1795294922.4651604,
-"title": "Как Джанель Джеймс завела собственное радиошоу в GTA 6",
-"url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDSlNiSTBqUEVFUGFXWVRtYXNFWnZYeXB3VTFmOWhqaWh1bzhZU3VXTEZOR2ZQSzloa2oweUE2bHNFdjd2eG9SNnE5a1lLQnZjdnBabzEwZ2gwbTBwUE1Ob0ZRcm41ZGs?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Mashable",
-"score": 0,
-"kind": "news",
-"words": [
-"радио",
-"собст",
-"завел",
-"джейм",
-"джане"
-]
-},
-{
-"ts": 1795294925.6422334,
-"title": "Продажи GTA 6 в первый день составили 3,8 миллиарда долларов — это крупнейший развлекательный запуск за всю историю",
-"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0Y4MHlLTUhVOWhhanlna2d6cGFJaTY3YlVmQ0FRSWVTTVE0UXNNdXN6R2gybWJIVk5nQ3VGOXB5UkQxUzhXQjZraDk3SHJkWktBNzNFOFo4WmpOaG1PQnpRS1M0c1E5NjRDYmNrdFNLSW5qWlNfRnFPV1FqdlVZcTV3b0NPRDFIWWFjUUgtX1ZxTU5kUXdzSkU5bw?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "USA Today",
-"score": 0,
-"kind": "news",
-"words": [
-"соста",
-"развл",
-"прода",
-"всю",
-"долла",
-"истор",
-"день",
-"крупн",
-"первы",
-"милли",
-"запус"
-]
-},
 {
 "ts": 1795294928.810946,
 "title": "В GTA 6 есть скрытый склад, набитый добычей стоимостью 14 000 долларов.",
