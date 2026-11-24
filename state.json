@@ -14550,7 +14550,16 @@
 "fa4c5cad0813c408",
 "eb822eba19050e52",
 "155434a7f0e43f1c",
-"ceb18c18349e3902"
+"ceb18c18349e3902",
+"a8eb3adf6a084e60",
+"a8eb3adf6a084e60",
+"8a55f506781e1a7d",
+"de89dbf11437e43b",
+"ef0b3bce892ffc38",
+"eb00d52d67e4f950",
+"d43d0bcae1702a8b",
+"d7053f24cd05ee63",
+"f36e7acac192b82a"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14558,28 +14567,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795311670.414727,
-"title": "Как разрешить взрывы самолётов об здания в ГТА 6. Как сделать нормальный урон транспорту в GTA 6",
-"url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUjBfRzl5ZGtwZ2pmNE9BRmVFRnJHeVBXN0FLYWl0RjBKdnhQckwzNTduTlo5Y0NYUm5DTWx3Y0Y5MXZTaTJLeE9WbFhabkRMMnIyT0VfSXdTNDJEYm1VS1lOUEhlWXBlOGsxTUlzNk5CXzVMajdxdUlKMi1GLVltaXdwal83elhoZkQ2MXFvOEd0cXR5NEJYaFQ2d3E3SkJpdTVES21QaDdxMXl5ekFfNVhkVkVlal9ZeFpRdU5fZHhLRy1IMnNCVHE4R0FZSTA?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "Escorenews.com",
-"score": 2,
-"kind": "news",
-"words": [
-"самол",
-"транс",
-"разре",
-"норма",
-"здани",
-"взрыв",
-"урон",
-"сдела"
-]
-},
 {
 "ts": 1795312926.5217264,
 "title": "Путеводитель по трофеям GTA 6 Trust: завершите Breakfast Run, чтобы получить его, а также что будет дальше",
@@ -15147,7 +15134,7 @@
 "digest_date": "2026-11-23",
 "pins_version": "e9e83d523b07",
 "short_date": "2026-11-21",
-"viral_checked": 1795477336.4127407,
+"viral_checked": 1795485167.0042357,
 "viral_ts": [
 1795305803.3536122,
 1795305806.9650474,
