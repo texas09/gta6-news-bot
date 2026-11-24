@@ -14628,7 +14628,31 @@
 "86305a95b1cfa111",
 "0370e351224566d7",
 "e159d413bca78283",
-"83bfe3c4ac523b5c"
+"83bfe3c4ac523b5c",
+"c5f4429c3efb4f4d",
+"83077780ce07c0ed",
+"195914daa15584f9",
+"3dac72de5a2145d7",
+"c5384694c79cc850",
+"bc177732d2bd12a7",
+"fce2d0287ce675d5",
+"18f4cade06888750",
+"808025f99d07af1c",
+"371ca91053ed1431",
+"dac4ec25c336256f",
+"27c87d7a2eac3b5e",
+"baa79ad738869c18",
+"51a375a72c775f45",
+"1c3352f421c06382",
+"168fab10e75b86a8",
+"07e5669b3d0d1c5b",
+"6510216254446ec3",
+"32ec0513ff6ea2d0",
+"b015b8be57926fac",
+"ddcac5587f8aa6ed",
+"20b7eed9c09ed572",
+"7ed88ceb4c2bb30e",
+"1a40d00f824cee63"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14636,74 +14660,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795314695.597579,
-"title": "Илон Маск показал, как играют в GTA VI силой мысли — с помощью Neuralink",
-"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3drWFJINkdjd1FVN24tWktnS3pvN0Q4bEg2OFZEaHdJdHdZQzVib0k2MVVXX2s1dUZlbUhCSGJ2akxlT2JBTG9MZUpPdFFjM2xqSTZBWjBoVVRDTW5wb3I5VHFVanpTMUtEZ2RXU0pjSkZzUjAtS0JjSW50TU9YNGh0S2NCYzl0Z3FyYjFZcE5DaktfdVB2MjI2UnFfci10VkJZNS03ajUwdnVyN0lvaWpn0gG3AUFVX3lxTFBUVm5Ud1B2akhRMkRFRFg2WGF0eFpJMzhmWjhrLTY5cGNoMU14Qjd5WUkxU09tY090dkJSUDRfamtoN1VmVkFvRFBROEpSblhKV29nXzBlQS0zeTJHUHVaV2dhcnJaSGlnSWYxSGtvMXV5RkdPQklfZndYUjRmX2tCZjk4UUI3ZEh5VFZTbmNRQzZpZktGZVNNRDVJaE5wWmFPSFA3QVNEaExsdmk4SldMSE5zLWl1OA?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "iXBT.games",
-"score": 0,
-"kind": "news",
-"words": [
-"мысли",
-"neura",
-"илон",
-"играю",
-"помощ",
-"маск",
-"силой",
-"показ"
-]
-},
-{
-"ts": 1795314698.74911,
-"title": "Все еще играете в GTA VI на изношенном планшете? Microsoft только что сделала исправление очень дешевым",
-"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaE9kdGlOR1Vtb0h3RTZlZVFqeXJhRDlXbUo5cllWcmVaV2xoU2J6eXVaemVmWEVRcFpMT2MxX3Z3WTBsLXVXOWRIVUJRSW9kSHFqaGZuel9NdG9jdTduQ3ZtYTFEalRlZnN0amFhTHBxRVp3Zmlzczg4aDVZNjNMSnNrci1aaGlMRE5iM2pBRjFqNUJvZ0otLXpwODJ5eXB2SzFhdWJzRG96NkE?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Kotaku",
-"score": 0,
-"kind": "news",
-"words": [
-"тольк",
-"micro",
-"изнош",
-"сдела",
-"очень",
-"испра",
-"дешев",
-"еще",
-"играе",
-"планш"
-]
-},
-{
-"ts": 1795315263.607946,
-"title": "Российская бодибилдерша стала прототипом персонажа GTA VI и записала русскую озвучку",
-"url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZlNSeUFvTHk5TU5Pbi03N3FUaEg4bXNRemdTRGZ1ZmVodF9qOTFvdjQtUkNfWE5scHRjUjdBZUhpdV9nZEdSQ1BIU1FwQlRWZFZ0VWM4RDZBNWt2bzM3bDQyV3FoRl9WdVlTOUI2V2s5YmVTVXoycDNrYWxoNHl3NDdiWVV6VUhrMDNQS3I4TS1idUY0U3lGX0l3YkljS2NIMVJoakhocnNCNVRQaTVWa1VGc2huenNRYTFOck91Y2xEUi1M0gHKAUFVX3lxTFBuaGN0MFJQMHdpN2V2eWt0c0FjZkhoc2JydjN3akxfRjZlXzg0bnZ5dzdQdmpyeU56UWRnREgtdS1Sa3oxSFh4cXg3Y3dyNFJaZkZuTmtaODFMWElDaEM4VEZvRHNZeG50Umw2WDJkUEtza0F4XzlZb045OWtHWDltdk5IdkdmUVJOX0ltbk5hdGJMTVMxOGoxYnE2X2lpVkUxaXBCcm1JdVg5QThybFhGWk0wamtBNlJFMFhpeXNjeFgwYjI5eVZ6Y2c?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "iXBT.games",
-"score": 0,
-"kind": "news",
-"words": [
-"росси",
-"русск",
-"персо",
-"прото",
-"бодиб",
-"озвуч",
-"стала",
-"запис"
-]
-},
 {
 "ts": 1795315872.3676538,
 "title": "Стоит ли позволять подростку играть в GTA 6? Руководство для родителей",
