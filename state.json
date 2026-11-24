@@ -14697,7 +14697,25 @@
 "ef09b2d7cf6b1e74",
 "410747ab43617a90",
 "c9485c90c35ca27e",
-"45a7d8a2448770f9"
+"45a7d8a2448770f9",
+"a11885fc47e3964e",
+"f4b726a9689c7149",
+"f7baec67dd9d77c4",
+"af2bbd5e72c45c81",
+"1e47b9a11803dbf4",
+"94ffb19064fc6d71",
+"41491ccf577de652",
+"45378c831a0ff0f0",
+"c0648b1feed5bd85",
+"b750884aaad4888d",
+"c208160563c83e06",
+"03b47ac2d23c734a",
+"0a0e4739321e5453",
+"7b5f62d23c8a8b43",
+"d84d17bf3d6d8344",
+"cffd79691f23e58e",
+"d48617ce6519582f",
+"dba7b28187c1af9b"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14705,78 +14723,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795316527.0898962,
-"title": "Rockstar хочет, чтобы в GTA 6 вы почувствовали близость к Джейсону и Люсии - они не так уж сильно от нас отличаются",
-"url": "https://www.playground.ru/gta_6/news/rockstar_hochet_chtoby_v_gta_6_vy_pochuvstvovali_blizost_k_dzhejsonu_i_lyusii_oni_ne_tak_uzh_silno_ot_nas_otlichayutsya-1892855#utm_source=rss&utm_medium=referral&utm_campaign=news",
-"tags": [
-"новости"
-],
-"img": "https://i.playground.ru/e/US3TQzg3jUyQNl7Ot9tjdg.png",
-"source": "PlayGround.ru",
-"score": 1,
-"kind": "news",
-"words": [
-"чтобы",
-"нас",
-"rocks",
-"хочет",
-"сильн",
-"отлич",
-"люсии",
-"джейс",
-"близо",
-"почув"
-]
-},
-{
-"ts": 1795316530.2367141,
-"title": "По данным компании, на пике популярности GTA 6 приходилось почти четверть трафика Comcast",
-"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGaXZ3UGlxcFFGS19OS3VtSWk3V0VFeDNvNXpmay1FQk5aYzRGSk1qd0NpelA4ZkU2Y0x4SEdaS2pRV1N4b0RKU0tyMkxjUHRGVGVaSlQ0U09qdU1VbXpTZk9nMjNtd1hTMGF5MDl4QS1Ga1gyekdkWlBWOEpHUTA?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "MIXED News",
-"score": 0,
-"kind": "news",
-"words": [
-"компа",
-"почти",
-"прихо",
-"пике",
-"трафи",
-"comca",
-"данны",
-"четве",
-"попул"
-]
-},
-{
-"ts": 1795317065.203641,
-"title": "Мошенничество вокруг GTA VI для ПК поставили на поток — начали продавать готовый набор инструментов для обмана игроков",
-"url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbm1UUklfVjJRWEpZNFVEeWVEdHBEck9MSFZla01ZMnhCUERZVkZCZG1UVm91bFlJR1JjRHYwYlExaVA5dVRRaDlrc2JOQllNdW1sU1JvSlFJbTUxZThsZnQwbHQwMWlJVWJaS1F0dmhrNEZSV3ZSaUJtM2ExOXlrNTBNS3FJSWJkdmRDQTV2SUc0a2tRYW85Mnd1WUtPeG5fenczVkpCcnVrd2lrR1NORmFqeF9vRG9hdEF2RW5uSnpuLUtvWk5mOUNQbkJJbHQtVlc5MWdsRGRNbXFmcDJGTE5BUjgzV0U1blpPb0l30gHzAUFVX3lxTFBoNXNTZDI1UGFxa2xUZ0lubG8xZDBNNUZwTDBscmMzRUxsWGtlVFBZQ2d4Y1NSUlRQbzdSQS1HTDUycVI2cXMxcEZVejFob3VOajBKbzNybkZ3SThoZkUyZ1JJVWJSNl9ibmp4NjhtLXZIYW94OGFwWkhsa2t5UFpfQTgyaTFNRUluZ0E1TE9PYnI4bTdfZTl0WHZZSVZXejZKWWhVMVF5NzAtT2xvXzNUUFFfd0Ftd2oyRjhLSWhfY0xiTkJhRGZpSkRYVTJtd0o2S2lIaGc5bFJoeWtTaW1xRmRmUTNpWWdpaVVUTnZENzZqUQ?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "iXBT.games",
-"score": 0,
-"kind": "news",
-"words": [
-"готов",
-"мошен",
-"прода",
-"вокру",
-"поток",
-"инстр",
-"начал",
-"набор",
-"обман",
-"игрок",
-"поста"
-]
-},
 {
 "ts": 1795317670.5899997,
 "title": "«Опасность есть». Ротен высказался о влиянии GTA VI на игроков",
