@@ -14589,7 +14589,25 @@
 "838466c39754f94c",
 "32f0b2a452558f1e",
 "95333ac9564c0ac3",
-"a1f1309351dcbbe0"
+"a1f1309351dcbbe0",
+"bb23a0b94faea20a",
+"bb23a0b94faea20a",
+"d97056693c375f33",
+"ace64970ccb59212",
+"e3e6f29b9bba2615",
+"2cd9a28d4759e3df",
+"3f7f0872db404751",
+"3f7f0872db404751",
+"20b9cd61932197ab",
+"e6ae317dc5d73e79",
+"4d5cb4f01281b1bc",
+"f7c0a97826da38f2",
+"7ebd8e763f2d79fc",
+"23d346f535b123a5",
+"8a4d4f8881d9052f",
+"bdc9462f116b41f9",
+"31263fe1ccbbae34",
+"89741945fbb5bc0e"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14597,72 +14615,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795313550.1062107,
-"title": "Grand Theft Auto 6: миссия Checking Out и финал главы 2",
-"url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOMUJsVzlieF9RaW9nUDhaUGZfUkNqWmRfSnB4QVR0RVlUUHFpQ253amp4TzlyOGttYTZ5RjNJYjhjbkh3dGF4OTRyeTZPVE1SdEticDBkYmVNWnZvTWNIblRTem9hbGp1cXJnYWxmaktMcm9tMGZqaUVHVTBZLTdQakFaUTkxZUUxNlZQYlRWMXo2YnpCa0dhcU96RWRIbnlJdW1ielhyVEppVllOYkNXclJVRXFWczFaem5fNXMwNkRjeXVVS0oyTkdHRnRqa1dBMzJNeTE2UFlMMGwwRFZsM2wxcF90WUw5SXQ4SnliLWduZDRwM0FxVDZvVjRxOVFXSzY5TkFwU0JMdjNBS3FpbV81S2hMeUxKanE0YVAxekpBQVN1cUgzSFdBaGZWZ0VPNFRsd2RNcUJJdjJwMnI3STdsazRFbk5waVlmcGNSSmFGTmFPb200ZWdSN3Rrb19JaTFQTGVRQkZ2dHFNcDVDT1pMNG1iZVU?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "games.gg",
-"score": 0,
-"kind": "news",
-"words": [
-"out",
-"check",
-"главы",
-"мисси",
-"финал"
-]
-},
-{
-"ts": 1795313553.238101,
-"title": "GTA 6 может появиться на ПК раньше, чем ожидалось, благодаря разработчику неофициального порта ремейка Zelda: Ocarina of Time для Switch 2.",
-"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM1Y3MGhDclJHMU5aQ01LbW9jTTlfWDAwLVlrQ0o5d1BNZUEtV1o2czlOazdqUTlsdGdxSFpDc1N4UzVpYkZBWlhDaU9HMFZyX3c0ekRJUkNxWU1qTjFnaFlYaVRUOTdEZU45RnU4cmJHejJkZmlYLV9vNmh2aDBVck41SHctMTVxS2Nqc3VxelVfMHBCWW14c3VKWW5RLU5FVnRpSGotOWVJWXF6bGpKb0tldGdNUGs?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "XDA",
-"score": 0,
-"kind": "news",
-"words": [
-"чем",
-"порта",
-"благо",
-"ocari",
-"появи",
-"switc",
-"ремей",
-"неофи",
-"ожида",
-"разра",
-"time",
-"zelda",
-"может",
-"раньш"
-]
-},
-{
-"ts": 1795313558.4090774,
-"title": "Я УКРАЛ СВОЙ ПЕРВЫЙ СУПЕРКАР | ГТА 6 ГЕЙМПЛЕЙ #2",
-"url": "https://youtu.be/6y23cQpanKA",
-"tags": [
-"видео"
-],
-"score": 2,
-"kind": "viral",
-"img": null,
-"source": "Techno Gamerz",
-"words": [
-"свой",
-"геймп",
-"первы",
-"украл",
-"супер"
-]
-},
 {
 "ts": 1795314120.1347692,
 "title": "GTA 6 вышла, но не на ПК: российский проект переносит в Петербург",
