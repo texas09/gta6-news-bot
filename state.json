@@ -14481,7 +14481,25 @@
 "973b8c99b0e8c349",
 "b041b9713fe73911",
 "feeaafaa420b7222",
-"b9b596f82a6f2700"
+"b9b596f82a6f2700",
+"36fbbd32cf8a3a18",
+"542ce00c255760f0",
+"20d0f432a6cd92f2",
+"5c53c3ffa4886655",
+"a82db0daa382d6c8",
+"da94891c4cc69b68",
+"538689c2e2ebf6bc",
+"095950fad1ec7c96",
+"1db6e7f29c2ee9eb",
+"8cf3efc5679a4bcb",
+"daf3d2fb53c20560",
+"840b2539583821a1",
+"fc8da18f62b1e389",
+"047c36e978607af5",
+"cb975a9f88b26eb7",
+"01d86245b5c3394a",
+"7453b967fb8e558e",
+"21b283c263418f94"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14489,58 +14507,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795308941.1225688,
-"title": "Обзор обновления Binding Of Isaac — разбомблен из-за музыки, сгенерированной искусственным интеллектом в режиме GTA 6: «Проснулся от дерьмового шоу, очевидно, я понятия не имел»",
-"url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2d2N1d0empxa3AyelhKTjZ6SEo2bC1KWlRwMEtqXzJfa29xbG5mMzFfajl1Z0dZUFFMcXl2UURYdURsdVFjQ1RqSVBScXlYVFp1a0JQN0c3YVVOMXVqbFNCMTRrWVBVTDVEbFFRTGFzaTJBYnZKUmwwMkhPUTBjdFpBdjVUa0QtTFJoYmZyRElhekhXOTQ2Unc2MlhMU19hOFhGdEVxS1FydGFLbzdEeFhzbXNnSFVobmZhbF9HUzJoXzB3NDB0YlN1SVc0TDBOM2NubjVCalhHRTZMaHFWUVhtLW5uQQ?oc=5",
-"tags": [
-"обновление"
-],
-"img": null,
-"source": "Kotaku",
-"score": 3,
-"kind": "news",
-"words": [
-"дерьм",
-"сгене",
-"шоу",
-"разбо",
-"режим",
-"очеви",
-"имел",
-"музык",
-"обзор",
-"понят",
-"isaac",
-"bindi",
-"интел",
-"обнов",
-"просн",
-"искус"
-]
-},
-{
-"ts": 1795308944.336512,
-"title": "Увлечение GTA 6 может разрушить отношения из-за чрезмерных игр, говорит эксперт",
-"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM0JsV19zX1hJRFdmclNxUTZuMXBGTTBIdVVwelNnOHRrbFZDbzFwNHZzT2dMc0VVNFh2NjRmX01sdUVWdGduYks5aGo0VzJ1S1h1V0ZRSHJYZ2JObk9hbGtsMzZDWG9zVmVHWHBqM0hLX2JLbjBSMGUyMER6MFJ5dGVtZw?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "New York Post",
-"score": 0,
-"kind": "news",
-"words": [
-"игр",
-"экспе",
-"говор",
-"может",
-"увлеч",
-"разру",
-"отнош",
-"чрезм"
-]
-},
 {
 "ts": 1795309868.0050442,
 "title": "Grand Theft Auto 6: как найти лодку и научиться управлять ей",
