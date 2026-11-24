@@ -14526,7 +14526,13 @@
 "1d6fb05760105b99",
 "0856c278ea6c48c3",
 "4fa96fb2205b3327",
-"65100ac864ffbd1a"
+"65100ac864ffbd1a",
+"9a5da63b18be5092",
+"a4d2a9f08ac17703",
+"c839b834e5da096d",
+"7eeb8aa7b1189b32",
+"a967727a8860fa31",
+"981dd3bf5d4de3c4"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14534,162 +14540,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795309868.0050442,
-"title": "Grand Theft Auto 6: как найти лодку и научиться управлять ей",
-"url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPT0RfQ1FfenlSUG8tVFdDODczWlZXSWp4WDZWT2dSZG1FODhtSXA4SHAwVHpWSFdUN0J3OE5Vb3daR1RlazBDdXJHMllNdlo4cW1XX3ptR0xjOVgtWU84Vmd4eFJlTE50cEExNTh6Qk9JTS1GOUlPa2hYYll5RzBtMVFjNHRtQzBjWjRFU0szX1dvamNPai1TWHlMVVJWX1VhY3l1Y0R4OGd0MDQyZjBPdHdiY1l5MVc3WHVYWmtjMERHTU5HUHcwOEd4YkNiV05WRG1xMDYwTHhfRkZhMnFGcDVIempHcEZ5WXFKLVJhWW9sZ1FEc05PdEpwX1U5UGh0aFJhMXBpSllzcmdQemhQTHRVb0pGcTgzVVppcGsyV3dzVU1tZ3NYdXgzbVpLNTlfVkFWc2tjRTVsazNJaTBrcmE3ZnZYaXViQnRybGlpU3lSWktrVHVEMQ?oc=5",
-"tags": [
-"гайд"
-],
-"img": null,
-"source": "games.gg",
-"score": 2,
-"kind": "news",
-"words": [
-"найти",
-"управ",
-"лодку",
-"научи"
-]
-},
-{
-"ts": 1795309871.1474247,
-"title": "Мания Grand Theft Auto VI может поставить под угрозу браки, поскольку тренер по отношениям выставляет красный флаг",
-"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSDZJSzVuQ1ZVSGh1b3Z3SFpjNnVVbk9CU1pjaVFOU3ZJOEZaSmJrTW5mcWNIWmVaWHBGWkVqclBRMDZJRjl3SlM0aXQtTVNGWUgyYnk3TUJXc3hmWWZXaFlZNnZ3alQ3YXJwUGtSQnRibVE5dXl3RzdHQlM1SzVoSmxQTnpDdVg5aWprV1JwTEhNWXZMMWgyMi11cUhJdG1qYndrNkRJWjkwcWZXYi1LRXQzNEbSAboBQVVfeXFMTVNNV3NmR2M1ZGl6OEtub3loekNIUThzXzdZZHF2VDhPZDlqRUZLbVRJVElkcEt5VVV2UExzRm4tNS1aaTZsR1hJVHJYTnkxUUtKcXZKNWZnOUVURWFBcTlGQXZrQnFTbkhBcVlULXE4NzdaS25IdWZ1Vy03bmppWk9obWdHZlhCSkZtZmFoUWlrSmRWZTQ1Y3l2VFdsVGRZT291THppamFVbzNETHlvNkx2cVlIMHl1YUZB?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Fox News",
-"score": 0,
-"kind": "news",
-"words": [
-"поско",
-"мания",
-"флаг",
-"угроз",
-"отнош",
-"браки",
-"под",
-"красн",
-"может",
-"поста",
-"выста",
-"трене"
-]
-},
-{
-"ts": 1795309874.301805,
-"title": "«Довольно дико»: местная группа из Остина представлена ​​в GTA VI",
-"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU2dUdHVEM0hjbW5rRU5SYkxNZUpoVFZITDRwRElDeTdjN01xcVdiS3dYMkh3bk9wQm1KbnotSzF3a3JJWmo5RTRDZ2xFZ3BjM3dFY3FZNzgyNFNyRWtlWHlINDNydjRzRU0xYnh1NW5jdFozcWFjNzVBdnRRaHJBMFdza1Zqb0ZiNjQ1d244R2pPVVpWS3dQVi14aw?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Yahoo",
-"score": 0,
-"kind": "news",
-"words": [
-"предс",
-"дико",
-"остин",
-"местн",
-"довол",
-"групп"
-]
-},
-{
-"ts": 1795309877.4375625,
-"title": "ПК-версию GTA VI пообещали слить в сеть после роста мемкоина до $15 млн",
-"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQkFXMWUybWpFd25wMC1KX2tTaEhBNU45N2NKMGRrZ05rVjl5MUszemEtSXJEUXhoUENRdjM0Ul9JazdDRHlqcGZEVXNocG1zc2haaVJ2b1Vua01hZnhNZ19POVBMbTFNZkQxV3pJdGhINHJTcDFhMmJydmVoS2VpS295SDRnWVp0dU1sV1FrX0duX3MzU1BZMEZGNFVzaFk4amNwMk5KbVdzR084Sk1RUG8xOA?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "CryptoRank",
-"score": 0,
-"kind": "news",
-"words": [
-"роста",
-"пообе",
-"сеть",
-"млн",
-"слить",
-"после",
-"мемко",
-"верси"
-]
-},
-{
-"ts": 1795309880.5902202,
-"title": "13 лет игроки пытались остановить поезд в GTA V, но такая возможность появилась только в GTA VI",
-"url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdVdxWDJQTTQwZWhUaDdIU1R1N25rLW4xQ3lkU1pSMDE5UnViaWNYR25wZU9JazZVR3NObmcyZWNsX0JLSGQ0bWxObHlETjliNVYxTC1LMzJBR184MHlYYlNzZDhfb1JjakhSVWlwYkNLWWMwRTN6bTlIOURvS2NmVUN3djRzU1RTaWRMRWtPQXhMS3JZdUdYYld2MW1HSkh0YjlhMVJYUERFVFBUNkM4LW1tYTNERVBNczM2UHMyQk55NGtQTl9VMVRNNNIB0AFBVV95cUxPdGs2MXBTQVJheGxWSUU3QXNjV3FIU2ZYU04yejdTemYzWEo4STdsaXItc3RIcG1Hb3BTX3JUeDVSUE4xMF9fMU95SWhraXhvRjdOS3djTTRfcEVfbTJtSkFLR256RjBzd1lkbHJPNDlzSXlpSXRkZlhFMkUydEY1RW1hMWxXR05EMDZHNnZKUzNsWEEtQ2hnX3gyUjhMSWZKTTRSQ0hNcEl6SlAzTWZrM1ZtOU1JMW9Va2hiajJTbk00TVVNZlhnLWM4X0dsRGJV?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "iXBT.games",
-"score": 0,
-"kind": "news",
-"words": [
-"такая",
-"возмо",
-"игрок",
-"тольк",
-"поезд",
-"появи",
-"лет",
-"пытал",
-"остан"
-]
-},
-{
-"ts": 1795309883.7398043,
-"title": "Геймплей стандартной GTA VI за $80 сравнили с премиум-версией за $100 и раскритиковали Rockstar за эксклюзивные магазины",
-"url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPM3FUb2JaMmV0RHdIelJ1SW93MmpjMmdNVi04WEV0QVdoUzVKQUZ5U1FkeUxweTJOY19hbWFMYmpXaVlZWnlPRDBIM3liMEhjSk1Wbm0tNGhNRW0yTVYwNVV6U0dzM2ktV3poTzNGalY0T2NVT0x2YjBuUTVjVnpJYXFBOGFHMDhZOWpkLVptdWZVREotUEM2aXg0UFl3R0MtTnNJMHE0ZU13ckN2WG1nWVhxbHo4VlMzOS01a2VubGNzVHdmOHQ0SG1jOGpVRUJ4SnRMbTQyWkp0UDRuaDU5RTlRVTYxdlhlOFVjXzhsVkLSAfYBQVVfeXFMTXh0anBWX1oydWw3WmtzeGdtcWI4QnRfNVd5OF8yc0wyWnBRcnNJZWtnNmctUFNBVE11NjFDNk8wSHFFbldLd1p2dlRfVUZzbXg0MU5WUTltbXNsb0FacFBkU09fQ0pEYlF5MkJKOTdDbTk3OWY0STVvUUYwV1JUWTliQWpmandEMWd4Z2NnSUJjdFU4SWUxc2ZPVnZ3ci0zbWxZMEZFZnZ0c1NMclA4RThFUUNKUUtGSF8xRnNsTXNoZHpyS0dGbzlMWkJIdzl6ZXBYLURVRFZqVlE5d095Y3FYM3BxakVQZFJPdkVleF9YY3dJSHZR?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "iXBT.games",
-"score": 0,
-"kind": "news",
-"words": [
-"сравн",
-"раскр",
-"экскл",
-"геймп",
-"магаз",
-"rocks",
-"верси",
-"100",
-"станд",
-"преми"
-]
-},
-{
-"ts": 1795309887.8565001,
-"title": "«Подойди, Мэнди»: девушка-гот Вики из GTA 6 — новая любимица игроков PS5",
-"url": "https://www.pushsquare.com/news/2026/11/move-aside-mandy-gta-6s-goth-girl-vicki-is-ps5-players-new-fave",
-"tags": [
-"новости"
-],
-"img": "https://images.pushsquare.com/d903ca1d198ec/large.jpg",
-"source": "Push Square",
-"score": 1,
-"kind": "news",
-"words": [
-"гот",
-"подой",
-"вики",
-"мэнди",
-"игрок",
-"девуш",
-"новая",
-"любим",
-"ps5"
-]
-},
 {
 "ts": 1795310507.652998,
 "title": "Вот код сейфа Kingpin Bowling Alley в GTA 6",
