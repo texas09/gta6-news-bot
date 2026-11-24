@@ -14421,7 +14421,25 @@
 "133c332d084269a9",
 "13ceeaf4a73d1754",
 "d5eb296b536b9f09",
-"228c8f3d8ce774e0"
+"228c8f3d8ce774e0",
+"a03ab03bdabe272c",
+"54212f09f652263f",
+"7d4fc8ff306b7a7f",
+"21ac8eb0ebd7f7f8",
+"a4f663b05102b0cf",
+"bdb4656a6756cb7c",
+"0b8959825beb4392",
+"eafe4acc1f52ad7a",
+"7e802e9a8daa078f",
+"00afcec5086307dc",
+"12111204b2166715",
+"63f4494361994b57",
+"a5f16030d7d04fed",
+"d4b84ae08b8ec423",
+"52ea1b1fe0e41e27",
+"c74dab3628a4cf09",
+"900e08f996a70800",
+"dcc35469afb801f3"
 ],
 "yt_ids": {
 "RockstarGames": "UC6VcWc1rAoWdBCM0JxrRQ3A"
@@ -14429,140 +14447,6 @@
 "tg_offset": 706329461,
 "banner_file_id": "AgACAgIAAyEGAAMBAx0AARAAA1dq-8CpXnEXCm1EAAGARHmnqD6oE9MAAqEaaxvWX-BLwwFz6yKsTA4BAAMCAAN5AAM9BA",
 "posted": [
-{
-"ts": 1795305788.438856,
-"title": "Rockstar объяснила молчаливость Джейсона в GTA 6 из-за фильмов о грабежах",
-"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHFxR25KVXBqQXRieFBoa1BmTlVsdkI1eFhJcGhhRzBBSnhsRGdrbzFsdmVVQ3ZOa3o2NE9wSFVxTEZESWtFb2dRZTBOeExDMk5MNzI2ajZuVnYwSFRlMFlsRjhUMnJjZDJLTTZjUjlxbi04R3pXcjVSOUVUeFJvb01hVlhTSERZeGc?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Techora.ru",
-"score": 0,
-"kind": "news",
-"words": [
-"молча",
-"фильм",
-"объяс",
-"rocks",
-"джейс",
-"грабе"
-]
-},
-{
-"ts": 1795305791.6418264,
-"title": "Несоответствие оценок в обзорах GTA 6 заставляет фанатов обсуждать ее на Metacritic",
-"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSDkwbGFjME9JMnRsalctNTRLQVhFRTRmR195ZEhvZldDRnZXUjdwdExkOGVhY2MtSmJrSFBHYnVJUVp4Z2xqZTFzeWhPUm5wS0Y4QTdqd040ZXNfdktZekxvamgtVjE4OXhra1JUTUx6VUhtUWdNSERscXN5MEl4RA?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "ScreenRant",
-"score": 0,
-"kind": "news",
-"words": [
-"metac",
-"несоо",
-"оцено",
-"фанат",
-"обзор",
-"заста",
-"обсуж"
-]
-},
-{
-"ts": 1795305794.8401542,
-"title": "GTA 6: расположение рекламных щитов Peewees и решение головоломки с главным призом",
-"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMUw0bUt3aU9vTm1RNmFHZ3NvQi1tR3dYUUM4cG5WdGVxbWw1WXptRlZzLUJnVXQwODhRM1dCbkotZGFSQTFEYUhSTVA2dC1vRW85ZUt5UE02WGFvMUZzQzN3RTVuUEdIWDU3LV9YNFl4U0s0QlR2RHdWc1BCYUlWVm5rcE1yQ2ZMeDRSZ3ZhQ1FKaWFzeVIwczExNkxGQ0FJ?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Push Square",
-"score": 0,
-"kind": "news",
-"words": [
-"peewe",
-"голов",
-"щитов",
-"решен",
-"главн",
-"рекла",
-"распо",
-"призо"
-]
-},
-{
-"ts": 1795305798.0431802,
-"title": "GTA 6 официально стала одной из игр года с самым низким рейтингом",
-"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWnZtWjluT3Jpc1AtYUFWcG42RjFvVFpvZGlBU05MOEpGdmJPX09SNUk5OVp3dTVjRURGLWowSF9iVGpmSHd0T3FoSGp4Ym5mSnNEZlpyRm9jUEU1eUhuZnFydmFBR3NjRmR4ZUtEcFZCS1RhNmFqa3p2ZzBCcTlNT1VR?oc=5",
-"tags": [
-"новости"
-],
-"img": null,
-"source": "Comic Book Resources",
-"score": 0,
-"kind": "news",
-"words": [
-"года",
-"одной",
-"игр",
-"самым",
-"низки",
-"стала",
-"рейти",
-"офици"
-]
-},
-{
-"ts": 1795305803.353614,
-"title": "Все, что вы украли в GTA 6, вы сохраните!",
-"url": "https://youtu.be/QQV-0OUGxGs",
-"tags": [
-"видео"
-],
-"score": 2,
-"kind": "viral",
-"img": null,
-"source": "MrBeast Gaming",
-"words": [
-"украл",
-"сохра"
-]
-},
-{
-"ts": 1795305806.9650488,
-"title": "МОЯ ПОДРУГА ВЕРНУЛАСЬ | ГТА 6 ГЕЙМПЛЕЙ #3",
-"url": "https://youtu.be/1O_GCgCu-j4",
-"tags": [
-"видео"
-],
-"score": 2,
-"kind": "viral",
-"img": null,
-"source": "Techno Gamerz",
-"words": [
-"моя",
-"верну",
-"подру",
-"геймп"
-]
-},
-{
-"ts": 1795305810.1702886,
-"title": "Прошли ГТА 6",
-"url": "https://youtube.com/shorts/iaqBK2Hryko",
-"tags": [
-"видео"
-],
-"score": 2,
-"kind": "viral",
-"img": null,
-"source": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-"words": [
-"прошл"
-]
-},
 {
 "ts": 1795306875.3457844,
 "title": "Нью-йоркская модель подтвердила, что она прототип героини GTA 6",
